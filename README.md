@@ -1,2 +1,3 @@
 # manejoDeArchivos
- Compilación de scripts para manejar archivos en windows
+ Compilación de utilidades para manejar archivos en windows y ubuntu
+ 
