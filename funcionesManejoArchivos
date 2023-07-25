@@ -84,12 +84,11 @@ def getPreguntas(ruta):
         # bis =  'BIS' in texto.lower() or 'bis' in texto.lower()
         
         if 'pregunta' in texto.lower() and 'ahora' not in texto.lower():
-            if 'y si' not in texto.lower() and 'quisiéramos' not in texto.lower():
-                numero = texto.strip('Pregunta ')
-                codigo = 'P'+str.zfill(numero, 2)
-                preguntas[codigo] = ''
-                banderin_apertura = True
-                continue
+            numero = texto.strip('Pregunta ')
+            codigo = 'P'+str.zfill(numero, 2)
+            preguntas[codigo] = ''
+            banderin_apertura = True
+            continue
         
         elif codigo in preguntas.keys() and banderin_apertura == True:
             
@@ -131,28 +130,11 @@ def getBloque(ruta):
             bloques_dict[codigo] = bloque
     return(bloques_dict)
 
-# def infer_politica(opcion):
-
-#     dic = dict(
-#     peronismo = ['juntos avancemos','por la patria','nos une','peron','peronismo', 'frente de todos', 'fdt','evita', 'kirchnerismo', 'alberto fernandez', 'brutten','kirchner', 'cfk','vamos con todos'],
-#     cambiemos = ['unidos para cambiar', 'macrismo', 'cambiemos', 'juntos por el cambio', 'junto x el cambio', 'pro', 'jxc','tortoriello'],
-#     liberales = ['lieberal', 'libertar', 'milei', 'libertad'],
-#     izquierda = ['izquierda', 'socialismo'],
-#     blanco = ['en blanco'],
-#     nosabe = ['no sabe', 'no se'])
-#     preonismo_nok = ['randazzo', 'hacemos por nuestro']
-
-#     for color, palabras in dic.items():
-#         for palabra in palabras:
-#             if palabra in opcion.lower():
-#                 return color
-
-#     return 'otros'
 def infer_politica(opcion):
 
     dic = dict(
-    peronismo = ['juntos avancemos','por la patria','nos une','peron','peronismo', 'frente de todos', 'fdt','evita', 'kirchnerismo', 'alberto fernandez', 'brutten','kirchner', 'cfk','vamos con todos'],
-    cambiemos = ['unidos para cambiar', 'macrismo', 'cambiemos', 'juntos por el cambio', 'junto x el cambio', 'pro', 'jxc','tortoriello'],
+    peronismo = ['por la patria','nos une','peron','peronismo', 'frente de todos', 'fdt','evita', 'kirchnerismo', 'alberto fernandez', 'brutten','kirchner', 'cfk','vamos con todos'],
+    cambiemos = ['macrismo', 'cambiemos', 'juntos por el cambio', 'junto x el cambio', 'pro', 'jxc','tortoriello'],
     liberales = ['lieberal', 'libertar', 'milei', 'libertad'],
     izquierda = ['izquierda', 'socialismo'],
     blanco = ['en blanco'],
@@ -189,6 +171,7 @@ def infer_paleta(opciones_todas, cuestionario, default_paleta="qualitative_stron
 
     df_preguntas = cuestionario
 
+
     paleta = {}
     bloque = ''
     for i, row in df_preguntas.fillna("").iterrows():
@@ -211,45 +194,30 @@ def infer_paleta(opciones_todas, cuestionario, default_paleta="qualitative_stron
             if "Buena" in opciones:
                 # if row.paleta == "imagen":
                 print(f'paletas["{pregunta}"] = opinionColorDict')
-                
             elif 'votaría' in opciones or paleta in ["votaria", 'reach']:
                 print(f'paletas["{pregunta}"] = votaria')
 
+            elif paleta == "internas":
+                print(f'paletas["{pregunta}"] = interna')
+            # paleta in ["interna"]:
+            #    print(f'paletas["{pregunta}"] = interna')
 
             elif paleta == "politica":
-                apariciones = {'peronismo':0, 'cambiemos':0, 'liberales':0, 'izquierda':0}
-                p = {}
-                for opcion in opciones:
-                    politica = infer_politica(opcion)
-                    # print(politica)
-                    # print(opcion)
-                    if politica in list(apariciones):
-                        apariciones[politica]+= 1
-
-                        if apariciones[politica]>1:
-                            p[opcion] = f'colores["{infer_politica(opcion)}{apariciones[politica]}"]'
-                        else:
-                            p[opcion] = f'colores["{infer_politica(opcion)}"]'
-                    else:
-                        p[opcion] = f'colores["{infer_politica(opcion)}"]'
-                    # print(p)
+                
+                p = {opcion:f'colores["{infer_politica(opcion)}"]' for opcion in opciones}
                 # fix comillas molestas 
                 value = repr(p).replace("'colores","colores").replace("]'", "]")
 
                 print(f'paletas["{pregunta}"] = ' + value + '\n', sep = '\n')
-                
-            elif paleta.lower() == 'sino':
+            elif paleta.lower == 'sino':
                 print(f'paletas["{pregunta}"] = siNoColorDict')
                 
-
-            elif paleta.lower() == 'frecuencia':
+            
+            elif paleta.lower == 'frecuencia':
                 print(f'paletas["{pregunta}"] = frecuenciaColorDict')
             
-            elif 'mucho' in paleta.lower():
+            elif 'mucho' in str(paleta.lower):
                 print(f'paletas["{pregunta}"] = muchoPocoColorDict')
-                
-            elif 'sino' in paleta.lower():
-                print(f'paletas["{pregunta}"] = siNoColordict')
             else:
 
                 opciones_lower = [ ]

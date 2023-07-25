@@ -1,0 +1,122 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Jun 14 17:25:38 2023
+
+@author: julian
+"""
+import pandas as pd
+ruta = '/home/julian/trabajo/opinionpublica/especiales/permisos_especiales.csv'
+permisos = pd.read_csv(ruta)
+usuarios = list(permisos)[2:]
+
+encuestas = permisos['user']
+diccionario = {}
+for usuario in usuarios:
+    listaDeEncuestas = list(encuestas[permisos[usuario]==1])
+    diccionario[usuario] = listaDeEncuestas
+
+for usuario in usuarios:
+    print(f'{usuario}:')
+    print(', '.join(diccionario[usuario]).strip("'"))
+
+    print()
+for usuario in usuarios:
+    if 'POSICIONAMIENTO_CABA_13' in diccionario[usuario]:
+        print(f'{usuario}')
+#%%
+ruta_csv = '/home/julian/trabajo/opinionpublica/especiales/permisos_especiales (copia).csv'
+ruta_tracking = '/home/julian/trabajo/opinionpublica/users'
+import os
+lista_archivos_txt = os.listdir(ruta_tracking)
+
+import csv
+
+permisos = {}
+
+# Paso 1: Leer el archivo CSV y almacenar los permisos existentes
+with open(ruta_csv, 'r') as csv_file:
+    reader = csv.reader(csv_file)
+    usuarios = next(reader)[2:]  # Leer encabezados de columna
+
+    for row in reader:
+        archivo = row[0]
+        habilitacion = row[1:]
+
+        for i, usuario in enumerate(usuarios):
+            if usuario not in permisos:
+                permisos[usuario] = {}
+
+            permisos[usuario][archivo] = ''
+# Paso 2: Leer los archivos txt y actualizar los permisos para el archivo específico
+archivo_especifico = ['trackingPBA', 'trackingNacional', 'trackingAYSA']
+
+for archivo_usuario in lista_archivos_txt:
+    with open(ruta_tracking+'/'+archivo_usuario, 'r') as txt_file:
+        contenido = txt_file.read()
+        lines = contenido.split('\n')
+        
+        for i in range(len(lines)):
+            if lines[i].startswith('[tracking'):
+                archivo = lines[i].split(']')[0][1:]
+                habilitado = lines[i+1].split('=')[1].strip().lower()
+                
+                if habilitado == 't':
+                    usuario = archivo_usuario.split('.')[0]
+                    if usuario not in permisos.keys():
+                        print(usuario)
+                        continue
+                    # Actualizar permisos para el archivo específico
+                    elif archivo in archivo_especifico:
+                        permisos[usuario]['POSICIONAMIENTO_CABA_13'] = 1
+
+# Paso 3: Actualizar el archivo CSV con los nuevos permisos
+linea = ''
+for usuario in permisos.keys():
+    if permisos[usuario]['POSICIONAMIENTO_CABA_13'] == 1:
+        linea+=',1'
+    else:
+        linea+=','
+print(linea)
+#%%
+import csv
+
+# Paso 1: Leer el archivo CSV y almacenar los permisos existentes
+permisos = {}
+
+with open(ruta_csv, 'r') as csv_file:
+    reader = csv.reader(csv_file)
+    header = next(reader)  # Leer encabezados de columna
+    
+    for row in reader:
+        encuesta = row[0]
+        usuarios = row[1:]
+        
+        for usuario in usuarios:
+            if usuario not in permisos:
+                permisos[usuario] = []
+                
+                permisos[usuario].append(encuesta)
+
+# Paso 2: Verificar los permisos de los usuarios para "archivo1" y "archivo2"
+usuarios_con_permiso = []
+
+for usuario, archivos in permisos.items():
+    if 'trackingPBA' in archivos or 'trackingNacional' in archivos or 'trackingAYSA' in archivos:
+        usuarios_con_permiso.append(usuario)
+
+# Paso 3: Actualizar la fila correspondiente a "encuesta_nueva" en el archivo CSV
+archivo_especifico = "POSICIONAMIENTO_CABA_13"
+
+with open(ruta_csv, 'w', newline='') as csv_file:
+    writer = csv.writer(csv_file)
+    writer.writerow(header)  # Escribir encabezados de columna
+    
+    for row in reader:
+        archivo = row[0]
+        
+        if archivo == archivo_especifico:
+            usuarios_actualizados = [1 if usuario in usuarios_con_permiso else '' for usuario in header[1:]]
+            writer.writerow([archivo] + usuarios_actualizados)
+        else:
+            writer.writerow(row)

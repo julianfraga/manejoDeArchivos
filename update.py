@@ -125,12 +125,17 @@ def update_data(update_folder, data_folder):
     add_to_changelog_file(changelog_file, data_folder, 'después de ser actualizado')
     
     archivos_data = os.listdir(data_folder)
-
-    if archivos_update==archivos_data:
+    # print(archivos_update)
+    # archivos_data.remove('changelog.txt')
+    if len(archivos_update)==len(archivos_data):
         print(f'Archivos en {update_folder} copiados con éxito a {data_folder}')
     else:
         print('ADVERTENCIA: la lista de archivos en {archivos_update} no coincide con la de {archivos_data}')
-
+#%%
+update_folder = '/home/julian/trabajo/updates/corte 203/tracking/aysa'
+data_folder = os.path.join('/home/julian/trabajo/opinionpublica/trackingAYSA/', 'data')
+update_data(update_folder, data_folder)
+#%%
 if __name__ == '__main__':
     import sys
     

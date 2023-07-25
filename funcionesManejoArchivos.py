@@ -11,7 +11,29 @@ import seaborn as sns
 import os
 import csv
 
-def getOpciones(ruta):
+def extractorPreguntas(preguntas, texto, banderin_apertura, codigo):    
+
+     if not texto:
+         return
+     if 'rotada' in texto.lower() or 'rotadas' in texto.lower():
+         return
+     # bis =  'BIS' in texto.lower() or 'bis' in texto.lower()
+     
+     if 'pregunta' in texto.lower() and 'ahora' not in texto.lower():
+         preguntas[codigo] = ''
+         banderin_apertura = True
+         return banderin_apertura
+     
+     elif codigo in preguntas.keys() and banderin_apertura == True:
+         
+         if 'Presione' not in texto:
+             preguntas[codigo]= texto
+             banderin_apertura = False    
+             return(preguntas, banderin_apertura)
+     return(preguntas)
+
+ruta = ruta_cuestionario
+def getTodo(ruta):
     ''' 
     Genera un diccionario con el siguiente formato
     {'P01':['opcion_1', ... ,'opcion_N'],
@@ -24,20 +46,51 @@ def getOpciones(ruta):
     '''
     archivo = Document(ruta)
     opciones = {}
+    preguntas = {}
+    bloques_dict = {}
+    
+    bloque = ''
+    codigo = 0
+
+    banderin_apertura = False
+    
     for parrafo in archivo.paragraphs:
+
         texto = parrafo.text
+        
         if not texto:
             continue
+        
+        #### Bloques
+        
+        if 'bloque' in texto.lower():
+            bloque = texto.replace('Bloque ', '').capitalize()
+     
+        
+        #### Preguntas
         if 'rotada' in texto.lower() or 'rotadas' in texto.lower():
             continue
-        if 'Pregunta' in texto:
+        elif 'Pregunta' in texto:
             codigo = texto.strip('Pregunta ')
             codigo = 'P'+str.zfill(codigo, 2)
             opciones[codigo] = []
-        
-        if 'Presione' in texto or 'presione' in texto:
+            bloques_dict[codigo] = bloque
+            if 'ahora' not in texto.lower():
+                preguntas[codigo] = ''
+                banderin_apertura = True
+                continue
+            
+        elif 'Presione' in texto or 'presione' in texto:
             opciones[codigo].append(texto)
-    
+        
+        
+        elif codigo in preguntas.keys() and banderin_apertura == True:
+            
+            if 'Presione' not in texto:
+                preguntas[codigo]= texto
+                banderin_apertura = False     
+
+
     opciones_limpias = {}
     for pregunta in opciones:
         opciones_limpias[pregunta] = []
@@ -53,101 +106,23 @@ def getOpciones(ruta):
         if 'BIS' not in str(key):
             print(f"'{key}' : ", opciones_limpias[key])
             print()
-            
-    return(opciones_limpias)
-
-def getPreguntas(ruta):
-    ''' 
-    Genera un diccionario con el siguiente formato
-    {'P01':' se deja en blanco, TO:DO',
-     'P02': 'texto 2',
-     'P03': 'texto 3',
-     etc}
-    y las printea
-    Excepciones: Preguntas rotadas y preguntas BIS
-    Las opciones las encuentra a partir de el texto "presione" 
-    '''
-
-    archivo = Document(ruta)
-    preguntas = {}
-    codigo = 0
-
-    banderin_apertura = False
-    for parrafo in archivo.paragraphs:
-
-        texto = parrafo.text
-        
-        if not texto:
-            continue
-        if 'rotada' in texto.lower() or 'rotadas' in texto.lower():
-            continue
-        # bis =  'BIS' in texto.lower() or 'bis' in texto.lower()
-        
-        if 'pregunta' in texto.lower() and 'ahora' not in texto.lower():
-            if 'y si' not in texto.lower() and 'quisiéramos' not in texto.lower():
-                numero = texto.strip('Pregunta ')
-                codigo = 'P'+str.zfill(numero, 2)
-                preguntas[codigo] = ''
-                banderin_apertura = True
-                continue
-        
-        elif codigo in preguntas.keys() and banderin_apertura == True:
-            
-            if 'Presione' not in texto:
-                preguntas[codigo]= texto
-                banderin_apertura = False
     
     for key in preguntas:
         if 'BIS' not in str(key) and 'bis' not in str(key):
             print(f"'{key}' : '{preguntas[key].strip()}'")
             print()
-        
-    return preguntas
+    
+            
 
-def getBloque(ruta):
-    ''' 
-    Genera un diccionario con el siguiente formato
-    {'P01':'bloque'
-     'P02':,
-     etc}
-    y lo printea en consola
-    '''
-    archivo = Document(ruta)
-    bloques_dict = {}
-    bloque = ''
+
     for parrafo in archivo.paragraphs:
         texto = parrafo.text
         
         if not texto:
             continue
         
-        if 'bloque' in texto.lower():
-            bloque = texto.replace('Bloque ', '').capitalize()
-        if 'mendoza' in bloque:
-            bloque = bloque.replace(' mendoza 2023', '')
-        if 'pregunta' in texto.lower():
-            codigo = texto.strip('Pregunta ')
-            codigo = 'P'+str.zfill(codigo, 2)
-            bloques_dict[codigo] = bloque
-    return(bloques_dict)
+    return(opciones_limpias, preguntas, bloques_dict)
 
-# def infer_politica(opcion):
-
-#     dic = dict(
-#     peronismo = ['juntos avancemos','por la patria','nos une','peron','peronismo', 'frente de todos', 'fdt','evita', 'kirchnerismo', 'alberto fernandez', 'brutten','kirchner', 'cfk','vamos con todos'],
-#     cambiemos = ['unidos para cambiar', 'macrismo', 'cambiemos', 'juntos por el cambio', 'junto x el cambio', 'pro', 'jxc','tortoriello'],
-#     liberales = ['lieberal', 'libertar', 'milei', 'libertad'],
-#     izquierda = ['izquierda', 'socialismo'],
-#     blanco = ['en blanco'],
-#     nosabe = ['no sabe', 'no se'])
-#     preonismo_nok = ['randazzo', 'hacemos por nuestro']
-
-#     for color, palabras in dic.items():
-#         for palabra in palabras:
-#             if palabra in opcion.lower():
-#                 return color
-
-#     return 'otros'
 def infer_politica(opcion):
 
     dic = dict(
