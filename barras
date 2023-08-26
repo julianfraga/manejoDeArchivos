@@ -1,0 +1,264 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Jul 29 18:10:22 2023
+
+@author: julian
+"""
+
+import plotly.graph_objs as go
+import pandas as pd
+import dash_core_components as dcc
+import dash_html_components as html
+import numpy as np
+#reqs
+titleDict = dict(size = 26, color='black', family='Arial, sans-serif')
+
+def insertString (source_str, insert_str, pos):
+    return source_str[:pos]+insert_str+source_str[pos:]
+lineSmooth = 1.3
+#%%
+def getTimeSeriesLineplot(csv, palette, name,
+                          opcionesDePreguntasInicial=4,
+                          xaxisTitle='', yaxisTitle='', yLegendPosition=-0.5, dias = 7):
+
+    # Cree esta funcion temporal, es la misma que getTimeSeriesLineplot pero en vez de cargar al principio un
+    # Graph vacio, carga los datos del dataframe de T1. (Para covid y aysa habria que hacerle un arreglo a las opciones)
+
+    graph_id = 'enhanced-graph-' + name
+    if not opcionesDePreguntasInicial is None:
+        df = pd.read_csv(insertString(csv, '_' + str(opcionesDePreguntasInicial) + 'opc', -4))
+    else:
+        df = pd.read_csv(csv, index_col='clase')
+    df['fecha'] = pd.to_datetime(df['fecha'])
+    seleted_opciones = '_4opc'
+    selected_target = 'Todos'
+    filtered_df = df
+    cols = [col.replace('t1 ', '').replace('s1 ', '').replace('s2 ', '').replace('e1 ', '').replace('e2 ', '').replace(
+        'e3 ', '').replace('e4 ', '').replace('ed1 ', '').replace('ed2 ', '').replace('ed3 ', '').replace('dom1 ',
+                                                                                                          '').replace(
+        'dom2 ', '').replace('sa1 ', '').replace('sa2 ', '').replace('v1 ', '').replace('v2 ', '').replace('v3 ',
+                                                                                                           '').replace(
+        'zpba1 ', '').replace('zpba2 ', '').replace('z1', '').replace('z2', '').replace('z3', '').replace('z4', '') for
+            col in df.columns.values.tolist()]
+    cols = list(dict.fromkeys(cols))
+    maxRange = max(df.select_dtypes(include=[np.number]).max() * 100 + 5)
+    selected_cand = [i for i in cols if i != 'fecha']
+    data = []
+    if len(selected_cand) == 0:
+        data.append(go.Scatter())
+
+    shade_color = {7:'rgba(194, 186, 184, 0.5)', 0:'rgba(194, 186, 184, 0.05)'}
+
+    columnas = df.columns[ df.columns.str.startswith('t1')]
+    for i in columnas:
+
+        trace = go.Scatter(x=filtered_df.fecha,
+                           y=filtered_df[i].values * 100,
+                           name=i,
+                           line={'shape': 'spline', 'smoothing': lineSmooth},
+                           marker=dict(color=palette[i.split(" ",1)[-1]])
+                           )
+        data.append(trace)
+
+    component = html.Div([
+        dcc.Graph(
+            figure=go.Figure(data=data,
+                             layout=dict(
+                yaxis={'fixedrange': True, 'autorange': False, 'range': [0, maxRange]},
+                xaxis={'fixedrange': True, 'autorange': False,
+                       'range': [filtered_df.fecha.min(), filtered_df.fecha.max()]},
+                margin={'l': 40, 'b': 40, 't': 10, 'r': 10},
+                showlegend=True,
+                legend=dict(orientation="h", x=0, y=yLegendPosition),
+                hovermode='closest',
+                template='plotly_white',
+                transition={'duration': 500},
+                shapes=[{'type': 'line',
+                         'x0': pd.to_datetime('2019-12-10 00:00:00'),
+                         'x1': pd.to_datetime('2019-12-10 00:00:00'),
+                         'y0': 0,
+                         'y1': maxRange,
+                         'line': dict(color="RoyalBlue", width=2)},
+                        {'type': "rect",
+                         'x0': df.fecha.max() - np.timedelta64(7, 'D'),  # pd.to_datetime('2019-12-15 00:00:00'),
+                         'y0': 0,
+                         'x1': df.fecha.max(),
+                         'y1': maxRange,
+                         'fillcolor': shade_color[dias],
+                         'line': {'color': '#b3abaa'}
+                         }
+                        ],
+                annotations=[{
+                    'x': pd.to_datetime('2019-12-10 00:00:00'),
+                    'y': maxRange - 5,
+                    'xref': 'x',
+                    'yref': 'y',
+                    'text': 'Asunción de<br>Alberto<br>Fernández',
+                    'showarrow': True,
+                    'ax': 80,
+                    'ay': 0
+                },
+                    {
+                        'x': df.fecha.max() - np.timedelta64(7, 'D'),
+                        'y': maxRange - 5,
+                        'xref': 'x',
+                        'yref': 'y',
+                        'text': 'Último<br>Corte',
+                        'showarrow': True,
+                        'ax': -40,
+                        'ay': 0
+                    }
+                ]
+            )
+
+                             ),
+            style={'height': '90vmin'},
+            id=graph_id,
+        ),
+        dcc.DatePickerRange(
+            id='date-picker-range' + name,
+            display_format='DD/MM/YYYY',
+            min_date_allowed=df['fecha'].min(),
+            max_date_allowed=df['fecha'].max(),
+            start_date=df['fecha'].min(),
+            end_date=df['fecha'].max(),
+        )
+    ])
+    return component
+#%%
+import os
+from config import colores, imagenColorDict
+
+ruta_csv = '/home/julian/trabajo/opinionpublica/especiales/TRACKING_NACIONAL/data/serie_imagen.csv'
+palette = imagenColorDict
+name = 'imagen'
+getTimeSeriesLineplot(ruta_csv, palette, name ,
+                          opcionesDePreguntasInicial=6,
+                          xaxisTitle='', yaxisTitle='', yLegendPosition=-0.5, dias = 7)
+data = pd.read_csv('/home/julian/trabajo/opinionpublica/especiales/TRACKING_NACIONAL/data/serie_imagen_6opc.csv')
+#%%
+import datetime
+data = [{'line': {'shape': 'spline', 'smoothing': 1.3},
+              'marker': {'color': '#4bb05c'},
+              'name': 't1 Muy buena',
+              'type': 'scatter',
+              'x': array([datetime.datetime(2019, 11, 7, 0, 0),
+                          datetime.datetime(2019, 11, 8, 0, 0),
+                          datetime.datetime(2019, 11, 9, 0, 0), ...,
+                          datetime.datetime(2023, 6, 9, 0, 0),
+                          datetime.datetime(2023, 6, 10, 0, 0),
+                          datetime.datetime(2023, 6, 11, 0, 0)], dtype=object),
+              'y': array([27.9, 28. , 27.7, ...,  4.5,  4.4,  4. ])},
+             {'line': {'shape': 'spline', 'smoothing': 1.3},
+              'marker': {'color': '#b7e075'},
+              'name': 't1 Buena',
+              'type': 'scatter',
+              'x': array([datetime.datetime(2019, 11, 7, 0, 0),
+                          datetime.datetime(2019, 11, 8, 0, 0),
+                          datetime.datetime(2019, 11, 9, 0, 0), ...,
+                          datetime.datetime(2023, 6, 9, 0, 0),
+                          datetime.datetime(2023, 6, 10, 0, 0),
+                          datetime.datetime(2023, 6, 11, 0, 0)], dtype=object),
+              'y': array([14. , 14.4, 15. , ...,  8.5,  8.2,  7.8])},
+             {'line': {'shape': 'spline', 'smoothing': 1.3},
+              'marker': {'color': '#fffd5e'},
+              'name': 't1 Ni buena ni mala',
+              'type': 'scatter',
+              'x': array([datetime.datetime(2019, 11, 7, 0, 0),
+                          datetime.datetime(2019, 11, 8, 0, 0),
+                          datetime.datetime(2019, 11, 9, 0, 0), ...,
+                          datetime.datetime(2023, 6, 9, 0, 0),
+                          datetime.datetime(2023, 6, 10, 0, 0),
+                          datetime.datetime(2023, 6, 11, 0, 0)], dtype=object),
+              'y': array([21.4, 21.3, 20.2, ..., 32.3, 32.1, 31.7])},
+             {'line': {'shape': 'spline', 'smoothing': 1.3},
+              'marker': {'color': '#fdbf6f'},
+              'name': 't1 Mala',
+              'type': 'scatter',
+              'x': array([datetime.datetime(2019, 11, 7, 0, 0),
+                          datetime.datetime(2019, 11, 8, 0, 0),
+                          datetime.datetime(2019, 11, 9, 0, 0), ...,
+                          datetime.datetime(2023, 6, 9, 0, 0),
+                          datetime.datetime(2023, 6, 10, 0, 0),
+                          datetime.datetime(2023, 6, 11, 0, 0)], dtype=object),
+              'y': array([15.2, 15.4, 15.8, ..., 17.3, 17. , 17. ])},
+             {'line': {'shape': 'spline', 'smoothing': 1.3},
+              'marker': {'color': '#ea5739'},
+              'name': 't1 Muy mala',
+              'type': 'scatter',
+              'x': array([datetime.datetime(2019, 11, 7, 0, 0),
+                          datetime.datetime(2019, 11, 8, 0, 0),
+                          datetime.datetime(2019, 11, 9, 0, 0), ...,
+                          datetime.datetime(2023, 6, 9, 0, 0),
+                          datetime.datetime(2023, 6, 10, 0, 0),
+                          datetime.datetime(2023, 6, 11, 0, 0)], dtype=object),
+              'y': array([18.6, 18. , 18.7, ..., 21.3, 22. , 22.7])},
+             {'line': {'shape': 'spline', 'smoothing': 1.3},
+              'marker': {'color': '#c9bebd'},
+              'name': 't1 No sabe',
+              'type': 'scatter',
+              'x': array([datetime.datetime(2019, 11, 7, 0, 0),
+                          datetime.datetime(2019, 11, 8, 0, 0),
+                          datetime.datetime(2019, 11, 9, 0, 0), ...,
+                          datetime.datetime(2023, 6, 9, 0, 0),
+                          datetime.datetime(2023, 6, 10, 0, 0),
+                          datetime.datetime(2023, 6, 11, 0, 0)], dtype=object),
+              'y': array([ 2.9,  2.9,  2.6, ..., 16.1, 16.3, 16.8])}]
+layout =  {'annotations': [{'ax': 80,
+                                'ay': 0,
+                                'showarrow': True,
+                                'text': 'Asunción de<br>Alberto<br>Fernández',
+                                'x': Timestamp('2019-12-10 00:00:00'),
+                                'xref': 'x',
+                                'y': 90.4,
+                                'yref': 'y'},
+                               {'ax': -40,
+                                'ay': 0,
+                                'showarrow': True,
+                                'text': 'Último<br>Corte',
+                                'x': Timestamp('2023-06-04 00:00:00'),
+                                'xref': 'x',
+                                'y': 90.4,
+                                'yref': 'y'}],
+               'hovermode': 'closest',
+               'legend': {'orientation': 'h', 'x': 0, 'y': -0.5},
+               'margin': {'b': 40, 'l': 40, 'r': 10, 't': 10},
+               'shapes': [{'line': {'color': 'RoyalBlue', 'width': 2},
+                           'type': 'line',
+                           'x0': Timestamp('2019-12-10 00:00:00'),
+                           'x1': Timestamp('2019-12-10 00:00:00'),
+                           'y0': 0,
+                           'y1': 95.4},
+                          {'fillcolor': 'rgba(194, 186, 184, 0.5)',
+                           'line': {'color': '#b3abaa'},
+                           'type': 'rect',
+                           'x0': Timestamp('2023-06-04 00:00:00'),
+                           'x1': Timestamp('2023-06-11 00:00:00'),
+                           'y0': 0,
+                           'y1': 95.4}],
+               'showlegend': True,
+               'template': '...',
+               'transition': {'duration': 500},
+               'xaxis': {'autorange': False,
+                         'fixedrange': True,
+                         'range': [datetime.datetime(2019, 11, 7, 00,00,00), datetime.datetime(2023,6,11, 00,00,00)]},
+               'yaxis': {'autorange': False, 'fixedrange': True, 'range': [0, 95.4]}}
+# Crea la aplicación Dash
+app = dash.Dash(__name__)
+#%%
+
+# Crea la figura del gráfico
+fig = go.Figure(data=data, layout=layout)
+
+# Define el diseño de la página web
+app.layout = html.Div([
+    dcc.Graph(id='enhanced-graph-imagen', figure=fig, style={'height': '90vmin'}),
+    dcc.DatePickerRange(start_date=dt(2019, 11, 7), end_date=dt(2023, 6, 11), min_date_allowed=dt(2019, 11, 7), max_date_allowed=dt(2023, 6, 11), display_format='DD/MM/YYYY', id='date-picker-rangeimagen')
+])
+
+# Obtiene el HTML crudo de la página web
+raw_html = app.layout.to_html()
+
+# Muestra el HTML crudo en la consola
+print(raw_html)

@@ -1,40 +1,46 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Mon Jul  3 12:34:23 2023
+Created on Sun Aug  6 19:23:18 2023
 
 @author: julian
 """
 
-diccionario = {'labelTEMP_TEMP_Pborrar': 'Imagen de Alberto Fernández',
-    'labelPborrar': 'Imagen de Cristina Fernández de Kirchner',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Mauricio Macri',
-    'labelTEMP_Pborrar': 'Imagen de Horacio Rodríguez Larreta',
-    'labelPborrar': 'Imagen de Sergio Massa',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de María Eugenia Vidal',
-    'labelPborrar': 'Imagen de Axel Kicillof',
-    'labelPborrar': 'Imagen de Martin Insaurralde',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Daniel Scioli',
-    'labelPborrar': 'Imagen de Diego Santilli',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Néstor Grindeti',
-    'labelPborrar': 'Imagen de Javier Milei',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Patricia Bullrich',
-    'labelPborrar': 'Imagen de Facundo Manes',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Wado de Pedro',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Máximo Kirchner',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Malena Galmarini',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Elisa Carrio',
-    'labelTEMP_TEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Martín Lousteau',
-    'labelTEMP_TEMP_TEMP_TEMP_P78': 'Imagen de Gerardo Morales',
-    'labelTEMP_TEMP_TEMP_P78': 'Imagen de Juan Schiaretti'}
+import plotly.graph_objects as go
+import urllib, json
 
+url = 'https://raw.githubusercontent.com/plotly/plotly.js/master/test/image/mocks/sankey_energy.json'
+response = urllib.request.urlopen(url)
+data = json.loads(response.read())
 
-mapa = {}
-for label in diccionario.keys():
-    codigo = label.strip('label')
-    candidato = diccionario[label].replace('Imagen de ', '')
-    mapa[codigo] = candidato
+# override gray link colors with 'source' colors
+opacity = 0.4
+# change 'magenta' to its 'rgba' value to add opacity
+data['data'][0]['node']['color'] = ['rgba(255,0,255, 0.8)' if color == "magenta" else color for color in data['data'][0]['node']['color']]
+data['data'][0]['link']['color'] = [data['data'][0]['node']['color'][src].replace("0.8", str(opacity))
+                                    for src in data['data'][0]['link']['source']]
 
-for codigo in mapa.keys():
-    candidato = mapa[codigo]
-    print(f"filesNacional['{candidato}'] = "+ "['{}"+f"cruce_pregunta_{codigo}_6opc.csv'.format(dataFolderNacional),"+"'{}"+f"cruce_pregunta_{codigo}_4opc.csv'.format(dataFolderNacional)]")
+fig = go.Figure(data=[go.Sankey(
+    valueformat = ".0f",
+    valuesuffix = "TWh",
+    # Define nodes
+    node = dict(
+      pad = 15,
+      thickness = 15,
+      line = dict(color = "black", width = 0.5),
+      label =  data['data'][0]['node']['label'],
+      color =  data['data'][0]['node']['color']
+    ),
+    # Add links
+    link = dict(
+      source =  data['data'][0]['link']['source'],
+      target =  data['data'][0]['link']['target'],
+      value =  data['data'][0]['link']['value'],
+      label =  data['data'][0]['link']['label'],
+      color =  data['data'][0]['link']['color']
+))])
+
+fig.update_layout(title_text="Energy forecast for 2050<br>Source: Department of Energy & Climate Change, Tom Counsell via <a href='https://bost.ocks.org/mike/sankey/'>Mike Bostock</a>",
+                  font_size=10)
+
+plot(fig)

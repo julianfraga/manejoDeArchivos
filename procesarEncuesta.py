@@ -13,9 +13,9 @@ import csv
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
 from preguntas_opciones import *
 # ejemplo de uso
-ruta_trabajo = '/home/julian/trabajo/updates/corte 204/chubut/'
-ruta_cuestionario = ruta_trabajo + 'Encuesta Chubut.docx'
-opciones = getOpciones(ruta_cuestionario)
+ruta_trabajo = '/home/julian/trabajo/updates/corte 208/transporte/'
+ruta_cuestionario = ruta_trabajo + 'Cuestionario_Transporte.docx'
+opciones = limpiarKeys(getOpciones(ruta_cuestionario))
 preguntas = getPreguntas(ruta_cuestionario)
 bloques = getBloque(ruta_cuestionario)
 
@@ -26,13 +26,15 @@ cuestionarioTSV(ruta_cuestionario, ruta_trabajo, nombre_tsv)
 Una vez guardados los diccionarios Opciones, Preguntas y Bloques, este bloque
 printea los labels de las preguntas de imagen y reach
 '''
+cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
+
 for codigo in preguntas.keys():
     gen = ''
 
     if 'imagen' in preguntas[codigo]:
         candidato = preguntas[codigo].lstrip('¿Qué imagen tiene de ').strip('?')
         print('Imagen de '+candidato)
-    elif ', ud.' in preguntas[codigo]:
+    elif ', ud.' in preguntas[codigo] or 'Votaría' in preguntas[codigo]:
         
         if 'candidato' in preguntas[codigo]:
             gen = 'm'
@@ -69,7 +71,7 @@ for codigo in preguntas.keys():
             elif gen == 'm':
                 puesto = 'diputado'
                 
-        candidato = ' '.join(preguntas[codigo].split()[1:3])
+        candidato = ' '.join(preguntas[codigo].split()[3:5])
 
 
         print('Intención de voto por '+candidato +' para ' + puesto)
@@ -80,12 +82,23 @@ levanta el csv e imprime las paletas de cada pregunta (faltan agregar algunas co
 Frecuencia, muchoPoco, siNo, etc, una plantilla)'''
 # archivo = path + 'Encuesta_Merlo_2023_05_16.docx'
 # opciones = getOpciones(archivo)
-cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
+def printPaletas(texto, nombre_tsv, ruta_trabajo):
+    ruta_cuestionario = ruta_trabajo + texto
+    cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
+    opciones = limpiarKeys(getOpciones(ruta_cuestionario))
 
-
-bloques = cuestionario.groupby('bloque', sort=False).agg(list)['codigo'].to_dict()
-
-infer_paleta(opciones, cuestionario)
+    opciones_limpias = {}
+    for key in opciones:
+        codigo_limpio = key[:3]
+        if codigo_limpio in cuestionario.codigo.to_list():
+            opciones_limpias[codigo_limpio] = opciones[key]
+    
+    
+    
+    bloques = cuestionario.groupby('bloque', sort=False).agg(list)['codigo'].to_dict()
+    
+    infer_paleta(opciones, cuestionario)
+    return(opciones_limpias)
 #%%
 bloque = ''
 for i, linea in cuestionario.iterrows():

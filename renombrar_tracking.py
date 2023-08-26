@@ -10,19 +10,28 @@ import csv
 import pandas as pd
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 202/tracking/'
-ruta_csv = ruta_trabajo + 'test.csv'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 208/tracking/'
+ruta_csv = ruta_trabajo + 'renombres.csv'
 
-codigos = pd.read_table(ruta_csv)
+codigos = pd.read_csv(ruta_csv)
 codigos.fillna('', inplace=True)
 
 renombramientos = {}
 for i, fila in codigos.iterrows():
-    if type(fila.nuevos) == float:
-        fila.nuevos = int(fila.nuevos)
-    fila.nuevos = str(fila.nuevos)
-    fila.viejos = str(fila.viejos)
-    renombramientos[f'P{fila.viejos}'] = f'P{fila.nuevos}'
+    
+    if not 'P' in fila.viejos:
+        if type(fila.nuevos) == float:
+            fila.nuevos = int(fila.nuevos)
+        fila.nuevos = str(fila.nuevos).zfill(2).strip("'")
+        try:
+            fila.viejos = int(float(fila.viejos))
+        except:
+            continue
+        fila.viejos = str(fila.viejos).zfill(2).strip("'")
+        renombramientos[f'P{fila.viejos}'] = f'P{fila.nuevos}'
+        
+    else:
+        renombramientos[fila.viejos] = fila.nuevos
 
 
 
