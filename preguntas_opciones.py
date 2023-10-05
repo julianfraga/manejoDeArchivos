@@ -170,7 +170,7 @@ def list2dictPalette(respuestas, palette="RdYlGn_r", noSabe=True):
     return dict(zip(respuestas, colors))
 
 def infer_paleta_else(paleta):
-    if paleta == 'sino':
+    if 'sino' in paleta:
         return('paletas["{pregunta}"] = siNoColorDict')
         
     elif paleta in ['frecuencia', 'freq', 'frec']:
@@ -179,11 +179,9 @@ def infer_paleta_else(paleta):
     elif 'mucho' in paleta:
         return('paletas["{pregunta}"] = muchoPocoColorDict')
         
-    elif 'sino' in paleta:
-        return('paletas["{pregunta}"] = siNoColorDict')
     
     elif paleta in ['problema', 'deuda', 'ingresos', 'opinion', 'comparacion', 'medios']:
-        return('paletas["{pregunta}"] = {paleta}Colordict')
+        return('paletas["{pregunta}"] = {paleta}ColorDict')
     else:
         return False
     
@@ -198,7 +196,8 @@ def infer_paleta(opciones_todas, cuestionario, default_paleta="diverging"):
         pregunta = row.codigo
         paleta = row.paleta
         codigo = row.codigo
-
+        if not pregunta[1].isdigit() or 'imputada' in pregunta:
+            continue
         if bloque != row.bloque:
             bloque = row.bloque
             print()
@@ -238,7 +237,8 @@ def infer_paleta(opciones_todas, cuestionario, default_paleta="diverging"):
                 value = repr(p).replace("'colores","colores").replace("]'", "]")
 
                 print(f'paletas["{pregunta}"] = ' + value + '\n', sep = '\n')
-                
+            
+
             elif infer_paleta_else(paleta.lower()):
                 string_salida = infer_paleta_else(paleta.lower()).format(pregunta = pregunta, paleta = paleta.lower())
                 print(string_salida)
@@ -248,7 +248,9 @@ def infer_paleta(opciones_todas, cuestionario, default_paleta="diverging"):
                     opciones_lower.append(opcion.lower())
                     
                 nosabe =  ("no sabe" in opciones_lower )  or ( "no se" in opciones_lower)
-
+                if 'quali' in paleta:
+                    default_paleta = 'qualitative_strong'
+                    
                 print(f'paletas["{pregunta}"] = list2dictPalette({repr(opciones)}, {default_paleta}, noSabe={nosabe})')
 
 def limpiarKeys(diccionario):
@@ -268,16 +270,22 @@ def limpiarKeys(diccionario):
     
     return diccionarioLimpio
 
-def cuestionarioTSV(rutaCuestionario, rutaGuardado='/home/julian/trabajo/updates', nombreArchivo = ''):
+def cuestionarioTSV(rutaCuestionario, rutaGuardado='/home/julian/trabajo/updates', nombreArchivo = '', 
+                    checkCarpeta = False, rutaData = 'web/individuales'):
     '''
     Lee las preguntas y bloques previamente pasados a diccionario y arma un csv
     completando código, bloque y texto
     '''
+    rutaCompleta = os.path.join(rutaGuardado,nombreArchivo)
     preguntas = limpiarKeys(getPreguntas(rutaCuestionario))
     bloques = limpiarKeys(getBloque(rutaCuestionario))
     claves = preguntas.keys()
+    
     campos =['codigo','bloque','paleta','texto','label','aclaracion']
     
+    rutaIndividuales = os.path.join(rutaGuardado,rutaData)
+    if checkCarpeta and os.path.exists(rutaIndividuales):
+        claves = sorted([key.lstrip('pregunta_').rstrip('.csv') for key in os.listdir(rutaIndividuales)])
     
     while len(nombreArchivo)<1:
         nombreArchivo = input('nombre del tsv: ')
@@ -285,30 +293,47 @@ def cuestionarioTSV(rutaCuestionario, rutaGuardado='/home/julian/trabajo/updates
     if '.tsv' not in nombreArchivo:
         nombreArchivo += '.tsv'
     
-    rutaCompleta = rutaGuardado+'/'+nombreArchivo        
+        
     with open(rutaCompleta, 'w', newline='') as archivoTSV:
         writer = csv.writer(archivoTSV, delimiter='\t')
-        
         writer.writerow(campos)
 
         # Iterar sobre las claves y escribir los valores correspondientes en cada columna
         for clave in claves:
-            
-            pregunta = preguntas[clave]
-            bloque = bloques[clave]
+            alcaracion = ''
             if 'BIS' in clave or 'bis' in clave:
                 continue
-            # Escribir una nueva fila en el archivo TSV
-            writer.writerow([clave, bloque, '', pregunta, '', ''])
-    
+            if clave.startswith('P') and clave[1].isdigit():
+                if 'imputada' not in clave:
+                    pregunta = preguntas[clave]
+                    bloque = bloques[clave]    
+                else:
+                    pregunta = preguntas[clave.replace('_imputada', '')]
+                    bloque = bloques[clave.replace('_imputada', '')]   
+                    aclaracion = '(Imputación no lineal de indecisos)'
+            else:
+                bloque = ''
+                pregunta = ''
+            
+            
+            writer.writerow([clave, bloque, '', pregunta, '', alcaracion])      
         print('Archivo TSV generado exitosamente.')
 
-
-def printPaletas(texto, nombre_tsv, ruta_trabajo):
+def getOpcionesFromData(ruta, subcarpeta = 'web/individuales'):
+    individuales = os.listdir(os.path.join(ruta, subcarpeta))
+    opciones = {}
+    for archivo in individuales:
+        df = pd.read_csv(os.path.join(ruta, subcarpeta, archivo), delimiter = ',')
+        opciones_individual = list(df.clase)
+        key = archivo.lstrip('pregunta_').rstrip('.csv')
+        opciones[key] = opciones_individual
+    return opciones
+        
+def printPaletas(texto, nombre_tsv, ruta_trabajo, subcarpeta = 'web/individuales'):
     ruta_cuestionario = ruta_trabajo + texto
     cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
-    opciones = limpiarKeys(getOpciones(ruta_cuestionario))
-
+    opciones = getOpcionesFromData(ruta_trabajo, subcarpeta)
+    
     opciones_limpias = {}
     for key in opciones:
         codigo_limpio = key[:3]
@@ -319,5 +344,12 @@ def printPaletas(texto, nombre_tsv, ruta_trabajo):
     
     bloques = cuestionario.groupby('bloque', sort=False).agg(list)['codigo'].to_dict()
     
-    infer_paleta(opciones, cuestionario)
+    keys_archivos = [k.lstrip('pregunta_').rstrip('.csv') for k in os.listdir(os.path.join(ruta_trabajo, subcarpeta))]
+    for key in cuestionario.codigo.to_list():
+        if key not in keys_archivos:
+            cuestionario = cuestionario[cuestionario['codigo']!= key]
+            print(f'{key} no está en el directorio')
+    infer_paleta(opciones_limpias, cuestionario)
+
+
     return(opciones_limpias)
