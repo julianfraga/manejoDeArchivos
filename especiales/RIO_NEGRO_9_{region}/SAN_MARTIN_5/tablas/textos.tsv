@@ -1,0 +1,12 @@
+clave	texto
+encuesta_especial	Elecciones Presidenciales, a Gobernador e Intendente - San Martín, Octubre 2023
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	
+ficha_Población objeto de estudio	Población mayor de 16 años.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	Partido de San Martín
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Diseño muestral	Muestreo aleatorio simple
+ficha_Tamaño muestral	La captura de datos abarcó 959 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo y tres estratos geográficos.
+ficha_Margen de error	+/- 3.16 %

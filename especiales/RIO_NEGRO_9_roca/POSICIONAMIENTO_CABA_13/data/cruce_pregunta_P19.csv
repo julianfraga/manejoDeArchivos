@@ -1,0 +1,100 @@
+"var","categoria","Jorge Macri por Juntos por el Cambio","Leandro Santoro por el Frente de Todos","Ramiro Marra por la Libertad Avanza","Al candidato del Frente de Izquierda","En blanco","No sabe"
+"P05","Siempre",0.323,0.211,0.275,0.218,0.215,0.207
+"P05","Casi siempre",0.425,0.477,0.277,0.399,0.319,0.382
+"P05","Casi nunca",0.209,0.246,0.33,0.292,0.384,0.264
+"P05","Nunca, pero esta es una excepción",0.043,0.066,0.118,0.091,0.082,0.147
+"P06","Mucho",0.38,0.568,0.389,0.451,0.336,0.202
+"P06","Bastante",0.425,0.314,0.328,0.257,0.306,0.345
+"P06","Poco",0.155,0.092,0.19,0.117,0.212,0.26
+"P06","Nada",0.033,0.022,0.086,0.108,0.116,0.135
+"P06","No sabe",0.007,0.004,0.007,0.067,0.03,0.058
+"P07","Del Frente de Todos y el peronismo",0.053,0.846,0.04,0.186,0.172,0.141
+"P07","De Juntos por el Cambio",0.847,0.051,0.109,0.128,0.29,0.362
+"P07","De los Liberales libertarios",0.061,0.044,0.791,0.038,0.118,0.073
+"P07","De la Izquierda",0.003,0.025,0.008,0.524,0.125,0.041
+"P07","No sabe",0.036,0.034,0.052,0.124,0.295,0.383
+"P08","A Leandro Santoro",0.473,0.736,0.481,0.186,0.242,0.606
+"P08","A Matias Lammens",0.154,0.057,0.246,0.426,0.43,0.141
+"P08","A Mariano Recalde",0.373,0.207,0.273,0.388,0.328,0.253
+"P09","A Jorge Macri",0.589,0.037,0.195,0.032,0.014,0.072
+"P09","A Martín Lousteau",0.261,0.802,0.278,0.737,0.76,0.586
+"P09","A Ricardo López Murphy",0.15,0.161,0.527,0.231,0.226,0.342
+"P10","Jorge Macri por Juntos por el Cambio",0.611,0.008,0.037,0.013,0.032,0.042
+"P10","Martín Lousteau  por Juntos por el Cambio",0.161,0.041,0.078,0.158,0.244,0.292
+"P10","Ricardo López Murphy  por Juntos por el Cambio",0.156,0.025,0.135,0.035,0.148,0.129
+"P10","Leandro Santoro por el Frente de Todos",0.012,0.58,0.006,0.07,0.031,0.037
+"P10","Mariano Recalde por el Frente de Todos",0.007,0.139,0.012,0.044,0.021,0.024
+"P10","Pedro Rosemblat por el Frente de Todos",0.005,0.156,0.023,0.127,0.074,0.032
+"P10","Ramiro Marra por la Libertad Avanza",0.024,0.014,0.681,0.018,0.057,0.016
+"P10","Al candidato del Frente de Izquierda",0.004,0.005,0.003,0.508,0.06,0.017
+"P10","En blanco",0.003,0.002,0.004,0.015,0.299,0.021
+"P10","No sabe",0.017,0.03,0.021,0.012,0.034,0.39
+"P13","Jorge Macri por Juntos por el Cambio",0.65,0.023,0.065,0.024,0.083,0.054
+"P13","Martín Lousteau  por Juntos por el Cambio",0.211,0.065,0.062,0.182,0.343,0.267
+"P13","Leandro Santoro por el Frente de Todos",0.035,0.784,0.053,0.085,0.023,0.043
+"P13","Ramiro Marra por la Libertad Avanza",0.04,0.043,0.736,0.053,0.055,0.032
+"P13","Al candidato del Frente de Izquierda",0.024,0.036,0.004,0.552,0.019,0.041
+"P13","En blanco",0.009,0.015,0.02,0.03,0.4,0.082
+"P13","No sabe",0.031,0.034,0.06,0.074,0.077,0.481
+"P16","Jorge Macri por Juntos por el Cambio",0.596,0.03,0.066,0.022,0.056,0.052
+"P16","Martín Lousteau  por Juntos por el Cambio",0.177,0.067,0.067,0.204,0.27,0.286
+"P16","Ricardo López Murphy  por Juntos por el Cambio",0.155,0.027,0.108,0.063,0.152,0.127
+"P16","Leandro Santoro por el Frente de Todos",0.016,0.81,0.03,0.07,0.052,0.053
+"P16","Ramiro Marra por la Libertad Avanza",0.036,0.028,0.69,0.037,0.017,0.018
+"P16","Al candidato del Frente de Izquierda",0.004,0.011,0.009,0.524,0.063,0.025
+"P16","En blanco",0.008,0.01,0.021,0.028,0.332,0.083
+"P16","No sabe",0.008,0.017,0.009,0.052,0.058,0.356
+"P22","Martín Lousteau  por Juntos por el Cambio",0.484,0.094,0.099,0.169,0.335,0.334
+"P22","Leandro Santoro por el Frente de Todos",0.084,0.822,0.06,0.053,0.071,0.051
+"P22","Ramiro Marra por la Libertad Avanza",0.135,0.068,0.798,0.029,0.003,0.017
+"P22","Al candidato del Frente de Izquierda",0.003,0.004,0.014,0.686,0.034,0.011
+"P22","En blanco",0.108,0.004,0.01,0.049,0.511,0.064
+"P22","No sabe",0.186,0.008,0.019,0.014,0.046,0.523
+"P25","Ricardo López Murphy  por Juntos por el Cambio",0.669,0.05,0.202,0.076,0.232,0.253
+"P25","Leandro Santoro por el Frente de Todos",0.038,0.877,0.054,0.088,0.053,0.078
+"P25","Ramiro Marra por la Libertad Avanza",0.078,0.031,0.691,0.024,0.022,0.024
+"P25","Al candidato del Frente de Izquierda",0.007,0.007,0.018,0.719,0.022,0.024
+"P25","En blanco",0.068,0.02,0.011,0.067,0.583,0.07
+"P25","No sabe",0.14,0.015,0.024,0.026,0.088,0.551
+"P26","Jorge Macri por Juntos por el Cambio",0.938,0.025,0.388,0.024,0.115,0.171
+"P26","Leandro Santoro por el Frente de Todos",0.022,0.94,0.068,0.489,0.091,0.182
+"P26","En blanco",0.016,0.019,0.335,0.331,0.58,0.101
+"P26","No sabe",0.024,0.016,0.209,0.156,0.214,0.546
+"P27","Martín Lousteau por Juntos por el Cambio",0.666,0.062,0.278,0.248,0.354,0.366
+"P27","Leandro Santoro por el Frente de Todos",0.032,0.904,0.063,0.431,0.051,0.14
+"P27","En blanco",0.171,0.026,0.466,0.192,0.492,0.08
+"P27","No sabe",0.131,0.008,0.193,0.129,0.103,0.414
+"P28","Ricardo López Murphy por Juntos por el Cambio",0.8,0.032,0.451,0.137,0.327,0.323
+"P28","Leandro Santoro por el Frente de Todos",0.042,0.934,0.078,0.428,0.084,0.108
+"P28","En blanco",0.074,0.016,0.307,0.328,0.496,0.053
+"P28","No sabe",0.084,0.018,0.164,0.107,0.093,0.516
+"P29","Lo votaría",0.754,0.022,0.137,0.055,0.075,0.08
+"P29","Puede que lo vote",0.196,0.134,0.314,0.086,0.093,0.175
+"P29","Nunca lo votaría",0.03,0.822,0.451,0.767,0.703,0.464
+"P29","No sabe",0.02,0.022,0.098,0.092,0.129,0.281
+"P30","Lo votaría",0.33,0.065,0.145,0.218,0.319,0.305
+"P30","Puede que lo vote",0.304,0.205,0.152,0.155,0.124,0.187
+"P30","Nunca lo votaría",0.282,0.676,0.626,0.549,0.427,0.313
+"P30","No sabe",0.084,0.054,0.077,0.078,0.13,0.195
+"P31","Lo votaría",0.488,0.03,0.313,0.108,0.217,0.247
+"P31","Puede que lo vote",0.298,0.055,0.246,0.059,0.163,0.145
+"P31","Nunca lo votaría",0.144,0.895,0.372,0.795,0.488,0.335
+"P31","No sabe",0.07,0.02,0.069,0.038,0.132,0.273
+"P32","Lo votaría",0.069,0.8,0.054,0.152,0.051,0.107
+"P32","Puede que lo vote",0.055,0.097,0.09,0.376,0.122,0.18
+"P32","Nunca lo votaría",0.821,0.094,0.803,0.385,0.628,0.486
+"P32","No sabe",0.055,0.009,0.053,0.087,0.199,0.227
+"P33","Lo votaría",0.016,0.555,0.023,0.13,0.066,0.106
+"P33","Puede que lo vote",0.042,0.293,0.068,0.283,0.064,0.133
+"P33","Nunca lo votaría",0.886,0.118,0.832,0.45,0.712,0.549
+"P33","No sabe",0.056,0.034,0.077,0.137,0.158,0.212
+"P34","Lo votaría",0.024,0.36,0.027,0.211,0.068,0.082
+"P34","Puede que lo vote",0.019,0.227,0.037,0.211,0.065,0.105
+"P34","Nunca lo votaría",0.782,0.305,0.772,0.425,0.671,0.495
+"P34","No sabe",0.175,0.108,0.164,0.153,0.196,0.318
+"P35","Lo votaría",0.046,0.042,0.639,0.032,0.025,0.022
+"P35","Puede que lo vote",0.175,0.057,0.14,0.06,0.063,0.121
+"P35","Nunca lo votaría",0.667,0.836,0.143,0.8,0.797,0.557
+"P35","No sabe",0.112,0.065,0.078,0.108,0.115,0.3
+"P36","Si",0.628,0.611,0.54,0.639,0.666,0.565
+"P36","No",0.372,0.389,0.46,0.361,0.334,0.435

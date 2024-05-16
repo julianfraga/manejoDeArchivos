@@ -1,0 +1,6 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P06	Escenarios políticos 	politica	Si las elecciones a Intendente del Municipio de Cutral Co fuese. Mañana Ud. a quién votaría.	Intención de voto a Intendente
+P08	Escenarios políticos 	politica	Si las elecciones a Intendente del Municipio de Cutral Co fuese. Mañana Ud. a quién votaría.	Intención de voto a Intendente según apoyo de dirigentes provinciales
+P10	Escenarios políticos 	votaria	Rubén Ojito García fuese candidato a intendente, ud...	Intención de voto por Rubén Ojito García para intendente
+P11	Escenarios políticos 	votaria	Si José Rioseco fuese candidato a intendente, ud...	Intención de voto por José Rioseco para intendente
+P12	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Control

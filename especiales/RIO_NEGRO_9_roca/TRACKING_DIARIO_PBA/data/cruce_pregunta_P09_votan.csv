@@ -1,0 +1,27 @@
+"var","categoria","Unión por la Patria","Juntos por el Cambio","De los liberales libertarios","De la Izquierda","Hacemos por nuestro país","Otro","En blanco","No sabe"
+"P19_votan","Sergio Massa Presidente, Agustin Rossi Vicepresidente , Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.623,0.118,0.1,0.128,0.07,0.035,0.032,0.117
+"P19_votan","Juan Grabois Presidente, Paula Abal Medina Vicepresidente, Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.154,0.072,0.033,0.245,0.174,0.039,0,0.085
+"P19_votan","Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.055,0.514,0.111,0.109,0,0.068,0,0.063
+"P19_votan","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente, Diego Santilli gobernador y Gustavo Posse vicegobernador; por Juntos por el Cambio",0.052,0.24,0.051,0.1,0.132,0.117,0.084,0.075
+"P19_votan","Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.088,0.042,0.652,0.058,0.325,0.139,0.117,0.225
+"P19_votan","Los candidatos a presidente, vicepresidente, gobernador y vicegobernador de las diferentes opciones de izquierda",0.012,0,0.005,0.325,0.047,0.096,0,0.014
+"P19_votan","Juan Schiaretti a presidente y Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0,0.001,0.007,0.006,0.252,0.058,0.128,0.028
+"P19_votan","Otros",0,0.006,0.004,0,0,0.195,0.118,0.117
+"P19_votan","En blanco",0.004,0.003,0.002,0.009,0,0.045,0.292,0.064
+"P19_votan","No sabe",0.012,0.004,0.035,0.02,0,0.208,0.229,0.212
+"P22_votan","Totalmente seguro.",0.69,0.677,0.657,0.557,0.428,0.374,0.375,0.295
+"P22_votan","Bastante seguro",0.127,0.155,0.165,0.168,0.044,0.113,0,0.091
+"P22_votan","Algo seguro",0.083,0.1,0.112,0.145,0.12,0.12,0.171,0.214
+"P22_votan","Para nada seguro",0.1,0.068,0.066,0.13,0.408,0.393,0.454,0.4
+"P23_votan","Tiene Decidido que va a ir a votar.",0.948,0.963,0.928,0.833,0.861,0.763,0.882,0.907
+"P23_votan","Tiene dudas sobre si va a ir a  votar",0.052,0.037,0.072,0.167,0.139,0.237,0.118,0.093
+"P34_votan","Inflación",0.43,0.293,0.384,0.424,0,0.115,0.147,0.221
+"P34_votan","Desempleo",0.075,0.091,0.05,0.154,0.132,0.133,0.174,0.156
+"P34_votan","Corrupción",0.135,0.259,0.301,0.08,0.546,0.263,0.336,0.247
+"P34_votan","Inseguridad",0.133,0.255,0.158,0.183,0.237,0.073,0.126,0.272
+"P34_votan","Precio del dólar",0.033,0.001,0.006,0,0,0.04,0,0.007
+"P34_votan","Pobreza",0.077,0.061,0.021,0.153,0,0.06,0.036,0.012
+"P34_votan","Narcotráfico",0.012,0.02,0.024,0,0,0.028,0.08,0.035
+"P34_votan","Tarifas",0.024,0.001,0.018,0,0,0.08,0,0
+"P34_votan","Otro",0.064,0.015,0.012,0.006,0.085,0.2,0.101,0.028
+"P34_votan","No sabe",0.017,0.004,0.026,0,0,0.008,0,0.022

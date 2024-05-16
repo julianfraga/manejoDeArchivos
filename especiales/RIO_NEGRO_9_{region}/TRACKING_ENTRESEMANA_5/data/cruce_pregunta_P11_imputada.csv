@@ -1,0 +1,40 @@
+"var","categoria","Unión por la Patria","Juntos por el Cambio","En blanco"
+"P10","Siempre",0.247,0.2,0.125
+"P10","Casi siempre",0.309,0.316,0.158
+"P10","Casi nunca",0.265,0.288,0.554
+"P10","Nunca, pero esta es una excepción",0.179,0.196,0.163
+"P15","Totalmente seguro",0.784,0.744,0.506
+"P15","Bastante seguro",0.121,0.127,0.155
+"P15","Algo seguro",0.045,0.057,0.124
+"P15","Para nada seguro",0.05,0.072,0.215
+"P16","Tiene Decidido que va a ir a votar",0.932,0.914,0.761
+"P16","Tiene dudas sobre si va a ir a  votar",0.044,0.06,0.133
+"P16","Tiene Decidido que no va a ir a votar",0.024,0.026,0.106
+"P17","Lo votaría",0.9,0.156,0.357
+"P17","Puede que lo vote",0.038,0.052,0.119
+"P17","Nunca lo votaría",0.048,0.762,0.432
+"P17","No sabe",0.014,0.03,0.092
+"P18","Lo votaría",0.141,0.696,0.205
+"P18","Puede que lo vote",0.05,0.11,0.18
+"P18","Nunca lo votaría",0.779,0.17,0.505
+"P18","No sabe",0.03,0.024,0.11
+"P19","Muy buena",0.481,0.244,0.303
+"P19","Buena",0.127,0.124,0.093
+"P19","Ni buena ni mala",0.305,0.34,0.432
+"P19","Mala",0.044,0.215,0.038
+"P19","Muy mala",0.025,0.051,0.038
+"P19","No sabe",0.018,0.026,0.096
+"P20","Totalmente de acuerdo",0.157,0.351,0.213
+"P20","Algo de acuerdo",0.027,0.137,0.063
+"P20","ni de acuerdo ni en desacuerdo",0.177,0.335,0.261
+"P20","En desacuerdo",0.318,0.115,0.317
+"P20","Totalmente en desacuerdo",0.321,0.062,0.146
+"P21","Cristiano no practicante",0.267,0.254,0.11
+"P21","Católico apostólico romano",0.384,0.453,0.454
+"P21","Cristiano evangelista o pentecostal",0.111,0.084,0.188
+"P21","Otras confesiones cristianas",0.052,0.063,0.116
+"P21","Musulmán",0.044,0.008,0.096
+"P21","Judío",0.016,0.018,0
+"P21","Otras",0.032,0.017,0
+"P21","No soy religioso",0.06,0.068,0.032
+"P21","Ateo",0.034,0.035,0.004

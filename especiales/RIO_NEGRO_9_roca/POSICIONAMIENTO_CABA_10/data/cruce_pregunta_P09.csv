@@ -1,0 +1,147 @@
+"var","categoria","A Horacio Rodriguez Larreta","A Patricia Bullrich","A Facundo Manes","A Gerardo Morales"
+"P04","Siempre",0.186,0.189,0.135,0.148
+"P04","Casi siempre",0.433,0.441,0.35,0.4
+"P04","Casi nunca",0.301,0.302,0.458,0.342
+"P04","Nunca, pero esta es una excepción",0.08,0.068,0.057,0.11
+"P10","Leandro Santoro por el Frente de Todos",0.047,0.016,0.358,0.045
+"P10","Jorge Macri por Juntos por el Cambio",0.398,0.647,0.08,0.217
+"P10","Martín Lousteau por Juntos por el Cambio",0.458,0.227,0.385,0.527
+"P10","Ramiro Marra por La Libertad Avanza",0.006,0.022,0,0.053
+"P10","Al candidato del Frente de Izquierda",0,0,0.007,0.041
+"P10","A Luis Zamora por Autodeterminación y Libertad",0.005,0.001,0.036,0.027
+"P10","En blanco",0.023,0.013,0.013,0.01
+"P10","No sabe",0.063,0.074,0.121,0.08
+"P11","María Eugenia Vidal por Juntos por el Cambio",0.429,0.477,0.197,0.164
+"P11","Martín Lousteau por Juntos por el Cambio",0.431,0.268,0.373,0.606
+"P11","Leandro Santoro por el Frente de Todos",0.062,0.065,0.224,0.032
+"P11","Ramiro Marra por La Libertad Avanza",0.001,0.04,0.013,0.053
+"P11","Al candidato del Frente de Izquierda",0.007,0,0.013,0
+"P11","A Luis Zamora por Autodeterminación y Libertad",0.002,0.001,0.03,0.031
+"P11","En blanco",0.035,0.033,0.02,0.01
+"P11","No sabe",0.033,0.116,0.13,0.104
+"P12","A Jorge Macri por Juntos por el Cambio",0.354,0.491,0.108,0.133
+"P12","A Martín Lousteau por Juntos por el Cambio",0.38,0.191,0.259,0.478
+"P12","A Ricardo López Murphy por Juntos por el Cambio",0.142,0.263,0.151,0.159
+"P12","A Leandro Santoro por el Frente de Todos",0.034,0.006,0.226,0.02
+"P12","A Matías Lammens por el Frente de Todos",0.037,0.019,0.115,0.033
+"P12","A Ramiro Marra por La Libertad Avanza",0,0.012,0,0.054
+"P12","Al candidato del Frente de Izquierda",0.008,0.001,0,0
+"P12","A Luis Zamora por Autodeterminación y Libertad",0,0.003,0.079,0.038
+"P12","En blanco",0.009,0.001,0.021,0.02
+"P12","No sabe",0.036,0.013,0.041,0.065
+"P13","A Martín Lousteau por Juntos por el Cambio",0.375,0.207,0.236,0.398
+"P13","A Jorge Macri por Juntos por el Cambio",0.308,0.463,0.139,0.244
+"P13","A Ricardo López Murphy por Juntos por el Cambio",0.15,0.271,0.084,0.174
+"P13","A Leandro Santoro por el Frente de Todos",0.056,0.013,0.28,0.015
+"P13","A Pedro Rosemblat por el Frente de Todos",0.062,0.02,0.115,0.056
+"P13","A Ramiro Marra por La Libertad Avanza",0,0.008,0,0.034
+"P13","Al candidato del Frente de Izquierda",0,0.001,0,0
+"P13","A Luis Zamora por Autodeterminación y Libertad",0.003,0,0.081,0.04
+"P13","En blanco",0.016,0.001,0.014,0
+"P13","No sabe",0.03,0.016,0.051,0.039
+"P14","A Leandro Santoro por el Frente de Todos",0.058,0.037,0.295,0.07
+"P14","A Pedro Rosemblat por el Frente de Todos",0.059,0.04,0.007,0.009
+"P14","A María Eugenia Vidal por Juntos por el Cambio",0.361,0.46,0.16,0.183
+"P14","A Martín Lousteau por Juntos por el Cambio",0.418,0.26,0.324,0.558
+"P14","A Ramiro Marra por La Libertad Avanza",0.025,0.047,0,0.067
+"P14","Al candidato del Frente de Izquierda",0.002,0.003,0,0
+"P14","A Luis Zamora por Autodeterminación y Libertad",0,0.005,0.045,0.034
+"P14","En blanco",0.023,0.057,0.091,0.026
+"P14","No sabe",0.054,0.091,0.078,0.053
+"P15","A Leandro Santoro por el Frente de Todos con el apoyo de Cristina Fernández de Kirchner, Sergio Massa y Alberto Fernández",0.033,0.019,0.399,0.071
+"P15","A Jorge Macri por Juntos por el Cambio con el apoyo de Mauricio Macri, Patricia Bullrich y Horacio Rodríguez Larreta",0.408,0.695,0.093,0.178
+"P15","A Martín Lousteau por Juntos por el Cambio el apoyo de la UCR y de Horacio Rodríguez Larreta",0.475,0.183,0.244,0.56
+"P15","A Ramiro Marra por La Libertad Avanza con el apoyo de Javier Milei",0.025,0.041,0.023,0.054
+"P15","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0.009,0.004,0.037,0
+"P15","A Luis Zamora por Autodeterminación y Libertad",0.003,0.003,0.063,0.033
+"P15","En blanco",0.017,0.009,0.015,0.045
+"P15","No sabe",0.03,0.046,0.126,0.059
+"P16","A Leandro Santoro por el Frente de Todos con el apoyo de Cristina Fernández de Kirchner, Sergio Massa y Alberto Fernández",0.04,0.015,0.365,0.04
+"P16","A María Eugenia Vidal por Juntos por el Cambio con el apoyo de Mauricio Macri, Patricia Bullrich y Horacio Rodríguez Larreta",0.462,0.651,0.112,0.216
+"P16","A Martín Lousteau por Juntos por el Cambio el apoyo de la UCR y de Horacio Rodríguez Larreta",0.439,0.195,0.297,0.562
+"P16","A Ramiro Marra por La Libertad Avanza con el apoyo de Javier Milei",0.007,0.038,0.052,0.064
+"P16","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0,0.001,0.015,0.012
+"P16","A Luis Zamora por Autodeterminación y Libertad",0,0.004,0.063,0.025
+"P16","En blanco",0.016,0.027,0,0
+"P16","No sabe",0.036,0.069,0.096,0.081
+"P17","A Jorge Macri por Juntos por el Cambio con el apoyo de Mauricio Macri y Horacio Rodríguez Larreta",0.33,0.481,0.284,0.197
+"P17","A Martín Lousteau por Juntos por el Cambio con el apoyo de la UCR y Horacio Rodríguez Larreta",0.482,0.171,0.189,0.464
+"P17","A Ricardo López Murphy por Juntos por el Cambio con el apoyo de Patricia Bullrich",0.112,0.261,0.124,0.148
+"P17","A Leandro Santoro por el Frente de Todos con el apoyo de Sergio Massa y Alberto Fernández",0.014,0.023,0.151,0.054
+"P17","A Pedro Rosemblat por el Frente de Todos con el apoyo de La Cámpora y Juan Grabois",0.028,0.017,0.141,0.044
+"P17","A Ramiro Marra por La Libertad Avanza con el apoyo de Javier Milei",0.002,0.01,0.047,0
+"P17","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0.009,0.002,0,0.021
+"P17","A Luis Zamora por Autodeterminación y Libertad",0.005,0.013,0.064,0.036
+"P17","En blanco",0.005,0.008,0,0
+"P17","No sabe",0.013,0.014,0,0.036
+"P18","A Leandro Santoro por el Frente de Todos con el apoyo de Sergio Massa y Alberto Fernández",0.044,0.046,0.22,0.027
+"P18","A Pedro Rosemblat por el Frente de Todos con el apoyo de La Cámpora y Juan Grabois",0.033,0.024,0.149,0.044
+"P18","A María Eugenia Vidal por Juntos por el Cambio con el apoyo de Mauricio Macri, Patricia Bullrich y Horacio Rodríguez Larreta",0.429,0.62,0.207,0.166
+"P18","A Martín Lousteau por Juntos por el Cambio con el apoyo de la UCR y Horacio Rodríguez Larreta",0.421,0.168,0.281,0.623
+"P18","A Ramiro Marra por La Libertad Avanza con el apoyo de Javier Milei",0.032,0.051,0.056,0.049
+"P18","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0.009,0,0,0
+"P18","A Luis Zamora por Autodeterminación y Libertad",0.007,0.004,0.026,0.044
+"P18","En blanco",0.002,0.038,0.049,0
+"P18","No sabe",0.023,0.049,0.012,0.047
+"P19","A Martín Lousteau por Juntos por el Cambio",0.755,0.56,0.364,0.71
+"P19","A Ramiro Marra por La Libertad Avanza",0.025,0.091,0,0.051
+"P19","A Leandro Santoro por el Frente de Todos",0.045,0.013,0.453,0.048
+"P19","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0,0.002,0,0.014
+"P19","A Luis Zamora por Autodeterminación y Libertad",0.018,0.013,0.036,0.041
+"P19","En blanco",0.068,0.14,0.032,0.014
+"P19","No sabe",0.089,0.181,0.115,0.122
+"P22","A Leandro Santoro por el Frente de Todos",0.074,0.058,0.372,0
+"P22","A Jorge Macri por Juntos por el Cambio",0.587,0.72,0.262,0.403
+"P22","A Ramiro Marra por La Libertad Avanza",0.065,0.062,0.126,0.229
+"P22","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0.006,0.006,0,0.014
+"P22","A Luis Zamora por Autodeterminación y Libertad",0.029,0.013,0.065,0.052
+"P22","En blanco",0.096,0.051,0.098,0.145
+"P22","No sabe",0.143,0.09,0.077,0.157
+"P25","A Leandro Santoro por el Frente de Todos",0.096,0.036,0.475,0.054
+"P25","A María Eugenia Vidal por Juntos por el Cambio",0.651,0.713,0.241,0.496
+"P25","A Ramiro Marra por La Libertad Avanza",0.054,0.083,0.083,0.102
+"P25","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0.003,0.002,0,0.014
+"P25","A Luis Zamora por Autodeterminación y Libertad",0.012,0.006,0.075,0.091
+"P25","En blanco",0.056,0.068,0.095,0.112
+"P25","No sabe",0.128,0.092,0.031,0.131
+"P28","A Pedro Rosemblat por el Frente de Todos",0.094,0.042,0.264,0
+"P28","A María Eugenia Vidal por Juntos por el Cambio",0.653,0.693,0.334,0.495
+"P28","A Ramiro Marra por La Libertad Avanza",0.051,0.113,0.148,0.149
+"P28","Al candidato del Frente de Izquierda con el apoyo de Nicolás Del Caño, Romina Del Plá y Myriam Bregman",0.006,0.005,0.009,0.014
+"P28","A Luis Zamora por Autodeterminación y Libertad",0.017,0.008,0.077,0.092
+"P28","En blanco",0.054,0.062,0.114,0.141
+"P28","No sabe",0.125,0.077,0.054,0.109
+"P31","Lo votaría",0.065,0.02,0.387,0.056
+"P31","Puede que lo vote",0.072,0.038,0.243,0.048
+"P31","Nunca lo votaría",0.816,0.914,0.271,0.85
+"P31","No sabe",0.047,0.028,0.099,0.046
+"P32","Lo votaría",0.02,0.006,0.413,0.056
+"P32","Puede que lo vote",0.052,0.021,0.128,0.033
+"P32","Nunca lo votaría",0.855,0.893,0.361,0.855
+"P32","No sabe",0.073,0.08,0.098,0.056
+"P33","Lo votaría",0.022,0.004,0.277,0
+"P33","Puede que lo vote",0.08,0.031,0.223,0.072
+"P33","Nunca lo votaría",0.817,0.897,0.401,0.829
+"P33","No sabe",0.081,0.068,0.099,0.099
+"P34","Lo votaría",0.366,0.565,0.161,0.243
+"P34","Puede que lo vote",0.328,0.226,0.257,0.29
+"P34","Nunca lo votaría",0.263,0.189,0.574,0.37
+"P34","No sabe",0.043,0.02,0.008,0.097
+"P35","Lo votaría",0.542,0.309,0.285,0.48
+"P35","Puede que lo vote",0.303,0.358,0.186,0.233
+"P35","Nunca lo votaría",0.137,0.302,0.511,0.251
+"P35","No sabe",0.018,0.031,0.018,0.036
+"P36","Lo votaría",0.331,0.519,0.113,0.276
+"P36","Puede que lo vote",0.395,0.329,0.297,0.416
+"P36","Nunca lo votaría",0.201,0.121,0.572,0.224
+"P36","No sabe",0.073,0.031,0.018,0.084
+"P37","Lo votaría",0.092,0.052,0.181,0.059
+"P37","Puede que lo vote",0.099,0.089,0.292,0.207
+"P37","Nunca lo votaría",0.74,0.824,0.456,0.605
+"P37","No sabe",0.069,0.035,0.071,0.129
+"P38","Lo votaría",0.524,0.463,0.152,0.272
+"P38","Puede que lo vote",0.239,0.278,0.325,0.337
+"P38","Nunca lo votaría",0.201,0.234,0.452,0.391
+"P38","No sabe",0.036,0.025,0.071,0
+"P39","Si",0.591,0.572,0.476,0.7
+"P39","No",0.409,0.428,0.524,0.3

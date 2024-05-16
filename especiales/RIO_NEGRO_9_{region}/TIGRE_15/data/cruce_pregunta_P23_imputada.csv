@@ -1,0 +1,37 @@
+"var","categoria","Totalmente seguro","Bastante seguro","Algo seguro","Para nada seguro"
+"P12_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.155,0.133,0.207,0.077
+"P12_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.037,0.054,0.087,0.027
+"P12_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador y Julio Zamora a intendente por Unión por la Patria",0.206,0.269,0.247,0.146
+"P12_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Claudio Cufré a intendente por Juntos por el Cambio",0.264,0.252,0.061,0.148
+"P12_imputada","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.123,0.114,0.077,0.288
+"P12_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.18,0.111,0.15,0.071
+"P12_imputada","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.001,0.03,0.035,0.062
+"P12_imputada","Otros",0.034,0.037,0.136,0.181
+"PRESIDENTE_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.192,0.183,0.358,0.174
+"PRESIDENTE_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.149,0.184,0.079,0.041
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.293,0.275,0.201,0.299
+"PRESIDENTE_imputada","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0.108,0.159,0.136,0.224
+"PRESIDENTE_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.185,0.101,0.202,0.112
+"PRESIDENTE_imputada","Alguno de los candidatos a presidente y gobernador de la Izquierda",0.012,0.04,0.011,0
+"PRESIDENTE_imputada","Otros",0.061,0.058,0.013,0.15
+"INTENDENTE_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.157,0.088,0.07,0.082
+"INTENDENTE_imputada","Julio Zamora a intendente por Unión por la Patria",0.42,0.59,0.616,0.4
+"INTENDENTE_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.104,0.054,0.053,0.134
+"INTENDENTE_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.22,0.25,0.219,0.301
+"INTENDENTE_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.081,0.01,0.024,0.013
+"INTENDENTE_imputada","Alguno de los candidatos a intendente de la Izquierda",0.008,0,0.011,0
+"INTENDENTE_imputada","Otros",0.01,0.008,0.007,0.07
+"INTENDENTE_CORTA_1_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.173,0.159,0.387,0.156
+"INTENDENTE_CORTA_1_imputada","Julio Zamora a intendente por Unión por la Patria",0.06,0.017,0.027,0.04
+"INTENDENTE_CORTA_1_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.364,0.411,0.083,0.086
+"INTENDENTE_CORTA_1_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.12,0.123,0.061,0.224
+"INTENDENTE_CORTA_1_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.233,0.179,0.208,0.133
+"INTENDENTE_CORTA_1_imputada","Alguno de los candidatos a intendente de la Izquierda",0,0.067,0.041,0.134
+"INTENDENTE_CORTA_1_imputada","Otros",0.05,0.044,0.193,0.227
+"INTENDENTE_CORTA_2_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.117,0.015,0.024,0.091
+"INTENDENTE_CORTA_2_imputada","Julio Zamora a intendente por Unión por la Patria",0.414,0.508,0.578,0.569
+"INTENDENTE_CORTA_2_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.104,0.075,0.072,0.074
+"INTENDENTE_CORTA_2_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.282,0.394,0.309,0.243
+"INTENDENTE_CORTA_2_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.06,0.008,0.017,0.023
+"INTENDENTE_CORTA_2_imputada","Alguno de los candidatos a intendente de la Izquierda",0.01,0,0,0
+"INTENDENTE_CORTA_2_imputada","Otros",0.013,0,0,0

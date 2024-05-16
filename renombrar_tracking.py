@@ -10,16 +10,16 @@ import csv
 import pandas as pd
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 208/tracking/'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 237/tracking/'
 ruta_csv = ruta_trabajo + 'renombres.csv'
 
-codigos = pd.read_csv(ruta_csv)
+codigos = pd.read_csv(ruta_csv, sep = ',')
 codigos.fillna('', inplace=True)
 
 renombramientos = {}
 for i, fila in codigos.iterrows():
     
-    if not 'P' in fila.viejos:
+    if isinstance(fila.viejos, (int, float)) or not 'P' in str(fila.viejos):
         if type(fila.nuevos) == float:
             fila.nuevos = int(fila.nuevos)
         fila.nuevos = str(fila.nuevos).zfill(2).strip("'")
@@ -72,7 +72,7 @@ with open(ruta_trabajo+'comandos.txt', 'w') as file:
         # print(output, file=file)
 #%%
 root = '/home/julian/trabajo/opinionpublica'
-carpetas = [root, root+'/trackingNacional/apps', root+'/trackingCABA/apps', root+'/trackingPBA/apps', root+'/trackingAYSA/apps']  # Lista de carpetas
+carpetas = [root, root+'/trackingNacional/apps', root+'/trackingCABA/apps', root+'/trackingPBA/apps']  # Lista de carpetas
 archivo_comandos = ruta_trabajo +'comandos.txt'  # Archivo de texto con los comandos
 
 respuesta = input(f'¿Renombrar según {archivo_comandos}? [S/N]').lower()
@@ -91,6 +91,9 @@ if respuesta == 's':
             for comando in comandos:
                 comando = comando.strip()  # Elimina los espacios en blanco al inicio y final
                 os.system(comando)
-else:
+                if carpeta == root:
+                    comando_tsv = comando.replace('*.py', 'tracking.tsv')
+                    os.system(comando_tsv)
+else:   
     print('Abortadín')
     

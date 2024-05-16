@@ -1,0 +1,12 @@
+clave	texto
+encuesta_especial	Posicionamiento politico y preferencias electorales: Elecciones presidenciales y a Jefe de Gobeierno - CABA Corte 3, Julio 2023
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	31/7/2023
+ficha_Población objeto de estudio	Población mayor de 16 años.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	Ciudad Autónoma de Buenos Aires
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Diseño muestral	Muestreo aleatorio estratificado por edad y nivel educativo para CABA
+ficha_Tamaño muestral	La captura de datos se llevó a cabo del 29/07/2023 al 31/07/2023 abarcando 1.159 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo.
+ficha_Margen de error	+/- 2.88 %

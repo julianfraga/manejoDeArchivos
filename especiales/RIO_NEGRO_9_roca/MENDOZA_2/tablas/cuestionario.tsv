@@ -1,0 +1,16 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	¿Cuánto diría usted que le importa la política?	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P09	Preferencias políticas	politica	Pensando en las próximas elecciones generales a gobernador y vicegobernador del 24 de septiembre del 2023 a que candidatos preferiría votar?	Intención de voto a Gobernador y Vicegobernador en elecciones generales	
+P09_imputada	Preferencias políticas	politica	Pensando en las próximas elecciones generales a gobernador y vicegobernador del 24 de septiembre del 2023 a que candidatos preferiría votar?	Intención de voto a Gobernador y Vicegobernador en elecciones generales	(Imputación no lineal de indecisos)
+P12	Preferencias políticas	quali	En su opinión, ¿cómo se sale de la permanente crisis que vive Argentina?	Opinión sobre la crisis argentina	
+P13	Preferencias políticas	quali	Podría usted decirnos cuán seguro está de sus preferencias de voto en las próximas elecciones 	Nivel de seguridad sobre preferencias electorales	
+P14	Preferencias políticas	muchopoco	¿Qué tan decidido está sobre ir a votar?	Nivel de decisión sobre ir o no a votar	
+P15	Preferencias políticas	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos prefería votar para presidente y vicepresidente de la nación 	Intención de voto a Presidente y Vicepresidente en primera vuelta	
+P15_imputada	Preferencias políticas	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos prefería votar para presidente y vicepresidente de la nación 	Intención de voto a Presidente y Vicepresidente en primera vuelta	(Imputación no lineal de indecisos)
+P18	Reach de intención de voto	votaria	Votaría la formula Alfredo Cornejo a gobernador y Hebe Casado a vicegobernadora....	Intención de voto por fórmula Alfredo Cornejo - Hebe Casado.	
+P19	Reach de intención de voto	votaria	Votaría la formula Omar De Marchi a gobernador y Daniel Orozco a vicegobernador...	Intención de voto por fórmula Omar De Marchi - Daniel Orozco.	
+P20	Reach de intención de voto	votaria	Votaría la formula Omar Parisi a gobernador y Lucas Ilardo a vicegobernador.	Intención de voto por fórmula Omar Parisi - Lucas Ilardo.	
+P21	Reach de intención de voto	votaria	Votaría la formula Mario Vadillo a gobernador y Emanuel Fugazzotto a vicegobernador.	Intención de voto por fórmula Mario Vadillo - Emanuel Fugazzotto.	
+P22	Reach de intención de voto	votaria	Votaría la formula Lautaro Giménez a gobernador y Noelia Barbeito a vicegobernadora.	Intención de voto por fórmula Lautaro Giménez - Noelia Barbeito.	
+P23	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

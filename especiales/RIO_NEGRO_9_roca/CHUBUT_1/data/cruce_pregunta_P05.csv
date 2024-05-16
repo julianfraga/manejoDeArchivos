@@ -1,0 +1,57 @@
+"var","categoria","Mucho","Bastante","Poco","Nada","No sabe"
+"P06","Siempre",0.401,0.148,0.069,0.078,0.109
+"P06","Casi siempre",0.262,0.373,0.149,0.091,0.018
+"P06","Casi nunca",0.219,0.323,0.462,0.287,0.281
+"P06","Nunca, pero esta es una excepción",0.118,0.156,0.32,0.544,0.592
+"P08","Unión por la Patria",0.268,0.251,0.173,0.081,0.02
+"P08","Juntos por el Cambio",0.269,0.353,0.31,0.133,0.194
+"P08","De los Liberales libertarios",0.219,0.145,0.142,0.134,0.165
+"P08","De la Izquierda",0.05,0.043,0.056,0.106,0.033
+"P08","Hacemos por nuestro país",0.019,0.015,0.007,0.034,0.045
+"P08","Otro",0.058,0.055,0.088,0.117,0.188
+"P08","En blanco",0.055,0.026,0.043,0.188,0.019
+"P08","No sabe",0.062,0.112,0.181,0.207,0.336
+"P11","Arriba Chubut",0.286,0.301,0.203,0.111,0.173
+"P11","Juntos por el Cambio Chubut",0.31,0.358,0.333,0.14,0.128
+"P11","Por la Libertad Independiente Chubutense",0.16,0.116,0.086,0.119,0.201
+"P11","Frente de Izquierda",0.082,0.048,0.057,0.051,0.034
+"P11","Generación para un Encuentro Nacional",0.013,0,0,0.009,0.185
+"P11","Otro",0.046,0.056,0.055,0.094,0.063
+"P11","En blanco",0.058,0.035,0.055,0.279,0
+"P11","No sabe",0.045,0.086,0.211,0.197,0.216
+"P14","A Juan Pablo Luque gobernador y Ricardo Sastre vicegobernador por Arriba Chubut",0.367,0.312,0.31,0.212,0.111
+"P14","A Ignacio Torres gobernador y Gustavo Menna vicegobernador por Juntos por el Cambio",0.302,0.367,0.281,0.31,0.252
+"P14","A César Treffinger gobernador y Laura Mirantes vicegobernadora por La Libertad Independiente Chubutense",0.128,0.149,0.151,0.1,0.216
+"P14","A Emilse Saavedra gobernadora y Julieta Rusconi vicegobernadora por el Frente de Izquierda y de los Trabajadores-Unidad",0.062,0.04,0.088,0.082,0.167
+"P14","A Oscar Petersen gobernador y Nancy Lobos vicegobernadora por el GEN",0.028,0.012,0.011,0.046,0.1
+"P14","En blanco",0.045,0.029,0.029,0.093,0
+"P14","No sabe",0.068,0.091,0.13,0.157,0.154
+"P17","A Juan Pablo Luque gobernador por la Alianza Arriba Chubut con el apoyo de Cristina Fernández de Kirchner, Sergio Massa, Alberto Fernández, Mariano Arcioni y el Peronismo",0.382,0.313,0.336,0.238,0.284
+"P17","A Ignacio Torres gobernador por Juntos por el Cambio con el apoyo de Patricia Bullrich, Horacio Rodríguez Larreta, Mauricio Macri, el PRO y la UCR",0.259,0.367,0.244,0.191,0.089
+"P17","A César Treffinger gobernador por La Libertad Independiente Chubutense con el apoyo de Javier Milei",0.193,0.175,0.22,0.203,0.355
+"P17","A Emilse Saavedra gobernadora por el Frente de Izquierda y de los Trabajadores-Unidad con el apoyo de Gabriel Solano y Vilma Ripoll",0.032,0.024,0.033,0.115,0.087
+"P17","A Oscar Petersen gobernador por el GEN",0.027,0.016,0.007,0.028,0.069
+"P17","En blanco",0.048,0.025,0.059,0.072,0
+"P17","No sabe",0.059,0.08,0.101,0.153,0.116
+"P20","La votaría",0.379,0.311,0.315,0.182,0.081
+"P20","Puede que la vote",0.107,0.136,0.126,0.14,0.282
+"P20","Nunca la votaría",0.449,0.468,0.447,0.449,0.386
+"P20","No sabe",0.065,0.085,0.112,0.229,0.251
+"P21","La votaría",0.348,0.329,0.282,0.166,0.041
+"P21","Puede que la vote",0.103,0.135,0.173,0.093,0.302
+"P21","Nunca la votaría",0.47,0.417,0.418,0.52,0.383
+"P21","No sabe",0.079,0.119,0.127,0.221,0.274
+"P22","La votaría",0.194,0.167,0.138,0.183,0.142
+"P22","Puede que la vote",0.118,0.129,0.146,0.048,0.215
+"P22","Nunca la votaría",0.607,0.553,0.546,0.586,0.467
+"P22","No sabe",0.081,0.151,0.17,0.183,0.176
+"P23","La votaría",0.099,0.05,0.037,0.119,0.087
+"P23","Puede que la vote",0.096,0.146,0.075,0.078,0.162
+"P23","Nunca la votaría",0.657,0.623,0.655,0.587,0.475
+"P23","No sabe",0.148,0.181,0.233,0.216,0.276
+"P24","La votaría",0.052,0.029,0.039,0.098,0.057
+"P24","Puede que la vote",0.075,0.128,0.085,0.071,0.148
+"P24","Nunca la votaría",0.72,0.649,0.682,0.609,0.484
+"P24","No sabe",0.153,0.194,0.194,0.222,0.311
+"P25","Si",0.46,0.356,0.437,0.227,0.048
+"P25","No",0.54,0.644,0.563,0.773,0.952

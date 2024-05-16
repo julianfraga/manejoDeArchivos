@@ -1,0 +1,12 @@
+clave	texto
+encuesta_especial	Posicionamiento Político y Preferencias Electorales: Elecciones Presidenciales y Diputados Río Negro - Agosto 2023 (corte 3)
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	29/08/2023
+ficha_Población objeto de estudio	Población mayor de 16 años que vota en la Provincia de Río Negro.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	Provincia de Río Negro
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Diseño muestral	Probabilístico, aleatorio simple.
+ficha_Tamaño muestral	La captura de datos se llevó a cabo del 24/08/2023 al 29/08/2023 abarcando 920 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo, más cinco estratos geográficos: Comarca Andina, Alto Valle, Valle medio, Valle inferior y Río Colorado; Atlántico y Banda Sur.
+ficha_Margen de error	+/- 2.83 %

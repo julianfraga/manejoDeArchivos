@@ -1,0 +1,89 @@
+"var","categoria","Sergio Massa a Presidente, Agustín Rossi a Vicepresidente por Unión por la Patria","Patricia Bullrich a Presidente, Luis Petri a Vicepresidente por Juntos por el Cambio","Javier Milei a Presidente, Victoria Villarruel a Vicepresident por la Libertad Avanza","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente por el Frente de Izquierda","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente","En blanco","No sabe"
+"P06","Tiene Decidido que va a ir a votar",0.867,0.909,0.887,0.973,0.67,0.875,0.689
+"P06","Tiene dudas sobre si va a ir a  votar",0.101,0.058,0.078,0,0.313,0.044,0.187
+"P06","Tiene Decidido que no va a ir a votar",0.032,0.033,0.035,0.027,0.017,0.081,0.124
+"P07","Mucho",0.517,0.466,0.49,0.718,0.429,0.489,0.323
+"P07","Bastante",0.304,0.329,0.238,0.101,0.153,0.24,0.178
+"P07","Poco",0.083,0.135,0.178,0.064,0.118,0.128,0.137
+"P07","Nada",0.074,0.049,0.075,0.094,0.3,0.143,0.234
+"P07","No sabe",0.022,0.021,0.019,0.023,0,0,0.128
+"P08","Siempre",0.196,0.222,0.238,0.438,0.48,0.184,0.079
+"P08","Casi siempre",0.329,0.447,0.235,0.14,0.231,0.195,0.312
+"P08","Casi nunca",0.311,0.251,0.319,0.276,0.249,0.457,0.229
+"P08","Nunca, pero esta es una excepción",0.164,0.08,0.208,0.146,0.04,0.164,0.38
+"P12","Unión por la Patria",0.723,0.026,0.085,0.108,0.168,0.261,0.008
+"P12","Juntos por el Cambio",0.06,0.687,0.048,0.053,0.081,0.13,0.051
+"P12","Juntos Somos Río Negro",0.074,0.134,0.139,0.06,0.018,0.332,0.098
+"P12","Liberales",0.006,0.064,0.471,0.008,0.021,0,0.014
+"P12","Izquierda",0.03,0.022,0.042,0.652,0.108,0.021,0.115
+"P12","Otro",0.013,0.014,0.077,0.032,0.413,0.045,0.071
+"P12","No sabe",0.094,0.053,0.138,0.087,0.191,0.211,0.643
+"P13","Sergio Massa a Presidente, Agustín Rossi a Vicepresidente y Martín Soria a Diputado Nacional por Unión por la Patria",0.945,0,0,0,0,0,0
+"P13","Patricia Bullrich a Presidente, Luis Petri a Vicepresidente y Sergio Capozzi a Diputado Nacional por Juntos por el Cambio",0,0.9,0,0,0,0,0
+"P13","Luis Di Giacomo a Diputado Nacional por Juntos somos Rio Negro",0.055,0.1,0.035,0.048,0.023,0.75,0.047
+"P13","Javier Milei a Presidente, Victoria Villarruel a Vicepresidente y Lorena Villaverde a Diputada Nacional por la Libertad Avanza",0,0,0.965,0,0,0,0
+"P13","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente y Alhue Gavuzzo a Diputada Nacional por el Frente de Izquierda",0,0,0,0.952,0,0,0
+"P13","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente",0,0,0,0,0.977,0,0
+"P13","En blanco",0,0,0,0,0,0.25,0
+"P13","No sabe",0,0,0,0,0,0,0.953
+"P17","Totalmente seguro",0.684,0.684,0.716,0.486,0.467,0.633,0.24
+"P17","Bastante seguro",0.125,0.164,0.1,0.197,0.177,0.058,0.068
+"P17","Algo seguro",0.068,0.07,0.158,0.088,0.113,0.042,0.199
+"P17","Para nada seguro",0.123,0.082,0.026,0.229,0.243,0.267,0.493
+"P18","Sergio Massa a Presidente, Agustín Rossi a Vicepresidente por Unión por la Patria",1,0,0,0,0,0,0
+"P18","Patricia Bullrich a Presidente, Luis Petri a Vicepresidente por Juntos por el Cambio",0,1,0,0,0,0,0
+"P18","Javier Milei a Presidente, Victoria Villarruel a Vicepresidente por la Libertad Avanza",0,0,1,0,0,0,0
+"P18","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente el Frente de Izquierda",0,0,0,1,0,0,0
+"P18","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente",0,0,0,0,1,0,0
+"P18","En blanco",0,0,0,0,0,1,0
+"P18","No sabe",0,0,0,0,0,0,1
+"P21","Sí",0.099,0.716,0.871,0.396,0.885,0,0.15
+"P21","No",0.901,0.284,0.129,0.604,0.115,1,0.85
+"P22","Martín Soria a Diputado Nacional por Unión por la Patria",0.703,0.066,0.044,0,0.481,0,0
+"P22","Sergio Capozzi a Diputado Nacional por Juntos por el Cambio",0.006,0.605,0.08,0.683,0,0,0
+"P22","Luis Di Giacomo a Diputado Nacional por Juntos somos Rio Negro",0.201,0.051,0.127,0,0,0,0.668
+"P22","Lorena Villaverde a Diputada Nacional por la Libertad Avanza",0.027,0.14,0.449,0,0.475,0,0
+"P22","Alhue Gavuzzo a Diputada Nacional por el Frente de Izquierda",0.014,0,0.035,0.317,0,0,0
+"P22","En blanco",0,0.01,0.072,0,0,0,0
+"P22","No sabe",0.049,0.128,0.193,0,0.044,0,0.332
+"P26","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.899,0.091,0.094,0.642,0.055,0.771,0.284
+"P26","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.04,0.774,0.345,0,0.395,0.03,0.075
+"P26","En blanco",0.013,0.051,0.262,0.112,0.459,0.199,0.101
+"P26","No sabe",0.048,0.084,0.299,0.246,0.091,0,0.54
+"P27","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.17,0.672,0.026,0,0,0.684,0.146
+"P27","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.084,0.231,0.879,0.251,0.07,0.053,0.292
+"P27","En blanco",0.534,0.063,0.017,0.17,0.825,0.232,0.387
+"P27","No sabe",0.212,0.034,0.078,0.579,0.105,0.031,0.175
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.889,0.281,0.018,0.477,0.067,0.83,0.204
+"P28","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.044,0.517,0.958,0.271,0.091,0.086,0.167
+"P28","En blanco",0.027,0.144,0.012,0,0.842,0.053,0.201
+"P28","No sabe",0.04,0.058,0.012,0.252,0,0.031,0.428
+"P29","Lo votaría",0.94,0.086,0.042,0.36,0.423,0.427,0.337
+"P29","Puede que lo vote",0.015,0.196,0.109,0.289,0.065,0.425,0.395
+"P29","Nunca lo votaría",0.01,0.664,0.778,0.015,0.512,0.095,0.213
+"P29","No sabe",0.035,0.054,0.071,0.336,0,0.053,0.055
+"P30","Lo votaría",0.071,0.695,0.093,0,0.731,0.014,0
+"P30","Puede que lo vote",0.029,0.046,0.337,0.313,0,0.376,0.248
+"P30","Nunca lo votaría",0.829,0.237,0.412,0.351,0.269,0.368,0.607
+"P30","No sabe",0.071,0.022,0.158,0.336,0,0.242,0.145
+"P31","Lo votaría",0.051,0.225,0.057,0.214,0.726,0.127,0.073
+"P31","Puede que lo vote",0.148,0.225,0.197,0.431,0,0.525,0.027
+"P31","Nunca lo votaría",0.659,0.389,0.487,0.17,0.274,0.291,0.775
+"P31","No sabe",0.142,0.161,0.259,0.185,0,0.057,0.125
+"P32","Lo votaría",0.025,0.238,0.876,0.318,0.884,0.068,0
+"P32","Puede que lo vote",0.041,0.314,0.072,0,0,0.43,0.388
+"P32","Nunca lo votaría",0.859,0.369,0.024,0.409,0.116,0.445,0.506
+"P32","No sabe",0.075,0.079,0.028,0.273,0,0.057,0.106
+"P33","Lo votaría",0.06,0.094,0.058,0.724,0.796,0.048,0
+"P33","Puede que lo vote",0.243,0.129,0.069,0.276,0.119,0.47,0.1
+"P33","Nunca lo votaría",0.583,0.709,0.752,0,0.085,0.231,0.661
+"P33","No sabe",0.114,0.068,0.121,0,0,0.251,0.239
+"P34","Si",0.41,0.474,0.316,0.199,0.922,0.231,0.423
+"P34","No",0.59,0.526,0.684,0.801,0.078,0.769,0.577
+"DIPUTADOS","Martín Soria a Diputado Nacional por Unión por la Patria",0.906,0.039,0.034,0,0.411,0,0
+"DIPUTADOS","Sergio Capozzi a Diputado Nacional por Juntos por el Cambio",0.001,0.468,0.068,0.209,0,0,0
+"DIPUTADOS","Luis Di Giacomo a Diputado Nacional por Juntos somos Rio Negro",0.086,0.369,0.147,0.247,0.053,0.936,0.388
+"DIPUTADOS","Lorena Villaverde a Diputada Nacional por la Libertad Avanza",0.001,0.065,0.494,0,0.397,0,0
+"DIPUTADOS","Alhue Gavuzzo a Diputada Nacional por el Frente de Izquierda",0.001,0,0.027,0.544,0,0,0
+"DIPUTADOS","En blanco",0,0.005,0.063,0,0.104,0.064,0
+"DIPUTADOS","No sabe",0.005,0.054,0.167,0,0.035,0,0.612

@@ -1,0 +1,23 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Sociodemográfico 		¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas
+P06	Sociodemográfico 		Usted diría que la política le importa…	Importancia de la política para el encuestado
+P07	Preferencias electorales 	politica	Si las elecciones a Jefe de Gobierno fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político para Jefe de Gobierno
+P08	Preferencias electorales 	politica	¿A cuál de los siguientes dirigentes del Frente de Todos y el peronismo preferiría ud. votar para Jefe de Gobierno? (Solo para quienes tienen intención de votar al Frente de Todos)	Intención de voto para Jefe de Gobierno dentro de los votantes del Frente de Todos
+P09	Preferencias electorales 	politica	¿A cuál de los siguientes candidatos de Juntos por el cambio preferiría ud. votar para Jefe de Gobierno? (Solo para quienes tienen intención de votar a Juntos por el cambio)	Intención de voto para Jefe de Gobierno dentro de los votantes del Juntos por el Cambio
+P10	Escenarios políticos	politica	Pensando en las próximas elecciones primarias (PASO) ¿A cuáles de los siguientes candidatos preferiría votar para Jefe de Gobierno de la Ciudad?	Intención de voto por candidatos a Jefe de Gobierno (PASO, escenario 1)
+P13	Escenarios políticos	politica	Y si los candidatos fueran los siguientes, ¿a quién votaría en las próximas elecciones primarias (PASO)?	Intención de voto por candidatos a Jefe de Gobierno (PASO, escenario 2)
+P16	Escenarios políticos	politica	Si en cambio los candidatos para las PASO fueran estos, ¿a quién votaría?	Intención de voto por candidatos a Jefe de Gobierno (PASO, escenario 3)
+P19	Escenarios políticos	politica	Si los candidatos a Jefe de Gobierno en la primera vuelta electoral fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Jefe de Gobierno (primera vuelta, escenario 1)
+P22	Escenarios políticos	politica	¿A que candidato preferiría votar en una primera vuelta electoral para  Jefe de Gobierno de la Ciudad?	Intención de voto por candidatos a Jefe de Gobierno (primera vuelta, escenario 2)
+P25	Escenarios políticos	politica	Entre estos candidatos a Jefe de Gobierno en la primera vuelta electoral  ¿A cúal preferiría votar?	Intención de voto por candidatos a Jefe de Gobierno (primera vuelta, escenario 3)
+P26	Escenarios políticos	politica	¿A cuál de los siguientes candidatos votaría en un escenario de segunda vuelta?	Intención de voto por candidatos a Jefe de Gobierno (segunda vuelta, escenario 1)
+P27	Escenarios políticos	politica	Y si en cambio fueran los siguientes ¿A quién preferiría votar?	Intención de voto por candidatos a Jefe de Gobierno (segunda vuelta, escenario 2)
+P28	Escenarios políticos	politica	Y entre estos candidatos ¿A cúal preferiría votar en segunda vuelta?	Intención de voto por candidatos a Jefe de Gobierno (segunda vuelta, escenario 3)
+P29	Reach de intención de voto	reach	Si Jorge Macri fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Jorge Macri para Jefe de Gobierno
+P30	Reach de intención de voto	reach	Si Martín Lousteau fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Martín Lousteau para Jefe de Gobierno
+P31	Reach de intención de voto	reach	Si Ricardo López Murphy fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Ricardo López Murphy para Jefe de Gobierno
+P32	Reach de intención de voto	reach	Si Leandro Santoro fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Leandro Santoro para Jefe de Gobierno
+P33	Reach de intención de voto	reach	Si Mariano Recalde fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Mariano Recalde para Jefe de Gobierno
+P34	Reach de intención de voto	reach	Si Pedro Rosemblat fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Pedro Rosemblat para Jefe de Gobierno
+P35	Reach de intención de voto	reach	Si Ramiro Marra fuese candidato a Jefe de Gobierno de la Ciudad, ud...	Intención de voto de Ramiro Marra para Jefe de Gobierno
+P36	control	control	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	control

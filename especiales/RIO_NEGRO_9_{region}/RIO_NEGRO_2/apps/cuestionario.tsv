@@ -1,0 +1,28 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Bloque Sociodemográfico	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P06	Bloque Sociodemográfico	politica	En las elecciones a gobernador de Río Negro en abril pasado, ¿recuerda a qué candidatos votó?	Voto elecciones a gobernador Abril 2022	
+P07	Bloque Sociodemográfico	politica	Si las elecciones para elegir intendente de Bariloche fueran mañana. ¿a qué espacio político votaría?	Intención de voto para intendente por espacios políticos 	
+P08	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Primera tanda, escenario 1)	Intención de voto por candidatos a intendente (Primera tanda, escenario 1)	
+P09	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Primera tanda, escenario 2)	Intención de voto por candidatos a intendente (Primera tanda, escenario 2)	
+P10	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Primera tanda, escenario 3)	Intención de voto por candidatos a intendente (Primera tanda, escenario 3)	
+P11	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Primera tanda, escenario 4)	Intención de voto por candidatos a intendente (Primera tanda, escenario 4)	
+P12	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Primera tanda, escenario 5)	Intención de voto por candidatos a intendente (Primera tanda, escenario 5)	
+P13	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Segunda tanda, escenario 1)	Intención de voto por candidatos a intendente (Segunda tanda, escenario 1)	
+P14	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Segunda tanda, escenario 2)	Intención de voto por candidatos a intendente (Segunda tanda, escenario 2)	
+P15	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Segunda tanda, escenario 3)	Intención de voto por candidatos a intendente (Segunda tanda, escenario 3)	
+P16	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Segunda tanda, escenario 4)	Intención de voto por candidatos a intendente (Segunda tanda, escenario 4)	
+P17	Bloque Escenarios políticos Bariloche 2023	politica	Considerando las siguientes opciones. ¿A quién votaría usted como intendente de Bariloche si las elecciones fuesen mañana? (Segunda tanda, escenario 5)	Intención de voto por candidatos a intendente (Segunda tanda, escenario 5)	
+P18	Bloque Reach de intención de voto	votaria	Si Gastón Vega fuera candidato a intendente, ud.	Intención de voto por Gastón Vega para intendente	
+P19	Bloque Reach de intención de voto	votaria	Si Carlos Aristegui  fuera candidato a intendente, ud.	Intención de voto por Carlos Aristegui para intendente	
+P20	Bloque Reach de intención de voto	votaria	Si Arabela Carreras  fuera candidata a intendenta, ud.	Intención de voto por Arabela Carreras para intendenta	
+P21	Bloque Reach de intención de voto	votaria	Si Agustín Domingo fuera candidato a intendente, ud.	Intención de voto por Agustín Domingo para intendente	
+P22	Bloque Reach de intención de voto	votaria	Si Juan Pablo Muena fuera candidato a intendente, ud.	Intención de voto por Juan Pablo Muena para intendente	
+P23	Bloque Reach de intención de voto	votaria	Si Juan Pablo Ferrari  fuera candidato a intendente, ud.	Intención de voto por Juan Pablo Ferrari para intendente	
+P24	Bloque Reach de intención de voto	votaria	Si Marcela Gonzalez Abdala fuera candidata a intendenta, ud.	Intención de voto por Marcela González Abdala para intendenta	
+P25	Bloque Reach de intención de voto	votaria	Si Carlos Valeri  fuera candidato a intendente, ud.	Intención de voto por Carlos Valeri para intendente	
+P26	Bloque Reach de intención de voto	votaria	Si Pablo Chamátropulos  fuera candidato a intendente, ud.	Intención de voto por Pablo Chamátropulos para intendente	
+P27	Bloque Reach de intención de voto	votaria	Si Leandro Costa Brutten  fuera candidato a intendente, ud.	Intención de voto por Leandro Costa Brutten para intendente	
+P28	Bloque Reach de intención de voto	votaria	Si Jorge Vallazza fuera candidato a intendente, ud.	Intención de voto por Jorge Vallazza para intendente	
+P29	Bloque Reach de intención de voto	votaria	Si Ramón Chiocconi fuera candidato a intendente, ud.	Intención de voto por Ramón Chiocconi para intendente	
+P30	Bloque Reach de intención de voto	votaria	Si Andrea Galaverna fuera candidata a intendenta, ud.	Intención de voto por Andrea Galaverna para intendenta	
+P31	control	siNo	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	control	

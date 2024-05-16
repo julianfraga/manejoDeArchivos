@@ -1,0 +1,13 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P08	Escenarios políticos 		Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto en elecciones presidenciales por espacio político
+P09	Escenarios políticos 		Pensando en las próximas elecciones primarias (PASO), ¿a qué candidatos votaría?	Intención de voto a Presidente – Gobernador – Intendente en elecciones primarias
+P12	Escenarios políticos 		Si Sergio Massa fuese candidato a Presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente ud...	Intención de voto por fórmula Massa - Kicillof - Moreira
+P13	Escenarios políticos 		Si Juan Grabois fuese candidato a Presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente ud...	Intención de voto por fórmula Grabois - Kicillof - Moreira
+P14	Escenarios políticos 		Si Sergio Massa fuese candidato a Presidente, Axel Kicillof a gobernador y Leonardo Grosso a intendente ud...	Intención de voto por fórmula Massa - Kicillof - Grosso
+P15	Escenarios políticos 		Si Juan Grabois fuese candidato a Presidente, Axel Kicillof a gobernador y Leonardo Grosso a intendente ud...	Intención de voto por fórmula Grabois - Kicillof - Grosso
+P16	Escenarios políticos 		Si Patricia Bullrich fuese candidato a Presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente ud...	Intención de voto por fórmula Bullrich - Grindetti - López Medrano
+P17	Escenarios políticos 		Si Horacio Rodriguez Larreta fuese candidato a Presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente ud...	Intención de voto por fórmula Rodríguez Larreta - Santilli - D'Alessandro
+P18	Escenarios políticos 		Si Javier Milei fuese candidato a Presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente ud...	Intención de voto por fórmula Milei – Píparo - Sardella
+P05	Control	muchoPoco	Usted diría que la política le importa…	Importancia de la política para el encuestado
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de  encuestas
+P19	Control		Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas

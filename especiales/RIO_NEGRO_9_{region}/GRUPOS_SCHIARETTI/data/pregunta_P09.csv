@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Centro","Norte","Sur","Buenos Aires"
+"Tiene Decidido que va a ir a votar",0.851,0.831,0.869,0.768,0.961,0.875,0.7,0.808,0.884,0.853,0.818,0.807,0.826,0.907
+"Tiene dudas sobre si va a ir a  votar",0.077,0.064,0.089,0.09,0.026,0.085,0.155,0.063,0.061,0.113,0.079,0.126,0.02,0.063
+"Tiene Decidido que no va a ir a votar",0.072,0.105,0.042,0.142,0.013,0.04,0.145,0.129,0.055,0.034,0.103,0.067,0.154,0.03

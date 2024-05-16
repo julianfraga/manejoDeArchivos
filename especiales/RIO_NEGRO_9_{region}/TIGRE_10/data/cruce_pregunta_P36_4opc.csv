@@ -1,0 +1,139 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P07","Al candidato del Frente de Todos",0.642,0.44,0.135,0
+"P07","Al candidato de Juntos por el Cambio",0.113,0.186,0.459,0.071
+"P07","Al candidato de los liberales - libertarios",0.078,0,0.232,0
+"P07","Al candidato de la Izquierda",0.052,0.022,0.053,0
+"P07","A otro candidato",0.034,0.025,0.066,0.569
+"P07","No sabe",0.081,0.327,0.055,0.36
+"P08","A Julio Zamora por el Frente de Todos",0.501,0.585,0.12,0.341
+"P08","A Malena Galmarini por el Frente de Todos",0.198,0.058,0.07,0
+"P08","A Segundo Cernadas por Cambiemos",0.106,0.132,0.329,0.12
+"P08","A Nicolás Massot por Cambiemos",0.025,0.02,0.135,0
+"P08","Al candidato de los liberales libertarios",0.082,0.042,0.25,0
+"P08","A Paula Akerfeld por el Frente de Izquierda",0.054,0.044,0.031,0
+"P08","No sabe",0.034,0.119,0.065,0.539
+"P10","A Julio Zamora por el Frente de Todos",0.582,0.641,0.165,0.341
+"P10","A Segundo Cernadas por Cambiemos",0.133,0.027,0.378,0
+"P10","Al candidato de los liberales libertarios",0.114,0.02,0.288,0.12
+"P10","A Paula Akerfeld por el Frente de Izquierda",0.039,0.041,0.021,0
+"P10","No sabe",0.132,0.271,0.148,0.539
+"P12","A Malena Galmarini por el Frente de Todos",0.595,0.515,0.07,0.341
+"P12","A Segundo Cernadas por Cambiemos",0.104,0.066,0.503,0.071
+"P12","Al candidato de los liberales libertarios",0.055,0.022,0.269,0.048
+"P12","A Paula Akerfeld por el Frente de Izquierda",0.096,0.003,0.04,0
+"P12","No sabe",0.15,0.394,0.118,0.54
+"P14","Positiva",0.553,0.287,0.092,0.43
+"P14","Neutra",0.227,0.327,0.168,0.375
+"P14","Negativa",0.196,0.273,0.68,0.048
+"P14","No sabe",0.024,0.113,0.06,0.147
+"P15","Positiva",0.626,0.553,0.303,0
+"P15","Neutra",0.221,0.287,0.214,1
+"P15","Negativa",0.142,0.147,0.463,0
+"P15","No sabe",0.011,0.013,0.02,0
+"P16","Positiva",0.192,0.089,0.457,0.071
+"P16","Neutra",0.346,0.337,0.254,0.782
+"P16","Negativa",0.403,0.136,0.222,0
+"P16","No sabe",0.059,0.438,0.067,0.147
+"P17","Positiva",0.132,0.164,0.105,0
+"P17","Neutra",0.401,0.209,0.285,0.853
+"P17","Negativa",0.152,0.035,0.201,0
+"P17","No sabe",0.315,0.592,0.409,0.147
+"P18","Positiva",0.154,0.092,0.259,0
+"P18","Neutra",0.451,0.397,0.355,0.494
+"P18","Negativa",0.296,0.08,0.207,0
+"P18","No sabe",0.099,0.431,0.179,0.506
+"P19","Positiva",0.646,0.573,0.258,0.071
+"P19","Neutra",0.216,0.189,0.201,0.375
+"P19","Negativa",0.136,0.134,0.519,0.048
+"P19","No sabe",0.002,0.104,0.022,0.506
+"P20","Que continúe el intendente Julio Zamora",0.235,0.343,0.096,0
+"P20","Que continúe Julio Zamora pero con mejoras",0.401,0.423,0.166,0.749
+"P20","Que cambie Julio Zamora pero que se mantengan los avances",0.171,0.063,0.169,0.18
+"P20","Que cambie el intendente Julio Zamora",0.193,0.171,0.569,0.071
+"P21","Es kirchnerista",0.104,0.207,0.168,0
+"P21","Forma parte del Frente de Todos",0.36,0.159,0.201,0
+"P21","Es un hombre de Massa",0.214,0.231,0.154,0
+"P21","Es un peronista independiente de centro",0.149,0.17,0.119,0.071
+"P21","Es un oportunista y está donde le conviene",0.073,0.021,0.283,0.048
+"P21","No sabe",0.1,0.212,0.075,0.881
+"P22","Son lo mismo aunque estén en espacios politoca diferentes",0.138,0.058,0.206,0
+"P22","Son aliados tácticos pero lo ocultan",0.135,0.084,0.153,0.048
+"P22","Son adversarios políticos",0.481,0.407,0.403,0
+"P22","No sabe",0.246,0.451,0.238,0.952
+"P23","Son lo mismo, ambos son de Massa",0.178,0.172,0.296,0.048
+"P23","Son aliados en el Frente de Todos pero compiten",0.552,0.183,0.295,0
+"P23","Son enemigos porque Zamora traicionó a Massa",0.097,0.139,0.236,0
+"P23","No sabe",0.173,0.506,0.173,0.952
+"P24","La seguridad",0.289,0.29,0.308,0.048
+"P24","El tránsito",0.179,0.075,0.041,0
+"P24","El arreglo de las calles",0.11,0.167,0.069,0
+"P24","El estado de las escuelas y la educación",0.005,0.079,0.036,0
+"P24","El sistema de salud",0.061,0.015,0.073,0
+"P24","El deporte y la cultura",0.162,0.16,0.094,0.341
+"P24","La obra pública",0.054,0.016,0.014,0
+"P24","La luminaria",0.05,0,0.144,0
+"P24","No sabe",0.09,0.198,0.221,0.611
+"P25","La seguridad",0.187,0.159,0.118,0
+"P25","El tránsito",0.045,0.125,0.163,0.048
+"P25","El arreglo de las calles",0.257,0.05,0.262,0
+"P25","El estado de las escuelas y la educación",0.08,0.136,0.123,0.218
+"P25","El sistema de salud",0.251,0.065,0.185,0
+"P25","El deporte y la cultura",0.052,0.211,0.026,0.341
+"P25","La obra pública",0.009,0.048,0.04,0
+"P25","La luminaria",0.027,0,0.016,0
+"P25","No sabe",0.092,0.206,0.067,0.393
+"P26","Agua corriente y cloacas",0.353,0.44,0.453,0
+"P26","Energía eléctrica",0.148,0.106,0.119,0.341
+"P26","Red de gas natural",0.148,0.092,0.056,0.071
+"P26","Recolección de residuos",0.142,0.006,0.138,0.048
+"P26","Ninguno",0.209,0.356,0.234,0.54
+"P27","Los robos",0.248,0.398,0.264,0
+"P27","El narcotráfico",0.292,0.112,0.283,0.389
+"P27","La ausencia de patrulleros y personal policial",0.165,0.11,0.179,0.071
+"P27","Otro",0.182,0.022,0.154,0.393
+"P27","Ninguno",0.113,0.358,0.12,0.147
+"P28","Frente de Todos y el peronismo",0.69,0.524,0.075,0
+"P28","Cambiemos",0.081,0.069,0.443,0.071
+"P28","Liberales Libertarios",0.084,0.049,0.37,0.341
+"P28","Izquierda",0.056,0.05,0.043,0
+"P28","No sabe",0.089,0.308,0.069,0.588
+"P30","A Alberto Fernández",0.317,0.214,0.082,0
+"P30","A Sergio Massa",0.234,0.284,0.259,0
+"P30","A algún candidato del peronismo",0.218,0.451,0.526,1
+"P30","A algún candidato del kirchnerismo",0.231,0.051,0.133,0
+"P31","A Alberto Fernández",0.285,0.529,0.136,0
+"P31","A Sergio Massa",0.16,0.335,0.288,1
+"P31","A algún candidato del peronismo",0.145,0.136,0.524,0
+"P31","A Cristina Fernández de Kirchner",0.41,0,0.052,0
+"P32","A Horacio Rodriguez Larreta",0.222,0.211,0.281,0
+"P32","A Mauricio Macri",0.231,0.015,0.226,0
+"P32","A Patricia Bullrich",0.018,0.197,0.421,0
+"P32","A Facundo Manes",0.404,0.224,0.045,1
+"P32","A Gerardo Morales",0.125,0.353,0.027,0
+"P33","Seguro lo votaria",0.103,0.203,0.329,0
+"P33","Quizás lo votaría",0.225,0.231,0.23,0
+"P33","Nunca lo votaría",0.672,0.566,0.441,1
+"P34","Positiva",0.522,0.257,0.091,0.413
+"P34","Neutra",0.276,0.575,0.076,0
+"P34","Negativa",0.202,0.168,0.827,0.081
+"P34","No sabe",0,0,0.006,0.506
+"P35","Positiva",0.276,0,0.461,0.071
+"P35","Neutra",0.075,0.392,0.186,0.033
+"P35","Negativa",0.649,0.577,0.349,0.195
+"P35","No sabe",0,0.031,0.004,0.701
+"P37","Positiva",0.231,0.21,0.374,0.119
+"P37","Neutra",0.233,0.433,0.215,0.375
+"P37","Negativa",0.52,0.15,0.396,0
+"P37","No sabe",0.016,0.207,0.015,0.506
+"P38","Positiva",0.445,0.399,0.09,0.072
+"P38","Neutra",0.294,0.418,0.144,0.034
+"P38","Negativa",0.261,0.176,0.763,0.194
+"P38","No sabe",0,0.007,0.003,0.7
+"P39","Positiva",0.222,0.081,0.561,0.072
+"P39","Neutra",0.173,0.284,0.198,0.034
+"P39","Negativa",0.605,0.499,0.235,0.195
+"P39","No sabe",0,0.136,0.006,0.699
+"P40","Positiva",0.175,0.069,0.508,0
+"P40","Neutra",0.111,0.321,0.264,0.033
+"P40","Negativa",0.705,0.491,0.209,0.267
+"P40","No sabe",0.009,0.119,0.019,0.7

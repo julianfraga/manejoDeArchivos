@@ -1,0 +1,232 @@
+"var","categoria","No tengo cable ni internet","Si tuve","No tuve"
+"P12","Gran excedente habitual",0,0.033,0.067
+"P12","Gran excedente excepcional",0,0.003,0
+"P12","Pequeño excedente habitual",0,0.034,0.021
+"P12","Pequeño excedente excepcional",0.071,0.049,0.073
+"P12","Alcanza gastos familia",0.088,0.144,0.129
+"P12","No alcanza gastos familia",0.16,0.039,0.145
+"P12","Solo NBFamiliares",0.089,0.392,0.295
+"P12","No alcanza NBFamiliares",0.592,0.302,0.266
+"P12","No sabe",0,0.004,0.004
+"P13","Muy buena",0.257,0.083,0.133
+"P13","Buena",0.063,0.183,0.186
+"P13","Ni buena ni mala",0.293,0.235,0.274
+"P13","Mala",0.268,0.274,0.24
+"P13","Muy mala",0.119,0.222,0.113
+"P13","No sabe",0,0.003,0.054
+"P14","Muy buena",0.389,0.246,0.194
+"P14","Buena",0.074,0.168,0.21
+"P14","Ni buena ni mala",0.171,0.148,0.161
+"P14","Mala",0.168,0.172,0.167
+"P14","Muy mala",0.198,0.266,0.261
+"P14","No sabe",0,0,0.007
+"P16","Muy buena",0.327,0.204,0.138
+"P16","Buena",0.123,0.183,0.198
+"P16","Ni buena ni mala",0.19,0.212,0.289
+"P16","Mala",0.229,0.246,0.159
+"P16","Muy mala",0.131,0.148,0.179
+"P16","No sabe",0,0.007,0.037
+"P19","Muy buena",0.176,0.081,0.194
+"P19","Buena",0.181,0.199,0.108
+"P19","Ni buena ni mala",0.269,0.273,0.314
+"P19","Mala",0.276,0.236,0.21
+"P19","Muy mala",0.066,0.208,0.174
+"P19","No sabe",0.032,0.003,0
+"P20","Gobierno nacional",0.369,0.248,0.335
+"P20","Gobierno provincial",0.347,0.656,0.48
+"P20","No sabe",0.284,0.096,0.185
+"P21","El anterior gobierno de Arabela Carreras",0.147,0.313,0.324
+"P21","El actual gobierno de Alberto Weretilneck",0.7,0.606,0.551
+"P21","No sabe",0.153,0.081,0.125
+"P22","El anterior gobierno de Alberto Fernández",0.427,0.179,0.417
+"P22","El actual gobierno de Javier Milei",0.533,0.8,0.583
+"P22","No sabe",0.04,0.021,0
+"P23","Empleado sector publico",0.3,0.236,0.337
+"P23","Empleado sector privado",0.123,0.265,0.233
+"P23","Changas o trabajos eventuales",0.343,0.184,0.17
+"P23","Estudiante",0.04,0.026,0
+"P23","Amas de casa",0.069,0.084,0.034
+"P23","Profesional o independiente",0.041,0.096,0.105
+"P23","Comerciante, emprendedor o empresario",0.055,0.046,0.043
+"P23","Trabajador informal",0,0.009,0.017
+"P23","No tengo trabajo",0.029,0.054,0.061
+"P24","Muy de acuerdo",0.373,0.213,0.185
+"P24","De acuerdo",0.127,0.173,0.198
+"P24","Ni de acuerdo ni en desacuerdo",0.274,0.379,0.191
+"P24","En desacuerdo",0.103,0.112,0.23
+"P24","Muy en desacuerdo",0.123,0.101,0.067
+"P24","No sabe",0,0.022,0.129
+"P25","Muy de acuerdo",0.317,0.097,0.196
+"P25","De acuerdo",0.042,0.13,0.165
+"P25","Ni de acuerdo ni en desacuerdo",0.159,0.199,0.1
+"P25","En desacuerdo",0.312,0.395,0.392
+"P25","Muy en desacuerdo",0.116,0.177,0.147
+"P25","No sabe",0.054,0.002,0
+"P26","Si",0.646,0.702,0.816
+"P26","No",0.354,0.298,0.184
+"P27","Muy de acuerdo",0.408,0.204,0.249
+"P27","De acuerdo",0.077,0.197,0.208
+"P27","Ni de acuerdo ni en desacuerdo",0.258,0.203,0.197
+"P27","En desacuerdo",0.201,0.232,0.223
+"P27","Muy en desacuerdo",0.056,0.163,0.104
+"P27","No sabe",0,0.001,0.019
+"P28","Si",0.686,0.731,0.749
+"P28","No",0.314,0.269,0.251
+"P29","Muy de acuerdo",0.476,0.262,0.293
+"P29","De acuerdo",0.113,0.148,0.181
+"P29","Ni de acuerdo ni en desacuerdo",0.132,0.234,0.131
+"P29","En desacuerdo",0.183,0.206,0.26
+"P29","Muy en desacuerdo",0.089,0.139,0.123
+"P29","No sabe",0.007,0.011,0.012
+"P30","No estaba enterado",0.469,0.217,0.187
+"P30","De acuerdo",0.247,0.418,0.366
+"P30","En desacuerdo",0.23,0.283,0.358
+"P30","No sabe",0.054,0.082,0.089
+"P33","1-Excelente",0.216,0.174,0.149
+"P33","2",0.166,0.101,0.077
+"P33","3",0.013,0.038,0.028
+"P33","4",0.068,0.033,0.083
+"P33","5",0.127,0.172,0.218
+"P33","6",0.003,0.069,0.05
+"P33","7",0.008,0.065,0.024
+"P33","8",0.053,0.066,0.05
+"P33","9-Pésimo",0.295,0.24,0.261
+"P33","No sabe",0.051,0.042,0.06
+"P34","1-Excelente",0.152,0.176,0.138
+"P34","2",0.158,0.081,0.054
+"P34","3",0.064,0.092,0.039
+"P34","4",0.075,0.065,0.107
+"P34","5",0.095,0.09,0.188
+"P34","6",0.009,0.038,0.041
+"P34","7",0.03,0.048,0.036
+"P34","8",0.027,0.075,0.055
+"P34","9-Pésimo",0.323,0.289,0.3
+"P34","No sabe",0.067,0.046,0.042
+"P35","1-Excelente",0.228,0.2,0.128
+"P35","2",0.107,0.066,0.05
+"P35","3",0.034,0.077,0.047
+"P35","4",0.087,0.028,0.1
+"P35","5",0.118,0.15,0.188
+"P35","6",0,0.056,0.064
+"P35","7",0.011,0.087,0.049
+"P35","8",0.046,0.066,0.045
+"P35","9-Pésimo",0.314,0.232,0.293
+"P35","No sabe",0.055,0.038,0.036
+"P36","1-Excelente",0.154,0.131,0.118
+"P36","2",0.093,0.08,0.044
+"P36","3",0.101,0.094,0.079
+"P36","4",0.074,0.043,0.085
+"P36","5",0.148,0.144,0.219
+"P36","6",0.011,0.054,0.023
+"P36","7",0.02,0.11,0.038
+"P36","8",0.033,0.1,0.045
+"P36","9-Pésimo",0.307,0.196,0.282
+"P36","No sabe",0.059,0.048,0.067
+"P37","Oponerse totalmente y elevar un recurso de amparo ante la corte",0.364,0.437,0.421
+"P37","Oponerse y tratar de negociar con el gobierno nacional a cambio de apoyo legislativo en otros temas",0.163,0.175,0.186
+"P37","Apoyar las iniciativas del gobierno nacional y así no tener problemas con la participación",0.12,0.177,0.176
+"P37","Apoyar totalmente la iniciativa del gobierno nacional porque es lo que votó la mayoría del pueblo argentino",0.285,0.18,0.182
+"P37","No sabe",0.068,0.031,0.035
+"P38","Oponerse totalmente y no concurrir a la convocatoria",0.362,0.35,0.367
+"P38","Oponerse parcialmente y concurrir a la convocatoria",0.108,0.178,0.229
+"P38","Apoyar la iniciativa del gobierno nacional y negociar otros temas en discusión",0.176,0.265,0.196
+"P38","Apoyar totalmente la iniciativa del gobierno nacional",0.323,0.179,0.172
+"P38","No sabe",0.031,0.028,0.036
+"P39","Oponerse totalmente",0.348,0.39,0.363
+"P39","Oponerse parcialmente",0.113,0.064,0.137
+"P39","Apoyar parcialmente",0.207,0.319,0.267
+"P39","Apoyar totalmente",0.281,0.192,0.209
+"P39","No sabe",0.051,0.035,0.024
+"P40","Inseguridad y narcotráfico",0.26,0.269,0.189
+"P40","Altos impuestos y tarifas",0.189,0.212,0.155
+"P40","Educación y estado de las escuelas",0.165,0.228,0.243
+"P40","Inflación",0.295,0.156,0.218
+"P40","Estado de la salud",0.014,0.089,0.095
+"P40","Corrupción",0.02,0.012,0.04
+"P40","Pobreza",0.012,0.026,0.011
+"P40","Medio ambiente, incendios y contaminación",0,0.003,0
+"P40","Falta de trabajo",0.014,0.005,0.049
+"P40","No sabe",0.031,0,0
+"P44","Muy buena",0.091,0.031,0.017
+"P44","Buena",0.128,0.065,0.085
+"P44","Ni buena ni mala",0.233,0.307,0.265
+"P44","Mala",0.332,0.414,0.443
+"P44","Muy mala",0.196,0.178,0.18
+"P44","No sabe",0.02,0.005,0.01
+"P45","Peor",0.567,0.586,0.432
+"P45","Igual",0.135,0.222,0.3
+"P45","Mejor",0.133,0.074,0.105
+"P45","No sabe",0.165,0.118,0.163
+"P46","Peor",0.473,0.6,0.498
+"P46","Igual",0.242,0.249,0.216
+"P46","Mejor",0.176,0.065,0.171
+"P46","No sabe",0.109,0.086,0.115
+"P47","Javier Milei",0.444,0.428,0.361
+"P47","Los gobernadores",0.46,0.475,0.489
+"P47","No sabe",0.096,0.097,0.15
+"P48","Muy buena",0.207,0.081,0.102
+"P48","Buena",0.128,0.172,0.276
+"P48","Ni buena ni mala",0.196,0.236,0.229
+"P48","Mala",0.227,0.316,0.255
+"P48","Muy mala",0.222,0.193,0.138
+"P48","No sabe",0.02,0.002,0
+"P50","Muy buena",0.215,0.175,0.075
+"P50","Buena",0.123,0.227,0.212
+"P50","Ni buena ni mala",0.113,0.153,0.243
+"P50","Mala",0.313,0.284,0.32
+"P50","Muy mala",0.216,0.154,0.146
+"P50","No sabe",0.02,0.007,0.004
+"P51","Muy buena",0.258,0.073,0.085
+"P51","Buena",0.028,0.191,0.166
+"P51","Ni buena ni mala",0.365,0.355,0.307
+"P51","Mala",0.096,0.175,0.286
+"P51","Muy mala",0.224,0.159,0.098
+"P51","No sabe",0.029,0.047,0.058
+"P54","Muy buena",0.21,0.207,0.174
+"P54","Buena",0.009,0.081,0.155
+"P54","Ni buena ni mala",0.056,0.114,0.106
+"P54","Mala",0.425,0.183,0.22
+"P54","Muy mala",0.259,0.411,0.312
+"P54","No sabe",0.041,0.004,0.033
+"P55","Muy buena",0.183,0.097,0.104
+"P55","Buena",0.019,0.153,0.195
+"P55","Ni buena ni mala",0.112,0.157,0.171
+"P55","Mala",0.352,0.18,0.155
+"P55","Muy mala",0.313,0.409,0.371
+"P55","No sabe",0.021,0.004,0.004
+"P56","Muy buena",0.179,0.071,0.135
+"P56","Buena",0.018,0.157,0.158
+"P56","Ni buena ni mala",0.198,0.162,0.171
+"P56","Mala",0.317,0.109,0.138
+"P56","Muy mala",0.267,0.501,0.394
+"P56","No sabe",0.021,0,0.004
+"P57","Muy buena",0.24,0.243,0.21
+"P57","Buena",0.039,0.172,0.253
+"P57","Ni buena ni mala",0.104,0.058,0.049
+"P57","Mala",0.304,0.108,0.187
+"P57","Muy mala",0.292,0.415,0.283
+"P57","No sabe",0.021,0.004,0.018
+"P58","Muy buena",0.427,0.383,0.149
+"P58","Buena",0.063,0.092,0.284
+"P58","Ni buena ni mala",0.054,0.068,0.049
+"P58","Mala",0.098,0.127,0.089
+"P58","Muy mala",0.337,0.329,0.411
+"P58","No sabe",0.021,0.001,0.018
+"P59","Muy buena",0.353,0.24,0.151
+"P59","Buena",0.124,0.259,0.177
+"P59","Ni buena ni mala",0.024,0.031,0.084
+"P59","Mala",0.127,0.116,0.087
+"P59","Muy mala",0.351,0.354,0.487
+"P59","No sabe",0.021,0,0.014
+"P60","Muy buena",0.462,0.357,0.215
+"P60","Buena",0.048,0.139,0.128
+"P60","Ni buena ni mala",0.045,0.099,0.117
+"P60","Mala",0.102,0.096,0.136
+"P60","Muy mala",0.291,0.301,0.39
+"P60","No sabe",0.052,0.008,0.014
+"P61","Muy buena",0.194,0.03,0.012
+"P61","Buena",0.086,0.134,0.154
+"P61","Ni buena ni mala",0.294,0.426,0.431
+"P61","Mala",0.122,0.163,0.139
+"P61","Muy mala",0.247,0.205,0.192
+"P61","No sabe",0.057,0.042,0.072

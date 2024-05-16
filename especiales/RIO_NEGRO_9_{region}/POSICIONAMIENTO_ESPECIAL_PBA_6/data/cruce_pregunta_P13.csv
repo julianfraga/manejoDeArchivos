@@ -1,0 +1,259 @@
+"var","categoria","Unión por la Patria","Juntos por el Cambio ","Liberales","Izquierda","Hacemos por Nuestro país","No sabe"
+"P06","Mucho",0.562,0.413,0.462,0.445,0.338,0.197
+"P06","Bastante",0.309,0.383,0.353,0.328,0.302,0.355
+"P06","Poco",0.105,0.163,0.136,0.152,0.236,0.253
+"P06","Nada",0.016,0.033,0.039,0.075,0.092,0.176
+"P06","No sabe",0.008,0.008,0.01,0,0.032,0.019
+"P07","Siempre",0.286,0.269,0.253,0.212,0.26,0.161
+"P07","Casi siempre",0.432,0.446,0.365,0.341,0.362,0.354
+"P07","Casi nunca",0.235,0.208,0.286,0.33,0.261,0.32
+"P07","Nunca, pero esta es una excepción",0.047,0.077,0.096,0.117,0.117,0.165
+"P09","Gran excedente habitual",0.018,0.003,0.012,0.029,0.016,0.021
+"P09","Gran excedente excepcional",0.011,0.005,0.005,0.01,0.021,0.004
+"P09","Pequeño excedente habitual",0.107,0.049,0.052,0.034,0.022,0.019
+"P09","Pequeño excedente excepcional",0.165,0.103,0.107,0.085,0.15,0.105
+"P09","Alcanza gastos familia",0.115,0.114,0.114,0.106,0.077,0.09
+"P09","No alcanza gastos familia",0.061,0.067,0.072,0.082,0.118,0.189
+"P09","Solo NBFamiliares",0.266,0.295,0.288,0.282,0.19,0.19
+"P09","No alcanza NBFamiliares",0.25,0.362,0.344,0.372,0.39,0.382
+"P09","No sabe",0.007,0.002,0.006,0,0.016,0
+"P10","Tiene Decidido que va a ir a votar",0.943,0.903,0.903,0.793,0.871,0.651
+"P10","Tiene dudas sobre si va a ir a  votar",0.045,0.07,0.08,0.127,0.082,0.266
+"P10","Tiene Decidido que no va a ir a votar",0.012,0.027,0.017,0.08,0.047,0.083
+"P18","Sergio Massa presidente, Agustín Rossi vicepresidente y Axel Kicillof gobernador, Verónica Magario vicegobernadora; por Unión por la Patria",0.874,0.079,0.058,0.236,0.159,0.194
+"P18","Patricia Bullrich presidenta, Luis Petri vicepresidente y Néstor Grindetti gobernador, Miguel Fernández vicegobernador; por Juntos por el Cambio",0.047,0.833,0.274,0.17,0.096,0.11
+"P18","Javier Milei Presidente, Victoria Villarruel Vicepresidenta y Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.067,0.055,0.65,0.101,0.45,0.124
+"P18","Juan Schiaretti a presidente, Florencio Randazzo vicepresidente por Hacemos por Nuestro País",0.001,0.008,0.002,0.135,0.058,0.026
+"P18","Myriam Bregman a presidente, Nicolas del Caño a vicepresidente, Rubén Sobrero a gobernador y Natalia González por el Frente de Izquierda",0,0.009,0.006,0.281,0.116,0.041
+"P18","En blanco",0.005,0.004,0.003,0.011,0.06,0.281
+"P18","No sabe",0.006,0.012,0.007,0.066,0.061,0.224
+"P21","Totalmente seguro",0.804,0.749,0.675,0.499,0.328,0.268
+"P21","Bastante seguro",0.107,0.142,0.171,0.235,0.278,0.073
+"P21","Algo seguro",0.067,0.087,0.122,0.125,0.262,0.163
+"P21","Para nada seguro",0.022,0.022,0.032,0.141,0.132,0.496
+"P32","Patricia Bullrich a presidente, Luis Petri a vicepresidente, Néstor Grindetti a gobernador y Miguel Fernández a vicegobernador por Juntos por el Cambio",0.072,0.324,0.434,0,0.081,0.233
+"P32","Javier Milei a presidente, Victoria Villarruel a vicepresidente, Carolina Piparo a gobernadora y Francisco Otero a vicegobernador por la Libertad Avanza",0.065,0.162,0.284,0,0.197,0.031
+"P32","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro País",0.251,0.272,0.232,0.06,0.226,0.293
+"P32","Myriam Bregman a presidente, Nicolas del Caño a vicepresidente, Rubén Sobrero a gobernador y Natalia González a vicegobernadora por el Frente de Izquierda",0.251,0.095,0,0.218,0.118,0.042
+"P32","En blanco",0.232,0.064,0.019,0.517,0.11,0.076
+"P32","No sabe",0.129,0.083,0.031,0.205,0.268,0.325
+"P33","Sergio Massa a presidente, Agustín Rossi a vicepresidente, Axel Kicillof a gobernador y Verónica Magario a vicegobernadora por Unión por la Patria",0.584,0.046,0.135,0.286,0.019,0.122
+"P33","Javier Milei a presidente, Victoria Villarruel a vicepresidente, Carolina Piparo a gobernadora y Francisco Otero a vicegobernador por la Libertad Avanza",0.225,0.371,0.457,0.332,0.594,0.069
+"P33","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro País",0.124,0.159,0.089,0.173,0.285,0.102
+"P33","Myriam Bregman a presidente, Nicolas del Caño a vicepresidente, Rubén Sobrero a gobernador y Natalia González a vicegobernadora por el Frente de Izquierda",0.055,0.007,0.008,0.041,0,0.184
+"P33","En blanco",0.012,0.278,0.127,0.132,0.102,0.058
+"P33","No sabe",0,0.139,0.184,0.036,0,0.465
+"P34","Sergio Massa a presidente, Agustín Rossi a vicepresidente, Axel Kicillof a gobernador y Verónica Magario a vicegobernadora por Unión por la Patria",0.565,0.257,0.112,0,0.048,0.083
+"P34","Patricia Bullrich a presidente, Luis Petri a vicepresidente, Néstor Grindetti a gobernador y Miguel Fernández a vicegobernador por Juntos por el Cambio",0.268,0.524,0.418,0.323,0.48,0.529
+"P34","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro País",0.115,0.096,0.128,0.176,0.138,0.091
+"P34","Myriam Bregman a presidente, Nicolas del Caño a vicepresidente, Rubén Sobrero a gobernador y Natalia González a vicegobernadora por el Frente de Izquierda",0.006,0.026,0.026,0.123,0.045,0.182
+"P34","En blanco",0.023,0.048,0.225,0.21,0.263,0.037
+"P34","No sabe",0.023,0.049,0.091,0.168,0.026,0.078
+"P36","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.11,0.524,0.672,0.311,0.39,0.376
+"P36","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.12,0.289,0.165,0.148,0.199,0.168
+"P36","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.494,0.097,0.055,0.179,0.167,0.113
+"P36","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.161,0.025,0.025,0.101,0.133,0.107
+"P36","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.071,0.022,0.029,0.212,0.053,0.029
+"P36","No sabe",0.044,0.043,0.054,0.049,0.058,0.207
+"P37","Sergio Massa a presidente y Agustín Rossi a vicepresidente por Unión por la Patria",0.886,0.097,0.109,0.382,0.198,0.245
+"P37","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.026,0.861,0.544,0.182,0.377,0.26
+"P37","En blanco",0.063,0.023,0.255,0.179,0.252,0.137
+"P37","No sabe",0.025,0.019,0.092,0.257,0.173,0.358
+"P38","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.183,0.858,0.21,0.192,0.093,0.226
+"P38","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.056,0.076,0.712,0.196,0.611,0.13
+"P38","En blanco",0.52,0.046,0.062,0.316,0.168,0.17
+"P38","No sabe",0.241,0.02,0.016,0.296,0.128,0.474
+"P39","Sergio Massa a presidente y Agustín Rossi a vicepresidente por Unión por la Patria",0.896,0.126,0.074,0.361,0.155,0.301
+"P39","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.025,0.404,0.787,0.21,0.574,0.189
+"P39","En blanco",0.047,0.304,0.081,0.206,0.162,0.103
+"P39","No sabe",0.032,0.166,0.058,0.223,0.109,0.407
+"P45","Lo votaría",0.919,0.061,0.077,0.332,0.143,0.245
+"P45","Puede que lo vote",0.021,0.076,0.142,0.128,0.27,0.148
+"P45","Nunca lo votaría",0.042,0.847,0.734,0.374,0.479,0.402
+"P45","No sabe",0.018,0.016,0.047,0.166,0.108,0.205
+"P46","Lo votaría",0.128,0.807,0.247,0.155,0.094,0.092
+"P46","Puede que lo vote",0.047,0.059,0.277,0.136,0.291,0.285
+"P46","Nunca lo votaría",0.781,0.104,0.441,0.614,0.532,0.355
+"P46","No sabe",0.044,0.03,0.035,0.095,0.083,0.268
+"P47","Lo votaría",0.024,0.133,0.695,0.162,0.335,0.123
+"P47","Puede que lo vote",0.057,0.305,0.118,0.144,0.235,0.134
+"P47","Nunca lo votaría",0.877,0.499,0.153,0.662,0.352,0.474
+"P47","No sabe",0.042,0.063,0.034,0.032,0.078,0.269
+"P48","Lo votaría",0.175,0.032,0.13,0.371,0.116,0.058
+"P48","Puede que lo vote",0.362,0.237,0.244,0.299,0.31,0.309
+"P48","Nunca lo votaría",0.388,0.698,0.598,0.272,0.467,0.382
+"P48","No sabe",0.075,0.033,0.028,0.058,0.107,0.251
+"P49","Lo votaría",0.114,0.07,0.038,0.117,0.13,0.115
+"P49","Puede que lo vote",0.271,0.281,0.289,0.219,0.277,0.243
+"P49","Nunca lo votaría",0.54,0.577,0.615,0.59,0.459,0.334
+"P49","No sabe",0.075,0.072,0.058,0.074,0.134,0.308
+"P50","Si",0.334,0.533,0.491,0.7,0.441,0.572
+"P50","No",0.666,0.467,0.509,0.3,0.559,0.428
+"P51","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria. ",0.684,0.278,0.071,0.137,0.167,0.202
+"P51","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.068,0.403,0.081,0.343,0.029,0.222
+"P51","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.081,0.291,0.789,0.104,0.602,0.334
+"P51","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro País",0.138,0.018,0.055,0.146,0.056,0.114
+"P51","Myriam Bregman a presidente y Nicolás del Caño a vicepresidente por el Frente de Izquierda",0.005,0.002,0.003,0.119,0.046,0.04
+"P51","En blanco",0.011,0.003,0.001,0.008,0.087,0.036
+"P51","No sabe",0.013,0.005,0,0.143,0.013,0.052
+"P52","Axel Kicillof gobernador, Verónica Magario vicegobernadora; por Unión por la Patria",0.744,0.332,0.374,0.213,0.219,0.325
+"P52","Néstor Grindetti gobernador, Miguel Fernández vicegobernador; por Juntos por el Cambio",0.085,0.569,0.416,0.441,0.217,0.335
+"P52","Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.003,0.035,0.102,0.016,0.44,0.071
+"P52","Rubén Sobrero a gobernador y Natalia González a vicegobernadora por el Frente de Izquierda.",0.123,0.013,0.048,0.169,0.056,0.112
+"P52","En blanco",0.014,0.008,0.003,0.095,0.01,0.063
+"P52","No sabe",0.031,0.043,0.057,0.066,0.058,0.094
+"P53","Sergio Massa y Javier Milei",0.743,0.118,0.456,0.675,0.438,0.452
+"P53","Patricia Bullrich y Javier Milei",0.141,0.784,0.518,0.235,0.448,0.419
+"P53","Sergio Massa y Patricia Bullrich",0.116,0.098,0.026,0.09,0.114,0.129
+"P54","Muy buena",0.073,0.012,0.068,0.025,0.036,0.032
+"P54","Buena",0.177,0.057,0.045,0.136,0.09,0.023
+"P54","Regular",0.479,0.027,0.05,0.171,0.159,0.161
+"P54","Mala",0.205,0.29,0.203,0.228,0.178,0.346
+"P54","Muy mala",0.066,0.614,0.634,0.44,0.537,0.438
+"P55","Muy buena",0.124,0.02,0.009,0.083,0.034,0.025
+"P55","Buena",0.314,0.017,0.022,0.077,0.013,0.052
+"P55","Regular",0.374,0.038,0.053,0.183,0.197,0.137
+"P55","Mala",0.145,0.232,0.175,0.279,0.096,0.242
+"P55","Muy mala",0.043,0.693,0.741,0.378,0.66,0.544
+"P56","Muy buena",0.257,0.02,0.103,0.086,0.09,0.047
+"P56","Buena",0.426,0.122,0.164,0.092,0.09,0.127
+"P56","Regular",0.235,0.423,0.372,0.316,0.504,0.373
+"P56","Mala",0.061,0.31,0.156,0.309,0.174,0.262
+"P56","Muy mala",0.021,0.125,0.205,0.197,0.142,0.191
+"P57","Muy buena",0.084,0.012,0.032,0.021,0.043,0.002
+"P57","Buena",0.364,0.118,0.064,0.096,0.093,0.057
+"P57","Regular",0.416,0.446,0.459,0.342,0.467,0.504
+"P57","Mala",0.118,0.279,0.241,0.362,0.233,0.271
+"P57","Muy mala",0.018,0.145,0.204,0.179,0.164,0.166
+"P58","Muy buena",0.145,0.021,0.025,0.071,0.048,0.005
+"P58","Buena",0.354,0.067,0.057,0.154,0.145,0.158
+"P58","Regular",0.363,0.277,0.269,0.381,0.279,0.346
+"P58","Mala",0.11,0.337,0.33,0.237,0.275,0.298
+"P58","Muy mala",0.028,0.298,0.319,0.157,0.253,0.193
+"P59","Muy buena",0.196,0.024,0.093,0.043,0.071,0.051
+"P59","Buena",0.472,0.169,0.192,0.272,0.271,0.12
+"P59","Regular",0.278,0.5,0.436,0.377,0.38,0.468
+"P59","Mala",0.042,0.221,0.161,0.191,0.156,0.224
+"P59","Muy mala",0.012,0.086,0.118,0.117,0.122,0.137
+"P60","Ha aumentado significativamente",0.137,0.011,0.026,0.053,0.119,0.035
+"P60","Ha aumentado ligeramente",0.308,0.111,0.163,0.246,0.108,0.105
+"P60","Se mantiene igual",0.349,0.267,0.229,0.188,0.326,0.286
+"P60","Ha disminuido ligeramente",0.142,0.262,0.242,0.238,0.071,0.227
+"P60","Ha disminuido significativamente",0.064,0.349,0.34,0.275,0.376,0.347
+"P61","Muy baja",0.046,0.024,0.046,0.079,0.141,0.041
+"P61","Baja",0.092,0.068,0.018,0.051,0.102,0.028
+"P61","Moderada",0.158,0.022,0.06,0.083,0.153,0.1
+"P61","Alta",0.45,0.167,0.163,0.199,0.061,0.164
+"P61","Muy alta",0.254,0.719,0.713,0.588,0.543,0.667
+"P62","Muy bajas",0.026,0.049,0.104,0.003,0.057,0.002
+"P62","Bajas",0.087,0.109,0.094,0.098,0.063,0.057
+"P62","Adecuadas",0.385,0.25,0.181,0.088,0.176,0.202
+"P62","Altas",0.352,0.293,0.296,0.433,0.189,0.452
+"P62","Muy altas",0.15,0.299,0.325,0.378,0.515,0.287
+"P63","No, ninguna dificultad",0.443,0.212,0.21,0.28,0.175,0.215
+"P63","Alguna dificultad ocasional",0.3,0.388,0.311,0.242,0.246,0.253
+"P63","Sí, dificultades frecuentes",0.257,0.4,0.479,0.478,0.579,0.532
+"P64","Sí, absolutamente",0.763,0.219,0.207,0.447,0.329,0.37
+"P64","Sí, en cierta medida",0.201,0.444,0.316,0.439,0.256,0.371
+"P64","No, en absoluto",0.036,0.337,0.477,0.114,0.415,0.259
+"P65","Reducir la inflación",0.549,0.409,0.343,0.49,0.388,0.321
+"P65","Implementar reformas fiscales",0.108,0.104,0.099,0.162,0.085,0.087
+"P65","Establecer políticas de control de precios",0.226,0.044,0.08,0.115,0.223,0.134
+"P65","Reducir el gasto público",0.04,0.379,0.443,0.104,0.292,0.325
+"P65","Estimular la inversión extranjera",0.065,0.062,0.024,0.053,0.012,0.078
+"P65","Aumentar los subsidios a los servicios públicos",0.012,0.002,0.011,0.076,0,0.055
+"P66","Fomentar la competencia entre proveedores",0.203,0.374,0.541,0.276,0.408,0.333
+"P66","Incrementar la inversión en infraestructura",0.195,0.275,0.155,0.185,0.075,0.216
+"P66","Implementar políticas de subsidios focalizados en grupos vulnerables",0.255,0.08,0.075,0.137,0.078,0.203
+"P66","Realizar auditorías periódicas a las empresas de servicios públicos",0.347,0.271,0.229,0.402,0.439,0.248
+"P67","Muy positiva",0.436,0.106,0.193,0.215,0.161,0.147
+"P67","Positiva",0.3,0.119,0.154,0.336,0.161,0.178
+"P67","Neutral",0.146,0.339,0.315,0.308,0.314,0.36
+"P67","Algo negativa",0.061,0.137,0.096,0.068,0.13,0.089
+"P67","Negativa",0.005,0.207,0.164,0.031,0.068,0.067
+"P67","No sabe",0.052,0.092,0.078,0.042,0.166,0.159
+"P68","Muy positivo",0.376,0.021,0.04,0.146,0.063,0.156
+"P68","Positivo",0.343,0.115,0.138,0.299,0.153,0.051
+"P68","Neutral",0.178,0.384,0.382,0.288,0.365,0.457
+"P68","Algo negativo",0.02,0.164,0.141,0.07,0.107,0.062
+"P68","Negativo",0.008,0.193,0.21,0.073,0.061,0.061
+"P68","No sabe",0.075,0.123,0.089,0.124,0.251,0.213
+"P69","Muy positivo",0.28,0.023,0.034,0.125,0.043,0.075
+"P69","Positivo",0.284,0.071,0.08,0.228,0.124,0.071
+"P69","Neutral",0.311,0.514,0.505,0.364,0.455,0.539
+"P69","Algo negativo",0.011,0.126,0.123,0.054,0.106,0.09
+"P69","Negativo",0.008,0.129,0.17,0.062,0.074,0.027
+"P69","No sabe",0.106,0.137,0.088,0.167,0.198,0.198
+"P70","Muy positiva",0.691,0.103,0.111,0.476,0.296,0.138
+"P70","Positiva",0.219,0.216,0.171,0.256,0.303,0.194
+"P70","Neutral",0.052,0.333,0.33,0.114,0.236,0.352
+"P70","Algo negativa",0.006,0.157,0.151,0.062,0.01,0.166
+"P70","Negativa",0.013,0.149,0.185,0.025,0.117,0.102
+"P70","No sabe",0.019,0.042,0.052,0.067,0.038,0.048
+"P71","Muy positivo",0.695,0.075,0.1,0.274,0.294,0.119
+"P71","Positivo",0.225,0.174,0.204,0.291,0.326,0.118
+"P71","Neutral",0.054,0.351,0.301,0.141,0.237,0.389
+"P71","Algo negativo",0.01,0.17,0.168,0.083,0.008,0.152
+"P71","Negativo",0.003,0.195,0.188,0.114,0.101,0.127
+"P71","No sabe",0.013,0.035,0.039,0.097,0.034,0.095
+"P72","Muy positivo",0.641,0.095,0.091,0.209,0.29,0.136
+"P72","Positivo",0.228,0.208,0.236,0.35,0.244,0.221
+"P72","Neutral",0.107,0.401,0.352,0.341,0.298,0.425
+"P72","Algo negativo",0.004,0.108,0.094,0.06,0.002,0.045
+"P72","Negativo",0.008,0.148,0.194,0.034,0.08,0.088
+"P72","No sabe",0.012,0.04,0.033,0.006,0.086,0.085
+"P73","Muy positiva",0.519,0.039,0.039,0.14,0.239,0.033
+"P73","Positiva",0.34,0.156,0.165,0.419,0.116,0.1
+"P73","Neutral",0.092,0.286,0.336,0.295,0.268,0.446
+"P73","Algo negativa",0.013,0.174,0.153,0.052,0.067,0.155
+"P73","Negativa",0.008,0.257,0.264,0.04,0.154,0.159
+"P73","No sabe",0.028,0.088,0.043,0.054,0.156,0.107
+"P74","Muy positivo",0.452,0.022,0.053,0.146,0.133,0.028
+"P74","Positivo",0.364,0.141,0.128,0.425,0.114,0.163
+"P74","Neutral",0.135,0.277,0.348,0.251,0.307,0.463
+"P74","Algo negativo",0.014,0.206,0.164,0.066,0.071,0.125
+"P74","Negativo",0.002,0.261,0.26,0.073,0.2,0.069
+"P74","No sabe",0.033,0.093,0.047,0.039,0.175,0.152
+"P75","Muy positivo",0.379,0.038,0.053,0.156,0.128,0.05
+"P75","Positivo",0.337,0.116,0.073,0.377,0.155,0.183
+"P75","Neutral",0.222,0.346,0.475,0.3,0.328,0.482
+"P75","Algo negativo",0.015,0.165,0.11,0.065,0.065,0.078
+"P75","Negativo",0.008,0.204,0.231,0.069,0.163,0.095
+"P75","No sabe",0.039,0.131,0.058,0.033,0.161,0.112
+"P76","Muy positiva",0.648,0.129,0.232,0.38,0.323,0.309
+"P76","Positiva",0.239,0.195,0.181,0.126,0.172,0.24
+"P76","Neutral",0.079,0.213,0.306,0.354,0.292,0.245
+"P76","Algo negativa",0.007,0.14,0.087,0.079,0.003,0.044
+"P76","Negativa",0.01,0.228,0.152,0.047,0.198,0.048
+"P76","No sabe",0.017,0.095,0.042,0.014,0.012,0.114
+"P77","Muy positivo",0.624,0.094,0.267,0.283,0.378,0.371
+"P77","Positivo",0.268,0.201,0.209,0.121,0.277,0.178
+"P77","Neutral",0.078,0.236,0.275,0.188,0.194,0.219
+"P77","Algo negativo",0.018,0.182,0.091,0.252,0.011,0.036
+"P77","Negativo",0.004,0.233,0.122,0.045,0.132,0.076
+"P77","No sabe",0.008,0.054,0.036,0.111,0.008,0.12
+"P78","Muy positivo",0.536,0.096,0.234,0.166,0.349,0.336
+"P78","Positivo",0.24,0.183,0.199,0.269,0.295,0.123
+"P78","Neutral",0.196,0.34,0.326,0.387,0.171,0.379
+"P78","Algo negativo",0.008,0.109,0.075,0.14,0.01,0.008
+"P78","Negativo",0.007,0.171,0.12,0.028,0.133,0.018
+"P78","No sabe",0.013,0.101,0.046,0.01,0.042,0.136
+"P79","Si",0.605,0.515,0.543,0.511,0.676,0.535
+"P79","No",0.395,0.485,0.457,0.489,0.324,0.465
+"PRESIDENTE","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria. ",0.828,0.153,0.067,0.203,0.168,0.188
+"PRESIDENTE","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.051,0.665,0.219,0.274,0.09,0.103
+"PRESIDENTE","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.07,0.137,0.691,0.115,0.483,0.204
+"PRESIDENTE","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro País",0.034,0.011,0.019,0.164,0.029,0.044
+"PRESIDENTE","Myriam Bregman a presidente y Nicolás del Caño a vicepresidente por el Frente de Izquierda",0.002,0.01,0.002,0.148,0.128,0.036
+"PRESIDENTE","En blanco",0.007,0.006,0.001,0.007,0.051,0.225
+"PRESIDENTE","No sabe",0.008,0.018,0.001,0.089,0.051,0.2
+"GOBERNADOR","Axel Kicillof gobernador, Verónica Magario vicegobernadora; por Unión por la Patria",0.845,0.167,0.163,0.264,0.181,0.24
+"GOBERNADOR","Néstor Grindetti gobernador, Miguel Fernández vicegobernador; por Juntos por el Cambio",0.056,0.738,0.343,0.312,0.131,0.151
+"GOBERNADOR","Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.05,0.052,0.457,0.096,0.474,0.128
+"GOBERNADOR","Rubén Sobrero a gobernador y Natalia González a vicegobernadora por el Frente de Izquierda.",0.029,0.013,0.016,0.185,0.11,0.06
+"GOBERNADOR","En blanco",0.006,0.008,0.002,0.069,0.043,0.232
+"GOBERNADOR","No sabe",0.014,0.022,0.019,0.074,0.061,0.189
+"CORTA_PRESIDENTE","Si",0.115,0.262,0.247,0.464,0.217,0.382
+"CORTA_PRESIDENTE","No",0.885,0.738,0.753,0.536,0.783,0.618
+"CORTA_GOBERNADOR","Si",0.101,0.201,0.382,0.425,0.306,0.389
+"CORTA_GOBERNADOR","No",0.899,0.799,0.618,0.575,0.694,0.611

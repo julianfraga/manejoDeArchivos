@@ -1,0 +1,39 @@
+from especiales.src.Encuesta import Encuesta
+
+##  Generar encuesta y cuestionario
+path='./especiales/TRACKING_NACIONAL/'
+encuesta = Encuesta('TRACKING_NACIONAL', './especiales/TRACKING_NACIONAL','cuestionario', ["P76","P75", "P77","P07"])
+
+if encuesta.preguntas_imagenes:
+        encuesta.actualizar_bloque({'Imagen Comparada de dirigentes': ['imagen1', 'imagen2', 'imagen3']})
+        encuesta.set_bloque_imagen('Imagen Comparada de dirigentes')
+
+cuestionario = encuesta.cuestionario
+
+##  CONFIG
+opciones = ['_4opc', '_6opc']  # Opciones para preguntas con opciones, tiene que coincidir con los csvs
+
+#   Los Values tienen que coincidir con las columnas de los csv (targets)
+opciones_target = [
+        {'label': 'Todos', 'value': 'Todos'},
+        {'label': 'Hombres', 'value': 'Hombres'},
+        {'label': 'Mujeres', 'value': 'Mujeres'},
+        {'label': '16-29 años', 'value': '16-29 años'},
+        {'label': '30-49 años', 'value': '30-49 años'},
+        {'label': '50-64 años', 'value': '50-64 años'},
+        {'label': '65+ años', 'value': '65+ años'},
+        {'label': 'Hasta primario completo', 'value': 'Hasta primario completo'},
+        {'label': 'Secundario completo/incompleto', 'value': 'Secundario completo/incompleto'},
+        {'label': 'Terciario completo/incompleto', 'value': 'Terciario completo/incompleto'},
+        {'label': 'Voto octubre 2019: A. Fernandez', 'value': 'Fernandez'},
+        {'label': 'Voto octubre 2019: M. Macri', 'value': 'Macri'},
+        {'label': 'Voto octubre 2019: R. Lavagna', 'value': 'Lavagna'},
+        {'label': 'Región: Central Transversal', 'value': 'Centro'},
+        {'label': 'Región: Norte Grande', 'value': 'Norte'},
+        {'label': 'Región: Patagonia', 'value': 'Sur'},
+        {'label': 'Región: Buenos Aires', 'value': 'Buenos Aires'},
+                                     ]
+
+n_opciones_target = len(opciones_target) # Cambiar de ser neceario, habria que deprecarlo
+
+encuesta.set_opciones_target(opciones_target)

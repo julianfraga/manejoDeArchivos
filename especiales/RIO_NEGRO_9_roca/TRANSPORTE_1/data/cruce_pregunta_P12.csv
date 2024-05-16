@@ -1,0 +1,94 @@
+"var","categoria","Más de 5000 pesos mensuales","Entre 5000 y 2500 pesos mensuales","Menos de 2500 pesos mensuales"
+"P04","Gran excedente habitual",0.007,0.007,0.011
+"P04","Gran excedente excepcional",0.004,0.001,0.004
+"P04","Pequeño excedente habitual",0.027,0.039,0.079
+"P04","Pequeño excedente excepcional",0.034,0.061,0.077
+"P04","Alcanza gastos familia",0.083,0.126,0.155
+"P04","No alcanza gastos familia",0.165,0.171,0.143
+"P04","Solo NBFamiliares",0.238,0.301,0.259
+"P04","No alcanza NBFamiliares",0.433,0.28,0.24
+"P04","No sabe",0.009,0.014,0.032
+"P05","Todos los días",0.416,0.297,0.096
+"P05","Hasta 5 veces por semana",0.182,0.204,0.092
+"P05","Entre 4 y 1 vez por semana",0.116,0.194,0.163
+"P05","Ocasionalmente/ A veces",0.147,0.209,0.32
+"P05","Nunca",0.139,0.096,0.329
+"P06","Colectivo",0.693,0.629,0.531
+"P06","Subte",0.079,0.11,0.063
+"P06","Tren",0.065,0.092,0.081
+"P06","Premetro",0.025,0.024,0.037
+"P06","Taxi",0.078,0.078,0.135
+"P06","Aplicaciones como Uber, Cabify, Didi o similares",0.06,0.067,0.153
+"P07","Todos los días",0.374,0.219,0.097
+"P07","Hasta 5 veces por semana",0.124,0.112,0.035
+"P07","Entre 4 y 1 vez por semana",0.103,0.16,0.079
+"P07","Ocasionalmente/ A veces",0.161,0.215,0.251
+"P07","Nunca",0.238,0.294,0.538
+"P08","Menos de 30 minutos por día",0.306,0.303,0.606
+"P08","Entre 30 minutos y 1 hora por día",0.307,0.354,0.176
+"P08","Entre 1 y 2 horas por día",0.208,0.197,0.101
+"P08","Más de 2 horas por día",0.179,0.146,0.117
+"P09","Todos los días",0.123,0.052,0.068
+"P09","Hasta 5 veces por semana",0.074,0.079,0.017
+"P09","Entre 4 y 1 vez por semana",0.084,0.081,0.05
+"P09","Ocasionalmente/ A veces",0.247,0.307,0.217
+"P09","Nunca",0.472,0.481,0.648
+"P10","Todos los días",0.108,0.03,0.015
+"P10","Hasta 5 veces por semana",0.038,0.038,0.007
+"P10","Entre 4 y 1 vez por semana",0.064,0.059,0.034
+"P10","Ocasionalmente/ A veces",0.269,0.409,0.308
+"P10","Nunca",0.053,0.083,0.12
+"P10","No existen esos servicios donde vivo",0.468,0.381,0.516
+"P11","Taxis tradicionales",0.273,0.17,0.178
+"P11","Aplicaciones de transporte",0.297,0.425,0.26
+"P11","No tengo preferencia por ninguna",0.25,0.257,0.345
+"P11","No existen servicios de aplicaciones donde vivo",0.18,0.148,0.217
+"P13","Muy caro",0.545,0.288,0.194
+"P13","Caro",0.177,0.321,0.177
+"P13","Ni caro ni barato",0.186,0.287,0.379
+"P13","Barato",0.037,0.061,0.066
+"P13","Muy barato",0.024,0.02,0.055
+"P13","No sabe",0.031,0.023,0.129
+"P14","Sí, han aumentado significativamente",0.611,0.447,0.338
+"P14","Sí, han aumentado ligeramente",0.206,0.327,0.247
+"P14","No, se han mantenido iguales",0.105,0.15,0.148
+"P14","No sabe",0.078,0.076,0.267
+"P15","Muy buena",0.132,0.12,0.129
+"P15","Buena",0.175,0.22,0.225
+"P15","Ni buena ni mala",0.252,0.347,0.328
+"P15","Mala",0.262,0.208,0.197
+"P15","Muy mala",0.179,0.105,0.121
+"P16","Falta de mantenimiento de estaciones y vehículos",0.299,0.221,0.161
+"P16","Insuficiente cantidad de paradas/estaciones",0.088,0.08,0.069
+"P16","Escasez de señalización",0.07,0.085,0.081
+"P16","Insuficiencia en los horarios",0.3,0.353,0.303
+"P16","Malas conexiones entre medios de transporte",0.059,0.056,0.065
+"P16","Falta de seguridad de estaciones y vehículos",0.062,0.074,0.068
+"P16","Mala accesibilidad para personas con movilidad reducida",0.049,0.041,0.058
+"P16","No sabe",0.073,0.09,0.195
+"P17","WiFi gratuito en estaciones y vehículos",0.313,0.254,0.255
+"P17","Cargadores USB en los vehículos",0.092,0.092,0.078
+"P17","Pantallas de información en tiempo real en estaciones y vehículos",0.173,0.257,0.222
+"P17","Buenas instalaciones de espera y descanso en las estaciones",0.422,0.397,0.445
+"P18","Muy buena",0.1,0.069,0.087
+"P18","Buena",0.153,0.185,0.186
+"P18","Ni buena ni mala",0.342,0.426,0.461
+"P18","Mala",0.242,0.212,0.177
+"P18","Muy mala",0.163,0.108,0.089
+"P19","Sí, con frecuencia",0.559,0.394,0.274
+"P19","Sí, ocasionalmente",0.219,0.359,0.281
+"P19","No, rara vez",0.149,0.174,0.291
+"P19","No, nunca he experimentado problemas de congestión o demoras",0.073,0.073,0.154
+"P20","Sí, siempre me siento seguro/a",0.238,0.204,0.233
+"P20","Sí, en su mayoría me siento seguro/a",0.169,0.234,0.246
+"P20","A veces me siento seguro/a, a veces no",0.238,0.318,0.267
+"P20","No me siento seguro/a la mayoría de las veces",0.205,0.186,0.169
+"P20","No me siento seguro/a en absoluto",0.15,0.058,0.085
+"P21","Sí, en más de una ocasión",0.322,0.204,0.138
+"P21","Sí, en una ocasión",0.212,0.259,0.159
+"P21","No, nunca he presenciado un incidente de seguridad en el trasporte público",0.356,0.432,0.593
+"P21","Prefiero no responder",0.11,0.105,0.11
+"P22","Sí, en más de una ocasión",0.244,0.117,0.072
+"P22","Sí, en una ocasión",0.193,0.206,0.092
+"P22","No, nunca he sido víctima de un incidente de seguridad en el trasporte público",0.471,0.575,0.745
+"P22","Prefiero no responder",0.092,0.102,0.091

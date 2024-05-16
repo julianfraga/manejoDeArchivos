@@ -1,0 +1,33 @@
+"var","categoria","Si, solicité","No, no solicité"
+"P02","Masculino",0.496,0.441
+"P02","Femenino",0.441,0.5
+"P02","No binario",0.063,0.059
+"P03","Soltero o soltera",0.351,0.385
+"P03","Casado o casada",0.447,0.392
+"P03","En concubinato",0.202,0.223
+"P04","No tengo hijos",0.257,0.31
+"P04","Tengo 1 hijo",0.194,0.217
+"P04","Tengo 2 hijos",0.259,0.239
+"P04","Tengo 3 o más hijos",0.29,0.234
+"P06","Tengo trabajo estable",0.527,0.406
+"P06","Realizo changas o trabajos de vez en cuando",0.157,0.212
+"P06","No tengo trabajo",0.151,0.221
+"P06","Soy jubilado o pensionado",0.165,0.161
+"P07","Si, tengo un emprendimiento",0.296,0.251
+"P07","No, no tengo ningún emprendimiento",0.704,0.749
+"P08","Hasta $70.000",0.357,0.418
+"P08","De $70.000 a $140.000",0.239,0.279
+"P08","De $140.000 a $210.000",0.154,0.129
+"P08","De $210.000 a $280.000",0.079,0.059
+"P08","De $280.000 a $350.000",0.07,0.041
+"P08","De $350.000 a $420.000",0.028,0.027
+"P08","De $420.000 a $490.000",0.012,0.009
+"P08","Más de $490.000",0.061,0.038
+"P16","Si",0.386,0.314
+"P16","No",0.614,0.686
+"P17","Si, recibí apoyo financiero",0.102,0.068
+"P17","No, nunca recibí apoyo financiero",0.898,0.932
+"P18","Menos de $1.500.000",0.387,0.421
+"P18","de $1.500.000 a $3.000.000",0.315,0.283
+"P18","de $3.000.000 a $5.000.000",0.1,0.106
+"P18","Más de $5.000.000",0.198,0.19

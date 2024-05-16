@@ -1,0 +1,228 @@
+"var","categoria","Luis Juez gobernador – Rodrigo De Loredo vicegobernador por Juntos por el Cambio","Martín Llaryora gobernador – Natalia de la Sota vicegobernadora por Hacemos por Córdoba","A los candidatos  a gobernador y vicegobernador del Frente de Todos","A los candidatos de gobernador y vicegobernador de los liberales libertarios con el apoyo de Javier Milei","A los candidatos a gobernador y vicegobernador de Encuentro Vecinal Córdoba","A los candidatos a gobernador y vicegobernador del Frente de Izquierda","Votaría en blanco","No sabe"
+"P07","Del Frente de Todos y el peronismo",0.046,0.468,0.905,0.032,0.058,0.237,0.207,0.101
+"P07","De Cambiemos",0.638,0.226,0.04,0.116,0.337,0.051,0.277,0.215
+"P07","De los Liberales libertarios",0.192,0.096,0.014,0.71,0.154,0,0.186,0.093
+"P07","De la Izquierda",0.014,0.016,0.017,0.026,0.067,0.559,0.007,0.012
+"P07","Otros",0.038,0.088,0.004,0.059,0.35,0.098,0.084,0.122
+"P07","No sabe",0.072,0.106,0.02,0.057,0.034,0.055,0.239,0.457
+"P08","A Alberto Fernández",0.116,0.18,0.095,0.333,0,0.072,0.139,0.046
+"P08","A Sergio Massa",0.303,0.182,0.206,0.153,0.52,0.339,0.187,0.25
+"P08","A algún candidato del peronismo",0.581,0.331,0.067,0.292,0.216,0.05,0.342,0.398
+"P08","A algún candidato del kirchnerismo",0,0.307,0.632,0.222,0.264,0.539,0.332,0.306
+"P09","A Alberto Fernández",0.313,0.051,0.065,0.333,0,0.072,0,0
+"P09","A Sergio Massa",0.087,0.148,0.157,0.153,0.304,0,0,0.201
+"P09","A algún candidato del peronismo",0.562,0.252,0.014,0.292,0.216,0,0.481,0.444
+"P09","A Cristina Fernández de Kirchner",0.038,0.549,0.764,0.222,0.48,0.928,0.519,0.355
+"P10","A Horacio Rodriguez Larreta",0.185,0.331,0.148,0.045,0.156,0.733,0.24,0.183
+"P10","A Mauricio Macri",0.291,0.392,0.781,0.557,0.149,0.133,0.137,0.215
+"P10","A Patricia Bullrich",0.474,0.229,0.071,0.365,0.308,0,0.555,0.408
+"P10","A Facundo Manes",0.023,0.045,0,0,0.104,0,0.068,0.114
+"P10","A Gerardo Morales",0.027,0.003,0,0.033,0.283,0.134,0,0.08
+"P11","A Juntos por el Cambio",0.681,0.115,0.017,0.088,0.147,0.035,0.284,0.091
+"P11","Al Frente de Todos",0.059,0.147,0.709,0.006,0.028,0.086,0.084,0.025
+"P11","A Hacemos por Córdoba",0.065,0.598,0.111,0.174,0.162,0.027,0.181,0.189
+"P11","A los liberales libertarios de Milei",0.09,0.031,0.081,0.67,0.078,0.035,0.05,0.051
+"P11","A Encuentro Vecinal Córdoba",0.022,0.01,0.004,0.006,0.513,0.031,0.02,0.033
+"P11","Al Frente de Izquierda",0.007,0.036,0.012,0.031,0.02,0.742,0.06,0.109
+"P11","No sabe",0.076,0.063,0.066,0.025,0.052,0.044,0.321,0.502
+"P12","A Rodrigo De Loredo con el apoyo de Mauricio Macri, Patricia Bullrich, Martín Lousteau y el radicalismo",0.599,0.486,0.601,0.91,0.534,0.583,0.781,0.625
+"P12","A Luis Juez con el apoyo de Horacio Rodríguez Larreta",0.361,0.067,0.164,0.045,0.328,0,0.165,0.16
+"P12","No sabe",0.04,0.447,0.235,0.045,0.138,0.417,0.054,0.215
+"P13","A Rodrigo De Loredo por Juntos por el Cambio",0.713,0.081,0.041,0.188,0.197,0.01,0.246,0.146
+"P13","A Martín Llaryora por Hacemos por Córdoba",0.063,0.834,0.197,0.04,0.142,0.016,0.306,0.271
+"P13","Al candidato del Frente de Todos",0.009,0.048,0.731,0.007,0.02,0.115,0.025,0.012
+"P13","Al candidato de los liberales libertarios con el apoyo de Javier Milei",0.074,0.004,0,0.707,0.013,0,0,0.008
+"P13","A Aurelio Garcia Elorrio por Encuentro Vecinal Cordoba",0.034,0.004,0.008,0.024,0.508,0.01,0.021,0.02
+"P13","Al candidato del Frente de Izquierda",0.006,0.008,0.003,0.002,0.087,0.763,0,0
+"P13","Votaría en blanco",0.035,0.007,0.005,0.018,0,0.028,0.265,0.03
+"P13","No sabe",0.066,0.014,0.015,0.014,0.033,0.058,0.137,0.513
+"P15","A Luis Juez por Juntos por el Cambio",0.755,0.129,0.038,0.079,0.059,0.067,0.144,0.086
+"P15","A Martín Llaryora por Hacemos por Córdoba",0.14,0.8,0.194,0.065,0.181,0.031,0.3,0.261
+"P15","Al candidato del Frente de Todos",0.007,0.036,0.736,0.007,0.009,0.022,0.01,0.008
+"P15","Al candidato de los liberales libertarios con el apoyo de Javier Milei",0.029,0.011,0.006,0.796,0.021,0.047,0.009,0.008
+"P15","A Aurelio García Elorrio por Encuentro Vecinal Córdoba",0.024,0.004,0,0.017,0.61,0,0.057,0.023
+"P15","Al candidato del Frente de Izquierda",0.002,0.006,0.003,0.022,0.087,0.747,0,0.01
+"P15","Votaría en blanco",0.008,0.005,0.004,0.004,0.009,0.039,0.356,0.016
+"P15","No sabe",0.035,0.009,0.019,0.01,0.024,0.047,0.124,0.588
+"P17","Luis Juez gobernador – Rodrigo De Loredo vicegobernador por Juntos por el Cambio",0.889,0.098,0.043,0.078,0.115,0.035,0.142,0.061
+"P17","Martín Llaryora gobernador – Alejandra Vigo vicegobernadora por Hacemos por Córdoba",0.058,0.788,0.107,0.031,0.093,0.02,0.198,0.14
+"P17","A los candidatos  a gobernador y vicegobernador del Frente de Todos",0.001,0.043,0.813,0.009,0.009,0.011,0.011,0.016
+"P17","A los candidatos de gobernador y vicegobernador de los liberales libertarios con el apoyo de Javier Milei",0.018,0.012,0.009,0.823,0.03,0.047,0,0
+"P17","A los candidatos a gobernador y vicegobernador de Encuentro Vecinal Córdoba",0.014,0.007,0,0.01,0.739,0,0.029,0.008
+"P17","A los candidatos a gobernador y vicegobernador del Frente de Izquierda",0.002,0.01,0.013,0.016,0,0.845,0.01,0.009
+"P17","Votaría en blanco",0.001,0.019,0,0.004,0,0,0.499,0.095
+"P17","No sabe",0.017,0.023,0.015,0.029,0.014,0.042,0.111,0.671
+"P18","Rodrigo De Loredo gobernador – Luis Juez vicegobernador por Juntos por el Cambio",0.815,0.072,0.044,0.133,0.145,0.038,0.085,0.082
+"P18","Martín Llaryora gobernador – Alejandra Vigo vicegobernadora por Hacemos por Córdoba",0.037,0.828,0.099,0.037,0.012,0,0.143,0.13
+"P18","A los candidatos  a gobernador y vicegobernador del Frente de Todos",0.006,0.044,0.838,0.007,0.009,0.073,0,0
+"P18","A los candidatos de gobernador y vicegobernador de los liberales libertarios con el apoyo de Javier Milei",0.047,0.006,0,0.793,0.01,0,0.148,0.008
+"P18","A los candidatos a gobernador y vicegobernador de Encuentro Vecinal Córdoba",0.012,0.005,0,0.003,0.817,0.031,0,0.011
+"P18","A los candidatos a gobernador y vicegobernador del Frente de Izquierda",0.004,0.014,0.004,0,0,0.827,0.014,0
+"P18","Votaría en blanco",0.023,0.015,0,0.003,0,0,0.541,0.018
+"P18","No sabe",0.056,0.016,0.015,0.024,0.007,0.031,0.069,0.751
+"P20","Rodrigo De Loredo gobernador – Luis Juez vicegobernador por Juntos por el Cambio",0.811,0.048,0.015,0.109,0.201,0.097,0.111,0.08
+"P20","Martín Llaryora gobernador – Natalia de la Sota vicegobernadora por Hacemos por Córdo-ba",0.023,0.935,0.092,0.006,0,0,0.036,0.073
+"P20","A los candidatos  a gobernador y vicegobernador del Frente de Todos",0.002,0.011,0.872,0.013,0.013,0,0.025,0.005
+"P20","A los candidatos de gobernador y vicegobernador de los liberales libertarios con el apoyo de Javier Milei",0.048,0,0,0.858,0.016,0,0.01,0
+"P20","A los candidatos a gobernador y vicegobernador de Encuentro Vecinal Córdoba",0.019,0.001,0,0,0.682,0.042,0.031,0
+"P20","A los candidatos a gobernador y vicegobernador del Frente de Izquierda",0.003,0.001,0.005,0,0,0.833,0,0.011
+"P20","Votaría en blanco",0.036,0.003,0,0.004,0.088,0,0.71,0.013
+"P20","No sabe",0.058,0.001,0.016,0.01,0,0.028,0.077,0.818
+"P21","Lo votaría",0.549,0.165,0.022,0.174,0.218,0.07,0.208,0.101
+"P21","Puede que lo vote",0.334,0.205,0.053,0.296,0.211,0,0.106,0.241
+"P21","Nunca lo votaría",0.107,0.63,0.906,0.427,0.549,0.893,0.557,0.501
+"P21","No sabe",0.01,0,0.019,0.103,0.022,0.037,0.129,0.157
+"P22","Lo votaría",0.121,0.722,0.176,0.05,0.139,0.108,0.227,0.161
+"P22","Puede que lo vote",0.166,0.192,0.311,0.244,0.258,0.12,0.311,0.299
+"P22","Nunca lo votaría",0.704,0.086,0.493,0.683,0.59,0.733,0.345,0.395
+"P22","No sabe",0.009,0,0.02,0.023,0.013,0.039,0.117,0.145
+"P23","Lo votaría",0.599,0.131,0.081,0.1,0.079,0.082,0.219,0.081
+"P23","Puede que lo vote",0.257,0.128,0.086,0.299,0.12,0.021,0.056,0.165
+"P23","Nunca lo votaría",0.132,0.727,0.809,0.55,0.801,0.858,0.596,0.594
+"P23","No sabe",0.012,0.014,0.024,0.051,0,0.039,0.129,0.16
+"P24","Lo votaría",0.078,0.123,0.42,0.062,0.016,0.083,0.052,0.021
+"P24","Puede que lo vote",0.086,0.235,0.258,0.084,0.11,0.274,0.135,0.125
+"P24","Nunca lo votaría",0.834,0.639,0.315,0.848,0.874,0.613,0.733,0.783
+"P24","No sabe",0.002,0.003,0.007,0.006,0,0.03,0.08,0.071
+"P25","Muy buena",0.472,0.076,0.077,0.252,0.171,0.017,0.116,0.1
+"P25","Buena",0.242,0.158,0.053,0.118,0.15,0.023,0.221,0.184
+"P25","Ni buena ni mala",0.24,0.371,0.156,0.41,0.395,0.254,0.344,0.344
+"P25","Mala",0.02,0.185,0.239,0.092,0.202,0.268,0.031,0.103
+"P25","Muy mala",0.009,0.166,0.454,0.107,0.082,0.426,0.194,0.122
+"P25","No sabe",0.017,0.044,0.021,0.021,0,0.012,0.094,0.147
+"P26","Muy buena",0.469,0.044,0.034,0.1,0.056,0.037,0.196,0.071
+"P26","Buena",0.331,0.108,0.055,0.154,0.143,0.022,0.101,0.109
+"P26","Ni buena ni mala",0.142,0.181,0.072,0.341,0.24,0,0.082,0.318
+"P26","Mala",0.031,0.291,0.177,0.224,0.442,0.236,0.258,0.161
+"P26","Muy mala",0.024,0.354,0.636,0.166,0.119,0.693,0.312,0.219
+"P26","No sabe",0.003,0.022,0.026,0.015,0,0.012,0.051,0.122
+"P27","Muy buena",0.103,0.501,0.153,0.059,0.082,0.13,0.21,0.203
+"P27","Buena",0.134,0.293,0.249,0.154,0.163,0.054,0.194,0.251
+"P27","Ni buena ni mala",0.359,0.098,0.216,0.216,0.287,0.19,0.141,0.221
+"P27","Mala",0.256,0.059,0.211,0.327,0.276,0.119,0.23,0.09
+"P27","Muy mala",0.141,0.031,0.148,0.23,0.185,0.495,0.173,0.135
+"P27","No sabe",0.007,0.018,0.023,0.014,0.007,0.012,0.052,0.1
+"P28","Muy buena",0.155,0.11,0.04,0.153,0.474,0,0.067,0.092
+"P28","Buena",0.16,0.116,0.089,0.099,0.244,0.067,0.071,0.25
+"P28","Ni buena ni mala",0.398,0.439,0.241,0.315,0.204,0.123,0.443,0.198
+"P28","Mala",0.094,0.077,0.191,0.14,0.078,0.13,0.186,0.142
+"P28","Muy mala",0.099,0.12,0.339,0.193,0,0.599,0.134,0.079
+"P28","No sabe",0.094,0.138,0.1,0.1,0,0.081,0.099,0.239
+"P29","Muy buena",0.026,0.043,0.134,0.012,0.024,0.092,0.095,0.076
+"P29","Buena",0.034,0.226,0.348,0.032,0.018,0.111,0.011,0.076
+"P29","Ni buena ni mala",0.091,0.226,0.247,0.085,0.223,0.166,0.135,0.176
+"P29","Mala",0.126,0.231,0.144,0.138,0.193,0.206,0.242,0.217
+"P29","Muy mala",0.694,0.229,0.121,0.691,0.542,0.413,0.464,0.393
+"P29","No sabe",0.029,0.045,0.006,0.042,0,0.012,0.053,0.062
+"P30","Muy buena",0.007,0.287,0.765,0.012,0.028,0.291,0.153,0.057
+"P30","Buena",0.016,0.177,0.061,0.003,0.027,0.101,0.048,0.064
+"P30","Ni buena ni mala",0.035,0.101,0.063,0.072,0.143,0.136,0.059,0.109
+"P30","Mala",0.11,0.131,0.081,0.104,0.175,0.054,0.163,0.217
+"P30","Muy mala",0.827,0.292,0.03,0.803,0.627,0.406,0.524,0.524
+"P30","No sabe",0.005,0.012,0,0.006,0,0.012,0.053,0.029
+"P31","Muy buena",0.348,0.078,0.056,0.111,0.102,0.03,0.152,0.066
+"P31","Buena",0.276,0.141,0.044,0.184,0.119,0.019,0.338,0.189
+"P31","Ni buena ni mala",0.159,0.116,0.051,0.287,0.17,0.064,0.091,0.182
+"P31","Mala",0.088,0.232,0.092,0.168,0.19,0.051,0.055,0.192
+"P31","Muy mala",0.126,0.413,0.739,0.242,0.419,0.824,0.311,0.347
+"P31","No sabe",0.003,0.02,0.018,0.008,0,0.012,0.053,0.024
+"P32","Muy buena",0.184,0.062,0.014,0.016,0.028,0.018,0.109,0.049
+"P32","Buena",0.375,0.109,0.037,0.095,0.17,0.011,0.219,0.172
+"P32","Ni buena ni mala",0.279,0.262,0.07,0.346,0.404,0.053,0.246,0.32
+"P32","Mala",0.092,0.221,0.147,0.198,0.106,0.16,0.054,0.094
+"P32","Muy mala",0.052,0.307,0.684,0.294,0.292,0.746,0.319,0.306
+"P32","No sabe",0.018,0.039,0.048,0.051,0,0.012,0.053,0.059
+"P33","Muy buena",0.034,0.081,0.121,0,0.043,0.101,0.059,0.02
+"P33","Buena",0.085,0.222,0.306,0.026,0.148,0.097,0.098,0.105
+"P33","Ni buena ni mala",0.076,0.28,0.264,0.176,0.089,0.167,0.227,0.217
+"P33","Mala",0.197,0.175,0.157,0.151,0.221,0.113,0.213,0.23
+"P33","Muy mala",0.583,0.205,0.126,0.605,0.499,0.51,0.35,0.365
+"P33","No sabe",0.025,0.037,0.026,0.042,0,0.012,0.053,0.063
+"P34","Muy buena",0.535,0.153,0.037,0.245,0.226,0.018,0.108,0.12
+"P34","Buena",0.229,0.088,0.047,0.25,0.256,0.031,0.188,0.136
+"P34","Ni buena ni mala",0.076,0.185,0.026,0.242,0.076,0,0.061,0.37
+"P34","Mala",0.059,0.162,0.126,0.112,0.172,0.159,0.247,0.095
+"P34","Muy mala",0.089,0.391,0.745,0.139,0.27,0.78,0.342,0.211
+"P34","No sabe",0.012,0.021,0.019,0.012,0,0.012,0.054,0.068
+"P35","Muy buena",0.112,0.451,0.075,0.103,0.038,0.116,0.093,0.1
+"P35","Buena",0.211,0.199,0.153,0.139,0.265,0.021,0.196,0.214
+"P35","Ni buena ni mala",0.315,0.147,0.146,0.325,0.199,0.02,0.122,0.302
+"P35","Mala",0.176,0.096,0.354,0.199,0.39,0.311,0.302,0.181
+"P35","Muy mala",0.176,0.095,0.272,0.184,0.108,0.52,0.231,0.178
+"P35","No sabe",0.01,0.012,0,0.05,0,0.012,0.056,0.025
+"P36","Muy buena",0.195,0.112,0.031,0.497,0.091,0.02,0.178,0.093
+"P36","Buena",0.145,0.095,0.022,0.116,0.08,0.011,0.097,0.188
+"P36","Ni buena ni mala",0.365,0.233,0.089,0.238,0.292,0,0.108,0.303
+"P36","Mala",0.136,0.146,0.091,0.071,0.311,0.053,0.285,0.167
+"P36","Muy mala",0.116,0.395,0.767,0.032,0.184,0.904,0.267,0.172
+"P36","No sabe",0.043,0.019,0,0.046,0.042,0.012,0.065,0.077
+"P37","Muy buena",0.158,0.066,0.01,0.079,0.151,0.091,0.063,0.079
+"P37","Buena",0.297,0.078,0.052,0.105,0.195,0.054,0.144,0.163
+"P37","Ni buena ni mala",0.284,0.403,0.203,0.351,0.405,0.142,0.224,0.329
+"P37","Mala",0.119,0.165,0.267,0.138,0.155,0.109,0.282,0.196
+"P37","Muy mala",0.099,0.18,0.43,0.253,0.094,0.592,0.23,0.099
+"P37","No sabe",0.043,0.108,0.038,0.074,0,0.012,0.057,0.134
+"P38","Muy buena",0.087,0.036,0.01,0.019,0.072,0.071,0.045,0.058
+"P38","Buena",0.226,0.054,0.03,0.044,0.204,0.02,0.054,0.095
+"P38","Ni buena ni mala",0.333,0.386,0.176,0.409,0.402,0.042,0.246,0.368
+"P38","Mala",0.11,0.141,0.133,0.086,0.124,0.119,0.28,0.145
+"P38","Muy mala",0.134,0.199,0.606,0.29,0.133,0.631,0.246,0.106
+"P38","No sabe",0.11,0.184,0.045,0.152,0.065,0.117,0.129,0.228
+"P39","Muy buena",0.131,0.06,0.038,0.045,0.101,0.037,0.044,0.061
+"P39","Buena",0.172,0.092,0.073,0.08,0.138,0.045,0.068,0.11
+"P39","Ni buena ni mala",0.392,0.429,0.25,0.455,0.389,0.139,0.214,0.396
+"P39","Mala",0.132,0.099,0.194,0.107,0.236,0.173,0.326,0.143
+"P39","Muy mala",0.078,0.172,0.398,0.255,0.113,0.532,0.184,0.103
+"P39","No sabe",0.095,0.148,0.047,0.058,0.023,0.074,0.164,0.187
+"P42","A Rodrigo De Loredo por Juntos por el Cambio",0.784,0.132,0.031,0.387,0.287,0.034,0.302,0.349
+"P42","A Daniel Passerini por Hacemos por Cordoba",0.064,0.702,0.268,0.12,0.104,0.097,0.272,0.159
+"P42","Al candidato del frente de todos",0.039,0.066,0.616,0.044,0.03,0.071,0.022,0.091
+"P42","Al candidato de los liberales libertarios con el apoyo de Javier Milei",0.019,0.01,0.004,0.423,0.034,0,0.032,0.078
+"P42","A  Juan Pablo Quinteros por Encuentro Vecinal",0.032,0.032,0.021,0.005,0.505,0.013,0.038,0.015
+"P42","Al candidato del frente de izquierda",0.005,0.008,0.009,0,0.01,0.692,0.093,0.017
+"P42","Votaría en blanco",0.011,0.015,0.004,0,0,0.033,0.162,0
+"P42","No sabe",0.046,0.035,0.047,0.021,0.03,0.06,0.079,0.291
+"P44","A Luis Juez por Juntos por el Cambio",0.719,0.11,0.04,0.241,0.055,0.057,0.202,0.114
+"P44","A Daniel Passerini por Hacemos por Cordoba",0.083,0.762,0.228,0.103,0.124,0.089,0.229,0.239
+"P44","Al candidato del frente de todos",0.019,0.032,0.661,0.013,0,0.013,0.023,0.006
+"P44","Al candidato de los liberales libertarios con el apoyo de Javier Milei",0.04,0.016,0,0.537,0.011,0.013,0.059,0.126
+"P44","A  Juan Pablo Quinteros por Encuentro Vecinal",0.049,0.017,0.008,0.022,0.73,0.043,0.113,0.043
+"P44","Al candidato del frente de izquierda",0.007,0.014,0.027,0,0.014,0.705,0.044,0.083
+"P44","Votaría en blanco",0.015,0.01,0.028,0,0.044,0,0.307,0.014
+"P44","No sabe",0.068,0.039,0.008,0.084,0.022,0.08,0.023,0.375
+"P46","Lo votaría",0.743,0.112,0.027,0.384,0.325,0.016,0.17,0.162
+"P46","Puede que lo vote",0.194,0.21,0.071,0.32,0.22,0.139,0.269,0.291
+"P46","Nunca lo votaría",0.053,0.657,0.902,0.289,0.438,0.805,0.5,0.473
+"P46","No sabe",0.01,0.021,0,0.007,0.017,0.04,0.061,0.074
+"P47","Lo votaría",0.153,0.622,0.205,0.114,0.141,0.1,0.122,0.27
+"P47","Puede que lo vote",0.123,0.22,0.305,0.153,0.188,0.227,0.129,0.141
+"P47","Nunca lo votaría",0.711,0.133,0.49,0.722,0.654,0.637,0.685,0.544
+"P47","No sabe",0.013,0.025,0,0.011,0.017,0.036,0.064,0.045
+"P48","Lo votaría",0.57,0.124,0.095,0.112,0.06,0.078,0.252,0.176
+"P48","Puede que lo vote",0.277,0.121,0.115,0.349,0.141,0.073,0.023,0.088
+"P48","Nunca lo votaría",0.143,0.729,0.79,0.533,0.782,0.813,0.66,0.691
+"P48","No sabe",0.01,0.026,0,0.006,0.017,0.036,0.065,0.045
+"P49","Lo votaría",0.164,0.063,0.013,0.136,0.455,0.122,0.085,0.038
+"P49","Puede que lo vote",0.241,0.216,0.236,0.232,0.33,0.085,0.333,0.375
+"P49","Nunca lo votaría",0.579,0.691,0.734,0.625,0.195,0.748,0.485,0.531
+"P49","No sabe",0.016,0.03,0.017,0.007,0.02,0.045,0.097,0.056
+"P50","Lo votaría",0.032,0.169,0.263,0.025,0.104,0.079,0.095,0.09
+"P50","Puede que lo vote",0.1,0.332,0.345,0.113,0.114,0.155,0.139,0.172
+"P50","Nunca lo votaría",0.862,0.475,0.381,0.855,0.762,0.703,0.668,0.671
+"P50","No sabe",0.006,0.024,0.011,0.007,0.02,0.063,0.098,0.067
+"P51","Luis Juez gobernador – Rodrigo De Loredo intendente por Juntos por el Cambio",0.919,0.048,0.005,0.311,0.173,0,0.289,0.12
+"P51","Martín Llaryora gobernador – Daniel Passerini intendente por Hacemos por Córdoba",0.036,0.871,0.157,0.031,0.076,0.038,0.265,0.234
+"P51","A los candidatos a gobernador e intendente del Frente de Todos",0.006,0.028,0.814,0,0,0.143,0.029,0
+"P51","A los candidatos a gobernador e intendente de los liberales libertarios con el apoyo de Ja-vier Milei",0.007,0.009,0.005,0.595,0.036,0,0,0.099
+"P51","A Aurelio García Elorrio gobernador – Juan Pablo Quinteros intendente por Encuentro Veci-nal Córdoba",0.01,0.024,0,0.041,0.663,0,0,0.05
+"P51","A los candidatos a gobernador e intendente del Frente de Izquierda",0.004,0.009,0,0,0,0.681,0.055,0.028
+"P51","Votaría en blanco",0.003,0.004,0.01,0,0.036,0.038,0.21,0.044
+"P51","No sabe",0.015,0.007,0.009,0.022,0.016,0.1,0.152,0.425
+"P52","Rodrigo De Loredo gobernador – Luis Juez intendente por Juntos por el Cambio",0.77,0.044,0.045,0.309,0.127,0.021,0.241,0.124
+"P52","Martín Llaryora gobernador – Daniel Passerini intendente por Hacemos por Córdoba",0.04,0.863,0.154,0.061,0.083,0.04,0.11,0.222
+"P52","A los candidatos a gobernador e intendente del Frente de Todos",0.008,0.05,0.763,0,0.032,0.148,0,0
+"P52","A los candidatos a gobernador e intendente de los liberales libertarios con el apoyo de Ja-vier Milei",0.049,0,0,0.564,0,0,0.029,0.101
+"P52","A Aurelio García Elorrio gobernador – Juan Pablo Quinteros intendente por Encuentro Veci-nal Córdoba",0.044,0.013,0.028,0.03,0.715,0.053,0,0.033
+"P52","A los candidatos a gobernador e intendente del Frente de Izquierda",0.009,0.005,0,0,0,0.674,0.013,0
+"P52","Votaría en blanco",0.016,0.004,0.01,0,0.016,0.04,0.239,0.011
+"P52","No sabe",0.064,0.021,0,0.036,0.027,0.024,0.368,0.509

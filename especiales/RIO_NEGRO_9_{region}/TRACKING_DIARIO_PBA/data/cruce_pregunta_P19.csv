@@ -1,0 +1,26 @@
+"var","categoria","Sergio Massa Presidente, Agustin Rossi Vicepresidente , Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria","Juan Grabois Presidente, Paula Abal Medina Vicepresidente, Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria","Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente, Diego Santilli gobernador y Gustavo Posse vicegobernador; por Juntos por el Cambio","Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza","Los candidatos a presidente, vicepresidente, gobernador y vicegobernador de las diferentes opciones de izquierda","Juan Schiaretti a presidente y Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais","Otros","En blanco","No sabe"
+"P09","Unión por la Patria",0.673,0.432,0.08,0.11,0.107,0.118,0,0,0.044,0.073
+"P09","Juntos por el Cambio",0.142,0.256,0.737,0.597,0.06,0,0.018,0.072,0.035,0.022
+"P09","De los liberales libertarios",0.097,0.088,0.12,0.094,0.673,0.063,0.126,0.037,0.014,0.164
+"P09","De la Izquierda",0.038,0.134,0.024,0.046,0.012,0.602,0.023,0,0.017,0.02
+"P09","Hacemos por nuestro país",0.004,0.015,0,0.031,0.017,0.015,0.155,0,0,0
+"P09","Otro",0.006,0.013,0.011,0.031,0.027,0.127,0.148,0.346,0.061,0.186
+"P09","En blanco",0.007,0,0,0.024,0.023,0,0.388,0.147,0.645,0.18
+"P09","No sabe",0.033,0.062,0.028,0.067,0.081,0.075,0.142,0.398,0.184,0.355
+"P22","Totalmente seguro.",0.706,0.47,0.66,0.548,0.648,0.653,0.431,0.246,0.437,0.113
+"P22","Bastante seguro",0.121,0.332,0.153,0.134,0.11,0.068,0.182,0,0.148,0.143
+"P22","Algo seguro",0.097,0.101,0.09,0.179,0.165,0.021,0.253,0.134,0,0.098
+"P22","Para nada seguro",0.076,0.097,0.097,0.139,0.077,0.258,0.134,0.62,0.415,0.646
+"P23","Tiene Decidido que va a ir a votar.",0.933,0.868,0.922,0.841,0.869,0.839,0.843,0.727,0.664,0.702
+"P23","Tiene dudas sobre si va a ir a  votar",0.032,0.072,0.042,0.083,0.09,0.102,0.097,0.014,0.038,0.16
+"P23","Tiene Decidido que no va a ir a votar",0.035,0.06,0.036,0.076,0.041,0.059,0.06,0.259,0.298,0.138
+"P34","Inflación",0.437,0.397,0.282,0.287,0.343,0.17,0.037,0.353,0.489,0.335
+"P34","Desempleo",0.068,0.106,0.076,0.138,0.044,0.043,0.028,0.123,0.041,0.102
+"P34","Corrupción",0.114,0.104,0.279,0.274,0.332,0.106,0.58,0.225,0.122,0.277
+"P34","Inseguridad",0.194,0.16,0.263,0.194,0.157,0.399,0.028,0.016,0.076,0.099
+"P34","Precio del dólar",0.021,0.029,0.012,0,0.007,0,0,0,0,0
+"P34","Pobreza",0.089,0.065,0.054,0.037,0.025,0.232,0.056,0,0,0
+"P34","Narcotráfico",0.01,0.008,0.001,0.045,0.042,0,0,0,0.097,0.008
+"P34","Tarifas",0.005,0.063,0.004,0,0.02,0,0,0.158,0,0
+"P34","Otro",0.044,0.068,0.02,0.022,0.018,0.05,0.247,0.125,0.175,0.007
+"P34","No sabe",0.018,0,0.009,0.003,0.012,0,0.024,0,0,0.172

@@ -1,0 +1,129 @@
+"var","categoria","Carlos Aristegui por Cambia Bariloche con el apoyo de Aníbal Tortoriello","Juan Pablo Muena por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck","Arabella Carreras por Unidos Bariloche","Pablo Chamátropulos por Podemos Bariloche","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora","No sabe"
+"P05","Siempre",0.21,0.278,0.233,0.239,0.357,0.284,0.259
+"P05","Casi siempre",0.408,0.381,0.326,0.415,0.258,0.185,0.28
+"P05","Casi nunca",0.28,0.191,0.306,0.286,0.322,0.346,0.295
+"P05","Nunca, pero esta es una excepción",0.102,0.15,0.135,0.06,0.063,0.185,0.166
+"P07","Cambia Bariloche",0.441,0.12,0.107,0.078,0.113,0.237,0.083
+"P07","Juntos Somos Río Negro",0.142,0.433,0.363,0.055,0.017,0.066,0.179
+"P07","Unidos Bariloche",0.037,0.005,0.102,0.011,0.068,0.022,0.021
+"P07","Podemos Bariloche",0.002,0.007,0.07,0.376,0.034,0,0.007
+"P07","Vamos con Todos",0.065,0.093,0.008,0.036,0.31,0.061,0
+"P07","Nos Une Río Negro",0.056,0,0.039,0,0.041,0.172,0.022
+"P07","No sabe",0.257,0.342,0.311,0.444,0.417,0.442,0.688
+"P08","Gastón Vega por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.683,0.128,0.094,0.221,0.015,0,0.126
+"P08","Agustín Domingo por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.102,0.342,0.128,0.096,0.08,0.025,0.078
+"P08","Arabella Carreras por Unidos Bariloche",0.099,0.036,0.712,0.01,0,0.049,0.042
+"P08","Pablo Chamátropulos por Podemos Bariloche",0,0.103,0.007,0.643,0.073,0.014,0
+"P08","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.023,0.143,0.022,0.03,0.785,0.016,0.008
+"P08","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0,0.058,0.028,0,0.022,0.87,0.006
+"P08","No sabe",0.093,0.19,0.009,0,0.025,0.026,0.74
+"P09","Carlos Aristegui por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.766,0.021,0.084,0.286,0.013,0.017,0.076
+"P09","Agustín Domingo por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.106,0.547,0.168,0.011,0.011,0.017,0.073
+"P09","Arabella Carreras por Unidos Bariloche",0.021,0.174,0.662,0,0,0,0.039
+"P09","Pablo Chamátropulos por Podemos Bariloche",0.013,0.011,0.037,0.639,0.078,0.053,0.014
+"P09","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.005,0.003,0.021,0.03,0.823,0.064,0.052
+"P09","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0,0.101,0.009,0,0.052,0.824,0.027
+"P09","No sabe",0.089,0.143,0.019,0.034,0.023,0.025,0.719
+"P10","Gastón Vega por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.656,0.129,0.006,0.228,0.044,0.026,0.05
+"P10","Juan Pablo Muena por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.057,0.472,0.033,0.054,0,0,0.092
+"P10","Arabella Carreras por Unidos Bariloche",0.058,0.153,0.873,0.02,0.01,0.024,0.069
+"P10","Pablo Chamátropulos por Podemos Bariloche",0.028,0.028,0.006,0.644,0.009,0.124,0.028
+"P10","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.039,0.05,0.039,0,0.81,0.057,0.024
+"P10","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0,0.088,0.031,0,0.075,0.726,0.018
+"P10","No sabe",0.162,0.08,0.012,0.054,0.052,0.043,0.719
+"P12","Gastón Vega por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.731,0.297,0.039,0.249,0.013,0,0.063
+"P12","Juan Pablo Ferrari por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.024,0.573,0.104,0,0.084,0.039,0.167
+"P12","Arabella Carreras por Unidos Bariloche",0.08,0.026,0.766,0.011,0.007,0.103,0.014
+"P12","Pablo Chamátropulos por Podemos Bariloche",0.002,0,0,0.653,0,0,0
+"P12","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.013,0.01,0.028,0.043,0.807,0.06,0.042
+"P12","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0.039,0.024,0,0,0.055,0.768,0.043
+"P12","No sabe",0.111,0.07,0.063,0.044,0.034,0.03,0.671
+"P13","Carlos Aristegui por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.817,0.239,0.052,0.229,0,0.018,0.081
+"P13","Juan Pablo Ferrari por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.022,0.439,0.098,0.011,0.092,0.223,0.182
+"P13","Arabella Carreras por Unidos Bariloche",0.011,0.039,0.744,0,0,0.065,0.005
+"P13","Pablo Chamátropulos por Podemos Bariloche",0,0.097,0.007,0.76,0.058,0.059,0.002
+"P13","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.08,0.115,0.061,0,0.765,0,0.009
+"P13","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0.004,0,0.007,0,0.07,0.566,0.038
+"P13","No sabe",0.066,0.071,0.031,0,0.015,0.069,0.683
+"P14","Gastón Vega por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.667,0.127,0.025,0.234,0.087,0,0.1
+"P14","Marcela Gonzalez Abdala por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.118,0.492,0.153,0,0.029,0.013,0.118
+"P14","Arabella Carreras por Unidos Bariloche",0.067,0.056,0.752,0.046,0,0.025,0.041
+"P14","Pablo Chamátropulos por Podemos Bariloche",0.007,0,0.013,0.675,0.083,0.014,0
+"P14","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.003,0.149,0.047,0,0.791,0.012,0.055
+"P14","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0.026,0.099,0,0.025,0,0.881,0.041
+"P14","No sabe",0.112,0.077,0.01,0.02,0.01,0.055,0.645
+"P15","Carlos Aristegui por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.804,0.198,0.039,0.012,0.081,0.029,0.108
+"P15","Marcela Gonzalez Abdala por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.066,0.564,0.178,0.028,0.082,0.286,0.096
+"P15","Arabella Carreras por Unidos Bariloche",0.05,0.053,0.7,0,0,0.054,0.027
+"P15","Pablo Chamátropulos por Podemos Bariloche",0.005,0,0.032,0.83,0.005,0,0
+"P15","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.009,0.009,0.017,0.037,0.793,0.009,0.056
+"P15","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0.005,0.029,0.012,0,0.019,0.599,0.007
+"P15","No sabe",0.061,0.147,0.022,0.093,0.02,0.023,0.706
+"P16","Gastón Vega por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.732,0.084,0.037,0.1,0.016,0,0.112
+"P16","Carlos Valeri  por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.037,0.564,0.233,0.012,0.008,0,0.073
+"P16","Arabella Carreras por Unidos Bariloche",0.086,0.029,0.672,0.077,0.1,0.067,0.054
+"P16","Pablo Chamátropulos por Podemos Bariloche",0,0.089,0.006,0.714,0.026,0.029,0
+"P16","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.008,0.098,0.007,0,0.826,0.028,0.024
+"P16","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0.015,0,0.034,0,0,0.825,0.027
+"P16","No sabe",0.122,0.136,0.011,0.097,0.024,0.051,0.71
+"P17","Carlos Aristegui por Cambia Bariloche con el apoyo de Aníbal Tortoriello",0.749,0.045,0.141,0.24,0.023,0,0.106
+"P17","Carlos Valeri por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.036,0.344,0.153,0,0.015,0.048,0.091
+"P17","Arabella Carreras por Unidos Bariloche",0.032,0.147,0.652,0.037,0.016,0.014,0.026
+"P17","Pablo Chamátropulos por Podemos Bariloche",0.05,0.062,0,0.569,0.057,0,0.028
+"P17","Costa Brutten, Vallazza o Galaverna por Vamos con Todos con el apoyo de los hermanos Soria",0.039,0.024,0.012,0.058,0.763,0.081,0.002
+"P17","Ramón Chiocconi por Nos Une Río Negro con el apoyo de La Cámpora",0,0,0,0,0.097,0.759,0.041
+"P17","No sabe",0.094,0.378,0.042,0.096,0.029,0.098,0.706
+"P18","La votaría",0.408,0.218,0.082,0.018,0.175,0.037,0.099
+"P18","Puede que la vote",0.147,0.306,0.185,0.049,0.07,0.343,0.089
+"P18","Nunca la votaría",0.191,0.287,0.614,0.449,0.606,0.508,0.524
+"P18","No sabe",0.254,0.189,0.119,0.484,0.149,0.112,0.288
+"P19","Lo votaría",0.684,0.007,0.148,0.043,0.043,0,0.062
+"P19","Puede que lo vote",0.08,0.394,0.209,0.05,0.185,0.295,0.117
+"P19","Nunca lo votaría",0.035,0.522,0.585,0.733,0.633,0.661,0.624
+"P19","No sabe",0.201,0.077,0.058,0.174,0.139,0.044,0.197
+"P20","La votaría",0.314,0.217,0.528,0.015,0.132,0,0.069
+"P20","Puede que la vote",0.197,0.335,0.293,0.129,0.103,0.016,0.12
+"P20","Nunca la votaría",0.456,0.419,0.145,0.781,0.643,0.958,0.69
+"P20","No sabe",0.033,0.029,0.034,0.075,0.122,0.026,0.121
+"P21","Lo votaría",0.335,0.1,0.168,0.03,0.07,0,0.126
+"P21","Puede que lo vote",0.22,0.452,0.172,0.039,0.088,0.183,0.129
+"P21","Nunca lo votaría",0.243,0.373,0.538,0.797,0.72,0.788,0.556
+"P21","No sabe",0.202,0.075,0.122,0.134,0.122,0.029,0.189
+"P22","Lo votaría",0.242,0.355,0.123,0.015,0.131,0,0.152
+"P22","Puede que lo vote",0.221,0.402,0.153,0.109,0.08,0.304,0.092
+"P22","Nunca lo votaría",0.501,0.217,0.635,0.721,0.671,0.635,0.595
+"P22","No sabe",0.036,0.026,0.089,0.155,0.118,0.061,0.161
+"P23","Lo votaría",0.238,0.275,0.125,0.079,0.192,0,0.233
+"P23","Puede que lo vote",0.098,0.392,0.138,0,0.133,0.245,0.061
+"P23","Nunca lo votaría",0.579,0.297,0.639,0.905,0.591,0.637,0.504
+"P23","No sabe",0.085,0.036,0.098,0.016,0.084,0.118,0.202
+"P24","La votaría",0.247,0.246,0.115,0.016,0.126,0,0.171
+"P24","Puede que la vote",0.136,0.173,0.134,0,0.194,0,0.043
+"P24","Nunca la votaría",0.51,0.528,0.69,0.9,0.612,0.969,0.557
+"P24","No sabe",0.107,0.053,0.061,0.084,0.068,0.031,0.229
+"P25","Lo votaría",0.232,0.19,0.212,0.016,0.053,0,0.209
+"P25","Puede que lo vote",0.146,0.412,0.242,0.144,0.018,0.396,0.089
+"P25","Nunca lo votaría",0.501,0.363,0.48,0.777,0.824,0.54,0.54
+"P25","No sabe",0.121,0.035,0.066,0.063,0.105,0.064,0.162
+"P26","Lo votaría",0.193,0.237,0.043,0.828,0.141,0,0.067
+"P26","Puede que lo vote",0.196,0.287,0.208,0.125,0.091,0.26,0.06
+"P26","Nunca lo votaría",0.462,0.426,0.653,0.047,0.669,0.702,0.688
+"P26","No sabe",0.149,0.05,0.096,0,0.099,0.038,0.185
+"P27","Lo votaría",0.191,0.277,0.107,0.035,0.48,0.015,0.057
+"P27","Puede que lo vote",0.09,0.3,0.119,0.125,0.339,0.325,0.072
+"P27","Nunca lo votaría",0.575,0.361,0.676,0.777,0.162,0.612,0.643
+"P27","No sabe",0.144,0.062,0.098,0.063,0.019,0.048,0.228
+"P28","Lo votaría",0.201,0.22,0.122,0.016,0.344,0,0.069
+"P28","Puede que lo vote",0.035,0.134,0.139,0,0.342,0.331,0.034
+"P28","Nunca lo votaría",0.624,0.586,0.631,0.921,0.259,0.541,0.656
+"P28","No sabe",0.14,0.06,0.108,0.063,0.055,0.128,0.241
+"P29","Lo votaría",0.209,0.221,0.122,0.016,0.066,0.578,0.076
+"P29","Puede que lo vote",0.062,0.117,0.128,0,0.146,0.349,0.026
+"P29","Nunca lo votaría",0.633,0.628,0.714,0.921,0.704,0.073,0.748
+"P29","No sabe",0.096,0.034,0.036,0.063,0.084,0,0.15
+"P30","La votaría",0.238,0.022,0.121,0.015,0.253,0.117,0.088
+"P30","Puede que la vote",0.03,0.315,0.16,0.019,0.288,0.408,0.018
+"P30","Nunca la votaría",0.613,0.6,0.612,0.905,0.428,0.381,0.698
+"P30","No sabe",0.119,0.063,0.107,0.061,0.031,0.094,0.196
+"P31","Si",0.438,0.18,0.416,0.541,0.462,0.483,0.535
+"P31","No",0.562,0.82,0.584,0.459,0.538,0.517,0.465

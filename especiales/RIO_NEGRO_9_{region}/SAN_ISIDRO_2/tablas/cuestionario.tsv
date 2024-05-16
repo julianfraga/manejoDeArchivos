@@ -1,0 +1,23 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Control	freq	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P09	Escenarios Electorales: Primera Vuelta	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacios políticos en elecciones presidenciales	
+P12	Escenarios Electorales: Primera Vuelta	politica	¿Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente a que candidatos preferiría votar?	Intención de voto por candidatos a Presidente, Vicepte., Gobernador, Vicegdor. E Intendente	
+P12_imputada	Escenarios Electorales: Primera Vuelta	politica	¿Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente a que candidatos preferiría votar?	Intención de voto por candidatos a Presidente, Vicepte., Gobernador, Vicegdor. E Intendente	(Imputación no lineal de indecisos)
+P15	Escenarios Electorales: Primera Vuelta	sino	¿Usted estaría dispuesto a cortar boleta?	Intención de corte de boleta	
+PRESIDENTE	Escenarios Electorales: Primera Vuelta	politica	Intención de voto por fórmulas presidenciales en primera vuelta	Intención de voto por fórmulas presidenciales en primera vuelta	(Considerando corte de boleta)
+PRESIDENTE_imputada	Escenarios Electorales: Primera Vuelta	politica	Intención de voto por fórmulas presidenciales en primera vuelta	Intención de voto por fórmulas presidenciales en primera vuelta	(Considerando corte de boleta, imputación no lineal de indecisos)
+GOBERNADOR	Escenarios Electorales: Primera Vuelta	politica	Intención de voto por candidatos a Gobernador y Vicegobernador	Intención de voto por candidatos a Gobernador y Vicegobernador	(Considerando corte de boleta)
+GOBERNADOR_imputada	Escenarios Electorales: Primera Vuelta	politica	Intención de voto por candidatos a Gobernador y Vicegobernador	Intención de voto por candidatos a Gobernador y Vicegobernador	(Considerando corte de boleta, imputación no lineal de indecisos)
+INTENDENTE	Escenarios Electorales: Primera Vuelta	politica	Intención de voto por candidatos a Intendente	Intención de voto por candidatos a Intendente	(Considerando corte de boleta)
+INTENDENTE_imputada	Escenarios Electorales: Primera Vuelta	politica	Intención de voto por candidatos a Intendente	Intención de voto por candidatos a Intendente	(Considerando corte de boleta, imputación no lineal de indecisos)
+P16	Escenarios Electorales: Primera Vuelta	politica	¿Pensando en las próximas elecciones de primera vuelta a presidente a que candidatos preferiría votar?	Intención de voto por fórmulas presidenciales en primera vuelta	
+P16_imputada	Escenarios Electorales: Primera Vuelta	politica	¿Pensando en las próximas elecciones de primera vuelta a presidente a que candidatos preferiría votar?	Intención de voto por fórmulas presidenciales en primera vuelta	(Imputación no lineal de indecisos)
+P19	Escenarios Electorales: Primera Vuelta	politica	¿Y pensando en las próximas elecciones a generales a gobernador a que candidatos preferiría votar?	Intención de voto por candidatos a Gobernador y Vicegobernador	
+P19_imputada	Escenarios Electorales: Primera Vuelta	politica	¿Y pensando en las próximas elecciones a generales a gobernador a que candidatos preferiría votar?	Intención de voto por candidatos a Gobernador y Vicegobernador	(Imputación no lineal de indecisos)
+P22	Escenarios Electorales: Primera Vuelta	politica	¿Pensando en las próximas elecciones generales intendente a que candidatos preferiría votar?	Intención de voto por candidatos a Intendente	
+P22_imputada	Escenarios Electorales: Primera Vuelta	politica	¿Pensando en las próximas elecciones generales intendente a que candidatos preferiría votar?	Intención de voto por candidatos a Intendente	(Imputación no lineal de indecisos)
+P25	Escenarios Electorales: Primera Vuelta	quali	En su opinión, ¿cómo se sale de la permanente crisis que vive argentina?	Opinión sobre la crisis argentina	
+P26	Escenarios Electorales: Primera Vuelta	diverging	Podría usted decirnos cuán seguro está de sus preferencias de voto en las próximas elecciones 	Seguridad sobre preferencias electorales	
+P27	Escenarios Electorales: Primera Vuelta	diverging	¿Podría decirnos entonces si usted qué tan decidido está en in a votar?	Nivel de decisión sobre ir o no a votar	
+P28	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

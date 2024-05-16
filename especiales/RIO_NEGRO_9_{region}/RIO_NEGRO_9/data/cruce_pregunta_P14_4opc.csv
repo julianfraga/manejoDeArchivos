@@ -1,0 +1,219 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P12","Gran excedente habitual",0.024,0.004,0.02,0.023
+"P12","Gran excedente excepcional",0.002,0.005,0.006,0
+"P12","Pequeño excedente habitual",0.024,0.023,0.059,0.017
+"P12","Pequeño excedente excepcional",0.045,0.053,0.074,0.007
+"P12","Alcanza gastos familia",0.103,0.112,0.167,0.113
+"P12","No alcanza gastos familia",0.072,0.122,0.087,0.236
+"P12","Solo NBFamiliares",0.282,0.299,0.276,0.191
+"P12","No alcanza NBFamiliares",0.443,0.368,0.304,0.298
+"P12","No sabe",0.005,0.014,0.007,0.115
+"P13","Empleado sector publico",0.333,0.187,0.204,0.075
+"P13","Empleado sector privado",0.204,0.196,0.217,0.082
+"P13","Changas o trabajos eventuales",0.206,0.275,0.164,0.23
+"P13","Estudiante",0.019,0.035,0.048,0
+"P13","Amas de casa",0.082,0.09,0.086,0.115
+"P13","Profesional o independiente",0.06,0.084,0.123,0.234
+"P13","Comerciante, emprendedor o empresario",0.022,0.038,0.058,0.045
+"P13","Trabajador informal",0.017,0.028,0.028,0.014
+"P13","No tengo trabajo",0.057,0.067,0.072,0.205
+"P15","Positiva",0.485,0.308,0.486,0.111
+"P15","Neutra",0.147,0.264,0.083,0.133
+"P15","Negativa",0.364,0.417,0.421,0.367
+"P15","No sabe",0.004,0.011,0.01,0.389
+"P20","Positiva",0.761,0.24,0.081,0.106
+"P20","Neutra",0.13,0.571,0.198,0.337
+"P20","Negativa",0.102,0.166,0.709,0.104
+"P20","No sabe",0.007,0.023,0.012,0.453
+"P21","Gobierno nacional",0.503,0.334,0.187,0.178
+"P21","Gobierno provincial",0.29,0.385,0.725,0.081
+"P21","No sabe",0.207,0.281,0.088,0.741
+"P22","El anterior gobierno de Anabela Carreras",0.387,0.396,0.341,0.433
+"P22","El actual gobierno de Alberto Weretilneck",0.466,0.411,0.573,0.304
+"P22","No sabe",0.147,0.193,0.086,0.263
+"P23","El anterior gobierno de Alberto Fernández",0.371,0.273,0.253,0.102
+"P23","El actual gobierno de Javier Milei",0.575,0.6,0.705,0.898
+"P23","No sabe",0.054,0.127,0.042,0
+"P24","Si",0.432,0.34,0.37,0.099
+"P24","No",0.377,0.355,0.42,0.269
+"P24","No sabe",0.191,0.305,0.21,0.632
+"P25","Si",0.375,0.211,0.156,0.128
+"P25","No",0.304,0.381,0.65,0.131
+"P25","No sabe",0.321,0.408,0.194,0.741
+"P26","Si",0.784,0.767,0.827,0.622
+"P26","No",0.216,0.233,0.173,0.378
+"P27","Estoy totalmente en desacuerdo, las universidades públicas son garantía de promoción social y contribuyen a igualar las oportunidades de todos los argentinos",0.621,0.508,0.337,0.395
+"P27","Estoy en desacuerdo, sin universidades publicas no puede haber crecimiento sostenible ni mejora de la situación económica del país",0.174,0.194,0.111,0.324
+"P27","Estoy parcialmente de acuerdo, es necesario una reforma profunda del sistema universitario público, incorporando exámenes de ingreso, arancelamiento para dar becas de estudio y racionalización de la oferta de carreras priorizando aquellas orientadas al desarrollo científico, tecnológico, la salud y el desarrollo económico",0.11,0.181,0.289,0.101
+"P27","Estoy de acuerdo, las universidades publicas son muy ineficientes y costosas. La mayor parte de alumnos nunca terminan sus estudios, hay gran cantidad de carreras innecesarias y están muy politizadas",0.051,0.065,0.138,0.022
+"P27","Estoy totalmente de acuerdo, las universidades publicas son centros de adoctrinamiento político y sirven a los intereses de los partidos políticos. Sería mejor utilizar esa plata para becar a los alumnos de escasos recursos para que pudieran elegir en que universidad privada estudiar",0.042,0.036,0.112,0.007
+"P27","No sabe",0.002,0.016,0.013,0.151
+"P28","1-Excelente",0.255,0.157,0.14,0.247
+"P28","2",0.162,0.088,0.094,0.013
+"P28","3",0.057,0.068,0.044,0.015
+"P28","4",0.049,0.059,0.06,0.003
+"P28","5",0.219,0.233,0.128,0.247
+"P28","6",0.065,0.066,0.052,0.04
+"P28","7",0.041,0.07,0.049,0.074
+"P28","8",0.038,0.039,0.082,0.009
+"P28","9-Pésimo",0.058,0.141,0.29,0.201
+"P28","No sabe",0.056,0.079,0.061,0.151
+"P29","1-Excelente",0.23,0.125,0.147,0.048
+"P29","2",0.166,0.125,0.104,0.122
+"P29","3",0.11,0.074,0.072,0.073
+"P29","4",0.062,0.048,0.059,0.011
+"P29","5",0.189,0.171,0.069,0.209
+"P29","6",0.053,0.089,0.024,0.031
+"P29","7",0.051,0.058,0.042,0
+"P29","8",0.039,0.046,0.085,0.085
+"P29","9-Pésimo",0.065,0.193,0.34,0.34
+"P29","No sabe",0.035,0.071,0.058,0.081
+"P30","1-Excelente",0.193,0.14,0.149,0.049
+"P30","2",0.153,0.094,0.077,0.013
+"P30","3",0.1,0.092,0.079,0.17
+"P30","4",0.092,0.087,0.052,0.011
+"P30","5",0.106,0.173,0.093,0.279
+"P30","6",0.072,0.09,0.041,0.118
+"P30","7",0.058,0.066,0.05,0.033
+"P30","8",0.069,0.04,0.1,0.108
+"P30","9-Pésimo",0.092,0.155,0.309,0.149
+"P30","No sabe",0.065,0.063,0.05,0.07
+"P31","1-Excelente",0.213,0.11,0.144,0.054
+"P31","2",0.137,0.087,0.085,0.059
+"P31","3",0.083,0.106,0.076,0.143
+"P31","4",0.103,0.086,0.047,0.012
+"P31","5",0.14,0.198,0.107,0.268
+"P31","6",0.082,0.059,0.051,0.055
+"P31","7",0.046,0.054,0.05,0.166
+"P31","8",0.032,0.065,0.088,0
+"P31","9-Pésimo",0.08,0.158,0.278,0.133
+"P31","No sabe",0.084,0.077,0.074,0.11
+"P32","Oponerse totalmente y elevar un recurso de amparo ante la corte",0.617,0.504,0.333,0.378
+"P32","Oponerse y tratar de negociar con el gobierno nacional a cambio de apoyo legislativo en otros temas",0.175,0.181,0.131,0.242
+"P32","Apoyar las iniciativas del gobierno nacional y así no tener problemas con la participación",0.092,0.143,0.216,0
+"P32","Apoyar totalmente la iniciativa del gobierno nacional porque es lo que votó la mayoría del pueblo argentino",0.063,0.122,0.283,0.245
+"P32","No sabe",0.053,0.05,0.037,0.135
+"P28","1-Excelente",0.255,0.157,0.14,0.247
+"P28","2",0.162,0.088,0.094,0.013
+"P28","3",0.057,0.068,0.044,0.015
+"P28","4",0.049,0.059,0.06,0.003
+"P28","5",0.219,0.233,0.128,0.247
+"P28","6",0.065,0.066,0.052,0.04
+"P28","7",0.041,0.07,0.049,0.074
+"P28","8",0.038,0.039,0.082,0.009
+"P28","9-Pésimo",0.058,0.141,0.29,0.201
+"P28","No sabe",0.056,0.079,0.061,0.151
+"P29","1-Excelente",0.23,0.125,0.147,0.048
+"P29","2",0.166,0.125,0.104,0.122
+"P29","3",0.11,0.074,0.072,0.073
+"P29","4",0.062,0.048,0.059,0.011
+"P29","5",0.189,0.171,0.069,0.209
+"P29","6",0.053,0.089,0.024,0.031
+"P29","7",0.051,0.058,0.042,0
+"P29","8",0.039,0.046,0.085,0.085
+"P29","9-Pésimo",0.065,0.193,0.34,0.34
+"P29","No sabe",0.035,0.071,0.058,0.081
+"P30","1-Excelente",0.193,0.14,0.149,0.049
+"P30","2",0.153,0.094,0.077,0.013
+"P30","3",0.1,0.092,0.079,0.17
+"P30","4",0.092,0.087,0.052,0.011
+"P30","5",0.106,0.173,0.093,0.279
+"P30","6",0.072,0.09,0.041,0.118
+"P30","7",0.058,0.066,0.05,0.033
+"P30","8",0.069,0.04,0.1,0.108
+"P30","9-Pésimo",0.092,0.155,0.309,0.149
+"P30","No sabe",0.065,0.063,0.05,0.07
+"P31","1-Excelente",0.213,0.11,0.144,0.054
+"P31","2",0.137,0.087,0.085,0.059
+"P31","3",0.083,0.106,0.076,0.143
+"P31","4",0.103,0.086,0.047,0.012
+"P31","5",0.14,0.198,0.107,0.268
+"P31","6",0.082,0.059,0.051,0.055
+"P31","7",0.046,0.054,0.05,0.166
+"P31","8",0.032,0.065,0.088,0
+"P31","9-Pésimo",0.08,0.158,0.278,0.133
+"P31","No sabe",0.084,0.077,0.074,0.11
+"P32","Oponerse totalmente y elevar un recurso de amparo ante la corte",0.617,0.504,0.333,0.378
+"P32","Oponerse y tratar de negociar con el gobierno nacional a cambio de apoyo legislativo en otros temas",0.175,0.181,0.131,0.242
+"P32","Apoyar las iniciativas del gobierno nacional y así no tener problemas con la participación",0.092,0.143,0.216,0
+"P32","Apoyar totalmente la iniciativa del gobierno nacional porque es lo que votó la mayoría del pueblo argentino",0.063,0.122,0.283,0.245
+"P32","No sabe",0.053,0.05,0.037,0.135
+"P33","Oponerse totalmente y no concurrir a la convocatoria",0.445,0.383,0.289,0.437
+"P33","Oponerse parcialmente y concurrir a la convocatoria",0.303,0.207,0.105,0.144
+"P33","Apoyar la iniciativa del gobierno nacional y negociar otros temas en discusión",0.155,0.268,0.302,0.285
+"P33","Apoyar totalmente la iniciativa del gobierno nacional",0.056,0.09,0.277,0.118
+"P33","No sabe",0.041,0.052,0.027,0.016
+"P34","Oponerse totalmente",0.505,0.409,0.315,0.318
+"P34","Oponerse parcialmente",0.195,0.147,0.058,0.185
+"P34","Apoyar parcialmente",0.175,0.293,0.252,0.322
+"P34","Apoyar totalmente",0.085,0.101,0.344,0.157
+"P34","No sabe",0.04,0.05,0.031,0.018
+"P35","Inseguridad y narcotráfico",0.323,0.36,0.367,0.161
+"P35","Altos impuestos y tarifas",0.259,0.161,0.168,0.232
+"P35","Educación y estado de las escuelas",0.194,0.216,0.106,0.209
+"P35","Inflación",0.116,0.18,0.144,0.145
+"P35","Estado de la salud",0.045,0.046,0.114,0.048
+"P35","Corrupción",0.027,0.017,0.07,0.12
+"P35","Pobreza",0.005,0.005,0.012,0.016
+"P35","Medio ambiente, incendios y contaminación",0.005,0.001,0,0.034
+"P35","Falta de trabajo",0.024,0.009,0.019,0
+"P35","No sabe",0.002,0.005,0,0.035
+"P39","Positiva",0.426,0.112,0.058,0.034
+"P39","Neutra",0.306,0.458,0.169,0.207
+"P39","Negativa",0.243,0.381,0.739,0.488
+"P39","No sabe",0.025,0.049,0.034,0.271
+"P40","Peor",0.488,0.539,0.666,0.438
+"P40","Igual",0.31,0.27,0.249,0.141
+"P40","Mejor",0.142,0.105,0.036,0.035
+"P40","No sabe",0.06,0.086,0.049,0.386
+"P41","Peor",0.422,0.49,0.555,0.394
+"P41","Igual",0.272,0.247,0.247,0.231
+"P41","Mejor",0.227,0.171,0.131,0.168
+"P41","No sabe",0.079,0.092,0.067,0.207
+"P42","Javier Milei",0.262,0.314,0.575,0.102
+"P42","Los gobernadores",0.635,0.515,0.349,0.635
+"P42","No sabe",0.103,0.171,0.076,0.263
+"P43","Positiva",0.81,0.249,0.09,0.3
+"P43","Neutra",0.122,0.581,0.183,0.28
+"P43","Negativa",0.065,0.154,0.714,0.095
+"P43","No sabe",0.003,0.016,0.013,0.325
+"P45","Positiva",0.479,0.297,0.187,0.413
+"P45","Neutra",0.292,0.363,0.198,0.183
+"P45","Negativa",0.192,0.277,0.591,0.279
+"P45","No sabe",0.037,0.063,0.024,0.125
+"P46","Positiva",0.347,0.223,0.309,0.168
+"P46","Neutra",0.327,0.425,0.308,0.275
+"P46","Negativa",0.27,0.278,0.341,0.239
+"P46","No sabe",0.056,0.074,0.042,0.318
+"P49","Positiva",0.567,0.378,0.24,0.505
+"P49","Neutra",0.094,0.185,0.076,0.055
+"P49","Negativa",0.329,0.426,0.676,0.44
+"P49","No sabe",0.01,0.011,0.008,0
+"P50","Positiva",0.273,0.185,0.27,0
+"P50","Neutra",0.165,0.21,0.198,0.303
+"P50","Negativa",0.551,0.602,0.531,0.652
+"P50","No sabe",0.011,0.003,0.001,0.045
+"P51","Positiva",0.448,0.252,0.148,0.303
+"P51","Neutra",0.187,0.275,0.129,0.186
+"P51","Negativa",0.362,0.471,0.719,0.467
+"P51","No sabe",0.003,0.002,0.004,0.044
+"P52","Positiva",0.501,0.365,0.263,0.506
+"P52","Neutra",0.147,0.151,0.054,0.054
+"P52","Negativa",0.349,0.448,0.679,0.424
+"P52","No sabe",0.003,0.036,0.004,0.016
+"P53","Positiva",0.358,0.365,0.522,0.384
+"P53","Neutra",0.118,0.103,0.076,0.072
+"P53","Negativa",0.515,0.516,0.39,0.5
+"P53","No sabe",0.009,0.016,0.012,0.044
+"P54","Positiva",0.353,0.299,0.519,0.271
+"P54","Neutra",0.129,0.166,0.096,0.018
+"P54","Negativa",0.512,0.527,0.376,0.667
+"P54","No sabe",0.006,0.008,0.009,0.044
+"P55","Positiva",0.32,0.302,0.555,0.271
+"P55","Neutra",0.195,0.229,0.104,0.113
+"P55","Negativa",0.46,0.431,0.339,0.556
+"P55","No sabe",0.025,0.038,0.002,0.06
+"P56","Positiva",0.327,0.165,0.267,0.115
+"P56","Neutra",0.354,0.451,0.351,0.264
+"P56","Negativa",0.277,0.319,0.36,0.384
+"P56","No sabe",0.042,0.065,0.022,0.237

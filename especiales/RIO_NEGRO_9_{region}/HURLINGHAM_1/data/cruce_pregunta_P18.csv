@@ -1,0 +1,152 @@
+"var","categoria","Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria","Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio","Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza","Al candidato a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda","En blanco","No sabe"
+"P05","Mucho",0.379,0.335,0.412,0.195,0.305,0.243
+"P05","Bastante",0.387,0.379,0.283,0.314,0.232,0.244
+"P05","Poco",0.177,0.204,0.237,0.25,0.272,0.358
+"P05","Nada",0.05,0.073,0.068,0.241,0.129,0.095
+"P05","No sabe",0.007,0.009,0,0,0.062,0.06
+"P06","Siempre",0.287,0.256,0.194,0.127,0.098,0.08
+"P06","Casi siempre",0.35,0.389,0.372,0.382,0.298,0.343
+"P06","Casi nunca",0.249,0.263,0.272,0.154,0.322,0.461
+"P06","Nunca, pero esta es una excepción",0.114,0.092,0.162,0.337,0.282,0.116
+"P08","Unión por la Patria y el peronismo",0.782,0.089,0.064,0.173,0.26,0.227
+"P08","Juntos por el Cambio",0.096,0.792,0.088,0.105,0.308,0.179
+"P08","De los Liberales libertarios",0.036,0.061,0.712,0.174,0.11,0.023
+"P08","De la Izquierda",0.009,0.011,0.004,0.443,0.027,0.025
+"P08","No sabe",0.077,0.047,0.132,0.105,0.295,0.546
+"P09","A Sergio Massa",0.346,0.496,0.529,0.452,0.145,0.167
+"P09","A Daniel Scioli",0.145,0.08,0.344,0,0.09,0.019
+"P09","A algún candidato del peronismo",0.082,0.4,0.127,0,0,0.07
+"P09","Wado de Pedro",0.427,0.024,0,0.548,0.765,0.744
+"P10","A Horacio Rodriguez Larreta",0.091,0.226,0.48,0,0.431,0.591
+"P10","A Patricia Bullrich",0.692,0.753,0.52,1,0.36,0.361
+"P10","A Facundo Manes",0.125,0.021,0,0,0.209,0.041
+"P10","A Gerardo Morales",0.092,0,0,0,0,0.007
+"P11","Wado de Pedro a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.434,0.107,0.072,0.155,0.08,0.027
+"P11","Wado de Pedro a presidente, Axel Kicillof a gobernador y Damián Selci a intendente por Unión por la Patria",0.341,0.039,0.022,0.066,0.269,0.206
+"P11","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.097,0.618,0.068,0.07,0.131,0.08
+"P11","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.035,0.189,0.055,0.123,0.167,0.132
+"P11","Javier Milei a presidente, Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.048,0.034,0.694,0.174,0.145,0.095
+"P11","Al candidato a presidente, a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda",0.004,0,0,0.267,0,0.014
+"P11","En blanco",0.003,0,0,0,0.106,0.025
+"P11","No sabe",0.038,0.013,0.089,0.145,0.102,0.421
+"P13","Wado de Pedro a presidente, Axel Kicillof a gobernador y Damián Selci a intendente por Unión por la Patria",0.513,0.058,0.041,0.018,0.256,0.237
+"P13","Wado de Pedro a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.317,0.037,0.005,0.125,0.043,0.022
+"P13","Daniel Scioli a presidente, Victoria Tolosa Paz gobernadora y su candidato a intendente por Unión por la Patria",0.065,0.052,0.09,0,0.183,0.037
+"P13","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.055,0.612,0.055,0.154,0.12,0.079
+"P13","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.011,0.204,0.199,0,0.191,0.13
+"P13","Javier Milei a presidente, Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.011,0.026,0.597,0.078,0.024,0.067
+"P13","Al candidato a presidente, a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda",0,0,0,0.43,0.047,0
+"P13","En blanco",0.014,0.005,0,0.122,0.112,0.166
+"P13","No sabe",0.014,0.006,0.013,0.073,0.024,0.262
+"P14","Wado de Pedro a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.868,0.068,0.043,0.021,0,0.047
+"P14","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.02,0.84,0.066,0.049,0.185,0.153
+"P14","Javier Milei a presidente, Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.024,0.05,0.838,0,0.141,0.057
+"P14","Al candidato a presidente, a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda ",0.003,0.005,0.017,0.576,0.084,0
+"P14","En blanco",0.011,0.018,0.016,0.121,0.499,0.06
+"P14","No sabe",0.074,0.019,0.02,0.233,0.091,0.683
+"P15","Wado de Pedro a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.896,0.05,0.064,0.155,0.025,0.058
+"P15","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.015,0.756,0.061,0.209,0.219,0.212
+"P15","Javier Milei a presidente, Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.033,0.067,0.847,0,0.174,0.053
+"P15","Al candidato a presidente, a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda",0,0,0.021,0.461,0,0.009
+"P15"," En blanco",0.021,0.048,0.003,0.102,0.501,0.044
+"P15","No sabe",0.035,0.079,0.004,0.073,0.081,0.624
+"P16","Wado de Pedro a presidente, Axel Kicillof a gobernador y Damian Selci a intendente por Unión por la Patria",0.778,0.073,0.053,0.204,0.217,0.214
+"P16","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.057,0.836,0.057,0.161,0.189,0.122
+"P16","Javier Milei a presidente, Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.032,0.053,0.879,0.009,0.147,0.056
+"P16","Al candidato a presidente, a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda ",0.013,0,0,0.441,0.052,0
+"P16","En blanco",0.077,0.022,0,0.112,0.365,0.049
+"P16","No sabe",0.043,0.016,0.011,0.073,0.03,0.559
+"P17","Wado de Pedro a presidente, Axel Kicillof a gobernador y Damian Selci a intendente por Unión por la Patria",0.81,0.083,0.041,0.058,0.237,0.224
+"P17","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.05,0.708,0.123,0.233,0.196,0.167
+"P17","Javier Milei a presidente, Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.027,0.088,0.817,0.009,0.149,0.079
+"P17","Al candidato a presidente, a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda ",0.014,0,0,0.451,0,0.019
+"P17","En blanco",0.075,0.057,0.019,0.249,0.376,0.072
+"P17","No sabe",0.024,0.064,0,0,0.042,0.439
+"P19","Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.922,0.06,0.044,0.046,0.044,0.016
+"P19","Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.016,0.817,0.088,0.035,0.153,0.142
+"P19","Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0,0.032,0.865,0.073,0.016,0.026
+"P19","Al candidato a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda",0,0.005,0.003,0.606,0.016,0
+"P19","En blanco",0.034,0.041,0,0.24,0.692,0.038
+"P19","No sabe",0.028,0.045,0,0,0.079,0.778
+"P20","Axel Kicillof a gobernador y Damian Selci a intendente por Unión por la Patria",0.769,0.032,0.064,0.011,0.264,0.255
+"P20","Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.031,0.873,0.051,0.25,0.169,0.111
+"P20","Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.03,0.022,0.841,0.077,0.049,0.029
+"P20","Al candidato a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda",0.049,0.008,0,0.587,0.049,0.016
+"P20","En blanco",0.069,0.021,0.029,0.075,0.428,0.017
+"P20","No sabe",0.052,0.044,0.015,0,0.041,0.572
+"P21","Axel Kicillof a gobernador y Damian Selci a intendente por Unión por la Patria",0.826,0.033,0.013,0.013,0.358,0.253
+"P21","Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.027,0.844,0.136,0.046,0.154,0.185
+"P21","Carolina Piparo a gobernadora y Rafael De Francesco a intendente por la Libertad Avanza",0.032,0.041,0.837,0.029,0.019,0.002
+"P21","Al candidato a gobernador y Alejandro Chayán a intendente por el Frente de Izquierda",0.024,0,0.014,0.647,0.012,0.046
+"P21","En blanco",0.07,0.036,0,0.265,0.386,0
+"P21","No sabe",0.021,0.046,0,0,0.071,0.514
+"P22","Lo votaría",0.618,0.228,0.143,0.35,0.098,0.102
+"P22","Puede que lo vote",0.31,0.218,0.189,0.256,0.307,0.244
+"P22","Nunca lo votaría",0.049,0.407,0.569,0.142,0.503,0.348
+"P22","No sabe",0.023,0.147,0.099,0.252,0.092,0.306
+"P23","Lo votaría",0.532,0.185,0.083,0.013,0.458,0.308
+"P23","Puede que lo vote",0.234,0.159,0.258,0.595,0.062,0.175
+"P23","Nunca lo votaría",0.17,0.562,0.454,0.203,0.389,0.179
+"P23","No sabe",0.064,0.094,0.205,0.189,0.091,0.338
+"P24","La votaría",0.194,0.5,0.092,0.206,0.027,0.064
+"P24","Puede que la vote",0.15,0.268,0.268,0.376,0.201,0.2
+"P24","Nunca la votaría",0.582,0.158,0.444,0.229,0.689,0.435
+"P24","No sabe",0.074,0.074,0.196,0.189,0.083,0.301
+"P25","Lo votaría",0.157,0.512,0.1,0.176,0.119,0.124
+"P25","Puede que lo vote",0.161,0.212,0.287,0.36,0.069,0.246
+"P25","Nunca lo votaría",0.571,0.217,0.503,0.32,0.731,0.406
+"P25","No sabe",0.111,0.059,0.11,0.144,0.081,0.224
+"P26","Lo votaría",0.111,0.208,0.476,0.222,0.016,0.038
+"P26","Puede que lo vote",0.177,0.187,0.191,0.186,0.108,0.201
+"P26","Nunca lo votaría",0.59,0.456,0.204,0.383,0.767,0.492
+"P26","No sabe",0.122,0.149,0.129,0.209,0.109,0.269
+"P27","Lo votaría",0.123,0.136,0.094,0.071,0.005,0
+"P27","Puede que lo vote",0.128,0.138,0.19,0.464,0.103,0.239
+"P27","Nunca lo votaría",0.584,0.632,0.538,0.291,0.777,0.492
+"P27","No sabe",0.165,0.094,0.178,0.174,0.115,0.269
+"P28","Lo votaría",0.772,0.12,0.02,0.411,0.403,0.261
+"P28","Puede que lo vote",0.093,0.136,0.155,0.113,0.084,0.188
+"P28","Nunca lo votaría",0.09,0.729,0.785,0.25,0.467,0.383
+"P28","No sabe",0.045,0.015,0.04,0.226,0.046,0.168
+"P29","La votaría",0.379,0.122,0.019,0,0.138,0.057
+"P29","Puede que la vote",0.373,0.114,0.159,0.335,0.174,0.253
+"P29","Nunca la votaría",0.195,0.719,0.805,0.385,0.58,0.386
+"P29","No sabe",0.053,0.045,0.017,0.28,0.108,0.304
+"P30","Lo votaría",0.188,0.562,0.099,0.497,0.072,0.017
+"P30","Puede que lo vote",0.09,0.188,0.317,0.113,0.166,0.155
+"P30","Nunca lo votaría",0.639,0.208,0.466,0.274,0.659,0.44
+"P30","No sabe",0.083,0.042,0.118,0.116,0.103,0.388
+"P31","Lo votaría",0.117,0.681,0.107,0.2,0.165,0.184
+"P31","Puede que lo vote",0.13,0.214,0.391,0.422,0.087,0.244
+"P31","Nunca lo votaría",0.693,0.082,0.481,0.226,0.614,0.4
+"P31","No sabe",0.06,0.023,0.021,0.152,0.134,0.172
+"P32","La votaría",0.127,0.186,0.532,0.334,0,0.079
+"P32","Puede que la vote",0.102,0.199,0.143,0.076,0.141,0.112
+"P32","Nunca la votaría",0.645,0.516,0.239,0.402,0.773,0.493
+"P32","No sabe",0.126,0.099,0.086,0.188,0.086,0.316
+"P33","Lo votaría",0.433,0.123,0.19,0.111,0.069,0.089
+"P33","Puede que lo vote",0.358,0.133,0.15,0.454,0.186,0.183
+"P33","Nunca lo votaría",0.174,0.713,0.643,0.282,0.561,0.47
+"P33","No sabe",0.035,0.031,0.017,0.153,0.184,0.258
+"P34","Lo votaría",0.624,0.106,0.02,0.348,0.34,0.25
+"P34","Puede que lo vote",0.225,0.128,0.177,0.128,0.152,0.092
+"P34","Nunca lo votaría",0.116,0.747,0.797,0.371,0.416,0.443
+"P34","No sabe",0.035,0.019,0.006,0.153,0.092,0.215
+"P35","Lo votaría",0.339,0.12,0.046,0.112,0.141,0.103
+"P35","Puede que lo vote",0.437,0.169,0.154,0.45,0.301,0.294
+"P35","Nunca lo votaría",0.208,0.609,0.783,0.287,0.496,0.418
+"P35","No sabe",0.016,0.102,0.017,0.151,0.062,0.185
+"P36","La votaría",0.128,0.811,0.437,0.426,0.089,0.175
+"P36","Puede que la vote",0.183,0.093,0.21,0.19,0.155,0.222
+"P36","Nunca la votaría",0.642,0.094,0.347,0.322,0.692,0.459
+"P36","No sabe",0.047,0.002,0.006,0.062,0.064,0.144
+"P37","Lo votaría",0.078,0.659,0.193,0.202,0.156,0.242
+"P37","Puede que lo vote",0.173,0.195,0.204,0.425,0.209,0.213
+"P37","Nunca lo votaría",0.709,0.131,0.585,0.311,0.592,0.386
+"P37","No sabe",0.04,0.015,0.018,0.062,0.043,0.159
+"P38","Lo votaría",0.082,0.257,0.835,0.372,0.034,0.177
+"P38","Puede que lo vote",0.171,0.306,0.038,0.19,0.277,0.219
+"P38","Nunca lo votaría",0.692,0.33,0.127,0.376,0.58,0.505
+"P38","No sabe",0.055,0.107,0,0.062,0.109,0.099
+"P39","Si",0.456,0.361,0.514,0.242,0.429,0.195
+"P39","No",0.544,0.639,0.486,0.758,0.571,0.805

@@ -1,0 +1,63 @@
+"var","categoria","La votaría","Puede que la vote","Nunca la votaría","No sabe"
+"P05","Siempre",0.189,0.083,0.167,0.123
+"P05","Casi siempre",0.189,0.301,0.225,0.234
+"P05","Casi nunca",0.489,0.385,0.333,0.253
+"P05","Nunca, pero esta es una excepción",0.133,0.231,0.275,0.39
+"P07","Muy de acuerdo",0.26,0.15,0.152,0.161
+"P07","De acuerdo",0.267,0.434,0.322,0.2
+"P07","Ni a favor ni en contra",0.319,0.233,0.293,0.301
+"P07","En desacuerdo",0.092,0.069,0.08,0.142
+"P07","Muy en desacuerdo",0.062,0.108,0.133,0.171
+"P07","No sabe",0,0.006,0.02,0.025
+"P08","Muy buena",0.227,0.028,0.005,0
+"P08","Buena",0.347,0.267,0.022,0.096
+"P08","Ni buena ni mala",0.319,0.545,0.303,0.266
+"P08","Mala",0.06,0.054,0.316,0.208
+"P08","Muy mala",0.021,0.023,0.294,0.096
+"P08","No sabe",0.026,0.083,0.06,0.334
+"P09","Liliana Alvarado por Nos Une Río Negro",0.58,0.149,0.023,0.025
+"P09","Hernán Cáceres por Cambia Cinco Saltos",0.138,0.205,0.246,0.038
+"P09","Quique Rossi por Avancemos Cinco Saltos",0.029,0.084,0.213,0.142
+"P09","María Elena Vogel por Juntos Somos Río Negro",0.086,0.133,0.134,0.055
+"P09","Silvina Gastiazoro por Nueva Generación",0.033,0.021,0.035,0.046
+"P09","Miguel Vidal por el Partido Socialista",0,0.06,0.095,0.069
+"P09","Martín Palumbo por Vamos Con Todos",0.014,0.012,0.033,0
+"P09","Norberto Soto por la UCR",0.024,0,0.032,0.017
+"P09","No sabe",0.096,0.336,0.189,0.608
+"P10","A Liliana Alvarado por Nos Une Río Negro con el apoyo del kirchnerismo, Martín Doñate y La Cámpora",0.576,0.189,0.042,0.057
+"P10","A Hernán Cáceres por Cambia Cinco Saltos con el apoyo de una parte del PRO",0.101,0.257,0.27,0.19
+"P10","A Quique Rossi  por Avancemos Cinco Saltos",0.115,0.103,0.167,0.096
+"P10","A María Elena Vogel por Juntos Somos Río Negro con el apoyo de Alberto Weretilneck",0.07,0.154,0.176,0.055
+"P10","A Silvina Gastiazoro por Nueva Generación",0.033,0.014,0.033,0.016
+"P10","A Miguel Vidal por el Partido Socialista con el apoyo de una parte del PRO y de Anibal Tortoriello",0,0.024,0.058,0.054
+"P10","A Martín Palumbo por Vamos Con Todos con el apoyo del Movimiento Evita y de Silvia Horne",0.02,0.013,0.03,0.006
+"P10","A Norberto Soto por la UCR con el apoyo del radicalismo",0,0,0.024,0.017
+"P10","No sabe",0.085,0.246,0.2,0.509
+"P12","Lo votaría",0.169,0.203,0.284,0.11
+"P12","Puede que lo vote",0.27,0.415,0.252,0.166
+"P12","Nunca lo votaría",0.433,0.205,0.357,0.084
+"P12","No sabe",0.128,0.177,0.107,0.64
+"P13","La votaría",0.115,0.109,0.147,0
+"P13","Puede que la vote",0.104,0.385,0.243,0.062
+"P13","Nunca la votaría",0.607,0.22,0.478,0.197
+"P13","No sabe",0.174,0.286,0.132,0.741
+"P14","Lo votaría",0.127,0.077,0.126,0.016
+"P14","Puede que lo vote",0.102,0.282,0.135,0.045
+"P14","Nunca lo votaría",0.691,0.411,0.629,0.187
+"P14","No sabe",0.08,0.23,0.11,0.752
+"P15","Lo votaría",0.133,0.095,0.194,0.08
+"P15","Puede que lo vote",0.164,0.336,0.226,0.078
+"P15","Nunca lo votaría",0.577,0.35,0.484,0.16
+"P15","No sabe",0.126,0.219,0.096,0.682
+"P16","Lo votaría",0.109,0.106,0.043,0.007
+"P16","Puede que lo vote",0.119,0.199,0.09,0.01
+"P16","Nunca lo votaría",0.535,0.383,0.687,0.203
+"P16","No sabe",0.237,0.312,0.18,0.78
+"P17","Lo votaría",0.079,0.024,0.038,0.029
+"P17","Puede que lo vote",0.131,0.156,0.061,0.016
+"P17","Nunca lo votaría",0.52,0.397,0.664,0.188
+"P17","No sabe",0.27,0.423,0.237,0.767
+"P18","La votaría",0.111,0.059,0.062,0.011
+"P18","Puede que la vote",0.071,0.183,0.066,0.06
+"P18","Nunca la votaría",0.569,0.355,0.644,0.198
+"P18","No sabe",0.249,0.403,0.228,0.731

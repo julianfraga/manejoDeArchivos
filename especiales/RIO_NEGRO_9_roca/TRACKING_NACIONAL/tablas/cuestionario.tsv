@@ -1,0 +1,43 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P20	Política y Gestión	opinion	Evaluación de la gestion del gobierno nacional	Evaluación de la gestion del gobierno nacional	
+P22	Política y Gestión	opinion	Evaluación de la política económica del gobierno nacional	Evaluación de la política económica del gobierno nacional	
+P23	Política y Gestión	opinion	Evaluación de la política social del gobierno nacional	Evaluación de la política social del gobierno nacional	
+P24	Política y Gestión	opinion	Evaluación de la política de seguridad del gobierno nacional	Evaluación de la política de seguridad del gobierno nacional	
+P12	Socioeconómico		Endeudamiento familiar	Endeudamiento familiar	
+P13	Socioeconómico		Ingresos familiares	Ingresos familiares	
+P08	Socioeconómico		Principales Problemas del país	Principales Problema del país	
+P14	Socioeconómico	opinion	Situación económica personal actual	Percepción de la situación económica personal	
+P15	Socioeconómico	opinion	Situación económica personal en comparación con seis meses atrás	Percepción de la situación económica personal en comparación con seis meses atrás	
+P16	Socioeconómico	opinion	Expectativa económica personal para dentro de seis meses	Expectativa económica personal para dentro de seis meses	
+P17	Socioeconómico	opinion	Situación económica actual del país	Percepción de la situación económica del país	
+P18	Socioeconómico	opinion	Situación ecónomica del país en comparación con seis meses atrás	Percepción de la situación económica del país en comparación con seis meses atrás	
+P19	Socioeconómico	opinion	Expectativa económica del país para dentro de seis meses	Expectativa económica del país para dentro de seis meses	
+P25	Electoral	politica	¿En las elecciones presidenciales de este año, al candidato de qué espacio político votaría?	Intención de voto para elecciones presidenciales 2023	
+P28	Electoral	politica	¿A cúal de los siguientes dirigentes del Frente de Todos y el peronismo preferiría ud. votar? (Solo para quienes tienen intención de votar al Frente de Todos)	Preferencia de voto dentro del Frente de Todos (Solo para quienes tienen intención de votar al Frente de Todos)	
+P30	Electoral	politica	Y si en cambio, los candidatos del Frente de Todos y el peronismo fuesen los siguientes ¿A cúal preferiría ud. votar? Escenario con CFK (Solo para quienes tienen intención de votar al Frente de Todos)	Preferencia de voto dentro del Frente de Todos, Escenario con CFK. (Solo para quienes tienen intención de votar al Frente de Todos)	
+P31	Electoral	politica	¿A cúal de los siguientes dirigentes de Cambiemos preferiría ud. votar? (Solo para quienes tienen intención de votar a Cambiemos)	Preferencia de voto dentro de Cambiemos (Solo para quienes tienen intención de votar a Cambiemos)	
+P39	Reach de candidatos	votaria	Si Patricia Bullrich fuera candidata a presidente, ud…	Preferencia de voto a Patricia Bullrich	
+P40	Reach de candidatos	votaria	Si Sergio Massa fuera candidata a presidente, ud…	Preferencia de voto a Sergio Massa	
+P41	Reach de candidatos	votaria	Si Javier Milei fuera candidata a presidente, ud…	Preferencia de voto a Javier Milei	
+P42	Reach de candidatos	votaria	Si Horacio Rodríguez Larreta fuera candidato a presidente, ud…	Preferencia de voto a Horacio Rodríguez Larreta	
+P67	Consumo de Medios y Poderes Legislativo y Judicial	qualitative	Consumo de Medios de Comunicación	Consumo de Medios de Comunicación	
+P68	Consumo de Medios y Poderes Legislativo y Judicial	opinion	Imagen del Congreso Nacional	Imagen del Congreso Nacional	
+P69	Consumo de Medios y Poderes Legislativo y Judicial	opinion	Imagen del Poder Judicial	Imagen del Poder Judicial	
+P46	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Alberto Fernandez?	Imagen de Alberto Fernandez	
+P47	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner	
+P48	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P49	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Horacio Rodriguez Larreta?	Imagen de Horacio Rodriguez Larreta	
+P50	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	
+P51	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Maria Eugenia Vidal?	Imagen de Maria Eugenia Vidal	
+P52	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen de Axel Kicillof	
+P54	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Daniel Scioli?	Imagen de Daniel Scioli	
+P57	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P58	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich	
+P59	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Facundo Manes?	Imagen de Facundo Manes	
+P60	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Wado de Pedro?	Imagen de Wado de Pedro	
+P61	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Maximo Kirchner?	Imagen de Maximo Kirchner	
+P62	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Malena Galmarini?	Imagen de Malena Galmarini	
+P63	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Elisa Carrio?	Imagen de Elisa Carrio	
+P64	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Martin Lousteau?	Imagen de Martin Lousteau	
+P65	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Gerardo Morales?	Imagen de Gerardo Morales	
+P66	Imágen individual de dirigentes y funcionarios	imagen	¿Qué imagen tiene de Juan Schiaretti?	Imagen de Juan Schiaretti	

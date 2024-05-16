@@ -1,0 +1,161 @@
+"var","categoria","El anterior gobierno de Alberto Fernández","El actual gobierno de Javier Milei","No sabe"
+"P10","Gran excedente habitual",0.008,0,0
+"P10","Gran excedente excepcional",0,0,0
+"P10","Pequeño excedente habitual",0.126,0,0.039
+"P10","Pequeño excedente excepcional",0.007,0,0
+"P10","Alcanza gastos familia",0.136,0,0.213
+"P10","No alcanza gastos familia",0.111,0,0.562
+"P10","Solo NBFamiliares",0.27,0,0
+"P10","No alcanza NBFamiliares",0.342,0,0.186
+"P10","No sabe",0,0,0
+"P11","Muy buena",0.071,0,0.186
+"P11","Buena",0.324,0,0.187
+"P11","Ni buena ni mala",0.341,0,0.627
+"P11","Mala",0.044,0,0
+"P11","Muy mala",0.212,0,0
+"P11","No sabe",0.008,0,0
+"P12","Muy buena",0.24,0,0
+"P12","Buena",0.192,0,0
+"P12","Ni buena ni mala",0.096,0,0
+"P12","Mala",0.196,0,0.562
+"P12","Muy mala",0.195,0,0.438
+"P12","No sabe",0.081,0,0
+"P13","Muy buena",0.086,0,0
+"P13","Buena",0.141,0,0.039
+"P13","Ni buena ni mala",0.455,0,0.213
+"P13","Mala",0.168,0,0.748
+"P13","Muy mala",0.15,0,0
+"P13","No sabe",0,0,0
+"P15","Muy buena",0.198,0,0
+"P15","Buena",0.404,0,0.399
+"P15","Ni buena ni mala",0.171,0,0.601
+"P15","Mala",0.097,0,0
+"P15","Muy mala",0.034,0,0
+"P15","No sabe",0.096,0,0
+"P19","Muy buena",0.101,0,0
+"P19","Buena",0.152,0,0
+"P19","Ni buena ni mala",0.167,0,0.223
+"P19","Mala",0.32,0,0.592
+"P19","Muy mala",0.26,0,0.185
+"P19","No sabe",0,0,0
+"P20","Muy buena",0.004,0,0
+"P20","Buena",0.095,0,0
+"P20","Ni buena ni mala",0.247,0,0.03
+"P20","Mala",0.464,0,0
+"P20","Muy mala",0.19,0,0.241
+"P20","No sabe",0,0,0.729
+"P21","Muy buena",0,0,0
+"P21","Buena",0.346,0,0.047
+"P21","Ni buena ni mala",0.23,0,0.273
+"P21","Mala",0.33,0,0.68
+"P21","Muy mala",0.094,0,0
+"P21","No sabe",0,0,0
+"P22","Muy de acuerdo",0.217,0,0.243
+"P22","De acuerdo",0.473,0,0.031
+"P22","Ni de acuerdo ni en desacuerdo",0.176,0,0.046
+"P22","En desacuerdo",0.013,0,0.68
+"P22","Muy en desacuerdo",0.037,0,0
+"P22","No sabe",0.084,0,0
+"P23","El estado nacional",0,0,0
+"P23","El estado provincial",0.668,0,1
+"P23","Ambos de forma coordinada",0.323,0,0
+"P23","No sabe",0.009,0,0
+"P24","Inseguridad y narcotráfico",0.188,0,0.232
+"P24","Altos impuestos y tarifas",0.242,0,0.047
+"P24","Educación y estado de las escuelas",0.064,0,0.032
+"P24","Inflación",0.33,0,0
+"P24","Estado de la salud",0.029,0,0
+"P24","Corrupción",0.057,0,0.689
+"P24","Pobreza",0.011,0,0
+"P24","Medio ambiente, incendios y contaminación",0,0,0
+"P24","Falta de trabajo",0.079,0,0
+"P24","No sabe",0,0,0
+"P28","Muy buena",0,0,0
+"P28","Buena",0.117,0,0.047
+"P28","Ni buena ni mala",0.31,0,0
+"P28","Mala",0.352,0,0.264
+"P28","Muy mala",0.142,0,0
+"P28","No sabe",0.079,0,0.689
+"P29","Peor",0.293,0,1
+"P29","Igual",0.382,0,0
+"P29","Mejor",0.129,0,0
+"P29","No sabe",0.196,0,0
+"P30","Peor",0.27,0,0.279
+"P30","Igual",0.477,0,0.689
+"P30","Mejor",0.103,0,0.032
+"P30","No sabe",0.15,0,0
+"P31","Javier Milei",0.495,0,0
+"P31","Los gobernadores",0.417,0,0.311
+"P31","No sabe",0.088,0,0.689
+"P32","Muy buena",0.236,0,0
+"P32","Buena",0.191,0,0.041
+"P32","Ni buena ni mala",0.177,0,0.063
+"P32","Mala",0.371,0,0.896
+"P32","Muy mala",0.025,0,0
+"P32","No sabe",0,0,0
+"P33","Muy buena",0.103,0,0
+"P33","Buena",0.259,0,0.041
+"P33","Ni buena ni mala",0.167,0,0
+"P33","Mala",0.354,0,0
+"P33","Muy mala",0.117,0,0.959
+"P33","No sabe",0,0,0
+"P34","Muy buena",0.048,0,0
+"P34","Buena",0.057,0,0.063
+"P34","Ni buena ni mala",0.345,0,0.041
+"P34","Mala",0.439,0,0.896
+"P34","Muy mala",0,0,0
+"P34","No sabe",0.111,0,0
+"P35","Muy buena",0.078,0,0
+"P35","Buena",0.13,0,0
+"P35","Ni buena ni mala",0.247,0,0.938
+"P35","Mala",0.231,0,0.062
+"P35","Muy mala",0.084,0,0
+"P35","No sabe",0.23,0,0
+"P36","Muy buena",0.165,0,0
+"P36","Buena",0.035,0,0.063
+"P36","Ni buena ni mala",0.026,0,0.041
+"P36","Mala",0.286,0,0
+"P36","Muy mala",0.463,0,0.896
+"P36","No sabe",0.025,0,0
+"P37","Muy buena",0.165,0,0
+"P37","Buena",0.185,0,0
+"P37","Ni buena ni mala",0.051,0,0
+"P37","Mala",0.306,0,0.937
+"P37","Muy mala",0.293,0,0.063
+"P37","No sabe",0,0,0
+"P38","Muy buena",0,0,0.063
+"P38","Buena",0.037,0,0
+"P38","Ni buena ni mala",0.121,0,0
+"P38","Mala",0.482,0,0.041
+"P38","Muy mala",0.36,0,0.896
+"P38","No sabe",0,0,0
+"P39","Muy buena",0.062,0,0.063
+"P39","Buena",0.174,0,0
+"P39","Ni buena ni mala",0.021,0,0.041
+"P39","Mala",0.281,0,0
+"P39","Muy mala",0.462,0,0.896
+"P39","No sabe",0,0,0
+"P40","Muy buena",0.217,0,0
+"P40","Buena",0.025,0,0
+"P40","Ni buena ni mala",0.334,0,0
+"P40","Mala",0.152,0,0.896
+"P40","Muy mala",0.272,0,0.104
+"P40","No sabe",0,0,0
+"P41","Muy buena",0.237,0,0
+"P41","Buena",0.22,0,0
+"P41","Ni buena ni mala",0.14,0,0.896
+"P41","Mala",0.144,0,0
+"P41","Muy mala",0.259,0,0.104
+"P41","No sabe",0,0,0
+"P42","Muy buena",0.227,0,0
+"P42","Buena",0.138,0,0
+"P42","Ni buena ni mala",0.221,0,0.896
+"P42","Mala",0.177,0,0.063
+"P42","Muy mala",0.237,0,0.041
+"P42","No sabe",0,0,0
+"P43","Muy buena",0.025,0,0
+"P43","Buena",0.258,0,0.896
+"P43","Ni buena ni mala",0.536,0,0.041
+"P43","Mala",0.022,0,0.063
+"P43","Muy mala",0.149,0,0
+"P43","No sabe",0.01,0,0

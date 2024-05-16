@@ -1,0 +1,7 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P07	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P08	General	diverging	que imagen tiene usted de Lula el actual presidente de Brasil 	Imagen sobre Lula Da Silva	
+P09	General	diverging	En el caso que Lula apoyase explícitamente la candidatura de Sergio Massa, cual sería su opinión al respecto	Opinión sobre el posible apoyo de Lula a la candidatura de Sergio Massa	
+P11	Control	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto por candidatos a Presidente en segunda vuelta electoral	
+P13	General	votaria	Votaría usted como candidato a Presidente a Sergio Massa 	Intención de voto por Javier Milei a Presidente	
+P14	General	votaria	Votaría usted como candidato a Presidente a Javier Milei	Intención de voto por Javier Milei a Presidente	

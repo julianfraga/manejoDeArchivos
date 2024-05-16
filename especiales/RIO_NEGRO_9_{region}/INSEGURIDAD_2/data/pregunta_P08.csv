@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","CABA","Centro","1 cordón GBA","2 cordón GBA","3 cordón GBA","Cuyo","Interior GBA","NEA","NOA","Patagonia"
+"Han aumentado en el último mes",0.419,0.423,0.414,0.456,0.449,0.401,0.324,0.451,0.411,0.394,0.38,0.455,0.405,0.414,0.329,0.501,0.394,0.427,0.446,0.343
+"Han disminuido en el ultimo mes",0.079,0.08,0.078,0.068,0.071,0.09,0.096,0.107,0.07,0.06,0.077,0.064,0.097,0.101,0.156,0.046,0.09,0.087,0.076,0.03
+"Se mantienen igual que el mes anterior",0.348,0.364,0.334,0.316,0.345,0.352,0.393,0.304,0.352,0.392,0.381,0.37,0.319,0.33,0.34,0.333,0.381,0.303,0.295,0.397
+"No sabe",0.154,0.133,0.174,0.16,0.135,0.157,0.187,0.138,0.167,0.154,0.162,0.111,0.179,0.155,0.175,0.12,0.135,0.183,0.183,0.23

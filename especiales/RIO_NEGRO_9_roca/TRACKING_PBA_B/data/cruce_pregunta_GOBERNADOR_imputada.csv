@@ -1,0 +1,30 @@
+"var","categoria","Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria","Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio","Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza","Gobernador y vicegobernador de la izquierda","En blanco"
+"P26","Totalmente seguro",0.813,0.756,0.794,0.526,0.534
+"P26","Bastante seguro",0.093,0.117,0.073,0.102,0.124
+"P26","Algo seguro",0.048,0.071,0.081,0.131,0.084
+"P26","Para nada seguro",0.046,0.056,0.052,0.241,0.258
+"P27","Tiene Decidido que va a ir a votar",0.956,0.925,0.929,0.901,0.761
+"P27","Tiene dudas sobre si va a ir a  votar",0.039,0.061,0.054,0.052,0.176
+"P27","Tiene Decidido que no va a ir a votar",0.005,0.014,0.017,0.047,0.063
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.882,0.187,0.169,0.249,0.273
+"P28","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.054,0.748,0.393,0.245,0.249
+"P28","En blanco",0.035,0.031,0.305,0.194,0.185
+"P28","No sabe",0.029,0.034,0.133,0.312,0.293
+"P29","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.197,0.734,0.212,0.275,0.218
+"P29","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.077,0.166,0.713,0.2,0.223
+"P29","En blanco",0.483,0.054,0.041,0.394,0.268
+"P29","No sabe",0.243,0.046,0.034,0.131,0.291
+"P30","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.88,0.235,0.132,0.406,0.332
+"P30","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.062,0.315,0.728,0.229,0.202
+"P30","En blanco",0.044,0.256,0.084,0.277,0.222
+"P30","No sabe",0.014,0.194,0.056,0.088,0.244
+"P38","Inflación",0.421,0.31,0.323,0.249,0.241
+"P38","Desempleo",0.063,0.064,0.084,0.032,0.068
+"P38","Corrupción",0.126,0.457,0.421,0.375,0.403
+"P38","Inseguridad",0.158,0.091,0.121,0.114,0.164
+"P38","Precio del dólar",0.061,0.011,0.01,0.003,0.054
+"P38","Pobreza",0.071,0.021,0.01,0.07,0.044
+"P38","Narcotráfico",0.021,0.002,0,0.011,0.02
+"P38","Tarifas",0.006,0.004,0.001,0,0
+"P38","Otro",0.058,0.025,0.029,0.146,0
+"P38","No sabe",0.015,0.015,0.001,0,0.006

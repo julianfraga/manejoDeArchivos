@@ -1,0 +1,51 @@
+"var","categoria","Si desmejoró","No desmejoró"
+"aysa_2","A la empresa Aysa en forma directa",0.884,0.8
+"aysa_2","Al Country, barrio, consorcio donde vivo y está conectada a la de la empresa Aysa",0.02,0.059
+"aysa_2","Es una red desvinculada de la empresa Aysa",0.047,0.076
+"aysa_2","No sabe",0.049,0.065
+"aysa_5","No",0.331,0.265
+"aysa_5","Si. A la empresa AySA en forma directa",0.562,0.66
+"aysa_5","Si. Al Country, barrio, consorcio donde vivo y está conectada a la de la empresa AySA",0.029,0.035
+"aysa_5","Si. Es una red desvinculada de la empresa AySA",0.035,0.023
+"aysa_5","No sabe",0.043,0.017
+"aysa_6","Si desmejoró",0.441,0.215
+"aysa_6","No desmejoró",0.559,0.785
+"aysa_7","Tapa rota",0.498,0.516
+"aysa_7","Boca de acceso rota",0.114,0.128
+"aysa_7","Filtraciones en el sótano",0.024,0.033
+"aysa_7","Olor químico en la cloaca",0.166,0.1
+"aysa_7","Taponamiento",0.071,0.108
+"aysa_7","Otro",0.127,0.115
+"P33","Gran excedente habitual",0.003,0.014
+"P33","Gran excedente excepcional",0.004,0.002
+"P33","Pequeño excedente habitual",0.041,0.082
+"P33","Pequeño excedente excepcional",0.041,0.067
+"P33","Alcanza gastos familia",0.128,0.213
+"P33","No alcanza gastos familia",0.111,0.094
+"P33","Solo NBFamiliares",0.302,0.286
+"P33","No alcanza NBFamiliares",0.359,0.226
+"P33","No sabe",0.011,0.016
+"P45","Muy buena",0.058,0.048
+"P45","Buena",0.069,0.111
+"P45","Ni buena ni mala",0.152,0.274
+"P45","Mala",0.221,0.247
+"P45","Muy mala",0.499,0.319
+"P45","No sabe",0.001,0.001
+"P48","Muy buena",0.106,0.052
+"P48","Buena",0.152,0.164
+"P48","Ni buena ni mala",0.296,0.291
+"P48","Mala",0.229,0.297
+"P48","Muy mala",0.213,0.19
+"P48","No sabe",0.004,0.006
+"P51","Muy buena",0.196,0.375
+"P51","Buena",0.097,0.132
+"P51","Ni buena ni mala",0.109,0.106
+"P51","Mala",0.136,0.098
+"P51","Muy mala",0.455,0.277
+"P51","No sabe",0.007,0.012
+"P56","Muy buena",0.084,0.088
+"P56","Buena",0.081,0.2
+"P56","Ni buena ni mala",0.236,0.309
+"P56","Mala",0.15,0.104
+"P56","Muy mala",0.386,0.225
+"P56","No sabe",0.063,0.074

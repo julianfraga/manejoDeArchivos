@@ -1,0 +1,237 @@
+"var","categoria","A Lucas Ghi con el  apoyo de Axel Kicilof, Cristina Fernández de Kirchner, Sergio Massa y Alberto Fernández por el Frente de Todos","A Analía Zapulla con el apoyo  de Patricia Bullrich y Mauricio Macri por Juntos por el Cambio","A Ariel Diguan con el apoyo de Javier Millei por la Libertad Avanza","Al candidato del Frente de Izquierda","No sabe"
+"P07","Del Frente de Todos y el peronismo",0.8,0.046,0.063,0.092,0.113
+"P07","De Cambiemos",0.048,0.739,0.091,0.24,0.33
+"P07","De los Liberales libertarios",0.033,0.129,0.747,0.112,0.2
+"P07","De la Izquierda",0.017,0,0.015,0.337,0.023
+"P07","No sabe",0.102,0.086,0.084,0.219,0.334
+"P09","A Alberto Fernández",0.152,0.271,0.054,0,0.078
+"P09","A Sergio Massa",0.139,0.079,0.624,0.181,0.202
+"P09","A algún candidato del peronismo",0.083,0.412,0.178,0.102,0.209
+"P09","A algún candidato del kirchnerismo",0.626,0.238,0.144,0.717,0.511
+"P10","A Alberto Fernández",0.076,0.272,0.077,0,0.018
+"P10","A Sergio Massa",0.072,0.079,0.162,0,0.202
+"P10","A algún candidato del peronismo",0.052,0.607,0.101,0.102,0.177
+"P10","A Cristina Fernández de Kirchner",0.8,0.042,0.66,0.898,0.603
+"P11","A Horacio Rodriguez Larreta",0.469,0.164,0.332,0.059,0.356
+"P11","A Patricia Bullrich",0.066,0.783,0.581,0.754,0.382
+"P11","A Facundo Manes",0.412,0.03,0.043,0,0.139
+"P11","A Gerardo Morales",0.053,0.023,0.044,0.187,0.123
+"P12","Lo votaria",0.632,0.067,0.033,0,0.118
+"P12","Puede que lo vote",0.14,0.176,0.135,0.346,0.162
+"P12","Nunca lo votaría",0.082,0.655,0.594,0.447,0.505
+"P12","No sabe",0.146,0.102,0.238,0.207,0.215
+"P13","Lo votaria",0.105,0.338,0.06,0.081,0.089
+"P13","Puede que lo vote",0.073,0.362,0.212,0.131,0.205
+"P13","Nunca lo votaría",0.673,0.176,0.465,0.522,0.442
+"P13","No sabe",0.149,0.124,0.263,0.266,0.264
+"P14","Lo votaria",0.015,0.173,0.05,0.107,0.018
+"P14","Puede que lo vote",0.079,0.199,0.123,0.104,0.126
+"P14","Nunca lo votaría",0.546,0.252,0.382,0.324,0.437
+"P14","No sabe",0.36,0.376,0.445,0.465,0.419
+"P15","Lo votaria",0.034,0.045,0.045,0,0.018
+"P15","Puede que lo vote",0.163,0.123,0.08,0.149,0.098
+"P15","Nunca lo votaría",0.446,0.475,0.441,0.276,0.456
+"P15","No sabe",0.357,0.357,0.434,0.575,0.428
+"P16","Lo votaria",0.032,0.058,0.01,0,0.028
+"P16","Puede que lo vote",0.051,0.115,0.086,0.043,0.045
+"P16","Nunca lo votaría",0.508,0.392,0.43,0.199,0.497
+"P16","No sabe",0.409,0.435,0.474,0.758,0.43
+"P17","Lo votaria",0.023,0.069,0.035,0.043,0.01
+"P17","Puede que lo vote",0.035,0.109,0.095,0.017,0.066
+"P17","Nunca lo votaría",0.567,0.416,0.383,0.262,0.468
+"P17","No sabe",0.375,0.406,0.487,0.678,0.456
+"P18","Lucas Ghi con el  apoyo de Axel Kicillof y Cristina Fernández de Kirchner por el Frente de Todos",0.727,0.03,0.011,0.031,0.054
+"P18","A Martin Marinucci con el apoyo de Axel Kicillof y Sergio Massa  por el Frente de Todos",0.091,0.036,0.026,0.01,0.025
+"P18","A Ramiro Tagliaferro con el  apoyo de Horacio Rodríguez Larreta y Mauricio Macri por Juntos por el Cambio",0.057,0.26,0.113,0.01,0.233
+"P18","A Analía Zapulla con el apoyo  de Patricia Bullrich y Mauricio Macri por Juntos por el Cambio",0.032,0.533,0.131,0.335,0.075
+"P18","Al candidato de José Luis Espert por Juntos por el Cambio",0,0.063,0.052,0,0.033
+"P18","A Roly Moretto con el apoyo de Facundo Manes por Juntos por el Cambio",0.051,0.045,0.11,0.112,0.14
+"P18","A Ariel Diguan con el apoyo de Javier Milei por la Libertad Avanza",0.025,0.019,0.521,0.151,0.09
+"P18","Al candidato del Frente de Izquierda",0.008,0,0.007,0.309,0.021
+"P18","No sabe",0.009,0.014,0.029,0.042,0.329
+"P19","A Scioli Presidente, Kiciloff Gobernador y Lucas Ghi Intendente por el Frente de Todos",0.647,0.009,0.03,0.075,0.071
+"P19","A Scioli Presidente, Kiciloff Gobernador y  Martin Marinucci Intendente por el Frente de Todos",0.123,0.034,0.042,0.095,0.039
+"P19","A Horacio Rodríguez Larreta Presidente, Santilli Gobernador y Ramiro Tagliaferro Intendente por Juntos por el Cambio",0.012,0.262,0.069,0.025,0.158
+"P19","A Patricia Presidenta, Joaquín De la Torre Gobernador y Analia Zapulla Intendenta por Juntos por el Cambio",0.01,0.575,0.054,0.27,0.064
+"P19","A Javier Millei Presidente, su candidato a Gobernador y Ariel Diguan Intendente por la Libertad Avanza",0.02,0.061,0.759,0.13,0.11
+"P19","A los candidatos a Presidente, Gobernador e Intendente del Frente de Izquierda",0.04,0.003,0.004,0.33,0.041
+"P19","No sabe",0.148,0.056,0.042,0.075,0.517
+"P20","A Lucas Ghi con el  apoyo de Axel Kicilof, Cristina Fernández de Kirchner, Sergio Massa y Alberto Fernández por el Frente de Todos",0.883,0.04,0.032,0.033,0.073
+"P20","A Ramiro Tagliaferro con el  apoyo de Horacio Rodríguez Larreta, Mauricio Macri y Patricia Bullrich por Juntos por el Cambio",0.014,0.732,0.087,0.069,0.163
+"P20","A Ariel Diguan con el apoyo de Javier Millei por la Libertad Avanza",0.027,0.078,0.75,0,0.075
+"P20","Al candidato del Frente de Izquierda",0.01,0.065,0.008,0.865,0.034
+"P20","No sabe",0.066,0.085,0.123,0.033,0.655
+"P22","A Daniel Scioli Presidente, Axel Kiciloff Gobernador y Lucas Ghi Intendente por el Frente de Todos",0.792,0.023,0.014,0,0.017
+"P22","A Horacio Rodríguez Larreta Presidente, Diego Santilli Gobernador y Ramiro Tagliaferro Intendente por Juntos por el Cambio",0.016,0.654,0.034,0.061,0.181
+"P22","A Javier Millei Presidente, su candidato a Gobernador y Ariel Diguan Intendente por la Libertad Avanza",0.017,0.134,0.916,0.021,0.137
+"P22","A los candidatos a Presidente, Gobernador e Intendente del Frente de Izquierda",0.032,0.018,0.024,0.759,0.026
+"P22","No sabe",0.143,0.171,0.012,0.159,0.639
+"P23","A Daniel Scioli Presidente, Axel Kiciloff Gobernador y Lucas Ghi Intendente por el Frente de Todos",0.795,0.019,0.011,0.023,0.038
+"P23","A Patricia Bullrich Presidenta, Joaquín De la Torre Gobernador y Analia Zapulla Intendenta",0.01,0.797,0.086,0.116,0.133
+"P23","A Javier Milei Presidente, su candidato a Gobernador y Ariel Diguan Intendente por la Libertad Avanza",0.026,0.102,0.869,0.107,0.108
+"P23","Al los candidatos a Presidente, Gobernador e Intendente del Frente de Izquierda",0.013,0.008,0.021,0.639,0.054
+"P23","No sabe",0.156,0.074,0.013,0.115,0.667
+"P24","Muy buena",0.511,0.055,0.078,0,0.07
+"P24","Buena",0.231,0.15,0.026,0.012,0.102
+"P24","Ni buena ni mala",0.124,0.232,0.292,0.337,0.202
+"P24","Mala",0.017,0.213,0.169,0.456,0.215
+"P24","Muy mala",0.03,0.313,0.31,0.195,0.303
+"P24","No sabe",0.035,0.016,0.044,0,0.055
+"P24","No lo conozco",0.052,0.021,0.081,0,0.053
+"P25","Muy buena",0.093,0.021,0.014,0.137,0.011
+"P25","Buena",0.109,0.051,0.031,0.038,0.027
+"P25","Ni buena ni mala",0.397,0.252,0.359,0.119,0.247
+"P25","Mala",0.079,0.208,0.154,0.373,0.11
+"P25","Muy mala",0.068,0.203,0.191,0.217,0.207
+"P25","No sabe",0.12,0.156,0.098,0.06,0.233
+"P25","No lo conozco",0.134,0.109,0.153,0.056,0.165
+"P26","Muy buena",0.026,0.172,0.031,0.127,0.046
+"P26","Buena",0.037,0.312,0.068,0.099,0.163
+"P26","Ni buena ni mala",0.169,0.29,0.373,0.106,0.191
+"P26","Mala",0.239,0.114,0.203,0.178,0.164
+"P26","Muy mala",0.431,0.052,0.158,0.43,0.229
+"P26","No sabe",0.048,0.026,0.058,0.06,0.075
+"P26","No lo conozco",0.05,0.034,0.109,0,0.132
+"P27","Muy buena",0.021,0.165,0.037,0,0
+"P27","Buena",0.02,0.208,0.061,0.128,0.023
+"P27","Ni buena ni mala",0.212,0.283,0.4,0.116,0.195
+"P27","Mala",0.186,0.035,0.104,0.244,0.082
+"P27","Muy mala",0.251,0.02,0.078,0.228,0.226
+"P27","No sabe",0.121,0.141,0.14,0.147,0.177
+"P27","No lo conozco",0.189,0.148,0.18,0.137,0.297
+"P28","Muy buena",0.009,0.094,0.032,0,0.018
+"P28","Buena",0.014,0.08,0.034,0.135,0.017
+"P28","Ni buena ni mala",0.234,0.235,0.376,0.11,0.172
+"P28","Mala",0.131,0.044,0.13,0.268,0.028
+"P28","Muy mala",0.168,0.05,0.06,0.183,0.144
+"P28","No sabe",0.165,0.207,0.16,0.149,0.24
+"P28","No lo conozco",0.279,0.29,0.208,0.155,0.381
+"P29","Muy buena",0.01,0.034,0.206,0,0.009
+"P29","Buena",0.006,0.079,0.126,0.138,0.004
+"P29","Ni buena ni mala",0.159,0.289,0.317,0.083,0.195
+"P29","Mala",0.177,0.096,0.076,0.22,0.057
+"P29","Muy mala",0.249,0.081,0.02,0.316,0.179
+"P29","No sabe",0.132,0.17,0.086,0.164,0.221
+"P29","No lo conozco",0.267,0.251,0.169,0.079,0.335
+"P30","Muy buena",0.365,0.043,0.068,0,0.047
+"P30","Buena",0.33,0.047,0.04,0.137,0.136
+"P30","Ni buena ni mala",0.109,0.237,0.207,0.19,0.226
+"P30","Mala",0.093,0.268,0.241,0.379,0.148
+"P30","Muy mala",0.061,0.364,0.374,0.294,0.362
+"P30","No sabe",0.042,0.041,0.07,0,0.081
+"P31","Que continúe el intendente Lucas Gui",0.425,0.048,0.038,0,0.011
+"P31","Que continúe Lucas Gui pero con mejoras",0.415,0.088,0.156,0.145,0.273
+"P31","Que cambie Lucas Gui pero que se mantengan los avances",0.087,0.112,0.127,0.151,0.1
+"P31","Que cambie el intendente Lucas Gui",0.073,0.752,0.679,0.704,0.616
+"P32","La seguridad",0.121,0.069,0.038,0.056,0.057
+"P32","El tránsito",0.065,0.026,0.081,0.04,0.05
+"P32","El arreglo de las calles",0.171,0.074,0.105,0.084,0.061
+"P32","Los parques y espacios públicos",0.173,0.155,0.137,0.247,0.172
+"P32","El sistema de salud",0.107,0.023,0.039,0.082,0.051
+"P32","La limpieza de las calles",0.062,0.074,0.069,0,0.056
+"P32","El deporte y la cultura",0.149,0.041,0.104,0.156,0.068
+"P32","La luminaria",0.055,0.071,0.05,0.11,0.054
+"P32","No sabe",0.097,0.467,0.377,0.225,0.431
+"P33","La seguridad",0.308,0.59,0.574,0.332,0.411
+"P33","El tránsito",0.084,0.039,0.037,0.122,0.062
+"P33","El arreglo de las calles",0.23,0.167,0.157,0.183,0.176
+"P33","Los parques y espacios públicos",0.037,0.021,0.042,0.195,0.036
+"P33","El sistema de salud",0.057,0.061,0.014,0.056,0.066
+"P33","La limpieza de las calles",0.054,0.023,0.032,0,0.03
+"P33","El deporte y la cultura",0.024,0.015,0.028,0.029,0.037
+"P33","La luminaria",0.035,0.015,0.005,0,0
+"P33","No sabe",0.171,0.069,0.111,0.083,0.182
+"P34","Agua corriente y cloacas",0.211,0.319,0.228,0.361,0.218
+"P34","Energía eléctrica",0.112,0.153,0.214,0.148,0.131
+"P34","Red de gas natural",0.064,0.086,0.067,0.029,0.013
+"P34","Recolección de residuos",0.213,0.207,0.317,0.325,0.302
+"P34","Ninguno",0.4,0.235,0.174,0.137,0.336
+"P35","Los robos",0.444,0.479,0.368,0.482,0.49
+"P35","El narcotráfico",0.067,0.146,0.152,0.05,0.082
+"P35","La ausencia de patrulleros y personal policial",0.213,0.267,0.225,0,0.219
+"P35","Otro",0.141,0.076,0.216,0.426,0.128
+"P35","Ninguno",0.135,0.032,0.039,0.042,0.081
+"P36","Muy buena",0.174,0.103,0.098,0.214,0.098
+"P36","Buena",0.177,0.093,0.116,0.118,0.13
+"P36","Ni buena ni mala",0.29,0.311,0.262,0.016,0.25
+"P36","Mala",0.1,0.175,0.301,0.193,0.174
+"P36","Muy mala",0.065,0.148,0.109,0.216,0.103
+"P36","No sabe",0.194,0.17,0.114,0.243,0.245
+"P37","Lo votaria",0.187,0.071,0.018,0.119,0.027
+"P37","Puede que lo vote",0.377,0.015,0.083,0,0.057
+"P37","Nunca lo votaría",0.279,0.877,0.874,0.775,0.664
+"P37","No sabe",0.157,0.037,0.025,0.106,0.252
+"P38","Lo votaria",0.219,0.053,0.023,0.071,0.008
+"P38","Puede que lo vote",0.426,0.041,0.052,0.036,0.146
+"P38","Nunca lo votaría",0.199,0.876,0.859,0.727,0.662
+"P38","No sabe",0.156,0.03,0.066,0.166,0.184
+"P39","Lo votaria",0.247,0.042,0.022,0.071,0.006
+"P39","Puede que lo vote",0.456,0.035,0.015,0.036,0.119
+"P39","Nunca lo votaría",0.165,0.893,0.921,0.857,0.688
+"P39","No sabe",0.132,0.03,0.042,0.036,0.187
+"P40","Lo votaria",0.052,0.208,0.076,0.136,0.116
+"P40","Puede que lo vote",0.075,0.425,0.261,0,0.272
+"P40","Nunca lo votaría",0.798,0.319,0.62,0.783,0.426
+"P40","No sabe",0.075,0.048,0.043,0.081,0.186
+"P41","Lo votaria",0.016,0.666,0.238,0.168,0.12
+"P41","Puede que lo vote",0.028,0.224,0.328,0.049,0.286
+"P41","Nunca lo votaría",0.899,0.088,0.376,0.783,0.451
+"P41","No sabe",0.057,0.022,0.058,0,0.143
+"P42","Lo votaria",0.024,0.166,0.082,0.07,0.13
+"P42","Puede que lo vote",0.088,0.3,0.328,0.135,0.251
+"P42","Nunca lo votaría",0.757,0.452,0.418,0.677,0.432
+"P42","No sabe",0.131,0.082,0.172,0.118,0.187
+"P43","Lo votaria",0.025,0.125,0.037,0.12,0.122
+"P43","Puede que lo vote",0.035,0.296,0.238,0.05,0.178
+"P43","Nunca lo votaría",0.83,0.463,0.574,0.663,0.455
+"P43","No sabe",0.11,0.116,0.151,0.167,0.245
+"P44","Lo votaria",0.032,0.234,0.789,0.127,0.194
+"P44","Puede que lo vote",0.023,0.295,0.112,0.033,0.278
+"P44","Nunca lo votaría",0.88,0.42,0.083,0.66,0.409
+"P44","No sabe",0.065,0.051,0.016,0.18,0.119
+"P45","Lo votaria",0.01,0.219,0.276,0.033,0.134
+"P45","Puede que lo vote",0.014,0.421,0.282,0.126,0.193
+"P45","Nunca lo votaría",0.912,0.282,0.328,0.71,0.553
+"P45","No sabe",0.064,0.078,0.114,0.131,0.12
+"P46","Muy buena",0.097,0.069,0.066,0,0
+"P46","Buena",0.256,0.059,0.019,0,0.031
+"P46","Ni buena ni mala",0.41,0.055,0.066,0.086,0.145
+"P46","Mala",0.193,0.126,0.236,0.56,0.231
+"P46","Muy mala",0.044,0.688,0.613,0.354,0.567
+"P46","No sabe",0,0.003,0,0,0.026
+"P47","Muy buena",0.015,0.404,0.053,0,0.134
+"P47","Buena",0.035,0.33,0.158,0.163,0.082
+"P47","Ni buena ni mala",0.077,0.113,0.235,0.088,0.205
+"P47","Mala",0.215,0.043,0.33,0.283,0.273
+"P47","Muy mala",0.652,0.11,0.224,0.368,0.26
+"P47","No sabe",0.006,0,0,0.098,0.046
+"P48","Muy buena",0.671,0.102,0.064,0.107,0.069
+"P48","Buena",0.123,0.051,0.024,0.089,0.02
+"P48","Ni buena ni mala",0.032,0.015,0.055,0.126,0.068
+"P48","Mala",0.066,0.105,0.193,0.179,0.136
+"P48","Muy mala",0.105,0.725,0.661,0.401,0.66
+"P48","No sabe",0.003,0.002,0.003,0.098,0.047
+"P49","Muy buena",0.098,0.2,0.035,0,0.15
+"P49","Buena",0.033,0.3,0.139,0.099,0.166
+"P49","Ni buena ni mala",0.136,0.243,0.321,0.274,0.184
+"P49","Mala",0.239,0.095,0.222,0,0.166
+"P49","Muy mala",0.479,0.152,0.283,0.529,0.266
+"P49","No sabe",0.015,0.01,0,0.098,0.068
+"P50","Muy buena",0.092,0.062,0.019,0.036,0.049
+"P50","Buena",0.343,0.061,0.07,0,0.048
+"P50","Ni buena ni mala",0.325,0.107,0.091,0.157,0.199
+"P50","Mala",0.114,0.162,0.227,0.349,0.208
+"P50","Muy mala",0.117,0.604,0.593,0.36,0.438
+"P50","No sabe",0.009,0.004,0,0.098,0.058
+"P51","Muy buena",0.017,0.596,0.161,0.114,0.103
+"P51","Buena",0.042,0.199,0.288,0.071,0.175
+"P51","Ni buena ni mala",0.083,0.099,0.195,0.228,0.195
+"P51","Mala",0.194,0.015,0.12,0.175,0.139
+"P51","Muy mala",0.656,0.089,0.236,0.314,0.316
+"P51","No sabe",0.008,0.002,0,0.098,0.072
+"P52","Muy buena",0.025,0.241,0.538,0.197,0.113
+"P52","Buena",0.015,0.231,0.285,0,0.118
+"P52","Ni buena ni mala",0.05,0.311,0.104,0.115,0.236
+"P52","Mala",0.185,0.119,0.028,0.115,0.14
+"P52","Muy mala",0.715,0.076,0.045,0.476,0.294
+"P52","No sabe",0.01,0.022,0,0.097,0.099

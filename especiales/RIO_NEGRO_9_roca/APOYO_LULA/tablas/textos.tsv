@@ -1,0 +1,12 @@
+clave	texto
+encuesta_especial	Posicionamiento político: Lula y el Ballotage 2023 - Noviembre 2023
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	07/11/2023
+ficha_Población objeto de estudio	Población mayor de 16 años.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	República Argentina
+ficha_Estratificación	Cinco estratos regionales (NEA, NOA, Cuyo, Centro y Patagonia) y Cordones I,II y III de la RMBA e interior PBA.
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Tamaño muestral	La captura de datos se llevó a cabo el 07/11/2023 abarcando 1.928 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo.
+ficha_Margen de error	+/- 2.23 %

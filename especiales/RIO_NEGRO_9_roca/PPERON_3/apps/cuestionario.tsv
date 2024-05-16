@@ -1,0 +1,17 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Sociodemográfico	muchopoco	Usted diría que la política le importa…	Importancia de la política para el encuestado	
+P06	Sociodemográfico	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P07	Sociodemográfico	politica	¿A cúal de los siguientes candidatos votó en las elecciones a intendente del año 2019?	Voto presidencial Octubre 2019	
+P08	Intención de voto por espacio político 	politica	Si las elecciones para intendente municipal fueran mañana ¿A qué espacio político votaría?	Intención de voto para intendente por espacio político	
+P09	Intención de voto por espacio político 	politica	Pensando en las elecciones primarias (PASO) ¿A cúal de los siguientes candidatos preferiría votar para intendente?	Intención de voto por candidatos a intendente en elecciones PASO	
+P09_imputadas	Intención de voto por espacio político 	politica	Pensando en las elecciones primarias (PASO) ¿A cúal de los siguientes candidatos preferiría votar para intendente?	Intención de voto por candidatos a intendente en elecciones PASO	(Imputación no lineal de indecisos)
+P12	Intención de voto por espacio político 	politica	En el caso que los siguientes dirigentes nacionales apoyarán a algún candidato en las elecciones PASO, ¿a quién votaría ud. para la intendencia?	Intención de voto por candidatos a intendente con apoyo de dirigentes nacionales en elecciones PASO	
+P12_imputadas	Intención de voto por espacio político 	politica	En el caso que los siguientes dirigentes nacionales apoyarán a algún candidato en las elecciones PASO, ¿a quién votaría ud. para la intendencia?	Intención de voto por candidatos a intendente con apoyo de dirigentes nacionales en elecciones PASO	(Imputación no lineal de indecisos)
+P15	Reach de intención de voto	votaria	Si Blanca Cantero fuera candidata a intendenta, ud.	Intención de voto por Blanca Cantero para intendenta	
+P16	Reach de intención de voto	votaria	Si Federico García fuera candidato a intendente, ud.	Intención de voto por Federico García para intendente	
+P17	Reach de intención de voto	votaria	Si Victor Rengifo fuera candidato a intendente, ud.	Intención de voto por Victor Rengifo para intendente	
+P18	Reach de intención de voto	votaria	Si Mauro Arranz fuera candidato a intendente, ud.	Intención de voto por Mauro Arranz para intendente	
+P19	Reach de intención de voto	votaria	Si Anibal Regueiro fuera candidato a intendente, ud.	Intención de voto por Anibal Regueiro para intendente	
+P20	Reach de intención de voto	votaria	Si Eduardo Guardia fuera candidato a intendente, ud.	Intención de voto por Eduardo Guardia para intendente	
+P21	Reach de intención de voto	votaria	Si Miguel Coria fuera candidato a intendente, ud.	Intención de voto por Miguel Coria para intendente	
+P22	control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  		

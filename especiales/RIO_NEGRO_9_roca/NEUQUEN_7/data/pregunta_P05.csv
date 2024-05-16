@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Massa","Grabois","Bullrich","Rodriguez Larreta","Milei","Figueroa","Koopmam","Rioseco","Cervi","Eguía","Jure","Neuquén","Otra localidad"
+"Tiene Decidido que va a ir a votar.",0.864,0.903,0.825,0.863,0.881,0.887,0.75,0.806,0.863,0.939,0.901,0.871,0.87,0.836,0.915,0.924,0.897,0.773,0.721,0.909,0.856,0.918,0.82
+"Tiene dudas sobre si va a ir a  votar",0.095,0.064,0.125,0.097,0.076,0.086,0.179,0.11,0.115,0.037,0.086,0.129,0.062,0.164,0.061,0.058,0.103,0.11,0.26,0.081,0.113,0.046,0.134
+"Tiene Decidido que no va a ir a votar",0.041,0.033,0.05,0.04,0.043,0.027,0.071,0.084,0.022,0.024,0.013,0,0.068,0,0.024,0.018,0,0.117,0.019,0.01,0.031,0.036,0.046

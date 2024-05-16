@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Fernandez","Macri","Lavagna","GBA","Interior"
+"Totalmente seguro.",0.623,0.658,0.592,0.527,0.651,0.687,0.64,0.608,0.613,0.667,0.649,0.659,0.662,0.639,0.592
+"Bastante seguro",0.138,0.116,0.158,0.142,0.14,0.135,0.131,0.131,0.133,0.16,0.135,0.155,0.111,0.144,0.127
+"Algo seguro",0.111,0.084,0.135,0.17,0.091,0.063,0.118,0.098,0.133,0.087,0.119,0.085,0.098,0.104,0.124
+"Para nada seguro",0.128,0.142,0.115,0.161,0.118,0.115,0.111,0.163,0.121,0.086,0.097,0.101,0.129,0.113,0.157

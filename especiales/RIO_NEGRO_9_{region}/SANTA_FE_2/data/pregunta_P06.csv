@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Javkin","Tessandori","Estévez","Cardozo","Monteverde","Sukerman"
+"Siempre",0.247,0.284,0.214,0.243,0.208,0.258,0.321,0.279,0.22,0.254,0.366,0.139,0.162,0.085,0.211,0.299
+"Casi siempre",0.342,0.336,0.347,0.226,0.347,0.394,0.42,0.291,0.308,0.414,0.339,0.571,0.289,0.261,0.372,0.342
+"Casi nunca",0.288,0.256,0.317,0.325,0.313,0.271,0.209,0.267,0.349,0.237,0.242,0.221,0.455,0.276,0.277,0.243
+"Nunca, pero esta es una excepción",0.123,0.124,0.122,0.206,0.132,0.077,0.05,0.163,0.123,0.095,0.053,0.069,0.094,0.378,0.14,0.116

@@ -1,0 +1,151 @@
+"var","categoria","Axel Kicillof a gobernador por Unión por la Patria.","Néstor Grindetti a gobernador por Juntos por el Cambio","Carolina Piparo a gobernadora por la Libertad Avanza","El candidato a gobernador de la Izquierda","En blanco","No sabe"
+"P05","Mucho",0.548,0.435,0.561,0.499,0.48,0.23
+"P05","Bastante",0.296,0.31,0.268,0.358,0.1,0.345
+"P05","Poco",0.123,0.177,0.129,0.102,0.231,0.333
+"P05","Nada",0.031,0.054,0.029,0.041,0.189,0.082
+"P05","No sabe",0.002,0.024,0.013,0,0,0.01
+"P06","Siempre",0.143,0.211,0.231,0.034,0.109,0.073
+"P06","Casi siempre",0.361,0.348,0.294,0.182,0.345,0.278
+"P06","Casi nunca",0.348,0.314,0.276,0.46,0.328,0.39
+"P06","Nunca, pero esta es una excepción",0.148,0.127,0.199,0.324,0.218,0.259
+"P10","Unión por la Patria",0.701,0.084,0.393,0.039,0.228,0.029
+"P10","Juntos por el Cambio",0.173,0.655,0.135,0.018,0.156,0.164
+"P10","De los Liberales libertarios",0.064,0.195,0.338,0.247,0.013,0.018
+"P10","De la Izquierda",0.025,0.01,0.025,0.672,0.038,0
+"P10","Hacemos por nuestro país",0.001,0.025,0.067,0,0.164,0.018
+"P10","En blanco",0.014,0.006,0,0,0.261,0.024
+"P10","No sabe",0.022,0.025,0.042,0.024,0.14,0.747
+"P13","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria.",0.859,0.109,0.043,0.024,0.119,0.097
+"P13","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.034,0.803,0.122,0.008,0.013,0.119
+"P13","Javier Milei a presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente por la Libertad Avanza",0.067,0.082,0.82,0.108,0.126,0.03
+"P13","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.009,0.001,0,0.848,0,0
+"P13","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.001,0.001,0.002,0,0.514,0.018
+"P13","En blanco",0.004,0.002,0,0,0.228,0.009
+"P13","No sabe",0.026,0.002,0.013,0.012,0,0.727
+"P16","Si",0.28,0.435,0.322,0.497,0.309,0.62
+"P16","No",0.72,0.565,0.678,0.503,0.691,0.38
+"P17","Sergio Massa a presidente por Unión por la Patria.",0.63,0.064,0.284,0.108,0.65,0.16
+"P17","Patricia Bullrich a presidenta por Juntos por el Cambio",0.071,0.675,0.221,0.033,0.057,0.296
+"P17","Javier Milei a presidente por la Libertad Avanza",0.128,0.249,0.495,0.339,0.293,0.014
+"P17","Los candidatos a presidente de la Izquierda",0.081,0.003,0,0.459,0,0
+"P17","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.066,0.009,0,0.046,0,0.165
+"P17","En blanco",0.019,0,0,0.015,0,0.013
+"P17","No sabe",0.005,0,0,0,0,0.352
+"P20","Axel Kicillof a gobernador por Unión por la Patria.",1,0,0,0,0,0
+"P20","Néstor Grindetti a gobernador por Juntos por el Cambio",0,1,0,0,0,0
+"P20","Carolina Piparo a gobernadora por la Libertad Avanza",0,0,1,0,0,0
+"P20","El candidato a gobernador de la Izquierda",0,0,0,1,0,0
+"P20","En blanco",0,0,0,0,1,0
+"P20","No sabe",0,0,0,0,0,1
+"P23","Fernando Moreira a intendente por Unión por la Patria.",0.536,0.154,0.137,0.626,0.677,0.177
+"P23","Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.158,0.678,0.491,0.022,0.265,0.313
+"P23","Hernán Sardella a intendente por la Libertad Avanza",0.047,0.117,0.23,0,0,0.017
+"P23","El candidato del Frente de Izquierda",0.135,0.032,0,0.352,0,0
+"P23","En blanco",0.036,0.015,0,0,0.058,0
+"P23","No sabe",0.088,0.004,0.142,0,0,0.493
+"P26","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.242,0.612,0.433,0.285,0.362,0.188
+"P26","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.218,0.174,0.263,0.193,0.117,0.251
+"P26","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.332,0.154,0.21,0.184,0.276,0.229
+"P26","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.117,0.01,0.048,0.266,0,0
+"P26","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.036,0.003,0.014,0.061,0,0.074
+"P26","No sabe",0.055,0.047,0.032,0.011,0.245,0.258
+"P27","Totalmente seguro.",0.744,0.771,0.764,0.682,0.327,0.389
+"P27","Bastante seguro",0.158,0.139,0.109,0.151,0.228,0.149
+"P27","Algo seguro",0.056,0.064,0.107,0.167,0.285,0.186
+"P27","Para nada seguro",0.042,0.026,0.02,0,0.16,0.276
+"P28","Tiene Decidido que va a ir a votar.",0.938,0.946,0.914,0.815,0.769,0.529
+"P28","Tiene dudas sobre si va a ir a  votar",0.055,0.033,0.034,0.145,0.189,0.414
+"P28","Tiene Decidido que no va a ir a votar",0.007,0.021,0.052,0.04,0.042,0.057
+"P29","No estaba enterado del tema",0.172,0.134,0.197,0.308,0.042,0.227
+"P29","Un tema de la vida privada de él",0.154,0.042,0.126,0.177,0.11,0.012
+"P29","Un hecho vergonzoso de exclusiva responsabilidad de él",0.459,0.189,0.34,0.298,0.317,0.053
+"P29","Un hecho vergonzoso del cual también es responsable el gobernador Kicillof",0.118,0.261,0.143,0.036,0.474,0.276
+"P29","Un hecho vergonzoso que muestran como son los dirigentes que apoyan a Sergio Massa",0.068,0.368,0.188,0.162,0.049,0.389
+"P29","No sabe",0.029,0.006,0.006,0.019,0.008,0.043
+"P30","Si",0.724,0.832,0.764,0.936,0.557,0.683
+"P30","No",0.276,0.168,0.236,0.064,0.443,0.317
+"P31","Sergio Massa",0.7,0.126,0.473,0.187,0.277,0.199
+"P31","Patria Bullrich",0.161,0.498,0.149,0.025,0.203,0.196
+"P31","Javier Milei",0.047,0.23,0.266,0.254,0.102,0.274
+"P31","Myriam Bregman",0.079,0.033,0.069,0.344,0.069,0.181
+"P31","Juan Schiaretti",0.013,0.113,0.043,0.19,0.349,0.15
+"P32","Ha aumentado significativamente",0.199,0.039,0.1,0,0.307,0.026
+"P32","Ha aumentado ligeramente",0.179,0.151,0.259,0.246,0.03,0.039
+"P32","Se mantiene igual",0.313,0.204,0.258,0.323,0.278,0.184
+"P32","Ha disminuido ligeramente",0.149,0.3,0.121,0.011,0.298,0.212
+"P32","Ha disminuido significativamente",0.16,0.306,0.262,0.42,0.087,0.539
+"P33","No, ninguna dificultad",0.451,0.168,0.28,0.349,0.41,0.195
+"P33","Alguna dificultad ocasional",0.317,0.298,0.318,0.318,0.259,0.232
+"P33","Sí, dificultades frecuentes",0.232,0.534,0.402,0.333,0.331,0.573
+"P34","Sí, absolutamente",0.633,0.31,0.451,0.601,0.637,0.384
+"P34","Sí, en cierta medida",0.291,0.374,0.318,0.198,0.29,0.296
+"P34","No, en absoluto",0.076,0.316,0.231,0.201,0.073,0.32
+"P35","Reducir la inflación",0.462,0.38,0.375,0.62,0.263,0.448
+"P35","Implementar reformas fiscales",0.133,0.021,0.171,0.215,0.06,0.085
+"P35","Establecer políticas de control de precios",0.242,0.092,0.134,0.024,0.245,0.065
+"P35","Reducir el gasto público",0.104,0.457,0.304,0.116,0.247,0.345
+"P35","Estimular la inversión extranjera",0.029,0.05,0.01,0.014,0.185,0.032
+"P35","Aumentar los subsidios a los servicios públicos",0.03,0,0.006,0.011,0,0.025
+"P36","Muy positiva",0.4,0.098,0.282,0.124,0.033,0.082
+"P36","Positiva",0.237,0.142,0.185,0.152,0.036,0.114
+"P36","Neutral",0.15,0.408,0.25,0.177,0.12,0.256
+"P36","Algo negativa",0.058,0.128,0.116,0.14,0.139,0.133
+"P36","Negativa",0.043,0.109,0.048,0.248,0.318,0.196
+"P36","No sabe",0.112,0.115,0.119,0.159,0.354,0.219
+"P37","Muy positiva",0.614,0.139,0.405,0.514,0.272,0.222
+"P37","Positiva",0.218,0.189,0.185,0.067,0.26,0.142
+"P37","Neutral",0.1,0.359,0.2,0.009,0.045,0.196
+"P37","Algo negativa",0.028,0.186,0.063,0.295,0.015,0.116
+"P37","Negativa",0.028,0.08,0.1,0.017,0.082,0.297
+"P37","No sabe",0.012,0.047,0.047,0.098,0.326,0.027
+"P38","Muy positiva",0.446,0.091,0.21,0.06,0.117,0.201
+"P38","Positiva",0.271,0.078,0.208,0.328,0.123,0.202
+"P38","Neutral",0.179,0.423,0.252,0.049,0.33,0.257
+"P38","Algo negativa",0.021,0.131,0.077,0.196,0.128,0.023
+"P38","Negativa",0.046,0.204,0.14,0.055,0.286,0.298
+"P38","No sabe",0.037,0.073,0.113,0.312,0.016,0.019
+"P39","Muy positiva",0.563,0.309,0.433,0.335,0.126,0.513
+"P39","Positiva",0.227,0.159,0.218,0.276,0.289,0.086
+"P39","Neutral",0.136,0.262,0.124,0.316,0.232,0.281
+"P39","Algo negativa",0.032,0.159,0.101,0,0.042,0.031
+"P39","Negativa",0.029,0.087,0.087,0.008,0.293,0.076
+"P39","No sabe",0.013,0.024,0.037,0.065,0.018,0.013
+"P40","Muy positiva",0.524,0.17,0.425,0.285,0.028,0.147
+"P40","Positiva",0.185,0.283,0.168,0.075,0.262,0.25
+"P40","Neutral",0.173,0.271,0.214,0.04,0.458,0.19
+"P40","Algo negativa",0.035,0.192,0.048,0.305,0,0
+"P40","Negativa",0.029,0.049,0.055,0.134,0.234,0.228
+"P40","No sabe",0.054,0.035,0.09,0.161,0.018,0.185
+"P41","Lo votaría",0.785,0.047,0.371,0.226,0.35,0.15
+"P41","Puede que lo vote",0.054,0.031,0.086,0.352,0.101,0.243
+"P41","Nunca lo votaría",0.155,0.893,0.512,0.347,0.539,0.377
+"P41","No sabe",0.006,0.029,0.031,0.075,0.01,0.23
+"P42","Lo votaría",0.238,0.602,0.125,0.019,0.166,0.108
+"P42","Puede que lo vote",0.054,0.165,0.172,0.293,0.107,0.152
+"P42","Nunca lo votaría",0.697,0.208,0.655,0.588,0.469,0.685
+"P42","No sabe",0.011,0.025,0.048,0.1,0.258,0.055
+"P43","Lo votaría",0.069,0.301,0.405,0.371,0.113,0.015
+"P43","Puede que lo vote",0.057,0.191,0.14,0,0.306,0.024
+"P43","Nunca lo votaría",0.865,0.465,0.444,0.629,0.368,0.892
+"P43","No sabe",0.009,0.043,0.011,0,0.213,0.069
+"P44","Si",0.454,0.337,0.485,0.263,0.116,0.221
+"P44","No",0.546,0.663,0.515,0.737,0.884,0.779
+"PRESIDENTE","Sergio Massa a presidente por Unión por la Patria.",0.896,0.029,0.089,0.051,0.206,0.084
+"PRESIDENTE","Patricia Bullrich a presidenta por Juntos por el Cambio",0.02,0.857,0.064,0.018,0.017,0.166
+"PRESIDENTE","Javier Milei a presidente por la Libertad Avanza",0.038,0.109,0.847,0.168,0.067,0.011
+"PRESIDENTE","Los candidatos a presidente de la Izquierda",0.018,0.001,0,0.73,0,0
+"PRESIDENTE","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.019,0.004,0,0.023,0.497,0.094
+"PRESIDENTE","En blanco",0.007,0,0,0.01,0.213,0.009
+"PRESIDENTE","No sabe",0.002,0,0,0,0,0.636
+"INTENDENTE","Fernando Moreira a intendente por Unión por la Patria.",0.868,0.07,0.048,0.3,0.182,0.081
+"INTENDENTE","Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.046,0.853,0.144,0.012,0.093,0.147
+"INTENDENTE","Hernán Sardella a intendente por la Libertad Avanza",0.014,0.058,0.762,0,0,0.012
+"INTENDENTE","El candidato del Frente de Izquierda",0.039,0.012,0,0.688,0,0
+"INTENDENTE","En blanco",0.009,0.005,0,0,0.725,0
+"INTENDENTE","No sabe",0.024,0.002,0.046,0,0,0.76
+"CORTA_PRESIDENTE","Si",0.149,0.216,0.132,0.197,0.122,0.218
+"CORTA_PRESIDENTE","No",0.851,0.784,0.868,0.803,0.878,0.782
+"CORTA_GOBERNADOR","Si",0.142,0.198,0.184,0.155,0.293,0.316
+"CORTA_GOBERNADOR","No",0.858,0.802,0.816,0.845,0.707,0.684
+"CORTA_INTENDENTE","Si",0.214,0.252,0.181,0.328,0.153,0.208
+"CORTA_INTENDENTE","No",0.786,0.748,0.819,0.672,0.847,0.792

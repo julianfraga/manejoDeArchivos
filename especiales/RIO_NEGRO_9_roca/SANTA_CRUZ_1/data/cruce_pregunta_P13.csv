@@ -1,0 +1,131 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P06","Del Frente de Todos y el peronismo",0.701,0.644,0.102,0.315
+"P06","De Juntos por el cambio",0.073,0.023,0.277,0.012
+"P06","De los Liberales libertarios",0.068,0.051,0.303,0.038
+"P06","De la Izquierda",0.04,0.02,0.059,0.041
+"P06","No sabe",0.118,0.262,0.259,0.594
+"P07","A Alberto Fernández",0.316,0.243,0.326,0.238
+"P07","A Sergio Massa",0.089,0.057,0.101,0.186
+"P07","A algún candidato del peronismo",0.162,0.275,0.321,0.244
+"P07","A algún candidato del kirchnerismo",0.433,0.425,0.252,0.332
+"P08","A Alberto Fernández",0.157,0.095,0.123,0.238
+"P08","A Sergio Massa",0.17,0.059,0.104,0.289
+"P08","A algún candidato del peronismo",0.096,0.096,0.432,0.218
+"P08","A Cristina Fernández de Kirchner",0.577,0.75,0.341,0.255
+"P09","A Horacio Rodriguez Larreta",0.492,1,0.186,0.662
+"P09","A Mauricio Macri",0.018,0,0.263,0
+"P09","A Patricia Bullrich",0.156,0,0.322,0.338
+"P09","A Facundo Manes",0.318,0,0.072,0
+"P09","A Gerardo Morales",0.016,0,0.157,0
+"P10","Eduardo Costa por Cambia Santa Cruz",0.106,0.074,0.152,0.024
+"P10","Máximo Kirchner por el Frente de Todos",0.548,0.107,0.014,0.024
+"P10","Pablo Grasso por el Frente de Todos",0.123,0.228,0.127,0.16
+"P10","Javier Belloni por el Frente de Todos",0.081,0.195,0.112,0.215
+"P10","Pablo González por el Frente de Todos",0.038,0.092,0.022,0.022
+"P10","Fernando Cotillo por el Frente de Todos",0.017,0.023,0.02,0.008
+"P10","Claudio Vidal por Somos Energía para Renovar Santa Cruz-SER",0.022,0.129,0.286,0.242
+"P10","Roxana Reyes por Cambia Santa Cruz",0.013,0,0.108,0.019
+"P10","No sabe",0.052,0.152,0.159,0.286
+"P11","Eduardo Costa por Cambia Santa Cruz",0.125,0.05,0.183,0.023
+"P11","Pablo Grasso por el Frente de Todos",0.201,0.242,0.13,0.16
+"P11","Javier Belloni por el Frente de Todos",0.094,0.202,0.082,0.164
+"P11","Alicia Kirchner por el Frente de Todos",0.346,0.1,0.014,0.091
+"P11","Pablo González por el Frente de Todos",0.072,0.075,0.025,0.016
+"P11","Fernando Cotillo por el Frente de Todos",0.017,0.024,0.019,0.019
+"P11","Claudio Vidal por Somos Energía para Renovar Santa Cruz-SER",0.053,0.157,0.265,0.177
+"P11","Roxana Reyes por Cambia Santa Cruz",0.016,0,0.133,0.019
+"P11","No sabe",0.076,0.15,0.149,0.331
+"P12","Eduardo Costa por Cambia Santa Cruz",0.139,0.039,0.171,0.023
+"P12","Javier Belloni por el Frente de Todos",0.213,0.146,0.106,0.19
+"P12","Pablo Grasso por el Frente de Todos",0.225,0.324,0.12,0.165
+"P12","Pablo González por el Frente de Todos",0.116,0.103,0.023,0.029
+"P12","Fernando Cotillo por el Frente de Todos",0.089,0.045,0.016,0.008
+"P12","Claudio Vidal por Somos Energía para Renovar Santa Cruz-SER",0.083,0.072,0.195,0.168
+"P12","Roxana Reyes por Cambia Santa Cruz",0.042,0.058,0.197,0.048
+"P12","No sabe",0.093,0.213,0.172,0.369
+"P14","Lo votaría",0.583,0.231,0.036,0.137
+"P14","Puede que lo vote",0.151,0.33,0.071,0.155
+"P14","Nunca lo votaría",0.188,0.248,0.848,0.201
+"P14","No sabe",0.078,0.191,0.045,0.507
+"P15","Lo votaría",0.144,0.051,0.21,0.051
+"P15","Puede que lo vote",0.093,0.155,0.175,0.091
+"P15","Nunca lo votaría",0.665,0.696,0.483,0.371
+"P15","No sabe",0.098,0.098,0.132,0.487
+"P16","Lo votaría",0.13,0.159,0.298,0.201
+"P16","Puede que lo vote",0.15,0.231,0.163,0.132
+"P16","Nunca lo votaría",0.632,0.517,0.469,0.343
+"P16","No sabe",0.088,0.093,0.07,0.324
+"P17","Lo votaría",0.262,0.094,0.055,0.065
+"P17","Puede que lo vote",0.23,0.223,0.086,0.104
+"P17","Nunca lo votaría",0.39,0.551,0.79,0.39
+"P17","No sabe",0.118,0.132,0.069,0.441
+"P18","Lo votaría",0.286,0.258,0.122,0.169
+"P18","Puede que lo vote",0.246,0.219,0.159,0.049
+"P18","Nunca lo votaría",0.372,0.362,0.649,0.379
+"P18","No sabe",0.096,0.161,0.07,0.403
+"P19","Lo votaría",0.152,0.046,0.229,0.023
+"P19","Puede que lo vote",0.066,0.075,0.136,0.063
+"P19","Nunca lo votaría",0.719,0.792,0.571,0.598
+"P19","No sabe",0.063,0.087,0.064,0.316
+"P20","Lo votaría",0.277,0.342,0.146,0.126
+"P20","Puede que lo vote",0.197,0.197,0.132,0.205
+"P20","Nunca lo votaría",0.443,0.356,0.645,0.26
+"P20","No sabe",0.083,0.105,0.077,0.409
+"P21","Lo votaría",0.174,0.059,0.02,0.014
+"P21","Puede que lo vote",0.167,0.131,0.044,0.062
+"P21","Nunca lo votaría",0.528,0.656,0.878,0.391
+"P21","No sabe",0.131,0.154,0.058,0.533
+"P22","Muy buena",0.174,0.131,0.036,0.047
+"P22","Buena",0.226,0.169,0.035,0.012
+"P22","Ni buena ni mala",0.348,0.515,0.37,0.341
+"P22","Mala",0.108,0.045,0.248,0.123
+"P22","Muy mala",0.047,0,0.209,0.047
+"P22","No sabe",0.097,0.14,0.102,0.43
+"P23","Muy buena",0.483,0.211,0.038,0.179
+"P23","Buena",0.103,0.25,0.041,0.134
+"P23","Ni buena ni mala",0.233,0.304,0.131,0.323
+"P23","Mala",0.091,0.122,0.288,0.063
+"P23","Muy mala",0.08,0.025,0.484,0.11
+"P23","No sabe",0.01,0.088,0.018,0.191
+"P24","Muy buena",0.096,0.043,0.122,0.011
+"P24","Buena",0.077,0.065,0.119,0.03
+"P24","Ni buena ni mala",0.175,0.196,0.221,0.257
+"P24","Mala",0.325,0.378,0.252,0.208
+"P24","Muy mala",0.274,0.244,0.227,0.219
+"P24","No sabe",0.053,0.074,0.059,0.275
+"P25","Muy buena",0.557,0.167,0.019,0.025
+"P25","Buena",0.216,0.379,0.032,0.074
+"P25","Ni buena ni mala",0.083,0.334,0.082,0.404
+"P25","Mala",0.019,0.065,0.213,0.133
+"P25","Muy mala",0.081,0.011,0.631,0.134
+"P25","No sabe",0.044,0.044,0.023,0.23
+"P26","Muy buena",0.159,0.094,0.205,0.157
+"P26","Buena",0.129,0.118,0.144,0.11
+"P26","Ni buena ni mala",0.291,0.31,0.229,0.304
+"P26","Mala",0.223,0.225,0.141,0.095
+"P26","Muy mala",0.169,0.156,0.243,0.127
+"P26","No sabe",0.029,0.097,0.038,0.207
+"P27","Muy buena",0.22,0.255,0.119,0.073
+"P27","Buena",0.224,0.26,0.151,0.074
+"P27","Ni buena ni mala",0.224,0.262,0.256,0.338
+"P27","Mala",0.145,0.115,0.177,0.089
+"P27","Muy mala",0.104,0.054,0.228,0.12
+"P27","No sabe",0.083,0.054,0.069,0.306
+"P28","Muy buena",0.117,0.013,0.174,0.02
+"P28","Buena",0.079,0.123,0.112,0.052
+"P28","Ni buena ni mala",0.169,0.326,0.254,0.329
+"P28","Mala",0.223,0.185,0.2,0.079
+"P28","Muy mala",0.272,0.306,0.183,0.171
+"P28","No sabe",0.14,0.047,0.077,0.349
+"P29","Muy buena",0.135,0.013,0.039,0.01
+"P29","Buena",0.084,0.144,0.045,0.058
+"P29","Ni buena ni mala",0.292,0.477,0.225,0.278
+"P29","Mala",0.163,0.12,0.223,0.126
+"P29","Muy mala",0.138,0.162,0.377,0.156
+"P29","No sabe",0.188,0.084,0.091,0.372
+"P30","Muy buena",0.272,0.321,0.105,0.174
+"P30","Buena",0.198,0.259,0.079,0.119
+"P30","Ni buena ni mala",0.176,0.319,0.201,0.316
+"P30","Mala",0.15,0.03,0.182,0.084
+"P30","Muy mala",0.125,0.029,0.347,0.092
+"P30","No sabe",0.079,0.042,0.086,0.215

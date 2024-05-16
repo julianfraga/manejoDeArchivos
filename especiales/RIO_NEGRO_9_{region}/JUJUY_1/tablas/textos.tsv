@@ -1,0 +1,13 @@
+clave	texto
+encuesta_especial	Escenarios Electorales: Elecciones Presidenciales - Jujuy; Septiembre 2023
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	21/09/2023
+ficha_Población objeto de estudio	Población mayor de 16 años.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	Provincia de Jujuy
+ficha_Estratificación	Zona 1: San Salvador de Jujuy. Zona 2: otras localidades de la provincia.
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Diseño muestral	Aleatorio Simple
+ficha_Tamaño muestral	La captura de datos abarca 849 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo.
+ficha_Margen de error	+/- 3.36 %

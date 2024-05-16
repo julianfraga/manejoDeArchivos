@@ -1,0 +1,28 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Sociodemográfico	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Sociodemográfico	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuesta	
+P09	Escenarios políticos	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacios políticos en elecciones Presidenciales	
+P10	Escenarios políticos	politica	Si las elecciones a gobernador fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por candidatos a Gobernador	
+P11	Escenarios políticos	politica	Si las elecciones a gobernador y vicegobernador fueran mañana, ¿a qué fórmula votaría?	Intención de voto por fórmulas a Gobernador y Vicegobernador	
+P11_imputada	Escenarios políticos	politica	Si las elecciones a gobernador y vicegobernador fueran mañana, ¿a qué fórmula votaría?	Intención de voto por fórmulas a Gobernador y Vicegobernador	(Imputación no lineal de neutros)
+P15	Escenarios políticos	votaria	Si Diego Giuliano fuera candidato a diputado nacional, ud…	Intención de voto por Diego Giuliano para diputado	
+P16	Escenarios políticos	votaria	Si Carolina Losada  fuera candidata a gobernadora, ud.	Intención de voto por Carolina Losada para gobernadora	
+P17	Escenarios políticos	votaria	Si Maximiliano Pullaro  fuera candidato a gobernador, ud.	Intención de voto por Maximiliano Pullaro para gobernador	
+P18	Escenarios políticos	votaria	Si Florencia Carignano fuera candidata a diputada nacional, ud.	Intención de voto por Florencia Carignano fuera para diputada	
+P19	Escenarios políticos	votaria	Si Mónica Fein fuera candidata a gobernadora, ud.	Intención de voto por Mónica Fein para gobernadora	
+P20	Escenarios políticos	votaria	Si Marcelo Lewandowski  fuera candidato a gobernador, ud.	Intención de voto por Marcelo Lewandowski para gobernador	
+P21	Escenarios políticos	votaria	Si Marcos Cleri  fuera candidato a gobernador, ud.	Intención de voto por Marcos Cleri para gobernador	
+P22	Escenarios políticos	votaria	Si German Martinez fuera candidato a diputado nacional, ud.	Intención de voto por German Martinez para diputado	
+P23	Escenarios políticos	votaria	Si Leandro Busatto fuera candidato a gobernador, ud.	Intención de voto por Leandro Busatto para gobernador	
+P24	Escenarios políticos	votaria	Si Eduardo Toniolli  fuera candidato a gobernadoro, ud.	Intención de voto por Eduardo Toniolli para gobernador	
+P25	Escenarios políticos	votaria	Si Federico Angelini fuera candidato a vicegobernador, ud.	Intención de voto por Federico Angelini para vicegobernador	
+P26	Escenarios políticos	votaria	Si José Núñez fuera candidata a diputada nacional, ud.	Intención de voto por José Núñez para diputada	
+P27	Escenarios políticos	votaria	Si Gisela Scaglia   fuera candidata a vicegobernadora, ud.	Intención de voto por Gisela Scaglia para vicegobernadora	
+P28	Escenarios políticos	votaria	Si Eugenio Fernández fuera candidato a vicegobernador, ud.	Intención de voto por Eugenio Fernández para vicegobernador	
+P29	Escenarios políticos	votaria	Si Silvina Patricia Frana fuera candidata a vicegobernadora, ud.	Intención de voto por Silvina Patricia Frana para vicegobernadora	
+P30	Escenarios políticos	votaria	Si Juan Cruz Cándido fuera candidata a diputada nacional, ud.	Intención de voto por Juan Cruz Cándido para diputado	
+P31	Escenarios políticos	votaria	Si Alejandra del Huerto Obeid fuera candidata a vicegobernadora, ud.	Intención de voto por Alejandra del para vicegobernadora	
+P32	Escenarios políticos	votaria	Si Alejandra Gómez Sáenz fuera candidata a vicegobernadora, ud.	Intención de voto por Alejandra Gómez para vicegobernadora	
+P33	Escenarios políticos	votaria	Si Esteban Paulón fuera candidato a diputado nacional, ud.	Intención de voto por Esteban Paulón para diputado	
+P34	Escenarios políticos	votaria	Si Leticia Quagliaro fuera candidata a vicegobernadora, ud.	Intención de voto por Leticia Quagliaro para vicegobernadora	
+P35	Control	control	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  		

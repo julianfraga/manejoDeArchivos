@@ -1,0 +1,45 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P10	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas
+P11	Coyuntura	sino	¿Podría indicarnos si usted está de acuerdo con la designación de Toto Caputo como ministro de Economía?	Opinión sobre la designación de Toto Caputo como Ministro de Economía
+P12	Coyuntura	politica	¿Podría indicarnos para usted quien tiene el poder en el gobierno entrante?	Opinión sobre la tenencia de poder real en el gobierno entrante
+P13	Coyuntura	sino	Esta de acuerdo con la privatización de empresas públicas, como YPF, AySA, Aerolíneas, Arsat y otras que plantea Milei	Opinión sobre la privatización de empresas estatales
+P14	Coyuntura	politica	¿Quién considera que debería ser el presidente de la cámara de Diputados de la Nación?	Opinión sobre el futuro Presidente de la Cámara de Diputados 
+P15	Coyuntura	sino	¿Podría indicarnos si esta de acuerdo con la designación de Patricia Bullrich como ministra de seguridad?	Opinión sobre la designación de P. Bullrich como Ministra de Seguridad
+P16	Coyuntura	sino	En su opinión, ¿Javier Milei debe alejarse de Macri para tomar decisiones? 	Opinión sobre la cercanía entre Milei y Macri en relación a la toma de decisiones
+P17	Coyuntura	sino	¿Usted está de acuerdo con que Javier Milei llegue a un acuerdo con Schiaretti y sectores del peronismo no kirchnerista? 	Opinión sobre un posible acuerdo entre Milei y Schiaretti
+P18	Coyuntura	quali	¿Podría indicarnos cuales son los principales sectores que Milei debería ajustar? 	Opinión sobre los sectores que Milei debería ajustar principalmente
+P19	Coyuntura	sino	¿Podría indicarnos si está de acuerdo con eliminar la coparticipación como plantea el presidente electo Javier Milei?	Opinión sobre la eliminación de la coparticipación
+P20	Coyuntura	sino	¿Considera que Milei debería comenzar con el ajuste apenas asuma?	Opinión sobre qué tan pronto debería realizarse el ajuste
+P21	Político	problema	¿Cuál de las siguientes opciones diría que es el principal problema del país? 	Principales Problema del país
+P25	Socioeconómico	deuda	Endeudamiento familiar	Endeudamiento familiar
+P26	Socioeconómico	ingresos	Ingresos familiares	Ingresos familiares
+P27	Socioeconómico	opinion	Percepción de la situación económica personal	Percepción de la situación económica personal
+P28	Socioeconómico	comparacion	¿Considera usted que su situación económica personal está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación económica personal en comparación con seis meses atrás
+P29	Socioeconómico	comparacion	¿Cómo cree que va a estar su situación económica personal dentro de seis meses? 	Expectativa económica personal para dentro de seis meses
+P30	Socioeconómico	opinion	¿Cuál es su opinión sobre la situación económica del país? 	Percepción de la situación económica del país
+P31	Socioeconómico	comparacion	¿Considera usted que la situación económica del país está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación económica del país en comparación con seis meses atrás
+P32	Socioeconómico	comparacion	¿Cómo cree Ud. que va a estar la situación económica del país en seis meses? 	Expectativa económica del país para dentro de seis meses
+P33	Socioeconómico	opinion	¿Qué opinión tiene Ud. sobre la gestión del Gobierno Nacional?	Evaluación de la gestión del Gobierno Nacional
+P34	Socioeconómico	opinion	¿Qué opinión tiene Ud. sobre la gestión del Gobierno de la Provincia de Buenos Aires?	Evaluación de la gestión del Gobierno Provincial
+P35	Políticas públicas	opinion	¿Qué opinión tiene Ud. sobre la  política económica del Gobierno Nacional?	Evaluación de la política económica del Gobierno Nacional
+P36	Políticas públicas	opinion	¿Y cómo considera que es la política social del Gobierno Nacional? 	Evaluación de la política social del Gobierno Nacional
+P37	Políticas públicas	opinion	Y por último, ¿cómo evalúa usted la política de seguridad del Gobierno Nacional? 	Evaluación de la política de seguridad del Gobierno Nacional
+P38	Imagen de dirigentes	imagen	¿Qué imagen tiene de Alberto Fernandez? 	Imagen de Alberto Fernández
+P39	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernandez de Kirchner?	Imagen de Cristina Fernández de Kirchner
+P40	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri
+P41	Imagen de dirigentes	imagen	¿Qué imagen tiene de Horacio Rodriguez Larreta?	Imagen de Horacio Rodríguez Larreta
+P42	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa
+P43	Imagen de dirigentes	imagen	¿Qué imagen tiene de Maria Eugenia Vidal?	Imagen de María Eugenia Vidal
+P44	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen de Axel Kicillof
+P45	Imagen de dirigentes	imagen	¿Qué imagen tiene de Nestor Grindeti?	Imagen de Néstor Grindeti
+P46	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei
+P47	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Wado de Pedro?	Imagen de Wado de Pedro
+P49	Imagen de dirigentes	imagen	¿Qué imagen tiene de Malena Galmarini? 	Imagen de Malena Galmarini
+P50	Imagen de dirigentes	imagen	¿Qué imagen tiene de Martin Lousteau?	Imagen de Martín Lousteau
+P51	Imagen de dirigentes	imagen	¿Qué imagen tiene de Leandro Santoro? 	Imagen de Leandro Santoro
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti?	Imagen de Juan Schiaretti
+P54	General	medios	De los siguientes medios de comunicación, ¿cuál es el que más utiliza para informarse?	Consumo de Medios de Comunicación
+P55	General	opinion	¿Qué imagen tiene del Congreso de la Nación?	Imagen del Congreso Nacional
+P56	General	opinion	¿Qué imagen tiene del Poder Judicial?	Imagen del Poder Judicial

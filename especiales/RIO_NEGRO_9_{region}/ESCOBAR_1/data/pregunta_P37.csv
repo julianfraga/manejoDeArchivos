@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Fernandez","Macri","Lavagna"
+"A Alberto Fernández",0.126,0.137,0.114,0,0.13,0.12,0.3,0.105,0.17,0.105,0.077,0.476,0
+"A Sergio Massa",0.746,0.782,0.707,0.808,0.807,0.629,0.66,0.818,0.589,0.822,0.784,0.464,0
+"A algún candidato del peronismo",0.025,0.028,0.022,0,0.023,0.063,0,0,0.071,0.011,0.015,0.042,0
+"A algún candidato del kirchnerismo",0.103,0.053,0.157,0.192,0.04,0.188,0.04,0.077,0.17,0.062,0.124,0.018,0

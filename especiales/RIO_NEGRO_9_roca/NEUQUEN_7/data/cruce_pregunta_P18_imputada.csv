@@ -1,0 +1,67 @@
+"var","categoria","Pablo Todero a Diputado Nacional por Unión por la Patria","Francisco Sánchez a Diputado Nacional por Juntos por el Cambio","Nadia Márquez a Diputada Nacional por Arriba Neuquén","Sandro Badilla a diputado nacional por el movimiento popular neuquino","Patricia Jure a Diputada Nacional por el Frente de Izquierda","En blanco"
+"P05","Tiene Decidido que va a ir a votar.",0.944,0.912,0.902,0.849,0.849,0.949
+"P05","Tiene dudas sobre si va a ir a  votar",0.04,0.077,0.075,0.102,0,0.029
+"P05","Tiene Decidido que no va a ir a votar",0.016,0.011,0.023,0.049,0.151,0.022
+"P06","Mucho",0.599,0.549,0.434,0.469,0.443,0.687
+"P06","Bastante",0.291,0.244,0.279,0.311,0.297,0.12
+"P06","Poco",0.028,0.154,0.237,0.123,0.232,0.1
+"P06","Nada",0.055,0.043,0.046,0.036,0.028,0.086
+"P06","No sabe",0.027,0.01,0.004,0.061,0,0.007
+"P07","Siempre",0.325,0.226,0.238,0.144,0.339,0.27
+"P07","Casi siempre",0.3,0.336,0.294,0.414,0.298,0.351
+"P07","Casi nunca",0.312,0.341,0.315,0.319,0.266,0.262
+"P07","Nunca, pero esta es una excepción",0.063,0.097,0.153,0.123,0.097,0.117
+"P13","Totalmente seguro.",0.701,0.693,0.632,0.614,0.75,0.719
+"P13","Bastante seguro",0.062,0.097,0.099,0.063,0.222,0.042
+"P13","Algo seguro",0.145,0.141,0.175,0.19,0,0.2
+"P13","Para nada seguro",0.092,0.069,0.094,0.133,0.028,0.039
+"P21","Muy buena",0.365,0.305,0.486,0.177,0.073,0.114
+"P21","Buena",0.122,0.258,0.23,0.334,0.272,0.198
+"P21","Ni buena ni mala",0.402,0.313,0.157,0.219,0.293,0.312
+"P21","Mala",0.093,0.067,0.033,0.035,0.112,0.116
+"P21","Muy mala",0.01,0.047,0.039,0.192,0.25,0.134
+"P21","No sabe",0.008,0.01,0.055,0.043,0,0.126
+"P22","Muy buena",0.33,0.133,0.249,0.047,0.076,0.101
+"P22","Buena",0.169,0.14,0.23,0.324,0.254,0.192
+"P22","Ni buena ni mala",0.411,0.325,0.301,0.237,0.269,0.43
+"P22","Mala",0.076,0.205,0.122,0.264,0.401,0.071
+"P22","Muy mala",0.005,0.135,0.037,0.113,0,0.112
+"P22","No sabe",0.009,0.062,0.061,0.015,0,0.094
+"P23","Muy buena",0.179,0.105,0.251,0.074,0.127,0.042
+"P23","Buena",0.185,0.136,0.123,0.2,0.1,0.047
+"P23","Ni buena ni mala",0.298,0.286,0.317,0.308,0.122,0.281
+"P23","Mala",0.248,0.297,0.188,0.288,0.49,0.374
+"P23","Muy mala",0.09,0.17,0.08,0.13,0.161,0.185
+"P23","No sabe",0,0.006,0.041,0,0,0.071
+"P24","Muy buena",0.301,0.105,0.304,0.232,0.126,0.097
+"P24","Buena",0.214,0.289,0.131,0.25,0.222,0.088
+"P24","Ni buena ni mala",0.288,0.267,0.24,0.238,0.182,0.276
+"P24","Mala",0.069,0.218,0.211,0.071,0.42,0.379
+"P24","Muy mala",0.087,0.11,0.064,0.143,0.05,0.085
+"P24","No sabe",0.041,0.011,0.05,0.066,0,0.075
+"P25","Muy buena",0.121,0.107,0.143,0.07,0.142,0
+"P25","Buena",0.099,0.045,0.028,0.074,0.038,0.006
+"P25","Ni buena ni mala",0.326,0.255,0.387,0.367,0.056,0.392
+"P25","Mala",0.283,0.314,0.229,0.214,0.553,0.272
+"P25","Muy mala",0.143,0.25,0.159,0.226,0.183,0.24
+"P25","No sabe",0.028,0.029,0.054,0.049,0.028,0.09
+"P26","Muy buena",0.161,0.081,0.105,0.047,0.053,0
+"P26","Buena",0.129,0.032,0.159,0.048,0.295,0.022
+"P26","Ni buena ni mala",0.354,0.252,0.255,0.395,0.11,0.399
+"P26","Mala",0.178,0.281,0.22,0.181,0.414,0.224
+"P26","Muy mala",0.116,0.275,0.18,0.24,0.101,0.267
+"P26","No sabe",0.062,0.079,0.081,0.089,0.027,0.088
+"P27","Si",0.469,0.506,0.47,0.414,0.291,0.299
+"P27","No",0.531,0.494,0.53,0.586,0.709,0.701
+"PRESIDENTE_imputada","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria. ",0.573,0.095,0.258,0.254,0.431,0.217
+"PRESIDENTE_imputada","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.18,0.431,0.061,0.253,0.242,0.123
+"PRESIDENTE_imputada","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.173,0.421,0.633,0.35,0.215,0.617
+"PRESIDENTE_imputada","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0.016,0.011,0.024,0.048,0.112,0.002
+"PRESIDENTE_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.031,0.021,0.013,0.025,0,0
+"PRESIDENTE_imputada","En blanco",0.027,0.021,0.011,0.07,0,0.041
+"DIPUTADOS_imputada","Pablo Todero a Diputado Nacional por Unión por la Patria",1,0,0,0,0,0
+"DIPUTADOS_imputada","Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0,0.979,0,0,0,0
+"DIPUTADOS_imputada","Nadia Márquez a Diputada Nacional por Arriba Neuquén",0,0,1,0,0,0
+"DIPUTADOS_imputada","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0,0.021,0,1,0.013,0
+"DIPUTADOS_imputada","Patricia Jure a Diputada Nacional por el Frente de Izquierda",0,0,0,0,0.987,0
+"DIPUTADOS_imputada","En blanco",0,0,0,0,0,1

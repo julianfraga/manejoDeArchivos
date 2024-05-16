@@ -1,0 +1,21 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	quali	¿Qué tan decidido está sobre ir a votar?	Nivel de decisión sobre ir o no a votar	
+P06	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P07	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P10	Preferencias políticas	politica	¿Pensando en las próximas elecciones de primera vuelta a presidente, vicepresidente y generales a diputados nacionales a que candidatos preferiría votar?	Intención de voto por fórmula presidencial en primera vuelta y a diputados en generales	
+P10_imputada	Preferencias políticas	politica	¿Pensando en las próximas elecciones de primera vuelta a presidente, vicepresidente y generales a diputados nacionales a que candidatos preferiría votar?	Intención de voto por fórmula presidencial en primera vuelta y a diputados en generales	(Imputación no lineal de indecisos)
+P13	Preferencias políticas	diverging	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente y vicepresidente en las próximas elecciones	Nivel de seguridad sobre intención de voto por fórmula presidencial	
+CORTA_DIPUTADOS	Preferencias políticas	sino	En las elecciones a Diputados Nacionales por la Provincia de Neuquén,¿usted estaría dispuesto a cortar boleta?	Intención de corte de boleta en elecciones a Diputados Nacionales	
+P18	Preferencias políticas	politica	¿Podría indicarnos cuáles serían los candidatos a Diputados Nacionales que usted preferiría votar en las próximas elecciones generales?	Intención de voto por candidatos a Diputado Nacional en caso de corte de boleta	
+P18_imputada	Preferencias políticas	politica	¿Podría indicarnos cuáles serían los candidatos a Diputados Nacionales que usted preferiría votar en las próximas elecciones generales?	Intención de voto por candidatos a Diputado Nacional	
+DIPUTADOS	Preferencias políticas	politica	Intención de voto para Diputado Nacional	Intención de voto para Diputado Nacional	considerando corte de boleta
+DIPUTADOS_imputada	Preferencias políticas	politica	Intención de voto para Diputado Nacional	Intención de voto para Diputado Nacional	considerando corte de boleta (imputación no lineal de indecisos)
+PRESIDENTE	Preferencias políticas	politica	Intención de voto a Presidente	Intención de voto a Presidente	considerando corte de boleta
+PRESIDENTE_imputada	Preferencias políticas	politica	Intención de voto a Presidente	Intención de voto a Presidente	considerando corte de boleta (imputación no lineal de indecisos)
+P21	Imagen de dirigentes	opinion	¿Qué imagen tiene de Rolo Figueroa? 	Imagen de Rolo Figueroa	
+P22	Imagen de dirigentes	opinion	¿Qué imagen tiene de Ramón Rioseco? 	Imagen de Ramón Rioseco	
+P23	Imagen de dirigentes	opinion	¿Qué imagen tiene de Omar Gutiérrez? 	Imagen de Omar Gutiérrez	
+P24	Imagen de dirigentes	opinion	¿Qué imagen tiene de Mariano Gaido? 	Imagen de Mariano Gaido	
+P25	Imagen de dirigentes	opinion	¿Qué imagen tiene de Carlos Quintriqueo? 	Imagen de Carlos Quintriqueo	
+P26	Imagen de dirigentes	opinion	¿Qué imagen tiene de Marcelo Guagliardo? 	Imagen de Marcelo Guagliardo	
+P27	Control	votaria	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

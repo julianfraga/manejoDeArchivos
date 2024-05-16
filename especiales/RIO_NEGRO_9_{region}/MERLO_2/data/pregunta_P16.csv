@@ -1,0 +1,6 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto"
+"Agua corriente y cloacas",0.49,0.524,0.458,0.455,0.506,0.479,0.54,0.539,0.462,0.455
+"Energía eléctrica",0.112,0.135,0.089,0.128,0.116,0.114,0.058,0.142,0.089,0.101
+"Red de gas natural",0.101,0.075,0.125,0.076,0.132,0.087,0.087,0.115,0.093,0.09
+"Recolección de residuos",0.162,0.128,0.196,0.197,0.146,0.159,0.143,0.12,0.183,0.205
+"Ninguno",0.135,0.138,0.132,0.144,0.1,0.161,0.172,0.084,0.173,0.149

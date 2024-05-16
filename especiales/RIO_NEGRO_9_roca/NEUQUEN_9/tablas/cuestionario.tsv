@@ -1,0 +1,31 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P09	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P10	Bloque General	opinion	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Provincia Bloque General?	Opinión sobre la gestión del gobierno provincial	
+P11	Bloque General	opinion	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno entrante de Rolo Figueroa 	Expectativas sobre el gobierno de Rolo Figueroa	
+P12	Bloque General	opinion	Que opinión tiene usted entre el reciente convenio entre el gobernador Rolo Figueroa y el intendente de la ciudad de Neuquén Mariano Gaido	Opinión sobre el convenio Figueroa-Gaido	
+P13	Bloque General	opinion	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Intendencia de Neuquén?	Opinión sobre el gobierno de la Intendencia de Neuquén	(Sólo Neuquén Capital)
+P14	Bloque General	opinion	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno entrante de Mariano Gaido 	Expectativas sobre el gobierno de Mariano Gaido	(Sólo Neuquén Capital)
+P15	Bloque General	opinion	Podria indicarnos que opinión tiene sobre el proyecto de suspensión jubilaciones de privilegio	Opinión sobre el proyecto de suspensión de jubilaciones de privilegio	
+P16	Bloque General	quali	¿A quién le atribuiría la crisis sanitaria que esta atravesando Neuquen? 	Opinión sobre la crisis sanitaria	
+P17	Bloque General	opinion	Podria indicarnos que opinión tiene de la presencialidad obligatoria en empleados públicos? 	Opinión sobre la presencialidad obligatoria en empleados públicos	
+P18	Bloque General	sino	¿Podría indicarnos si cree que Rolo Figueroa tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Rolo Figueroa	
+P19	Bloque General	sino	¿Usted cree que Rolo Figueroa es una persona honesta? 	Opinión sobre la honestidad de Rolo Figueroa	
+P20	Bloque General	sino	¿Podría indicarnos si cree que Mariano Gaido tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Mariano Gaido	(Sólo Neuquén Capital)
+P21	Bloque General	sino	¿Usted cree que Mariano Gaido es una persona honesta? 	Opinión sobre la honestidad de Mariano Gaido	(Sólo Neuquén Capital)
+P22	Bloque General	opinion	Podría indicarnos que opinion tiene sobre el DNU impulsado por el presidente Javier Milei	Opinión sobre el DNU impulsado por Milei	
+P23	Bloque General	opinion	Podría indicarnos que opinion tiene sobre el la ley ómnibus impulsada por el presidente Javier Milei	Opinión sobre la Ley Ómnibus  impulsada por Milei	
+P24	Imagen de dirigentes	imagen	¿Qué imagen tiene de Rolo Figueroa?	Imagen de Rolo Figueroa	
+P25	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mariano Gaido?	Imagen de Mariano Gaido	
+P26	Imagen de dirigentes	imagen	¿Qué imagen tiene de Omar Gutierrez?	Imagen de Omar Gutierrez	
+P27	Imagen de dirigentes	imagen	¿Qué imagen tiene de Marcos Koopmann?	Imagen de Marcos Koopmann	
+P28	Imagen de dirigentes	imagen	¿Qué imagen tiene de Ramon Rioseco?	Imagen de Ramon Rioseco	
+P29	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner	
+P30	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P31	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	
+P32	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P33	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich	
+P34	Imagen de dirigentes	imagen	¿Qué imagen tiene de Karina Milei?	Imagen de Karina Milei	
+P35	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel	
+P36	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti? 	Imagen de Juan Schiaretti	
+P37	Imagen de dirigentes	imagen	¿Qué imagen tiene de Toto Caputo? 	Imagen de Toto Caputo	
+P38	Imagen de dirigentes	imagen	¿Qué imagen tiene de Guillermo Francos? 	Imagen de Guillermo Francos	

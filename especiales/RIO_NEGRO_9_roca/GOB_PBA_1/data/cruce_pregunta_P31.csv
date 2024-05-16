@@ -1,0 +1,236 @@
+"var","categoria","Sergio Massa por el Frente de Todos","Patricia Bullrich por Juntos por el Cambio","Javier Milei por los liberales libertarios","Nicolás del Caño por la izquierda","Otro candidato","Aún no lo tengo decidido"
+"P05","Tengo trabajo estable",0.502,0.489,0.559,0.465,0.599,0.398
+"P05","Realizo changas o trabajos de vez en cuando",0.178,0.131,0.197,0.255,0.162,0.25
+"P05","No tengo trabajo",0.09,0.126,0.159,0.155,0.114,0.171
+"P05","Soy jubilado o pensionado",0.23,0.254,0.085,0.125,0.125,0.181
+"P06","1",0.244,0.323,0.417,0.102,0.17,0.292
+"P06","2",0.06,0.046,0.085,0.077,0.05,0.068
+"P06","3",0.033,0.089,0.084,0.067,0.028,0.026
+"P06","4",0.057,0.08,0.066,0.094,0.047,0.046
+"P06","5",0.176,0.196,0.186,0.087,0.297,0.216
+"P06","6",0.051,0.052,0.036,0.049,0.065,0.045
+"P06","7",0.106,0.07,0.009,0.123,0.102,0.095
+"P06","8",0.061,0.039,0.02,0.042,0.074,0.039
+"P06","9",0.212,0.105,0.097,0.359,0.167,0.173
+"P07","1",0.401,0.201,0.195,0.269,0.293,0.381
+"P07","2",0.078,0.039,0.031,0.071,0.052,0.058
+"P07","3",0.032,0.033,0.008,0.07,0.062,0.044
+"P07","4",0.027,0.031,0.03,0.043,0.066,0.083
+"P07","5",0.159,0.209,0.127,0.314,0.28,0.2
+"P07","6",0.038,0.064,0.034,0.047,0.036,0.058
+"P07","7",0.06,0.079,0.11,0.054,0.033,0.022
+"P07","8",0.036,0.076,0.102,0.006,0.054,0.043
+"P07","9",0.169,0.268,0.363,0.126,0.124,0.111
+"P08","1",0.51,0.308,0.203,0.644,0.488,0.434
+"P08","2",0.026,0.028,0.027,0.052,0.026,0.021
+"P08","3",0.017,0.024,0.041,0.016,0.034,0.042
+"P08","4",0.023,0.019,0.031,0.03,0.013,0.029
+"P08","5",0.102,0.123,0.129,0.081,0.121,0.138
+"P08","6",0.018,0.019,0.012,0.025,0.014,0.024
+"P08","7",0.012,0.044,0.049,0.009,0.015,0.054
+"P08","8",0.018,0.034,0.036,0.069,0.032,0.028
+"P08","9",0.274,0.401,0.472,0.074,0.257,0.23
+"P10","Del Frente de Todos y el peronismo",0.608,0.214,0.027,0.313,0.412,0.418
+"P10","De Cambiemos",0.268,0.662,0.085,0.031,0.302,0.152
+"P10","De los Liberales libertarios",0.035,0.066,0.776,0.074,0.018,0.047
+"P10","De la Izquierda",0.012,0.005,0.006,0.509,0.02,0.04
+"P10","No sabe",0.077,0.053,0.106,0.073,0.248,0.343
+"P11","A Alberto Fernández",0.112,0.16,0.313,0.12,0.089,0.194
+"P11","A Sergio Massa",0.352,0.295,0.222,0.014,0.017,0.084
+"P11","A algún candidato del peronismo",0.097,0.127,0.287,0.326,0.11,0.129
+"P11","A algún candidato del kirchnerismo",0.439,0.418,0.178,0.54,0.784,0.593
+"P12","A Alberto Fernández",0.068,0.114,0.128,0.11,0.015,0.113
+"P12","A Sergio Massa",0.169,0.175,0.324,0,0.016,0.033
+"P12","A algún candidato del peronismo",0.107,0.114,0.239,0.092,0.129,0.065
+"P12","A Cristina Fernández de Kirchner",0.656,0.597,0.309,0.798,0.84,0.789
+"P13","A Horacio Rodriguez Larreta",0.252,0.191,0.496,0.134,0.489,0.506
+"P13","A Mauricio Macri",0.272,0.315,0.222,0.733,0.135,0.265
+"P13","A Patricia Bullrich",0.415,0.463,0.207,0.133,0.129,0.091
+"P13","A Facundo Manes",0.049,0.018,0.07,0,0.185,0.114
+"P13","A Gerardo Morales",0.012,0.013,0.005,0,0.062,0.024
+"P14","Seguro lo votaria",0.12,0.16,0.467,0.224,0.062,0.061
+"P14","Quizás lo votaría",0.369,0.343,0.366,0.414,0.271,0.433
+"P14","Nunca lo votaría",0.511,0.497,0.167,0.362,0.667,0.506
+"P15","Lo votaría",0.552,0.177,0.028,0.308,0.4,0.373
+"P15","Puede que lo vote",0.098,0.049,0.025,0.209,0.082,0.083
+"P15","Nunca lo votaría",0.284,0.754,0.898,0.329,0.466,0.375
+"P15","No sabe",0.066,0.02,0.049,0.154,0.052,0.169
+"P16","Lo votaría",0.233,0.094,0.038,0.177,0.137,0.118
+"P16","Puede que lo vote",0.309,0.14,0.066,0.214,0.196,0.303
+"P16","Nunca lo votaría",0.357,0.711,0.82,0.407,0.517,0.392
+"P16","No sabe",0.101,0.055,0.076,0.202,0.15,0.187
+"P17","Lo votaría",0.168,0.341,0.122,0.023,0.11,0.078
+"P17","Puede que lo vote",0.199,0.351,0.266,0.136,0.168,0.219
+"P17","Nunca lo votaría",0.569,0.252,0.507,0.724,0.612,0.495
+"P17","No sabe",0.064,0.056,0.105,0.117,0.11,0.208
+"P18","Lo votaría",0.123,0.285,0.096,0.008,0.06,0.033
+"P18","Puede que lo vote",0.185,0.331,0.268,0.018,0.154,0.146
+"P18","Nunca lo votaría",0.594,0.282,0.489,0.883,0.667,0.563
+"P18","No sabe",0.098,0.102,0.147,0.091,0.119,0.258
+"P19","Lo votaría",0.326,0.136,0.031,0.067,0.053,0.106
+"P19","Puede que lo vote",0.3,0.148,0.085,0.258,0.315,0.308
+"P19","Nunca lo votaría",0.351,0.696,0.844,0.567,0.565,0.432
+"P19","No sabe",0.023,0.02,0.04,0.108,0.067,0.154
+"P20","Lo votaría",0.051,0.078,0.033,0.03,0.044,0.042
+"P20","Puede que lo vote",0.193,0.25,0.137,0.012,0.145,0.161
+"P20","Nunca lo votaría",0.57,0.526,0.632,0.629,0.637,0.517
+"P20","No sabe",0.186,0.146,0.198,0.329,0.174,0.28
+"P21","Lo votaría",0.094,0.209,0.534,0.032,0.048,0.059
+"P21","Puede que lo vote",0.161,0.323,0.22,0.015,0.144,0.153
+"P21","Nunca lo votaría",0.651,0.391,0.187,0.917,0.727,0.567
+"P21","No sabe",0.094,0.077,0.059,0.036,0.081,0.221
+"P22","Lo votaría",0.038,0.039,0.074,0.004,0.049,0.006
+"P22","Puede que lo vote",0.088,0.137,0.08,0.028,0.081,0.05
+"P22","Nunca lo votaría",0.63,0.555,0.541,0.622,0.637,0.463
+"P22","No sabe",0.244,0.269,0.305,0.346,0.233,0.481
+"P23","Mauricio Macri presidente – Cristian Ritondo gobernador por Juntos por el Cambio",0.103,0.262,0.057,0.022,0.085,0.084
+"P23","Horacio Rodríguez Larreta presidente – Diego Santilli gobernador por Juntos por el Cambio",0.071,0.128,0.038,0.081,0.17,0.122
+"P23","Patricia Bullrich presidenta – Joaquín de la Torre gobernador por Juntos por el Cambio",0.124,0.33,0.064,0.076,0.043,0.059
+"P23","Alberto Fernández presidente – Gabriel Katopodis gobernador por el Frente de Todos",0.06,0.03,0.013,0.059,0.042,0.076
+"P23","Cristina Fernández de Kirchner presidenta  - Axel Kicillof gobernador por el Frente de Todos",0.442,0.154,0.014,0.312,0.382,0.374
+"P23","Cristina Fernández de Kirchner presidenta  - Sergio Massa gobernador por el Frente de Todos",0.15,0.063,0.089,0.063,0.038,0.058
+"P23","Javier Milei presidente - José Luis Espert gobernador por los liberales",0.013,0.024,0.692,0.006,0.011,0.028
+"P23","A los candidatos de la izquierda",0.007,0,0.003,0.333,0.018,0.027
+"P23","Otros candidatos",0.03,0.009,0.03,0.048,0.211,0.172
+"P24","Patricia Bullrich presidenta – Joaquín de la Torre gobernador por Juntos por el Cambio",0.182,0.495,0.062,0.052,0.059,0.082
+"P24","Horacio Rodríguez Larreta presidente – Diego Santilli gobernador por Juntos por el Cambio",0.095,0.183,0.058,0.143,0.227,0.131
+"P24","Alberto Fernández presidente – Gabriel Katopodis gobernador por el Frente de Todos",0.136,0.063,0.046,0.054,0.064,0.146
+"P24","Sergio Massa presidente – Axel Kicillof Gobernador",0.492,0.162,0.01,0.202,0.219,0.259
+"P24","Javier Milei presidente - José Luis Espert gobernador por los liberales",0.039,0.043,0.749,0.024,0.037,0.051
+"P24","A los candidatos de la izquierda",0.025,0.028,0.003,0.464,0.036,0.062
+"P24","Otros candidatos",0.031,0.026,0.072,0.061,0.358,0.269
+"P26","Cristina Fernández de Kirchner presidenta – Sergio Massa gobernador por el Frente de Todos",0.654,0.207,0.013,0.23,0.354,0.458
+"P26","Mauricio Macri presidente – Cristian Ritondo gobernador por Juntos por el Cambio",0.208,0.552,0.057,0.014,0.09,0.122
+"P26","Javier Milei presidente – José Luis Espert gobernador por los liberales",0.032,0.118,0.878,0.019,0.017,0.062
+"P26","A los candidatos de la izquierda",0.013,0.015,0.012,0.564,0.011,0.04
+"P26","Otro candidato",0.093,0.108,0.04,0.173,0.528,0.318
+"P28","Horacio Rodríguez Larreta presidente – Diego Santilli gobernador por Juntos por el Cambio",0.263,0.5,0.038,0.295,0.218,0.199
+"P28","Cristina Fernández de Kirchner presidenta  - Axel Kicillof gobernador por el Frente de Todos",0.601,0.231,0.026,0.146,0.396,0.455
+"P28","Javier Milei presidente – José Luis Espert  gobernador por los liberales",0.044,0.143,0.914,0.011,0.016,0.055
+"P28","A los candidatos de la izquierda",0.012,0.005,0.002,0.382,0.008,0.035
+"P28","Otro candidato",0.08,0.121,0.02,0.166,0.362,0.256
+"P30","Patricia Bullrich presidenta – Joaquín de la Torre gobernador por Juntos por el Cambio",0.35,0.601,0.032,0.294,0.178,0.256
+"P30","Cristina Fernández de Kirchner presidenta  - Axel Kicillof gobernador por el Frente de Todos",0.561,0.306,0.046,0.135,0.301,0.362
+"P30","Javier Milei presidente – José Luis Espert  gobernador por los liberales",0.023,0.049,0.911,0.009,0.016,0.055
+"P30","A los candidatos de la izquierda",0.008,0.002,0.002,0.477,0.014,0.036
+"P30","Otro candidato",0.058,0.042,0.009,0.085,0.491,0.291
+"P33","Sergio Massa por el Frente de Todos",0.592,0.253,0.006,0.087,0.074,0.164
+"P33","Horacio Rodríguez Larreta por Juntos por el Cambio",0.255,0.471,0.041,0.02,0.204,0.103
+"P33","Javier Milei por los liberales libertarios",0.047,0.126,0.908,0.011,0.006,0.032
+"P33","Nicolás del Caño por la izquierda",0.004,0.009,0.005,0.82,0.004,0.019
+"P33","Otro candidato",0.059,0.092,0.008,0.043,0.598,0.093
+"P33","Aún no lo tengo decidido",0.043,0.049,0.032,0.019,0.114,0.589
+"P34","Cristina Fernández de Kirchner por el Frente de Todos",0.64,0.195,0.012,0.326,0.376,0.427
+"P34","Horacio Rodríguez Larreta por Juntos por el Cambio",0.198,0.514,0.047,0.07,0.228,0.129
+"P34","Javier Milei por los liberales libertarios",0.049,0.144,0.913,0.006,0.01,0.021
+"P34","Nicolás del Caño por la izquierda",0.016,0.016,0.002,0.502,0.007,0.014
+"P34","Otro candidato",0.052,0.102,0.007,0.088,0.303,0.099
+"P34","Aún no lo tengo decidido",0.045,0.029,0.019,0.008,0.076,0.31
+"P35","Sergio Massa por el Frente de Todos",0.583,0.26,0.066,0.074,0.181,0.186
+"P35","Mauricio Macri por Juntos por el Cambio",0.289,0.546,0.033,0.119,0.102,0.098
+"P35","Javier Milei por los liberales libertarios",0.026,0.089,0.88,0.013,0.011,0.032
+"P35","Nicolás del Caño por la izquierda",0.016,0.003,0.006,0.758,0.013,0.025
+"P35","Otro candidato",0.049,0.08,0.005,0.021,0.606,0.177
+"P35","Aún no lo tengo decidido",0.037,0.022,0.01,0.015,0.087,0.482
+"P36","Cristina Fernández de Kirchner por el Frente de Todos",0.644,0.231,0.049,0.522,0.446,0.479
+"P36","Mauricio Macri por Juntos por el Cambio",0.287,0.694,0.443,0.061,0.247,0.168
+"P36","No sabe",0.069,0.075,0.508,0.417,0.307,0.353
+"P37","Alberto Fernández por el Frente de Todos",0.59,0.166,0.036,0.546,0.256,0.276
+"P37","Horacio Rodríguez Larreta por Juntos por el Cambio",0.261,0.678,0.399,0.078,0.303,0.196
+"P37","No sabe",0.149,0.156,0.565,0.376,0.441,0.528
+"P38","Sergio Massa presidente por el Frente de Todos",0.652,0.195,0.026,0.492,0.291,0.298
+"P38","Patricia Bullrich por Juntos por el Cambio",0.285,0.772,0.631,0.066,0.215,0.167
+"P38","No sabe",0.063,0.033,0.343,0.442,0.494,0.535
+"P39","Cristina Fernandez de Kirchner por el Frente de Todos",0.659,0.18,0.035,0.598,0.422,0.51
+"P39","Horacio Rodríguez Larreta por Juntos por el Cambio",0.258,0.73,0.5,0.09,0.312,0.195
+"P39","No sabe",0.083,0.09,0.465,0.312,0.266,0.295
+"P40","Sergio Massa presidente por el Frente de Todos",0.672,0.208,0.008,0.441,0.324,0.333
+"P40","Javier Milei por los liberales libertarios",0.139,0.446,0.884,0.052,0.084,0.107
+"P40","No sabe",0.189,0.346,0.108,0.507,0.592,0.56
+"P41","Sergio Massa por el Frente de Todos",0.669,0.197,0.043,0.334,0.302,0.283
+"P41","Horacio Rodríguez Larreta por Juntos por el Cambio",0.25,0.682,0.513,0.133,0.273,0.174
+"P41","No sabe",0.081,0.121,0.444,0.533,0.425,0.543
+"P42","Sergio Massa por el Frente de Todos",0.667,0.206,0.038,0.477,0.332,0.362
+"P42","Mauricio Macri por Juntos por el Cambio",0.266,0.737,0.613,0.032,0.251,0.186
+"P42","No sabe",0.067,0.057,0.349,0.491,0.417,0.452
+"P43","Horacio Rodríguez Larreta por Juntos por el Cambio",0.308,0.535,0.051,0.152,0.295,0.183
+"P43","Javier Milei por los liberales libertarios",0.096,0.262,0.875,0.07,0.078,0.082
+"P43","No sabe",0.596,0.203,0.074,0.778,0.627,0.735
+"P44","Muy buena",0.128,0.071,0.01,0.011,0.056,0.082
+"P44","Buena",0.288,0.121,0.145,0.147,0.15,0.169
+"P44","Ni buena ni mala",0.269,0.079,0.044,0.408,0.233,0.318
+"P44","Mala",0.075,0.094,0.08,0.202,0.146,0.146
+"P44","Muy mala",0.236,0.633,0.719,0.173,0.382,0.259
+"P44","No sabe",0.004,0.002,0.002,0.059,0.033,0.026
+"P45","Muy buena",0.136,0.032,0.003,0.011,0.049,0.096
+"P45","Buena",0.221,0.097,0.04,0.175,0.129,0.12
+"P45","Ni buena ni mala",0.255,0.064,0.045,0.415,0.179,0.327
+"P45","Mala",0.107,0.123,0.101,0.218,0.211,0.189
+"P45","Muy mala",0.281,0.682,0.808,0.181,0.429,0.249
+"P45","No sabe",0,0.002,0.003,0,0.003,0.019
+"P46","Muy buena",0.469,0.147,0.003,0.298,0.324,0.381
+"P46","Buena",0.118,0.022,0.016,0.122,0.05,0.097
+"P46","Ni buena ni mala",0.075,0.029,0.034,0.277,0.034,0.134
+"P46","Mala",0.026,0.041,0.056,0.101,0.067,0.074
+"P46","Muy mala",0.312,0.758,0.878,0.161,0.501,0.295
+"P46","No sabe",0,0.003,0.013,0.041,0.024,0.019
+"P47","Muy buena",0.186,0.286,0.108,0.016,0.074,0.046
+"P47","Buena",0.117,0.267,0.233,0.015,0.094,0.127
+"P47","Ni buena ni mala",0.073,0.14,0.26,0.119,0.101,0.162
+"P47","Mala",0.118,0.065,0.171,0.131,0.127,0.15
+"P47","Muy mala",0.5,0.241,0.224,0.719,0.581,0.502
+"P47","No sabe",0.006,0.001,0.004,0,0.023,0.013
+"P48","Muy buena",0.119,0.238,0.125,0.041,0.138,0.066
+"P48","Buena",0.13,0.316,0.165,0.07,0.139,0.119
+"P48","Ni buena ni mala",0.146,0.205,0.268,0.097,0.158,0.269
+"P48","Mala",0.165,0.089,0.163,0.238,0.1,0.129
+"P48","Muy mala",0.422,0.144,0.26,0.554,0.457,0.359
+"P48","No sabe",0.018,0.008,0.019,0,0.008,0.058
+"P49","Muy buena",0.173,0.063,0.019,0.047,0.044,0.057
+"P49","Buena",0.268,0.126,0.023,0.069,0.116,0.142
+"P49","Ni buena ni mala",0.175,0.098,0.117,0.395,0.288,0.391
+"P49","Mala",0.086,0.133,0.165,0.225,0.209,0.131
+"P49","Muy mala",0.294,0.575,0.674,0.264,0.339,0.257
+"P49","No sabe",0.004,0.005,0.002,0,0.004,0.022
+"P50","Muy buena",0.203,0.501,0.262,0.021,0.058,0.074
+"P50","Buena",0.136,0.202,0.247,0.027,0.091,0.077
+"P50","Ni buena ni mala",0.065,0.054,0.228,0.141,0.163,0.278
+"P50","Mala",0.073,0.04,0.109,0.157,0.153,0.127
+"P50","Muy mala",0.511,0.196,0.15,0.654,0.524,0.4
+"P50","No sabe",0.012,0.007,0.004,0,0.011,0.044
+"P51","Muy buena",0.064,0.119,0.601,0.013,0.004,0.025
+"P51","Buena",0.072,0.197,0.267,0.016,0.041,0.029
+"P51","Ni buena ni mala",0.163,0.344,0.083,0.19,0.219,0.339
+"P51","Mala",0.13,0.114,0.032,0.069,0.138,0.123
+"P51","Muy mala",0.558,0.21,0.017,0.698,0.591,0.42
+"P51","No sabe",0.013,0.016,0,0.014,0.007,0.064
+"P52","Muy buena",0.125,0.315,0.201,0.032,0.07,0.097
+"P52","Buena",0.116,0.268,0.181,0.031,0.141,0.119
+"P52","Ni buena ni mala",0.101,0.185,0.235,0.186,0.137,0.224
+"P52","Mala",0.092,0.063,0.148,0.067,0.109,0.092
+"P52","Muy mala",0.546,0.161,0.226,0.681,0.541,0.4
+"P52","No sabe",0.02,0.008,0.009,0.003,0.002,0.068
+"P53","Muy buena",0.163,0.067,0.035,0.03,0.062,0.077
+"P53","Buena",0.258,0.12,0.029,0.08,0.201,0.221
+"P53","Ni buena ni mala",0.214,0.088,0.134,0.319,0.216,0.346
+"P53","Mala",0.09,0.189,0.157,0.308,0.155,0.103
+"P53","Muy mala",0.257,0.524,0.633,0.247,0.363,0.209
+"P53","No sabe",0.018,0.012,0.012,0.016,0.003,0.044
+"P54","Muy buena",0.064,0.077,0.043,0.02,0.14,0.058
+"P54","Buena",0.144,0.144,0.128,0.26,0.139,0.101
+"P54","Ni buena ni mala",0.377,0.34,0.257,0.253,0.273,0.395
+"P54","Mala",0.163,0.183,0.202,0.071,0.197,0.155
+"P54","Muy mala",0.186,0.223,0.316,0.281,0.235,0.118
+"P54","No sabe",0.066,0.033,0.054,0.115,0.016,0.173
+"P55","Muy buena",0.04,0.064,0.042,0.007,0.079,0.027
+"P55","Buena",0.092,0.181,0.064,0.023,0.08,0.054
+"P55","Ni buena ni mala",0.264,0.357,0.327,0.318,0.233,0.366
+"P55","Mala",0.188,0.133,0.178,0.085,0.124,0.121
+"P55","Muy mala",0.326,0.202,0.276,0.448,0.41,0.292
+"P55","No sabe",0.09,0.063,0.113,0.119,0.074,0.14
+"P56","Siempre",0.353,0.343,0.248,0.095,0.321,0.223
+"P56","Casi siempre",0.378,0.404,0.354,0.51,0.404,0.418
+"P56","Casi nunca",0.142,0.177,0.245,0.205,0.208,0.219
+"P56","Nunca, pero esta es una excepción",0.127,0.076,0.153,0.19,0.067,0.14
+"P57","Si",0.576,0.566,0.557,0.462,0.52,0.549
+"P57","No",0.424,0.434,0.443,0.538,0.48,0.451

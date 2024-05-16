@@ -1,0 +1,95 @@
+"var","categoria","Si","No"
+"P06","1 hijo",0.568,0.394
+"P06","2 hijos",0.303,0.296
+"P06","3 hijos",0.093,0.213
+"P06","4 o más hijos",0.036,0.097
+"P07","Con hijos de 3 años y menos",0.425,0.599
+"P07","Con hijos mayores de 3 años",0.575,0.401
+"P08","En un Centro de Salud",0.514,0.233
+"P08","En un hospital",0.249,0.493
+"P08","En un sanatorio",0.037,0.011
+"P08","En un Consultorio Privado",0.03,0.099
+"P08","En un vacunatorio",0.17,0.164
+"P10","Si, son efectivas",0.994,0.549
+"P10","No, no son efectivas",0.006,0.451
+"P11","Si",0.977,0.483
+"P11","No",0.023,0.517
+"P12","Si",0.159,0.514
+"P12","No",0.841,0.486
+"P13","La quíntuple",0.127,0.051
+"P13","La triple viral (Sarampión, rubeola y paperas)",0.091,0.15
+"P13","La Neumococo",0.094,0.078
+"P13","La BCG",0.04,0.099
+"P13","Otra",0.178,0.193
+"P13","No recuerda",0.47,0.429
+"P14","Si",0.943,0.696
+"P14","No",0.057,0.304
+"P15","Si, las conozco",0.82,0.606
+"P15","No, no las conozco",0.076,0.217
+"P15","Algunas",0.104,0.177
+"P16","Si",0.728,0.475
+"P16","A veces",0.21,0.355
+"P16","No",0.062,0.17
+"P17","Sí, hay suficiente información",0.235,0.219
+"P17","No, no hay suficiente información",0.765,0.781
+"P18","Si",0.082,0.339
+"P18","Sí, pero es necesario",0.536,0.568
+"P18","No",0.382,0.093
+"P19","Sí, mucho",0.208,0.263
+"P19","Si, un poco",0.676,0.581
+"P19","No",0.116,0.156
+"P20","Si",0.18,0.242
+"P20","No",0.75,0.609
+"P20","No recuerda",0.07,0.149
+"P21","La quíntuple",0.207,0.318
+"P21","La triple viral (Sarampión, rubeola y paperas)",0.206,0.032
+"P21","La Neumococo",0.081,0.076
+"P21","La BCG",0.05,0.13
+"P21","Otra",0.078,0.153
+"P21","No recuerda",0.378,0.291
+"P22","Si",0.62,0.619
+"P22","No",0.295,0.322
+"P22","No recuerda",0.085,0.059
+"P23","La quíntuple",0.212,0.18
+"P23","La triple viral (Sarampión, rubeola y paperas)",0.156,0.088
+"P23","La Neumococo",0.046,0.065
+"P23","La BCG",0.078,0.081
+"P23","Otra",0.059,0.164
+"P23","No recuerda",0.449,0.422
+"P24","Sí, una vez",0.119,0.09
+"P24","Si varias veces",0.069,0.303
+"P24","No",0.717,0.525
+"P24","No recuerdo",0.095,0.082
+"P25","Si",0.688,0.622
+"P25","No",0.312,0.378
+"P26","Si",0.502,0.576
+"P26","No",0.498,0.424
+"P27","Si, la Polio y la quíntuple",0.165,0.175
+"P27","Si, la triple viral y la BCG",0.222,0.337
+"P27","Otras",0.044,0.02
+"P27","No recuerdo",0.569,0.468
+"P28","Si",0.314,0.289
+"P28","No",0.686,0.711
+"P29","Si",0.17,0.22
+"P29","No",0.83,0.78
+"P30","Si, Infanrix",0.125,0.053
+"P30","Si, Hexaxim",0.092,0.444
+"P30","No recuerdo",0.783,0.503
+"P31","Si",0.929,0.619
+"P31","No",0.071,0.381
+"P32","Si",0.51,0.386
+"P32","No",0.49,0.614
+"P33","Miedo al contagio",0.406,0.358
+"P33","Porque el lugar donde vacuno a mis hijos se encontraba cerrado",0.337,0.167
+"P33","Porque el lugar donde vacuno a mi hijo atendía en horario reducido",0.201,0.215
+"P33","Porque era costoso el viaje",0.056,0.26
+"P34","Si, una dosis",0.531,0.488
+"P34","Si, dos dosis",0.374,0.22
+"P34","Ninguna",0.095,0.292
+"P35","Sputnik V",0.287,0.308
+"P35","Sinopharm",0.318,0.293
+"P35","AstraZeneca",0.347,0.265
+"P35","Johnson",0.002,0
+"P35","Phizer",0.008,0
+"P35","Moderna",0.011,0
+"P35","Otra",0.027,0.134

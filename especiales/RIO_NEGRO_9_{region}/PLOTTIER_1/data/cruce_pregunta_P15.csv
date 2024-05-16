@@ -1,0 +1,43 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.349,0.239,0.461,0.236
+"P05","Bastante",0.397,0.408,0.236,0.119
+"P05","Poco",0.174,0.264,0.142,0.272
+"P05","Nada",0.07,0.06,0.105,0.254
+"P05","No sabe",0.01,0.029,0.056,0.119
+"P06","Comunidad",0.687,0.127,0.15,0.07
+"P06","MPN",0.12,0.348,0.101,0.093
+"P06","Desarrollo Ciudadano",0.016,0.113,0.159,0.076
+"P06","Partido Justicialista",0.018,0.107,0.06,0.073
+"P06","Iguales",0.005,0.015,0.103,0.046
+"P06","Otro",0.011,0.123,0.215,0.059
+"P06","No sabe",0.143,0.167,0.212,0.583
+"P07","Julieta Corroza por Comunidad",0.69,0.169,0.01,0.017
+"P07","Sergio Soto por el MPN",0.082,0.266,0.112,0.042
+"P07","Luis Bertolini por Desarrollo Ciudadano",0.104,0.243,0.192,0.13
+"P07","Andrés Peressini por Iguales",0.068,0.014,0.167,0.071
+"P07","Karina Ortiz por el PJ",0.028,0.109,0.106,0.055
+"P07","No sabe",0.028,0.199,0.413,0.685
+"P11","Julieta Corroza por Comunidad",0.581,0.302,0.033,0.147
+"P11","Sergio Soto por el MPN",0.078,0.241,0.112,0.063
+"P11","Luis Bertolini por Desarrollo Ciudadano",0.116,0.105,0.159,0.023
+"P11","Andrés Peressini por Iguales",0.14,0.068,0.128,0.082
+"P11","Karina Ortiz por el PJ",0.005,0.051,0.085,0.082
+"P11","No sabe",0.08,0.233,0.483,0.603
+"P16","Lo votaría",0.181,0.328,0.099,0.029
+"P16","Puede que lo vote",0.074,0.163,0.063,0.027
+"P16","Nunca lo votaría",0.672,0.441,0.809,0.25
+"P16","No sabe",0.073,0.068,0.029,0.694
+"P17","Lo votaría",0.076,0.232,0.117,0.11
+"P17","Puede que lo vote",0.21,0.148,0.209,0.021
+"P17","Nunca lo votaría",0.595,0.432,0.538,0.184
+"P17","No sabe",0.119,0.188,0.136,0.685
+"P18","Lo votaría",0.119,0.133,0.189,0.119
+"P18","Puede que lo vote",0.222,0.272,0.118,0.049
+"P18","Nunca lo votaría",0.552,0.462,0.647,0.18
+"P18","No sabe",0.107,0.133,0.046,0.652
+"P19","Lo votaría",0.09,0.152,0.064,0.101
+"P19","Puede que lo vote",0.185,0.258,0.047,0.033
+"P19","Nunca lo votaría",0.596,0.328,0.79,0.199
+"P19","No sabe",0.129,0.262,0.099,0.667
+"P20","Si",0.506,0.326,0.239,0.124
+"P20","No",0.494,0.674,0.761,0.876

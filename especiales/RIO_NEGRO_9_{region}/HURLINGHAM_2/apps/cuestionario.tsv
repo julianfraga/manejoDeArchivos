@@ -1,0 +1,17 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Sociodemográfico	muchoPoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política
+P06	Sociodemográfico	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas
+P07	Sociodemográfico	politica	Ahora le vamos a hacer una pregunta sobre las elecciones generales a presidente del año 2019. ¿Recuerda usted a qué candidatos votó?	Voto a Presidente en Octubre 2019
+P08	Sociodemográfico	politica	Ahora le vamos a hacer una pregunta sobre las elecciones generales a intendente del año 2019. ¿Recuerda usted a qué candidatos votó?	Voto a Intendente en Octubre 2019
+P09	Preferencias electorales 	internas	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en elecciones presidenciales
+P10	Escenarios políticos 	politica	¿Podría indicarnos cuáles serían los candidatos a presidente, gobernador e intendente que usted preferiría votar en las próximas elecciones primarias PASO?	Intención de voto a Presidente, Vicepresidente, Gobernador e Intendente en elecciones primarias 
+P13	Escenarios políticos 	politica	Y si los candidatos en las elecciones de primera vuelta a Presidente, y generales a gobernador e intendente fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Pte., Vicepte., Gobernador e Intendente en primera vuelta (escenario 1)
+P16	Escenarios políticos 	politica	Y si los candidatos en las elecciones de primera vuelta a Presidente, y generales a gobernador e intendente fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Pte., Vicepte., Gobernador e Intendente en primera vuelta (escenario 2)
+P19	Escenarios políticos 	politica	Y si los candidatos en las elecciones de primera vuelta a Presidente, y generales a gobernador e intendente fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Pte., Vicepte., Gobernador e Intendente en primera vuelta (escenario 3)
+P22	Escenarios políticos 	politica	Y si los candidatos en las elecciones de primera vuelta a Presidente, y generales a gobernador e intendente fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Pte., Vicepte., Gobernador e Intendente en primera vuelta (escenario 4)
+P25	Escenarios políticos 	votaria	Si Juan Zabaleta fuese candidato a intendente, ud...	Intención de voto por Juan Zabaleta para intendente
+P26	Escenarios políticos 	votaria	Si Damian Selci fuese candidato a intendente, ud...	Intención de voto por Damian Selci para intendente
+P27	Escenarios políticos 	votaria	Si Andrea Giorgini fuese candidata a intendenta, ud...	Intención de voto por Andrea Giorgini para intendenta
+P28	Escenarios políticos 	votaria	Si Lucas Delfino fuese candidato a intendente, ud...	Intención de voto por Lucas Delfino para intendente
+P29	Escenarios políticos 	votaria	Si Rafael De Francesco fuese candidato a intendente, ud...	Intención de voto por Rafael De Francesco para intendente
+P30	Escenarios políticos 	siNo	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Control

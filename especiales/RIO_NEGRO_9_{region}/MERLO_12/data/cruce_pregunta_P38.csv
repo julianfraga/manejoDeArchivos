@@ -1,0 +1,199 @@
+"var","categoria","Muy positiva","Positiva","Neutral","Algo negativa","Negativa","No sabe"
+"P05","Mucho",0.496,0.376,0.283,0.287,0.48,0.384
+"P05","Bastante",0.343,0.369,0.375,0.42,0.2,0.187
+"P05","Poco",0.118,0.192,0.244,0.154,0.161,0.328
+"P05","Nada",0.043,0.037,0.09,0.12,0.152,0.039
+"P05","No sabe",0,0.026,0.008,0.019,0.007,0.062
+"P06","Siempre",0.319,0.155,0.137,0.173,0.255,0.276
+"P06","Casi siempre",0.354,0.448,0.328,0.44,0.219,0.214
+"P06","Casi nunca",0.209,0.314,0.419,0.289,0.197,0.272
+"P06","Nunca, pero esta es una excepción",0.118,0.083,0.116,0.098,0.329,0.238
+"P10","Unión por la Patria",0.565,0.54,0.25,0.044,0.019,0.487
+"P10","Juntos por el Cambio",0.088,0.084,0.288,0.346,0.537,0.173
+"P10","De los Liberales libertarios",0.072,0.157,0.265,0.428,0.292,0.099
+"P10","De la Izquierda",0.03,0.013,0.063,0,0.004,0.048
+"P10","Hacemos por nuestro país",0.016,0.026,0.006,0.011,0.03,0.007
+"P10","En blanco",0.128,0.059,0.045,0.027,0.011,0.04
+"P10","No sabe",0.101,0.121,0.083,0.144,0.107,0.146
+"P13","Sergio Massa a presidente, Axel Kicillof a gobernador y Gustavo Menéndez a intendente por Unión por la Patria.",0.646,0.583,0.273,0.235,0.034,0.508
+"P13","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y David Zencich a intendente por Juntos por el Cambio",0.057,0.105,0.265,0.252,0.46,0.176
+"P13","Javier Milei a presidente, Carolina Piparo a gobernadora  y Eduardo Varela a intendente por la Libertad Avanza",0.112,0.153,0.323,0.498,0.277,0.182
+"P13","Raul Othacehé a intendente por el frente vecinal crecer",0.022,0.011,0.003,0.004,0.014,0.003
+"P13","Los candidatos a presidente, gobernador e intendente de la Izquierda",0.073,0,0.025,0,0.021,0.01
+"P13","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.059,0.019,0.004,0.011,0.075,0.004
+"P13","En blanco",0,0,0.047,0,0,0.026
+"P13","No sabe",0.031,0.129,0.06,0,0.119,0.091
+"P16","Si",0.32,0.307,0.564,0.336,0.335,0.414
+"P16","No",0.68,0.693,0.436,0.664,0.665,0.586
+"P17","Sergio Massa a presidente por Unión por la Patria.",0.582,0.663,0.193,0.305,0.095,0.497
+"P17","Patricia Bullrich a presidenta por Juntos por el Cambio",0.094,0.16,0.305,0.257,0.151,0.075
+"P17","Javier Milei a presidente por la Libertad Avanza",0.186,0.062,0.343,0.438,0.317,0.374
+"P17","Los candidatos a presidente de la Izquierda",0.085,0.013,0.013,0,0,0
+"P17","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.03,0,0.048,0,0.079,0.022
+"P17","En blanco",0,0,0.078,0,0,0
+"P17","No sabe",0.023,0.102,0.02,0,0.358,0.032
+"P20","Axel Kicillof a gobernador por Unión por la Patria.",0.667,0.759,0.348,0.305,0.149,0.702
+"P20","Néstor Grindetti a gobernador por Juntos por el Cambio",0.16,0.05,0.307,0.299,0.309,0.162
+"P20","Carolina Piparo a gobernadora por la Libertad Avanza",0.095,0.078,0.268,0.162,0.194,0.063
+"P20","El candidato a gobernador de la Izquierda",0.005,0.013,0.037,0,0,0
+"P20","En blanco",0,0,0.02,0,0,0.019
+"P20","No sabe",0.073,0.1,0.02,0.234,0.348,0.054
+"P23","Gustavo Menéndez a intendente por Unión por la Patria.",0.338,0.372,0.256,0.014,0.128,0.302
+"P23","Zencich a intendente por Juntos por el Cambio",0.047,0.133,0.193,0.169,0.288,0.326
+"P23","Eduardo Varela a intendente por la Libertad Avanza",0.21,0.087,0.122,0.192,0.114,0.167
+"P23","Raul Othacehé a intendente por el frente vecinal crecer",0.051,0.095,0.176,0.044,0.091,0.029
+"P23","El candidato a intendente de la Izquierda",0.123,0.203,0.186,0.305,0.011,0.086
+"P23","En blanco",0.095,0.013,0.022,0.234,0.01,0.009
+"P23","No sabe",0.136,0.097,0.045,0.042,0.358,0.081
+"P26","Totalmente seguro.",0.72,0.674,0.702,0.697,0.504,0.482
+"P26","Bastante seguro",0.225,0.114,0.121,0.174,0.267,0.222
+"P26","Algo seguro",0.03,0.069,0.139,0.009,0.046,0.15
+"P26","Para nada seguro",0.025,0.143,0.038,0.12,0.183,0.146
+"P27","Tiene Decidido que va a ir a votar.",0.887,0.906,0.965,0.863,0.947,0.9
+"P27","Tiene dudas sobre si va a ir a  votar",0.054,0.094,0.034,0.108,0.019,0.017
+"P27","Tiene Decidido que no va a ir a votar",0.059,0,0.001,0.029,0.034,0.083
+"P28","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.338,0.247,0.553,0.614,0.692,0.342
+"P28","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.107,0.094,0.13,0.215,0.253,0.201
+"P28","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.309,0.409,0.14,0.07,0.028,0.221
+"P28","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.104,0.067,0.071,0.011,0.027,0.035
+"P28","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.142,0.114,0.05,0,0,0.007
+"P28","No sabe",0,0.069,0.056,0.09,0,0.194
+"P29","No estaba enterado del tema",0.126,0.043,0.154,0.081,0.014,0.215
+"P29","Un tema de la vida privada de él",0.121,0.147,0.133,0.032,0.022,0.048
+"P29","Un hecho vergonzoso de exclusiva responsabilidad de él",0.503,0.438,0.093,0.224,0.054,0.199
+"P29","Un hecho vergonzoso del cual también es responsable el gobernador Kicillof",0.113,0.161,0.198,0.324,0.485,0.188
+"P29","Un hecho vergonzoso que muestran como son los dirigentes que apoyan a Sergio Massa",0.136,0.144,0.368,0.326,0.318,0.23
+"P29","No sabe",0.001,0.067,0.054,0.013,0.107,0.12
+"P30","Si",0.865,0.819,0.803,0.909,0.941,0.708
+"P30","No",0.135,0.181,0.197,0.091,0.059,0.292
+"P31","Sergio Massa",0.646,0.39,0.223,0.26,0.036,0.509
+"P31","Patria Bullrich",0.087,0.064,0.151,0.162,0.45,0.185
+"P31","Javier Milei",0.065,0.234,0.375,0.456,0.306,0.182
+"P31","Myriam Bregman",0.187,0.254,0.18,0.073,0.157,0.052
+"P31","Juan Schiaretti",0.015,0.058,0.071,0.049,0.051,0.072
+"P32","Ha aumentado significativamente",0.24,0.078,0.072,0.041,0.014,0.177
+"P32","Ha aumentado ligeramente",0.309,0.322,0.122,0.162,0.03,0.218
+"P32","Se mantiene igual",0.232,0.28,0.369,0.308,0.098,0.256
+"P32","Ha disminuido ligeramente",0.151,0.106,0.236,0.186,0.384,0.098
+"P32","Ha disminuido significativamente",0.068,0.214,0.201,0.303,0.474,0.251
+"P33","No, ninguna dificultad",0.276,0.233,0.215,0.205,0.061,0.34
+"P33","Alguna dificultad ocasional",0.384,0.382,0.329,0.388,0.344,0.429
+"P33","Sí, dificultades frecuentes",0.34,0.385,0.456,0.407,0.595,0.231
+"P34","Sí, absolutamente",0.633,0.513,0.497,0.526,0.205,0.531
+"P34","Sí, en cierta medida",0.259,0.351,0.28,0.198,0.222,0.372
+"P34","No, en absoluto",0.108,0.136,0.223,0.276,0.573,0.097
+"P35","Reducir la inflación",0.464,0.409,0.438,0.122,0.222,0.323
+"P35","Implementar reformas fiscales",0.084,0.05,0.069,0.017,0.081,0.203
+"P35","Establecer políticas de control de precios",0.264,0.271,0.105,0.156,0.043,0.263
+"P35","Reducir el gasto público",0.091,0.215,0.351,0.582,0.64,0.151
+"P35","Estimular la inversión extranjera",0.044,0.041,0.036,0.011,0.014,0.04
+"P35","Aumentar los subsidios a los servicios públicos",0.053,0.014,0.001,0.112,0,0.02
+"P36","Muy positiva",0.376,0.225,0.052,0.062,0.12,0.102
+"P36","Positiva",0.208,0.321,0.155,0.205,0.046,0.101
+"P36","Neutral",0.076,0.19,0.453,0.356,0.221,0.09
+"P36","Algo negativa",0.055,0.029,0.109,0.159,0.146,0.065
+"P36","Negativa",0.06,0,0.077,0.154,0.212,0.049
+"P36","No sabe",0.225,0.235,0.154,0.064,0.255,0.593
+"P37","Muy positiva",0.882,0.385,0.204,0.205,0.04,0.32
+"P37","Positiva",0.059,0.335,0.298,0.228,0.107,0.135
+"P37","Neutral",0.016,0.252,0.343,0.276,0.257,0.087
+"P37","Algo negativa",0.004,0.01,0.051,0.226,0.046,0.082
+"P37","Negativa",0.011,0.014,0.06,0.053,0.436,0.014
+"P37","No sabe",0.028,0.004,0.044,0.012,0.114,0.362
+"P39","Muy positiva",0.836,0.522,0.253,0.19,0.114,0.377
+"P39","Positiva",0.079,0.401,0.195,0.307,0.284,0.116
+"P39","Neutral",0.079,0.05,0.454,0.153,0.272,0.216
+"P39","Algo negativa",0.006,0.004,0.029,0.28,0.039,0.018
+"P39","Negativa",0,0.009,0.053,0.04,0.284,0.069
+"P39","No sabe",0,0.014,0.016,0.03,0.007,0.204
+"P40","Muy positiva",0.738,0.39,0.337,0.047,0.188,0.224
+"P40","Positiva",0.108,0.355,0.224,0.359,0.059,0.155
+"P40","Neutral",0.091,0.172,0.291,0.276,0.234,0.166
+"P40","Algo negativa",0,0.003,0.108,0.132,0.028,0.053
+"P40","Negativa",0.047,0.013,0.038,0.051,0.26,0.061
+"P40","No sabe",0.016,0.067,0.002,0.135,0.231,0.341
+"P41","Lo votaría",0.62,0.574,0.167,0.007,0.015,0.424
+"P41","Puede que lo vote",0.123,0.08,0.1,0.038,0.042,0.044
+"P41","Nunca lo votaría",0.251,0.312,0.585,0.747,0.834,0.373
+"P41","No sabe",0.006,0.034,0.148,0.208,0.109,0.159
+"P42","Lo votaría",0.092,0.085,0.171,0.206,0.443,0.181
+"P42","Puede que lo vote",0.015,0.057,0.139,0.142,0.28,0.089
+"P42","Nunca lo votaría",0.821,0.79,0.609,0.409,0.168,0.484
+"P42","No sabe",0.072,0.068,0.081,0.243,0.109,0.246
+"P43","Lo votaría",0.089,0.142,0.356,0.488,0.278,0.056
+"P43","Puede que lo vote",0.033,0.125,0.072,0.122,0.085,0.049
+"P43","Nunca lo votaría",0.877,0.686,0.451,0.349,0.633,0.774
+"P43","No sabe",0.001,0.047,0.121,0.041,0.004,0.121
+"P44","Lo votaría",0.192,0.052,0.092,0.028,0.157,0.119
+"P44","Puede que lo vote",0.093,0.08,0.077,0.223,0.07,0.2
+"P44","Nunca lo votaría",0.603,0.723,0.73,0.639,0.645,0.512
+"P44","No sabe",0.112,0.145,0.101,0.11,0.128,0.169
+"P45","Si",0.513,0.332,0.327,0.454,0.421,0.209
+"P45","No",0.487,0.668,0.673,0.546,0.579,0.791
+"PRESIDENTE","Sergio Massa a presidente por Unión por la Patria.",0.648,0.606,0.28,0.235,0.05,0.496
+"PRESIDENTE","Patricia Bullrich a presidenta por Juntos por el Cambio",0.064,0.111,0.285,0.256,0.449,0.191
+"PRESIDENTE","Javier Milei a presidente por la Libertad Avanza",0.12,0.168,0.331,0.498,0.374,0.206
+"PRESIDENTE","Los candidatos a presidente de la Izquierda",0.08,0.006,0.022,0,0,0.01
+"PRESIDENTE","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.057,0.019,0.015,0.011,0.017,0.017
+"PRESIDENTE","En blanco",0,0,0.048,0,0,0.019
+"PRESIDENTE","No sabe",0.031,0.09,0.019,0,0.11,0.061
+"GOBERNADOR","Axel Kicillof a gobernador por Unión por la Patria.",0.663,0.642,0.343,0.235,0.059,0.607
+"GOBERNADOR","Néstor Grindetti a gobernador por Juntos por el Cambio",0.096,0.073,0.276,0.269,0.529,0.209
+"GOBERNADOR","Carolina Piparo a gobernadora por la Libertad Avanza",0.087,0.171,0.302,0.437,0.305,0.072
+"GOBERNADOR","El candidato a gobernador de la Izquierda",0.059,0.006,0.041,0,0,0.01
+"GOBERNADOR","En blanco",0.048,0.02,0.019,0.011,0,0.03
+"GOBERNADOR","No sabe",0.047,0.088,0.019,0.048,0.107,0.072
+"INTENDENTE","Gustavo Menéndez a intendente por Unión por la Patria.",0.537,0.526,0.27,0.128,0.053,0.477
+"INTENDENTE","Zencich a intendente por Juntos por el Cambio",0.057,0.098,0.221,0.231,0.532,0.235
+"INTENDENTE","Eduardo Varela a intendente por la Libertad Avanza",0.127,0.169,0.22,0.442,0.276,0.113
+"INTENDENTE","Raul Othacehé a intendente por el frente vecinal crecer",0.026,0.044,0.117,0.015,0.02,0.016
+"INTENDENTE","El candidato a intendente de la Izquierda",0.086,0.052,0.121,0.112,0.006,0.048
+"INTENDENTE","En blanco",0.093,0.023,0.016,0.059,0.003,0.024
+"INTENDENTE","No sabe",0.074,0.088,0.035,0.013,0.11,0.087
+"CORTA_PRESIDENTE","Si",0.053,0.083,0.182,0.004,0.123,0.055
+"CORTA_PRESIDENTE","No",0.947,0.917,0.818,0.996,0.877,0.945
+"CORTA_GOBERNADOR","Si",0.13,0.099,0.184,0.064,0.145,0.171
+"CORTA_GOBERNADOR","No",0.87,0.901,0.816,0.936,0.855,0.829
+"CORTA_INTENDENTE","Si",0.142,0.144,0.367,0.222,0.186,0.302
+"CORTA_INTENDENTE","No",0.858,0.856,0.633,0.778,0.814,0.698
+"P13_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Gustavo Menéndez a intendente por Unión por la Patria.",0.668,0.652,0.273,0.235,0.152,0.517
+"P13_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y David Zencich a intendente por Juntos por el Cambio",0.057,0.144,0.282,0.252,0.46,0.239
+"P13_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora  y Eduardo Varela a intendente por la Libertad Avanza",0.121,0.171,0.33,0.498,0.277,0.198
+"P13_imputada","Raul Othacehé a intendente por el frente vecinal crecer",0.022,0.013,0.003,0.004,0.014,0.003
+"P13_imputada","Los candidatos a presidente, gobernador e intendente de la Izquierda",0.073,0,0.025,0,0.022,0.013
+"P13_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.059,0.02,0.004,0.011,0.075,0.004
+"P13_imputada","En blanco",0,0,0.083,0,0,0.026
+"P17_imputada","Sergio Massa a presidente por Unión por la Patria.",0.605,0.73,0.198,0.305,0.443,0.497
+"P17_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.094,0.165,0.305,0.257,0.161,0.097
+"P17_imputada","Javier Milei a presidente por la Libertad Avanza",0.186,0.082,0.343,0.438,0.317,0.374
+"P17_imputada","Los candidatos a presidente de la Izquierda",0.085,0.013,0.013,0,0,0.01
+"P17_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.03,0.01,0.063,0,0.079,0.022
+"P17_imputada","En blanco",0,0,0.078,0,0,0
+"P20_imputada","Axel Kicillof a gobernador por Unión por la Patria.",0.691,0.831,0.365,0.305,0.149,0.711
+"P20_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.202,0.078,0.31,0.299,0.309,0.185
+"P20_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.095,0.078,0.268,0.162,0.194,0.085
+"P20_imputada","El candidato a gobernador de la Izquierda",0.004,0.013,0.037,0,0,0
+"P20_imputada","En blanco",0.008,0,0.02,0.234,0.348,0.019
+"P23_imputada","Gustavo Menéndez a intendente por Unión por la Patria.",0.338,0.402,0.256,0.014,0.476,0.314
+"P23_imputada","Zencich a intendente por Juntos por el Cambio",0.047,0.2,0.196,0.211,0.288,0.349
+"P23_imputada","Eduardo Varela a intendente por la Libertad Avanza",0.346,0.087,0.133,0.192,0.114,0.177
+"P23_imputada","Raul Othacehé a intendente por el frente vecinal crecer",0.051,0.095,0.186,0.044,0.091,0.042
+"P23_imputada","El candidato a intendente de la Izquierda",0.123,0.203,0.186,0.305,0.011,0.109
+"P23_imputada","En blanco",0.095,0.013,0.043,0.234,0.02,0.009
+"PRESIDENTE_imputada","Sergio Massa a presidente por Unión por la Patria.",0.67,0.674,0.284,0.235,0.156,0.495
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.064,0.112,0.285,0.256,0.453,0.225
+"PRESIDENTE_imputada","Javier Milei a presidente por la Libertad Avanza",0.129,0.184,0.331,0.498,0.374,0.222
+"PRESIDENTE_imputada","Los candidatos a presidente de la Izquierda",0.08,0.006,0.022,0,0,0.022
+"PRESIDENTE_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.057,0.024,0.03,0.011,0.017,0.017
+"PRESIDENTE_imputada","En blanco",0,0,0.048,0,0,0.019
+"GOBERNADOR_imputada","Axel Kicillof a gobernador por Unión por la Patria.",0.685,0.712,0.36,0.235,0.059,0.615
+"GOBERNADOR_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.107,0.087,0.278,0.269,0.529,0.242
+"GOBERNADOR_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.097,0.175,0.302,0.437,0.305,0.096
+"GOBERNADOR_imputada","El candidato a gobernador de la Izquierda",0.059,0.006,0.041,0,0,0.014
+"GOBERNADOR_imputada","En blanco",0.052,0.02,0.019,0.059,0.107,0.033
+"INTENDENTE_imputada","Gustavo Menéndez a intendente por Unión por la Patria.",0.555,0.595,0.27,0.128,0.16,0.484
+"INTENDENTE_imputada","Zencich a intendente por Juntos por el Cambio",0.057,0.113,0.223,0.244,0.532,0.268
+"INTENDENTE_imputada","Eduardo Varela a intendente por la Libertad Avanza",0.183,0.173,0.226,0.442,0.276,0.137
+"INTENDENTE_imputada","Raul Othacehé a intendente por el frente vecinal crecer",0.026,0.044,0.123,0.015,0.02,0.026
+"INTENDENTE_imputada","El candidato a intendente de la Izquierda",0.086,0.052,0.121,0.112,0.006,0.061
+"INTENDENTE_imputada","En blanco",0.093,0.023,0.037,0.059,0.006,0.024

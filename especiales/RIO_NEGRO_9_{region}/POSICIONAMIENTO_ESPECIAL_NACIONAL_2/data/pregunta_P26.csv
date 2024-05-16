@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Fernandez","Macri","Lavagna","Centro","Norte","Sur","Buenos Aires"
+"Tiene Decidido que va a ir a votar",0.89,0.907,0.874,0.883,0.881,0.923,0.875,0.847,0.894,0.928,0.905,0.922,0.828,0.89,0.885,0.91,0.89
+"Tiene dudas sobre si va a ir a votar",0.071,0.063,0.079,0.072,0.08,0.051,0.078,0.094,0.071,0.048,0.063,0.059,0.089,0.071,0.077,0.051,0.071
+"Tiene Decidido que no va a ir a votar",0.039,0.03,0.047,0.045,0.039,0.026,0.047,0.059,0.035,0.024,0.032,0.019,0.083,0.039,0.038,0.039,0.039

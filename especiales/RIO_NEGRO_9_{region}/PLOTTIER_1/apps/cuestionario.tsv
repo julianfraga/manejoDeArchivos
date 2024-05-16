@@ -1,0 +1,13 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Bloque Sociodemográfico	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política
+P06	Bloque Escenarios electorales	politica	si las elecciones a intendente de Plottier fueran mañana… ¿A qué espacio político votaría?	Intención de voto por espacio político en elecciones a intendente
+P07	Bloque Escenarios electorales	politica	Y si los candidatos para intendente de Plottier fuesen los siguientes ¿por cuál votarías? 	Intención de voto por candidatos a intendente (escenario 1)
+P07_imputadas	Bloque Escenarios electorales	politica	Y si los candidatos para intendente de Plottier fuesen los siguientes ¿por cuál votarías? 	Intención de voto por candidatos a intendente (escenario 1, imputación no lineal de indecisos)
+P11	Bloque Escenarios electorales	politica	Si tuvieses que elegir a otro candidato que no fuese el anterior, ¿A cuál votarías? 	Intención de voto por candidatos a intendente (escenario 2)
+P11_imputadas	Bloque Escenarios electorales	politica	Si tuvieses que elegir a otro candidato que no fuese el anterior, ¿A cuál votarías? 	Intención de voto por candidatos a intendente (escenario 2, imputación no lineal de indecisos)
+P15	Reach de intención de voto	votaria	Si Julieta Corroza fuese candidata a intendente, ud...	Intención de voto por Julieta Corroza para intendenta
+P16	Reach de intención de voto	votaria	Si Sergio Soto fuese candidato a intendente, ud...	Intención de voto por Sergio Soto para intendente
+P17	Reach de intención de voto	votaria	Si Luis Berttolini fuese candidato a intendente, ud...	Intención de voto por Luis Berttolini para intendente
+P18	Reach de intención de voto	votaria	Si Andrés Peressini fuese candidato a intendente, ud...	Intención de voto por Andrés Peressini para intendente
+P19	Reach de intención de voto	votaria	Si Karina Ortiz fuese candidata a intendente, ud...	Intención de voto por Karina Ortiz para intendenta
+P20	Control	siNo	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla? 	

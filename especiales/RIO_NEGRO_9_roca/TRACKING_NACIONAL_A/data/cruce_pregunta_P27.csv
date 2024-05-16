@@ -1,0 +1,55 @@
+"var","categoria","Tiene Decidido que va a ir a votar","Tiene dudas sobre si va a ir a  votar","Tiene Decidido que no va a ir a votar"
+"P10","Unión por la Patria",0.329,0.271,0.135
+"P10","Juntos por el Cambio",0.293,0.253,0.228
+"P10","De los liberales libertarios",0.244,0.184,0.142
+"P10","De la Izquierda",0.031,0.025,0.075
+"P10","Hacemos por nuestro país",0.028,0.017,0.077
+"P10","Otro",0.027,0.061,0.098
+"P10","En blanco",0.016,0.088,0.124
+"P10","No sabe",0.032,0.101,0.121
+"P13","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.366,0.243,0.182
+"P13","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.26,0.191,0.147
+"P13","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.267,0.208,0.181
+"P13","Los candidatos a presidente y vicepresidente de la izquierda",0.027,0.026,0.053
+"P13","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.039,0.115,0.129
+"P13","En blanco",0.015,0.065,0.144
+"P13","No sabe",0.026,0.152,0.164
+"P26","Totalmente seguro",0.74,0.252,0.296
+"P26","Bastante seguro",0.106,0.327,0.042
+"P26","Algo seguro",0.081,0.124,0.426
+"P26","Para nada seguro",0.073,0.297,0.236
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.419,0.252,0.253
+"P28","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.338,0.283,0.253
+"P28","En blanco",0.132,0.17,0.232
+"P28","No sabe",0.111,0.295,0.262
+"P29","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.345,0.275,0.272
+"P29","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.284,0.259,0.259
+"P29","En blanco",0.231,0.143,0.19
+"P29","No sabe",0.14,0.323,0.279
+"P30","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.433,0.284,0.33
+"P30","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.328,0.286,0.308
+"P30","En blanco",0.141,0.176,0.187
+"P30","No sabe",0.098,0.254,0.175
+"P38","Inflación",0.331,0.289,0.385
+"P38","Desempleo",0.082,0.109,0.094
+"P38","Corrupción",0.322,0.301,0.278
+"P38","Inseguridad",0.111,0.168,0.057
+"P38","Precio del dólar",0.03,0.024,0.034
+"P38","Pobreza",0.049,0.014,0.012
+"P38","Narcotráfico",0.012,0.016,0.011
+"P38","Tarifas",0.005,0.006,0
+"P38","Otro",0.042,0.027,0.039
+"P38","No sabe",0.016,0.046,0.09
+"P10_imputada","Unión por la Patria",0.338,0.302,0.192
+"P10_imputada","Juntos por el Cambio",0.304,0.284,0.259
+"P10_imputada","De los liberales libertarios",0.252,0.192,0.162
+"P10_imputada","De la Izquierda",0.031,0.025,0.082
+"P10_imputada","Hacemos por nuestro país",0.03,0.024,0.077
+"P10_imputada","Otro",0.029,0.082,0.104
+"P10_imputada","En blanco",0.016,0.091,0.124
+"P13_imputada","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.374,0.288,0.268
+"P13_imputada","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.268,0.226,0.172
+"P13_imputada","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.273,0.228,0.197
+"P13_imputada","Los candidatos a presidente y vicepresidente de la izquierda",0.028,0.026,0.055
+"P13_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.041,0.135,0.147
+"P13_imputada","En blanco",0.016,0.097,0.161

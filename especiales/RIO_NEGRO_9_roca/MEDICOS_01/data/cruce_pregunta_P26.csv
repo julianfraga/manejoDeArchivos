@@ -1,0 +1,100 @@
+"var","categoria","Si","No","No sabe"
+"P04","Gran excedente habitual",0.148,0.193,0.283
+"P04","Gran excedente excepcional",0.157,0.176,0.102
+"P04","Pequeño excedente habitual",0.119,0.14,0.123
+"P04","Pequeño excedente excepcional",0.203,0.149,0.244
+"P04","Alcanza gastos familia",0.11,0.102,0.067
+"P04","No alcanza gastos familia",0.106,0.085,0.119
+"P04","Solo NBFamiliares",0.043,0.065,0
+"P04","No alcanza NBFamiliares",0.064,0.044,0.035
+"P04","No sabe",0.05,0.046,0.027
+"P06","Menos de 5 años ",0.234,0.192,0.289
+"P06","Entre 6 y 10 años",0.184,0.192,0.265
+"P06","Entre 11 y 20 años",0.244,0.24,0.144
+"P06","Mas de 20 años",0.338,0.376,0.302
+"P07","Medico clínico",0.488,0.429,0.39
+"P07","Pediatra",0.163,0.149,0.231
+"P07","Cardiólogo",0.164,0.188,0.176
+"P07","Neumólogos",0.137,0.205,0.154
+"P07","Otra especialidad",0.048,0.029,0.049
+"P08","En una institución pública",0.442,0.317,0.32
+"P08","En una institución privada",0.232,0.284,0.134
+"P08","Ambas",0.208,0.237,0.281
+"P08","Solo consultorio",0.077,0.099,0.176
+"P08","Institución publica o privada y consultorio",0.041,0.063,0.089
+"P09","Si",0.865,0.764,0.777
+"P09","No",0.135,0.236,0.223
+"P10","1 dosis",0.125,0.129,0.186
+"P10","2 dosis.",0.05,0.095,0.065
+"P10","3 dosis o más",0.825,0.776,0.749
+"P11","Si",0.611,0.41,0.545
+"P11","No",0.389,0.59,0.455
+"P12","Para protegerse de la enfermedad",0.548,0.429,0.593
+"P12","Porque soy personal de riesgo",0.389,0.418,0.341
+"P12","Porque colegas se vacunaron",0.021,0.028,0.013
+"P12","Me lo recomendó la institución donde trabajo",0.03,0.087,0.053
+"P12","No sabe",0.012,0.038,0
+"P13","Si",0.325,0.36,0.432
+"P13","No",0.675,0.64,0.568
+"P14","Si",0.605,0.604,0.743
+"P14","No",0.395,0.396,0.257
+"P15","Si, a todos sus pacientes",0.588,0.377,0.428
+"P15","Depende el caso del paciente",0.345,0.449,0.429
+"P15","No la recomiendo",0.067,0.174,0.143
+"P16","Dos dosis",0.163,0.119,0.255
+"P16","Tres dosis",0.112,0.124,0.035
+"P16","Cuatros o mas dosis",0.725,0.757,0.71
+"P17","Porque ya no hay casos de COVID",0.046,0.075,0.21
+"P17","Porque ha disminuido de forma significativa el contagio",0.332,0.259,0.279
+"P17","Por los efectos secundarios",0.345,0.442,0.248
+"P17","No sabe",0.277,0.224,0.263
+"P18","Si",0.386,0.389,0.291
+"P18","No",0.53,0.429,0.424
+"P18","No sabe",0.084,0.182,0.285
+"P19","Si",0.598,0.379,0.444
+"P19","No",0.371,0.525,0.445
+"P19","No sabe",0.031,0.096,0.111
+"P20","Si",0.699,0.585,0.625
+"P20","No",0.275,0.339,0.139
+"P20","No sabe",0.026,0.076,0.236
+"P21","Si",0.583,0.397,0.291
+"P21","No",0.348,0.497,0.369
+"P21","No sabe",0.069,0.106,0.34
+"P22","Sinopharm",0.151,0.074,0.042
+"P22","Sputnik",0.407,0.264,0.287
+"P22","Aztra-Zeneca",0.099,0.085,0.143
+"P22","Moderna",0.062,0.117,0.069
+"P22","Pfizer",0.172,0.268,0.15
+"P22","No sabe",0.109,0.192,0.309
+"P23","Si",0.722,0.531,0.631
+"P23","No",0.216,0.386,0.258
+"P23","A veces",0.062,0.083,0.111
+"P24","Si",0.774,0.492,0.704
+"P24","No",0.187,0.439,0.189
+"P24","No sabe",0.039,0.069,0.107
+"P25","Si",0.749,0.502,0.458
+"P25","No",0.188,0.437,0.14
+"P25","No sabe",0.063,0.061,0.402
+"P27","Si",0.781,0.318,0.354
+"P27","No",0.188,0.651,0.258
+"P27","No sabe",0.031,0.031,0.388
+"P28","Si",0.517,0.36,0.248
+"P28","No",0.409,0.454,0.47
+"P28","No sabe",0.074,0.186,0.282
+"P29","Si",0.818,0.587,0.614
+"P29","No",0.155,0.364,0.212
+"P29","No sabe",0.027,0.049,0.174
+"P30","No tengo información suficiente",0.273,0.328,0.042
+"P30","No tengo tiempo en la consulta",0.267,0.297,0.135
+"P30","No es un tema importante en la consulta médica",0.192,0.206,0.239
+"P30","El COVID no es una enfermedad prevalente o importante actualmente en Argentina",0.068,0.06,0.187
+"P30","No sabe",0.2,0.109,0.397
+"P31","Nunca",0.215,0.251,0.271
+"P31","Pocas veces",0.463,0.482,0.415
+"P31","Muchas veces",0.27,0.211,0.231
+"P31","Siempre",0.031,0.033,0.083
+"P31","No sabe",0.021,0.023,0
+"P32","adultos mayores sanos",0.496,0.428,0.349
+"P32","Adultos jóvenes sanos",0.232,0.25,0.209
+"P32","Madres de niños pequeños",0.176,0.159,0.2
+"P32","No sabe",0.096,0.163,0.242

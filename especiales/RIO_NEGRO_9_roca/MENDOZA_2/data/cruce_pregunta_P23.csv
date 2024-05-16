@@ -1,0 +1,69 @@
+"var","categoria","Si","No"
+"P05","Mucho",0.434,0.349
+"P05","Bastante",0.35,0.337
+"P05","Poco",0.123,0.195
+"P05","Nada",0.063,0.079
+"P05","No sabe",0.03,0.04
+"P06","Siempre",0.258,0.205
+"P06","Casi siempre",0.4,0.308
+"P06","Casi nunca",0.22,0.28
+"P06","Nunca, pero esta es una excepción",0.122,0.207
+"P09","Alfredo Cornejo a gobernador y Hebe Casado a vicegobernador por Cambia Mendoza",0.36,0.288
+"P09","Omar De Marchi a gobernador y Daniel Orozco a vicegobernador por La Unión Mendocina",0.281,0.248
+"P09","Omar Parisi a gobernador y Lucas Ilardo a vicegobernador por Elegí Mendoza",0.15,0.157
+"P09","Mario Vadillo a gobernador y Emanuel Fugazzotto a vicegobernador por el Partido Verde",0.024,0.037
+"P09","Lautaro Giménez a gobernador y Noelia Barbeito a vicegobernadora por el Frente de Izquierda",0.038,0.054
+"P09","En blanco",0.058,0.052
+"P09","No sabe",0.089,0.164
+"P12","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.463,0.472
+"P12","Con políticas muy estudiadas y progresivas para que las transformaciones de fondo necesarias se puedan realizar",0.221,0.188
+"P12","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.17,0.177
+"P12","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.081,0.064
+"P12","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.021,0.02
+"P12","No sabe",0.044,0.079
+"P13","Totalmente seguro",0.694,0.609
+"P13","Bastante seguro",0.148,0.158
+"P13","Algo seguro",0.076,0.108
+"P13","Para nada seguro",0.082,0.125
+"P14","Tiene Decidido que va a ir a votar",0.915,0.874
+"P14","Tiene dudas sobre si va a ir a  votar",0.067,0.094
+"P14","Tiene Decidido que no va a ir a votar",0.018,0.032
+"P15","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria",0.254,0.218
+"P15","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.33,0.296
+"P15","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.354,0.378
+"P15","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0.015,0.018
+"P15","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.002,0.016
+"P15","En blanco",0.009,0.02
+"P15","No sabe",0.036,0.054
+"P18","Lo votaría",0.38,0.265
+"P18","Puede que lo vote",0.131,0.206
+"P18","Nunca lo votaría",0.427,0.441
+"P18","No sabe",0.062,0.088
+"P19","Lo votaría",0.264,0.226
+"P19","Puede que lo vote",0.179,0.196
+"P19","Nunca lo votaría",0.482,0.487
+"P19","No sabe",0.075,0.091
+"P20","Lo votaría",0.207,0.145
+"P20","Puede que lo vote",0.144,0.134
+"P20","Nunca lo votaría",0.576,0.626
+"P20","No sabe",0.073,0.095
+"P21","Lo votaría",0.119,0.082
+"P21","Puede que lo vote",0.144,0.127
+"P21","Nunca lo votaría",0.612,0.655
+"P21","No sabe",0.125,0.136
+"P22","Lo votaría",0.134,0.059
+"P22","Puede que lo vote",0.09,0.143
+"P22","Nunca lo votaría",0.693,0.69
+"P22","No sabe",0.083,0.108
+"P09_imputada","Alfredo Cornejo a gobernador y Hebe Casado a vicegobernador por Cambia Mendoza",0.385,0.338
+"P09_imputada","Omar De Marchi a gobernador y Daniel Orozco a vicegobernador por La Unión Mendocina",0.301,0.302
+"P09_imputada","Omar Parisi a gobernador y Lucas Ilardo a vicegobernador por Elegí Mendoza",0.154,0.186
+"P09_imputada","Mario Vadillo a gobernador y Emanuel Fugazzotto a vicegobernador por el Partido Verde",0.027,0.055
+"P09_imputada","Lautaro Giménez a gobernador y Noelia Barbeito a vicegobernadora por el Frente de Izquierda",0.05,0.058
+"P09_imputada","En blanco",0.083,0.061
+"P15_imputada","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria",0.261,0.226
+"P15_imputada","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.341,0.306
+"P15_imputada","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.372,0.405
+"P15_imputada","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0.015,0.02
+"P15_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.002,0.022
+"P15_imputada","En blanco",0.009,0.021

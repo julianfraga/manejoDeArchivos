@@ -1,0 +1,6 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Fernandez","Macri","Lavagna"
+"Agua corriente y cloacas",0.377,0.395,0.36,0.394,0.378,0.386,0.353,0.442,0.383,0.307,0.423,0.299,0.275
+"Energía eléctrica",0.168,0.158,0.177,0.335,0.137,0.122,0.176,0.167,0.19,0.137,0.15,0.207,0.104
+"Red de gas natural",0.043,0.049,0.038,0,0.029,0.07,0.065,0.053,0.042,0.035,0.047,0.05,0
+"Recolección de residuos",0.157,0.165,0.151,0.029,0.211,0.163,0.131,0.113,0.166,0.187,0.143,0.174,0.259
+"Ninguno",0.255,0.233,0.274,0.242,0.245,0.259,0.275,0.225,0.219,0.334,0.237,0.27,0.362

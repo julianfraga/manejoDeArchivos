@@ -1,0 +1,91 @@
+"var","categoria","Malena Galmarini a intendenta por Unión por la Patria","Julio Zamora a intendente por Unión por la Patria","Claudio Cufré a intendente por Juntos por el Cambio","Segundo Cernadas a intendente por Juntos por el Cambio","Claudio Baumgarten a intendente por la Libertad Avanza","Alguno de los candidatos a intendente de la Izquierda","Otros","No sabe"
+"P05","Mucho",0.407,0.448,0.415,0.427,0.438,0.108,0.597,0.112
+"P05","Bastante",0.295,0.273,0.264,0.458,0.344,0.108,0.17,0.42
+"P05","Poco",0.208,0.279,0.208,0.094,0.161,0.784,0.19,0.305
+"P05","Nada",0.019,0,0.101,0.021,0.057,0,0,0.163
+"P05","No sabe",0.071,0,0.012,0,0,0,0.043,0
+"P06","Siempre",0.086,0.169,0.189,0.166,0.062,0.116,0.273,0.043
+"P06","Casi siempre",0.362,0.197,0.351,0.528,0.448,0.109,0.377,0.504
+"P06","Casi nunca",0.368,0.344,0.369,0.243,0.315,0.752,0.2,0.437
+"P06","Nunca, pero esta es una excepción",0.184,0.29,0.091,0.063,0.175,0.023,0.15,0.016
+"P07","Tiene Decidido que va a ir a votar.",0.768,0.981,0.869,0.93,0.705,0.132,0.912,0.576
+"P07","Tiene dudas sobre si va a ir a  votar",0.143,0.019,0.068,0.034,0.295,0.868,0.041,0.369
+"P07","Tiene Decidido que no va a ir a votar",0.089,0,0.063,0.036,0,0,0.047,0.055
+"P09","Unión por la Patria",0.639,0.566,0.063,0.061,0.084,0.084,0.133,0.244
+"P09","Juntos por el Cambio",0.069,0.347,0.845,0.867,0.15,0.085,0.139,0.375
+"P09","De los Liberales libertarios",0.135,0.031,0.062,0.017,0.629,0,0.1,0.039
+"P09","De la Izquierda",0.015,0,0.014,0,0.008,0.447,0.073,0
+"P09","Hacemos por nuestro país",0.011,0,0.005,0,0,0,0.073,0
+"P09","Otro",0.053,0.046,0.007,0.055,0.099,0,0.197,0.014
+"P09","En blanco",0.007,0,0,0,0,0.36,0.033,0
+"P09","No sabe",0.071,0.01,0.004,0,0.03,0.024,0.252,0.328
+"P15","Totalmente seguro.",0.53,0.847,0.737,0.54,0.675,0,0.529,0.039
+"P15","Bastante seguro",0.255,0.056,0.171,0.12,0.161,0.392,0.199,0.064
+"P15","Algo seguro",0.177,0.055,0.052,0.086,0.116,0.084,0.012,0.297
+"P15","Para nada seguro",0.038,0.042,0.04,0.254,0.048,0.524,0.26,0.6
+"P23","Totalmente seguro",0.658,0.881,0.704,0.573,0.704,0,0.457,0.281
+"P23","Bastante seguro",0.239,0.068,0.256,0.217,0.164,0.489,0.131,0.076
+"P23","Algo seguro",0.103,0.051,0.018,0.044,0.079,0.116,0.218,0.285
+"P23","Para nada seguro",0,0,0.022,0.166,0.053,0.395,0.194,0.358
+"P24","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.65,0.069,0.033,0.025,0.162,0,0.169,0.364
+"P24","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Claudio Cufré a intendente por Juntos por el Cambio",0.145,0.587,0.791,0.444,0.209,0,0.215,0.057
+"P24","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.047,0.093,0.057,0.033,0.541,0,0.173,0
+"P24","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.004,0,0.005,0.068,0.005,0.531,0.079,0.282
+"P24","Otros",0.055,0.051,0.114,0.216,0.083,0,0.346,0.072
+"P24","No sabe",0.099,0.2,0,0.214,0,0.469,0.018,0.225
+"P27","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.672,0.074,0.068,0.087,0.254,0,0,0.266
+"P27","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.15,0.206,0.553,0.655,0.042,0,0.204,0.36
+"P27","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.012,0.101,0.1,0.029,0.623,0,0.236,0.011
+"P27","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.004,0.351,0.002,0,0.038,0.393,0,0
+"P27","Otros",0.148,0.016,0.227,0.066,0.028,0.205,0.503,0.039
+"P27","No sabe",0.014,0.252,0.05,0.163,0.015,0.402,0.057,0.324
+"P28","Lo votaría",0.528,0.094,0.018,0,0.136,0.103,0.105,0.04
+"P28","Puede que lo vote",0.223,0.082,0.063,0.139,0.027,0.104,0.299,0.552
+"P28","Nunca lo votaría",0.153,0.824,0.863,0.809,0.792,0.413,0.596,0.321
+"P28","No sabe",0.096,0,0.056,0.052,0.045,0.38,0,0.087
+"P29","Lo votaría",0.164,0.041,0.026,0,0.132,0,0.104,0.342
+"P29","Puede que lo vote",0.235,0.063,0.037,0.073,0,0.107,0.214,0.058
+"P29","Nunca lo votaría",0.444,0.896,0.884,0.914,0.774,0.484,0.682,0.342
+"P29","No sabe",0.157,0,0.053,0.013,0.094,0.409,0,0.258
+"P30","Lo votaría",0.345,0.387,0.028,0.076,0.163,0.235,0.374,0.074
+"P30","Puede que lo vote",0.273,0.019,0.04,0.101,0.073,0,0,0.299
+"P30","Nunca lo votaría",0.302,0.594,0.872,0.782,0.751,0.375,0.626,0.355
+"P30","No sabe",0.08,0,0.06,0.041,0.013,0.39,0,0.272
+"P31","Lo votaría",0.144,0.472,0.706,0.143,0.232,0,0.156,0
+"P31","Puede que lo vote",0.022,0.083,0.197,0.583,0.334,0,0.17,0.015
+"P31","Nunca lo votaría",0.791,0.445,0.093,0.221,0.434,0.484,0.674,0.528
+"P31","No sabe",0.043,0,0.004,0.053,0,0.516,0,0.457
+"P32","Lo votaría",0.071,0.097,0.43,0.437,0.152,0,0,0.058
+"P32","Puede que lo vote",0.245,0.184,0.402,0.379,0.127,0.307,0.33,0.054
+"P32","Nunca lo votaría",0.53,0.671,0.137,0.141,0.704,0.353,0.67,0.615
+"P32","No sabe",0.154,0.048,0.031,0.043,0.017,0.34,0,0.273
+"P33","Lo votaría",0.02,0.066,0.101,0.01,0.683,0,0.128,0
+"P33","Puede que lo vote",0.077,0.126,0.242,0.281,0.069,0.301,0.158,0.059
+"P33","Nunca lo votaría",0.76,0.808,0.576,0.697,0.241,0.483,0.714,0.692
+"P33","No sabe",0.143,0,0.081,0.012,0.007,0.216,0,0.249
+"P34","Si",0.425,0.447,0.427,0.214,0.463,0.302,0.089,0.071
+"P34","No",0.575,0.553,0.573,0.786,0.537,0.698,0.911,0.929
+"PRESIDENTE","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.565,0.392,0.044,0.042,0.094,0.08,0.3,0.202
+"PRESIDENTE","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.112,0.133,0.025,0,0.033,0.104,0.178,0.245
+"PRESIDENTE","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.093,0.34,0.835,0.096,0.153,0.207,0.145,0.065
+"PRESIDENTE","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0,0.003,0.056,0.827,0.059,0,0.012,0.282
+"PRESIDENTE","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.129,0.105,0.027,0.025,0.643,0.173,0.051,0
+"PRESIDENTE","Alguno de los candidatos a presidente y gobernador de la Izquierda",0,0,0.009,0,0.005,0,0,0.035
+"PRESIDENTE","Otros",0.035,0.027,0.004,0.01,0,0.411,0.314,0
+"PRESIDENTE","No sabe",0.066,0,0,0,0.013,0.025,0,0.171
+"INTENDENTE","Malena Galmarini a intendenta por Unión por la Patria",0,0.199,0.02,0.149,0.159,0,0.067,0.285
+"INTENDENTE","Julio Zamora a intendente por Unión por la Patria",0.6,0,0.399,0.599,0.31,0.24,0.605,0.614
+"INTENDENTE","Claudio Cufré a intendente por Juntos por el Cambio",0.102,0.395,0,0.179,0.177,0,0,0.031
+"INTENDENTE","Segundo Cernadas a intendente por Juntos por el Cambio",0.14,0.153,0.512,0,0.35,0.59,0.076,0.07
+"INTENDENTE","Claudio Baumgarten a intendente por la Libertad Avanza",0.082,0.084,0.045,0.038,0,0,0.053,0
+"INTENDENTE","Alguno de los candidatos a intendente de la Izquierda",0.034,0.014,0,0,0,0,0,0
+"INTENDENTE","Otros",0,0.067,0.011,0.013,0,0,0,0
+"INTENDENTE","No sabe",0.042,0.088,0.013,0.022,0.004,0.17,0.199,0
+"INTENDENTE_CORTA_2","Malena Galmarini a intendenta por Unión por la Patria",0,0.199,0.02,0.149,0.159,0,0.067,0.285
+"INTENDENTE_CORTA_2","Julio Zamora a intendente por Unión por la Patria",0.6,0,0.399,0.599,0.31,0.24,0.605,0.614
+"INTENDENTE_CORTA_2","Claudio Cufré a intendente por Juntos por el Cambio",0.102,0.395,0,0.179,0.177,0,0,0.031
+"INTENDENTE_CORTA_2","Segundo Cernadas a intendente por Juntos por el Cambio",0.14,0.153,0.512,0,0.35,0.59,0.076,0.07
+"INTENDENTE_CORTA_2","Claudio Baumgarten a intendente por la Libertad Avanza",0.082,0.084,0.045,0.038,0,0,0.053,0
+"INTENDENTE_CORTA_2","Alguno de los candidatos a intendente de la Izquierda",0.034,0.014,0,0,0,0,0,0
+"INTENDENTE_CORTA_2","Otros",0,0.067,0.011,0.013,0,0,0,0
+"INTENDENTE_CORTA_2","No sabe",0.042,0.088,0.013,0.022,0.004,0.17,0.199,0

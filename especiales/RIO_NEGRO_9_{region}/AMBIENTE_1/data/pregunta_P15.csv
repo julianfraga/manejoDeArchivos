@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Centro","Norte","Sur","Buenos Aires"
+"Si",0.631,0.604,0.658,0.596,0.646,0.631,0.639,0.562,0.671,0.654,0.668,0.63,0.779,0.584
+"No",0.226,0.269,0.184,0.283,0.218,0.208,0.205,0.267,0.196,0.22,0.212,0.214,0.184,0.247
+"No sabe",0.143,0.127,0.158,0.121,0.136,0.161,0.156,0.171,0.133,0.126,0.12,0.156,0.037,0.169

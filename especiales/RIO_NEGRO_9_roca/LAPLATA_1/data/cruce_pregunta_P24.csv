@@ -1,0 +1,93 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.52,0.415,0.58,0.401
+"P05","Bastante",0.325,0.349,0.244,0.295
+"P05","Poco",0.122,0.146,0.094,0.155
+"P05","Nada",0.033,0.06,0.067,0.06
+"P05","No sabe",0,0.03,0.015,0.089
+"P06","Siempre",0.31,0.253,0.215,0.126
+"P06","Casi siempre",0.412,0.375,0.343,0.358
+"P06","Casi nunca",0.205,0.282,0.33,0.366
+"P06","Nunca, pero esta es una excepción",0.073,0.09,0.112,0.15
+"P08","Unión por la Patria",0.171,0.146,0.576,0.162
+"P08","Juntos por el Cambio",0.687,0.607,0.104,0.19
+"P08","De los Liberales libertarios",0.041,0.124,0.166,0.147
+"P08","De la Izquierda",0.032,0.01,0.046,0.113
+"P08","Hacemos por nuestro país",0.006,0,0.005,0.016
+"P08","Otro",0.003,0.026,0.028,0.018
+"P08","En blanco",0.013,0.006,0.029,0.07
+"P08","No sabe",0.047,0.081,0.046,0.284
+"P09","Sergio Massa a presidente, Axel Kicillof a gobernador y Julio Alak a intendente por Unión por la Patria",0.06,0.097,0.387,0.178
+"P09","Sergio Massa a presidente, Axel Kicillof a gobernador y Guillermo Escudero a intendente por Unión por la Patria",0.032,0.069,0.05,0.079
+"P09","Sergio Massa a presidente, Axel Kicillof a gobernador y Gaston Castagneto a intendente por Unión por la Patria",0.003,0.014,0.041,0.07
+"P09","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.002,0.015,0.116,0.005
+"P09","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Juan Pablo Allan a intendente por Juntos por el Cambio",0.309,0.392,0.096,0.129
+"P09","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Julio Garro a intendente por Juntos por el Cambio",0.494,0.2,0.02,0.043
+"P09","Javier Milei a presidente, Carolina Piparo a gobernadora y Luciano Guma a intendente por la Libertad Avanza",0.082,0.144,0.164,0.145
+"P09","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.013,0.002,0.043,0.099
+"P09","Otro",0.003,0.013,0.033,0.035
+"P09","No sabe",0.002,0.054,0.05,0.217
+"P12","Si",0.451,0.711,0.428,0.739
+"P12","No",0.549,0.289,0.572,0.261
+"P13","Julio Alak a intendente por Unión por la Patria",0.174,0.086,0.282,0.269
+"P13","Guillermo Escudero a intendente por Unión por la Patria",0,0.038,0.035,0.01
+"P13","Gaston Castagneto a intendente por Unión por la Patria",0.028,0.012,0.054,0.1
+"P13","Juan Pablo Allan a intendente por Juntos por el Cambio",0.25,0.197,0.064,0.09
+"P13","Julio Garro a intendente por Juntos por el Cambio",0.452,0.393,0.152,0.124
+"P13","Luciano Guma a intendente por la Libertad Avanza",0.056,0.044,0.156,0.182
+"P13","A los candidatos a intendente del Frente de Izquierda",0.009,0.006,0.08,0.087
+"P13","Otro",0.004,0.054,0.067,0.014
+"P13","No sabe",0.027,0.17,0.11,0.124
+"P16","Ninguno",0,0,0.406,1
+"P16","Julio Alak a intendente por Unión por la Patria",0,0,0.169,0
+"P16","Guillermo Escudero a intendente por Unión por la Patria",0,0,0.014,0
+"P16","Gaston Castagneto a intendente por Unión por la Patria",0,0,0.049,0
+"P16","Juan Pablo Allan a intendente por Juntos por el Cambio",0,0.072,0.109,0
+"P16","Julio Garro a intendente por Juntos por el Cambio",0,0.529,0.021,0
+"P16","Luciano Guma a intendente por la Libertad Avanza",1,0,0.052,0
+"P16","A los candidatos a intendente del Frente de Izquierda",0,0,0.021,0
+"P16","Otro",0,0,0.044,0
+"P16","No sabe",0,0.399,0.115,0
+"P19","Lo votaría",0.069,0.086,0.445,0.222
+"P19","Puede que lo vote",0.144,0.121,0.153,0.043
+"P19","Nunca lo votaría",0.754,0.756,0.357,0.279
+"P19","No sabe",0.033,0.037,0.045,0.456
+"P20","Lo votaría",0.1,0.095,0.158,0.102
+"P20","Puede que lo vote",0.05,0.073,0.217,0.076
+"P20","Nunca lo votaría",0.826,0.814,0.521,0.292
+"P20","No sabe",0.024,0.018,0.104,0.53
+"P21","Lo votaría",0.037,0.047,0.142,0.053
+"P21","Puede que lo vote",0.061,0.111,0.23,0.177
+"P21","Nunca lo votaría",0.868,0.813,0.542,0.341
+"P21","No sabe",0.034,0.029,0.086,0.429
+"P22","Lo votaría",0.068,0.055,0.293,0.085
+"P22","Puede que lo vote",0.017,0.097,0.17,0.086
+"P22","Nunca lo votaría",0.886,0.81,0.49,0.341
+"P22","No sabe",0.029,0.038,0.047,0.488
+"P23","Lo votaría",0.398,0.353,0.117,0.186
+"P23","Puede que lo vote",0.237,0.386,0.068,0.033
+"P23","Nunca lo votaría",0.308,0.223,0.803,0.066
+"P23","No sabe",0.057,0.038,0.012,0.715
+"P25","Lo votaría",0.165,0.12,0.129,0.074
+"P25","Puede que lo vote",0.175,0.294,0.047,0.154
+"P25","Nunca lo votaría",0.606,0.556,0.814,0.389
+"P25","No sabe",0.054,0.03,0.01,0.383
+"P26","Si",0.539,0.402,0.414,0.413
+"P26","No",0.461,0.598,0.586,0.587
+"PRESIDENTE","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.095,0.18,0.478,0.327
+"PRESIDENTE","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.002,0.015,0.116,0.005
+"PRESIDENTE","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.309,0.392,0.096,0.129
+"PRESIDENTE","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0.494,0.2,0.02,0.043
+"PRESIDENTE","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.082,0.144,0.164,0.145
+"PRESIDENTE","A los candidatos a presidente, a gobernador del Frente de Izquierda",0.013,0.002,0.043,0.099
+"PRESIDENTE","Otro",0.003,0.013,0.033,0.035
+"PRESIDENTE","No sabe",0.002,0.054,0.05,0.217
+"INTENDENTE","Julio Alak a intendente por Unión por la Patria",0.116,0.103,0.415,0.224
+"INTENDENTE","Guillermo Escudero a intendente por Unión por la Patria",0.018,0.051,0.044,0.007
+"INTENDENTE","Gaston Castagneto a intendente por Unión por la Patria",0.014,0.008,0.047,0.066
+"INTENDENTE","Juan Pablo Allan a intendente por Juntos por el Cambio",0.231,0.284,0.078,0.103
+"INTENDENTE","Julio Garro a intendente por Juntos por el Cambio",0.528,0.304,0.069,0.13
+"INTENDENTE","Luciano Guma a intendente por la Libertad Avanza",0.061,0.079,0.14,0.161
+"INTENDENTE","A los candidatos a intendente del Frente de Izquierda",0.018,0.004,0.052,0.057
+"INTENDENTE","Otro",0.002,0.04,0.045,0.028
+"INTENDENTE","En blanco",0,0,0.038,0.005
+"INTENDENTE","No sabe",0.012,0.127,0.072,0.219

@@ -1,0 +1,13 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	quali	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P08	Escenarios electorales: Primera Vuelta	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto a presidente por espacio político	
+P11	Escenarios electorales: Primera Vuelta	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación 	Intención de voto por fórmulas presidenciales en primera vuelta	
+P11_imputada	Escenarios electorales: Primera Vuelta	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación 	Intención de voto por fórmulas presidenciales en primera vuelta	(Imputación no lineal de indecisos)
+P14	Escenarios electorales: Primera Vuelta	quuali	En su opinión, ¿cómo se sale de la permanente crisis que vive argentina?	Opinión sobre la crisis argentina	
+P15	Escenarios electorales: Primera Vuelta	seguridadVoto	Podría usted decirnos cuán seguro está de sus preferencias de voto a en las próximas elecciones 	Nivel de seguridad sobre preferencias de voto	
+P16	Escenarios electorales: Primera Vuelta	irAVotar	¿Podría decirnos entonces si usted qué tan decidido está en in a votar?	Nivel de decisión sobre ir o no a votar	
+P17	Escenarios electorales: Segunda Vuelta	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto por fórmulas presidenciales en segunda vuelta	(Escenario 1)
+P18	Escenarios electorales: Segunda Vuelta	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto por fórmulas presidenciales en segunda vuelta	(Escenario 2)
+P19	Escenarios electorales: Segunda Vuelta	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto por fórmulas presidenciales en segunda vuelta	(Escenario 3)
+P20	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

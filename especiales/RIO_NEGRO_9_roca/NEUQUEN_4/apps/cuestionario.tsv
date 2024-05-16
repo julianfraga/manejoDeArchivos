@@ -1,0 +1,10 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Sociodemográfico	politica	Usted diria que la política le importa…	Opinión sobre la importancia de la política	
+P06	Sociodemográfico	politica	En las próximas elecciones a intendente a quien de los siguientes candidatos preferiría usted votar..	Intención de voto en elecciones a intendente	
+P06_imputadas	Sociodemográfico	politica	En las próximas elecciones a intendente a quien de los siguientes candidatos preferiría usted votar..	Intención de voto en elecciones a intendente	 (Imputación no lineal de indecisos)
+P08	Reach candidatos a intendente	reach	Si Norma Sepulveda fuese candidata a intendenta, ud...	Intención de voto por Norma Sepulveda para intendenta	
+P09	Reach candidatos a intendente	reach	Si Walter Erdozain fuese candidato a intendente, ud...	Intención de voto por Walter Erdozain para intendente	
+P10	Gestión e imágenes	imagen	¿Qué imagen tiene de Rolo Figueroa ? 	Imagen de Rolo Figueroa	
+P11	Gestión e imágenes	imagen	¿Qué imagen tiene de Marcelo Rucci ? 	Imagen de Marcelo Rucci	
+P12	Gestión e imágenes	imagen	¿Qué imagen tiene de Guillermo Pereyra? 	Imagen de Guillermo Pereyra	
+P13	control	control	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla? 		

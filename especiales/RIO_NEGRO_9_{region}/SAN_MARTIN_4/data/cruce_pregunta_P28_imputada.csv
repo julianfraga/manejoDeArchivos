@@ -1,0 +1,39 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P12_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.55,0.341,0.2,0.297
+"P12_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.101,0.194,0.507,0.034
+"P12_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente por la Libertad Avanza",0.334,0.16,0.248,0.312
+"P12_imputada","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.002,0.122,0.025,0.121
+"P12_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.003,0.051,0.017,0.068
+"P12_imputada","En blanco",0.01,0.132,0.003,0.168
+"P16_imputada","Sergio Massa a presidente por Unión por la Patria",0.702,0.309,0.04,0.096
+"P16_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.125,0.355,0.483,0.268
+"P16_imputada","Javier Milei a presidente por la Libertad Avanza",0.113,0.193,0.44,0.243
+"P16_imputada","Los candidatos a presidente de la Izquierda",0.044,0.085,0.015,0.184
+"P16_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.016,0.013,0.022,0.189
+"P16_imputada","En blanco",0,0.045,0,0.02
+"P19_imputada","Axel Kicillof a gobernador por Unión por la Patria",0.678,0.426,0.065,0.121
+"P19_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.156,0.308,0.61,0.505
+"P19_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.13,0.104,0.292,0.354
+"P19_imputada","El candidato a gobernador de la Izquierda",0.028,0.13,0.027,0
+"P19_imputada","En blanco",0.008,0.032,0.006,0.02
+"P22_imputada","Fernando Moreira a intendente por Unión por la Patria",0.661,0.565,0.168,0.338
+"P22_imputada","Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.193,0.291,0.644,0.367
+"P22_imputada","Hernán Sardella a intendente por la Libertad Avanza",0.103,0.106,0.13,0.057
+"P22_imputada","El candidato del Frente de Izquierda",0.012,0.006,0.02,0.238
+"P22_imputada","En blanco",0.031,0.032,0.038,0
+"PRESIDENTE_imputada","Sergio Massa a presidente por Unión por la Patria",0.635,0.252,0.146,0.202
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.103,0.375,0.476,0.158
+"PRESIDENTE_imputada","Javier Milei a presidente por la Libertad Avanza",0.24,0.241,0.337,0.285
+"PRESIDENTE_imputada","Los candidatos a presidente de la Izquierda",0.015,0.078,0.026,0.121
+"PRESIDENTE_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.005,0.016,0.013,0.111
+"PRESIDENTE_imputada","En blanco",0.002,0.038,0.002,0.123
+"GOBERNADOR_imputada","Axel Kicillof a gobernador por Unión por la Patria",0.628,0.347,0.156,0.213
+"GOBERNADOR_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.11,0.332,0.528,0.28
+"GOBERNADOR_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.245,0.18,0.277,0.374
+"GOBERNADOR_imputada","El candidato a gobernador de la Izquierda",0.012,0.102,0.029,0.01
+"GOBERNADOR_imputada","En blanco",0.005,0.039,0.01,0.123
+"INTENDENTE_imputada","Fernando Moreira a intendente por Unión por la Patria",0.622,0.45,0.198,0.337
+"INTENDENTE_imputada","Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.121,0.325,0.546,0.206
+"INTENDENTE_imputada","Hernán Sardella a intendente por la Libertad Avanza",0.239,0.171,0.209,0.189
+"INTENDENTE_imputada","El candidato del Frente de Izquierda",0.006,0.015,0.027,0.157
+"INTENDENTE_imputada","En blanco",0.012,0.039,0.02,0.111

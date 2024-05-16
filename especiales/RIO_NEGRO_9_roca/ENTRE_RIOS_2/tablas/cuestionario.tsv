@@ -1,0 +1,22 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	quali	¿Cuánto diría usted que le importa la política?	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P10	Preferencias políticas	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto a Presidente por espacio político	
+P13	Preferencias políticas	politica	¿Pensando en las próximas elecciones de primera vuelta a Presidente y Vicepresidente y generales a Gobernador y Vicegobernador a que candidatos preferiría votar?	Intención de voto por fórmulas de gobierno Nacional y Provincial en primera vuelta	
+P13_imputada	Preferencias políticas	politica	¿Pensando en las próximas elecciones de primera vuelta a Presidente y Vicepresidente y generales a Gobernador y Vicegobernador a que candidatos preferiría votar?	Intención de voto por fórmulas de gobierno Nacional y Provincial en primera vuelta	(Imputación no lineal de indecisos)
+P16	Preferencias políticas	sino	¿Podría indicarnos si usted estaría dispuesto a cortar boleta?	Intención de corte de boleta	
+P17	Preferencias políticas	politica	¿Pensando en las próximas elecciones de primera vuelta a Presidente y Vicepresidente a que candidatos preferiría votar?	Intención de voto por candidatos a Presidente y Vicepresidente en primera vuelta	
+P20	Preferencias políticas	politica	¿Pensando en las próximas elecciones generales a Gobernador y Vicegobernador a que candidatos preferiría votar?	Intención de voto por candidatos a Gobernador y Vicegobernador en generales	
+PRESIDENTE	Preferencias políticas	politica	Intención de voto por candidatos a Presidente y Vicepresidente en primera vuelta	Intención de voto por candidatos a Presidente y Vicepresidente en primera vuelta	(Considerando corte de boleta)
+PRESIDENTE_imputada	Preferencias políticas	politica	Intención de voto por candidatos a Presidente y Vicepresidente en primera vuelta	Intención de voto por candidatos a Presidente y Vicepresidente en primera vuelta	(Considerando corte de boleta, imputación no lineal de indecisos)
+CORTA_GOBERNADOR	Preferencias políticas		corta Gobernador	corta Gobernador	
+CORTA_PRESIDENTE	Preferencias políticas		corta Presidente	corta Presidente	
+GOBERNADOR	Preferencias políticas	politica	Intención de voto por candidatos a Gobernador y Vicegobernador en generales	Intención de voto por candidatos a Gobernador y Vicegobernador en generales	(Considerando corte de boleta)
+GOBERNADOR_imputada	Preferencias políticas	politica	Intención de voto por candidatos a Gobernador y Vicegobernador en generales	Intención de voto por candidatos a Gobernador y Vicegobernador en generales	(Considerando corte de boleta, imputación no lineal de indecisos)
+P23	Preferencias políticas	quali	En su opinión, ¿cómo se sale de la permanente crisis que vive argentina?	Opinión sobre la crisis argentina	
+P24	Preferencias políticas	muchopoco	Podría usted decirnos cuán seguro está de sus preferencias de voto en las próximas elecciones.	Nivel de seguridad sobre preferencias de voto	
+P25	Preferencias políticas	diverging	¿Podría decirnos entonces si usted qué tan decidido está en in a votar?	Nivel de decisión sobre ir o no a votar	
+P26	Reach de intención de voto	votaria	Votaría usted la fórmula de Sergio Massa Presidente,  Agustín Rossi Vicepresidente,  Adán Bahl Gobernador y Claudia Monjo a Vicegobernadora…	Intención de voto por Massa - Rossi, Bahl - Monjo.	
+P27	Reach de intención de voto	votaria	"Votaría usted la fórmula de Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Rogelio Frigerio a Gobernador y Alicia Aluani a Vicegobernadora… "	Intención de voto por Bullrich - Petri, Frigerio - Aluani.	
+P28	Reach de intención de voto	votaria	Votaría usted la fórmula de Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Arturo Etchevere a Gobernador y Mayda Spizzi a Vicegobernadora…	Intención de voto por Milei - Villarruel, Etchevere - Spizzi.	
+P29	Control	sino	"Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  "	Interés en próximas encuestas	

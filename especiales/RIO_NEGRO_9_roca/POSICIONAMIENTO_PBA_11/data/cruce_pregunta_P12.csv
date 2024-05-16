@@ -1,0 +1,200 @@
+"var","categoria","Sergio Massa presidente y Axel Kicillof gobernador por Unión por la Patria","Wado de Pedro presidente y  Axel Kicillof gobernador por Unión por la Patria","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza","Los candidatos a presidente y a gobernador del Frente de Izquierda","En blanco","No sabe"
+"P06","Unión por la Patria y el peronismo",0.723,0.849,0.065,0.128,0.063,0.11,0.147,0.152
+"P06","Juntos por el Cambio ",0.088,0.064,0.776,0.717,0.077,0.161,0.052,0.147
+"P06","De los Liberales libertarios",0.03,0.016,0.096,0.052,0.758,0.266,0.035,0.066
+"P06","De la Izquierda",0.029,0.023,0.009,0.007,0.013,0.412,0.162,0.052
+"P06","No sabe",0.13,0.048,0.054,0.096,0.089,0.051,0.604,0.583
+"P07","A Sergio Massa",0.564,0.133,0.323,0.311,0.3,0.249,0.23,0.109
+"P07","A Daniel Scioli",0.126,0.055,0.182,0.18,0.164,0.138,0.588,0.263
+"P07","A algún candidato del peronismo",0.106,0.087,0.317,0.211,0.249,0.218,0.058,0.281
+"P07","A algún candidato del kirchnerismo",0.204,0.725,0.178,0.298,0.287,0.395,0.124,0.347
+"P08","A Horacio Rodriguez Larreta",0.231,0.29,0.016,0.576,0.19,0.261,0,0.334
+"P08","A Patricia Bullrich",0.49,0.335,0.929,0.286,0.621,0.572,0.581,0.354
+"P08","A Facundo Manes",0.131,0.328,0.023,0.092,0.165,0.133,0.26,0.217
+"P08","A Gerardo Morales",0.148,0.047,0.032,0.046,0.024,0.034,0.159,0.095
+"P09","Sergio Massa presidente y Axel Kicillof gobernador por Unión por la Patria",0.63,0.071,0.025,0.038,0.023,0.027,0.005,0.05
+"P09","Wado de Pedro presidente y  Axel Kicillof gobernador por Unión por la Patria",0.131,0.832,0.014,0.047,0.034,0.037,0.011,0.017
+"P09","Daniel Scioli presidente y Victoria Tolosa Paz gobernadora por Unión por la Patria",0.068,0.021,0.021,0.036,0.018,0.047,0.097,0.089
+"P09","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.059,0.018,0.816,0.15,0.049,0.028,0.012,0.054
+"P09","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.02,0.014,0.029,0.684,0.028,0.102,0.008,0.036
+"P09","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.042,0.018,0.077,0.019,0.798,0.331,0.054,0.053
+"P09","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.003,0.007,0.002,0.001,0.01,0.402,0.218,0.011
+"P09","En blanco",0.009,0.007,0.002,0.003,0.014,0.014,0.409,0.09
+"P09","No sabe",0.038,0.012,0.014,0.022,0.026,0.012,0.186,0.6
+"P15","Sergio Massa presidente y Axel Kicillof gobernador por Unión por la Patria",0.704,0.513,0.053,0.078,0.044,0.037,0,0.072
+"P15","Daniel Scioli presidente y Victoria Tolosa Paz gobernadora por Unión por la Patria",0.083,0.141,0.027,0.053,0.033,0.03,0.106,0.074
+"P15","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.101,0.024,0.773,0.118,0.073,0.019,0.017,0.052
+"P15","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.043,0.032,0.038,0.665,0.031,0.103,0,0.029
+"P15","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.036,0.043,0.081,0.044,0.793,0.276,0.014,0.038
+"P15","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.007,0.049,0.006,0.008,0.007,0.462,0.215,0.007
+"P15","En blanco",0.01,0.043,0.005,0.002,0.006,0.054,0.586,0.046
+"P15","No sabe",0.016,0.155,0.017,0.032,0.013,0.019,0.062,0.682
+"P18","Wado de Pedro presidente y  Axel Kicillof gobernador por Unión por la Patria",0.53,0.857,0.029,0.071,0.055,0.052,0.059,0.037
+"P18","Daniel Scioli presidente y Victoria Tolosa Paz gobernadora por Unión por la Patria",0.134,0.037,0.036,0.058,0.054,0.137,0.086,0.117
+"P18","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.058,0.026,0.782,0.106,0.069,0.04,0.015,0.068
+"P18","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.054,0.02,0.044,0.68,0.027,0.064,0.002,0.027
+"P18","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.062,0.03,0.083,0.024,0.764,0.228,0.022,0.052
+"P18","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.024,0.013,0.004,0.011,0.013,0.44,0.21,0.008
+"P18","En blanco",0.039,0.003,0.005,0.01,0.001,0.008,0.511,0.059
+"P18","No sabe",0.099,0.014,0.017,0.04,0.017,0.031,0.095,0.632
+"P21","Sergio Massa presidente y Axel Kicillof gobernador por Unión por la Patria",0.741,0.627,0.05,0.102,0.045,0.126,0.068,0.089
+"P21","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.083,0.044,0.79,0.124,0.063,0.038,0.01,0.085
+"P21","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.028,0.039,0.049,0.658,0.041,0.081,0.032,0.032
+"P21","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.063,0.048,0.088,0.033,0.748,0.215,0.012,0.066
+"P21","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.017,0.052,0.003,0.047,0.05,0.4,0.162,0.021
+"P21","En blanco",0.027,0.045,0.007,0.015,0.021,0.085,0.471,0.05
+"P21","No sabe",0.041,0.145,0.013,0.021,0.032,0.055,0.245,0.657
+"P24","Wado de Pedro presidente y  Axel Kicillof gobernador por Unión por la Patria",0.476,0.671,0.052,0.283,0.04,0.037,0.007,0.08
+"P24","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.09,0.026,0.543,0.136,0.255,0.122,0.016,0.095
+"P24","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.188,0.228,0.055,0.467,0.05,0.097,0.09,0.036
+"P24","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.044,0.035,0.327,0.069,0.592,0.205,0.016,0.073
+"P24","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.025,0.013,0.003,0.006,0.029,0.392,0.161,0.039
+"P24","En blanco",0.043,0.01,0.006,0.009,0.01,0.067,0.503,0.063
+"P24","No sabe",0.134,0.017,0.014,0.03,0.024,0.08,0.207,0.614
+"P25","Axel Kicillof presidente y Sergio Massa gobernador por Unión por la Patria",0.503,0.64,0.054,0.264,0.043,0.071,0.022,0.118
+"P25","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.072,0.022,0.556,0.13,0.249,0.073,0.02,0.095
+"P25","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.229,0.191,0.041,0.489,0.037,0.111,0.071,0.044
+"P25","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.062,0.03,0.33,0.051,0.621,0.195,0.004,0.077
+"P25","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.014,0.028,0.001,0.018,0.02,0.399,0.243,0.028
+"P25","En blanco",0.041,0.025,0.002,0.009,0.001,0.067,0.482,0.056
+"P25","No sabe",0.079,0.064,0.016,0.039,0.029,0.084,0.158,0.582
+"P26","Sergio Massa presidente y Axel Kicillof gobernador por Unión por la Patria",0.821,0.711,0.036,0.119,0.048,0.071,0.058,0.121
+"P26","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.081,0.033,0.871,0.473,0.08,0.08,0.021,0.146
+"P26","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.024,0.01,0.068,0.079,0.824,0.317,0.099,0.055
+"P26","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.017,0.052,0.007,0.034,0.018,0.41,0.194,0.027
+"P26","En blanco",0.006,0.072,0.004,0.079,0.005,0.045,0.49,0.086
+"P26","No sabe",0.051,0.122,0.014,0.216,0.025,0.077,0.138,0.565
+"P27","Sergio Massa presidente y Axel Kicillof gobernador por Unión por la Patria",0.805,0.731,0.04,0.089,0.05,0.069,0.013,0.117
+"P27","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.082,0.029,0.498,0.797,0.057,0.1,0.004,0.08
+"P27","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.022,0.021,0.178,0.034,0.836,0.314,0.117,0.073
+"P27","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.044,0.058,0.007,0.015,0.007,0.425,0.187,0.018
+"P27","En blanco",0.01,0.059,0.073,0.015,0.017,0.026,0.58,0.12
+"P27","No sabe",0.037,0.102,0.204,0.05,0.033,0.066,0.099,0.592
+"P28","Wado de Pedro presidente y  Axel Kicillof gobernador por Unión por la Patria",0.71,0.903,0.042,0.1,0.057,0.05,0.006,0.082
+"P28","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.077,0.027,0.861,0.534,0.082,0.159,0.019,0.106
+"P28","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.025,0.014,0.065,0.063,0.813,0.264,0.158,0.09
+"P28","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.031,0.03,0.006,0.018,0.01,0.414,0.135,0.024
+"P28","En blanco",0.053,0.008,0.003,0.118,0.017,0.021,0.545,0.101
+"P28","No sabe",0.104,0.018,0.023,0.167,0.021,0.092,0.137,0.597
+"P29","Wado de Pedro presidente y  Axel Kicillof gobernador por Unión por la Patria",0.705,0.923,0.047,0.08,0.05,0.056,0.048,0.087
+"P29","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.068,0.036,0.511,0.792,0.059,0.105,0.015,0.123
+"P29","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.034,0.013,0.196,0.02,0.836,0.265,0.101,0.117
+"P29","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.035,0.014,0.01,0.012,0.006,0.443,0.119,0.013
+"P29","En blanco",0.044,0.002,0.071,0.025,0.022,0.022,0.571,0.132
+"P29","No sabe",0.114,0.012,0.165,0.071,0.027,0.109,0.146,0.528
+"P30","Axel Kicillof presidente y Sergio Massa gobernador por Unión por la Patria",0.764,0.847,0.058,0.108,0.046,0.119,0.071,0.084
+"P30","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.079,0.03,0.838,0.549,0.077,0.103,0.033,0.159
+"P30","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.031,0.009,0.076,0.063,0.81,0.241,0.098,0.092
+"P30","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.011,0.033,0.001,0.025,0.012,0.432,0.103,0.022
+"P30","En blanco",0.038,0.031,0.008,0.106,0.01,0.029,0.508,0.102
+"P30","No sabe",0.077,0.05,0.019,0.149,0.045,0.076,0.187,0.541
+"P31","Axel Kicillof presidente y Sergio Massa gobernador por Unión por la Patria",0.755,0.836,0.05,0.09,0.047,0.083,0.038,0.081
+"P31","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.069,0.024,0.516,0.818,0.053,0.108,0.016,0.094
+"P31","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.05,0.009,0.218,0.018,0.841,0.274,0.103,0.117
+"P31","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.03,0.036,0.002,0.007,0.014,0.448,0.177,0.011
+"P31","En blanco",0.028,0.041,0.083,0.023,0.011,0.023,0.552,0.125
+"P31","No sabe",0.068,0.054,0.131,0.044,0.034,0.064,0.114,0.572
+"P32","Daniel Scioli presidente y Victoria Tolosa Paz gobernadora por Unión por la Patria",0.55,0.511,0.038,0.102,0.057,0.106,0.16,0.163
+"P32","Patricia Bullrich presidenta y Nestor Grindetti gobernador por Juntos por el Cambio",0.075,0.037,0.835,0.521,0.084,0.092,0.03,0.108
+"P32","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.037,0.01,0.078,0.048,0.826,0.233,0.109,0.099
+"P32","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.054,0.092,0.002,0.029,0.009,0.432,0.241,0.064
+"P32","En blanco",0.094,0.157,0.02,0.121,0.004,0.024,0.364,0.06
+"P32","No sabe",0.19,0.193,0.027,0.179,0.02,0.113,0.096,0.506
+"P33","Daniel Scioli presidente y Victoria Tolosa Paz gobernadora por Unión por la Patria",0.568,0.491,0.045,0.07,0.061,0.077,0.153,0.172
+"P33","Horacio Rodriguez Larreta presidente y Diego Santilli gobernador por Juntos por el Cambio",0.085,0.028,0.538,0.792,0.056,0.13,0,0.099
+"P33","Javier Milei presidente y  Guillermo Britos por la Libertad Avanza",0.019,0.013,0.212,0.021,0.863,0.289,0.104,0.12
+"P33","Los candidatos a presidente y a gobernador del Frente de Izquierda",0.038,0.099,0.003,0.009,0.003,0.46,0.182,0.056
+"P33","En blanco",0.084,0.18,0.073,0.045,0.009,0.016,0.44,0.046
+"P33","No sabe",0.206,0.189,0.129,0.063,0.008,0.028,0.121,0.507
+"P34","Axel Kicillof por Unión por la Patria",0.85,0.941,0.038,0.155,0.063,0.097,0.179,0.158
+"P34","Nestor Grindetti por Juntos por el Cambio",0.069,0.033,0.813,0.581,0.124,0.128,0.043,0.066
+"P34","Guillermo Britos por la Libertad Avanza",0.018,0.005,0.075,0.031,0.701,0.213,0.095,0.029
+"P34","Al candidato del Frente de Izquierda",0.012,0.008,0.005,0.017,0.001,0.454,0.176,0.036
+"P34","En blanco",0.008,0.001,0.013,0.078,0.044,0.012,0.416,0.216
+"P34","No sabe",0.043,0.012,0.056,0.138,0.067,0.096,0.091,0.495
+"P35","Axel Kicillof por Unión por la Patria",0.859,0.945,0.036,0.138,0.063,0.088,0.186,0.175
+"P35","Diego Santilli por Juntos por el Cambio",0.078,0.033,0.683,0.757,0.103,0.178,0.082,0.208
+"P35","Guillermo Britos por la Libertad Avanza",0.019,0.003,0.123,0.018,0.742,0.207,0.099,0.019
+"P35","Al candidato del Frente de Izquierda",0.016,0.002,0.005,0.015,0.001,0.463,0.151,0.038
+"P35","En blanco",0.007,0.003,0.068,0.018,0.027,0.056,0.394,0.185
+"P35","No sabe",0.021,0.014,0.085,0.054,0.064,0.008,0.088,0.375
+"P36","Sergio Massa por Unión por la Patria",0.838,0.724,0.041,0.139,0.059,0.051,0.036,0.164
+"P36","Nestor Grindetti por Juntos por el Cambio",0.075,0.031,0.796,0.605,0.124,0.175,0.143,0.125
+"P36","Guillermo Britos por la Libertad Avanza",0.012,0.002,0.094,0.027,0.73,0.265,0.097,0.078
+"P36","Al candidato del Frente de Izquierda",0.016,0.059,0.002,0.025,0.001,0.484,0.166,0.019
+"P36","En blanco",0.012,0.068,0.018,0.086,0.031,0.012,0.429,0.156
+"P36","No sabe",0.047,0.116,0.049,0.118,0.055,0.013,0.129,0.458
+"P37","Sergio Massa por Unión por la Patria",0.828,0.702,0.043,0.128,0.064,0.057,0.045,0.142
+"P37","Diego Santilli por Juntos por el Cambio",0.077,0.031,0.685,0.737,0.119,0.169,0.063,0.132
+"P37","Guillermo Britos por la Libertad Avanza",0.019,0.009,0.134,0.017,0.741,0.22,0.117,0.084
+"P37","Al candidato del Frente de Izquierda",0.031,0.06,0.004,0.021,0.001,0.486,0.259,0.019
+"P37","En blanco",0.008,0.093,0.057,0.03,0.025,0.012,0.411,0.123
+"P37","No sabe",0.037,0.105,0.077,0.067,0.05,0.056,0.105,0.5
+"P38","Victoria Tolosa Paz por Unión por la Patria",0.575,0.531,0.038,0.11,0.059,0.066,0.103,0.17
+"P38","Nestor Grindetti por Juntos por el Cambio",0.109,0.028,0.819,0.561,0.089,0.135,0.04,0.089
+"P38","Guillermo Britos por la Libertad Avanza",0.024,0.005,0.079,0.035,0.766,0.233,0.097,0.102
+"P38","Al candidato del Frente de Izquierda",0.048,0.096,0.006,0.025,0.014,0.508,0.233,0.033
+"P38","En blanco",0.121,0.172,0.013,0.132,0.023,0.033,0.392,0.093
+"P38","No sabe",0.123,0.168,0.045,0.137,0.049,0.025,0.135,0.513
+"P39","Victoria Tolosa Paz por Unión por la Patria",0.591,0.509,0.04,0.118,0.072,0.039,0.105,0.199
+"P39","Diego Santilli por Juntos por el Cambio",0.083,0.041,0.684,0.757,0.112,0.215,0.051,0.145
+"P39","Guillermo Britos por la Libertad Avanza",0.019,0.007,0.129,0.022,0.742,0.249,0.122,0.054
+"P39","Al candidato del Frente de Izquierda",0.023,0.106,0,0.008,0.003,0.464,0.159,0.067
+"P39","En blanco",0.142,0.179,0.067,0.027,0.034,0.009,0.449,0.046
+"P39","No sabe",0.142,0.158,0.08,0.068,0.037,0.024,0.114,0.489
+"P40","Lo votaría",0.835,0.889,0.067,0.15,0.096,0.094,0.141,0.195
+"P40","Puede que lo vote",0.062,0.044,0.033,0.084,0.105,0.157,0.184,0.053
+"P40","Nunca lo votaría",0.087,0.037,0.885,0.753,0.788,0.704,0.519,0.473
+"P40","No sabe",0.016,0.03,0.015,0.013,0.011,0.045,0.156,0.279
+"P41","La votaría",0.4,0.321,0.044,0.07,0.054,0.078,0.115,0.108
+"P41","Puede que la vote",0.296,0.341,0.038,0.143,0.096,0.114,0.194,0.109
+"P41","Nunca la votaría",0.222,0.248,0.895,0.761,0.817,0.799,0.567,0.538
+"P41","No sabe",0.082,0.09,0.023,0.026,0.033,0.009,0.124,0.245
+"P42","Lo votaría",0.104,0.043,0.68,0.252,0.154,0.072,0.024,0.062
+"P42","Puede que lo vote",0.071,0.04,0.153,0.355,0.27,0.158,0.278,0.089
+"P42","Nunca lo votaría",0.783,0.865,0.128,0.316,0.467,0.678,0.671,0.478
+"P42","No sabe",0.042,0.052,0.039,0.077,0.109,0.092,0.027,0.371
+"P43","Lo votaría",0.073,0.025,0.531,0.607,0.121,0.117,0.043,0.144
+"P43","Puede que lo vote",0.053,0.039,0.288,0.218,0.282,0.279,0.307,0.168
+"P43","Nunca lo votaría",0.835,0.913,0.139,0.138,0.543,0.592,0.602,0.381
+"P43","No sabe",0.039,0.023,0.042,0.037,0.054,0.012,0.048,0.307
+"P44","Lo votaría",0.046,0.009,0.155,0.132,0.531,0.092,0,0.015
+"P44","Puede que lo vote",0.043,0.042,0.256,0.189,0.183,0.131,0.25,0.095
+"P44","Nunca lo votaría",0.872,0.92,0.5,0.55,0.249,0.76,0.655,0.387
+"P44","No sabe",0.039,0.029,0.089,0.129,0.037,0.017,0.095,0.503
+"P45","Muy buena",0.612,0.782,0.057,0.09,0.097,0.07,0.105,0.178
+"P45","Buena",0.149,0.092,0.035,0.101,0.042,0.05,0.147,0.027
+"P45","Ni buena ni mala",0.155,0.088,0.093,0.182,0.093,0.344,0.199,0.272
+"P45","Mala",0.019,0.012,0.12,0.107,0.117,0.133,0.168,0.183
+"P45","Muy mala",0.064,0.024,0.689,0.518,0.644,0.403,0.278,0.208
+"P45","No sabe",0.001,0.002,0.006,0.002,0.007,0,0.103,0.132
+"P46","Muy buena",0.302,0.173,0.03,0.038,0.021,0.026,0.037,0.08
+"P46","Buena",0.247,0.275,0.026,0.096,0.052,0.059,0.144,0.043
+"P46","Ni buena ni mala",0.256,0.318,0.089,0.229,0.068,0.26,0.181,0.279
+"P46","Mala",0.077,0.137,0.184,0.179,0.164,0.151,0.209,0.125
+"P46","Muy mala",0.083,0.087,0.663,0.443,0.66,0.45,0.212,0.236
+"P46","No sabe",0.035,0.01,0.008,0.015,0.035,0.054,0.217,0.237
+"P47","Muy buena",0.074,0.021,0.342,0.126,0.096,0.051,0,0.013
+"P47","Buena",0.048,0.051,0.34,0.239,0.18,0.068,0.123,0.064
+"P47","Ni buena ni mala",0.3,0.168,0.167,0.291,0.279,0.211,0.417,0.351
+"P47","Mala",0.311,0.278,0.026,0.075,0.09,0.154,0.073,0.107
+"P47","Muy mala",0.142,0.436,0.104,0.149,0.237,0.439,0.241,0.092
+"P47","No sabe",0.125,0.046,0.021,0.12,0.118,0.077,0.146,0.373
+"P48","Muy buena",0.035,0.019,0.31,0.471,0.107,0.062,0.006,0.049
+"P48","Buena",0.102,0.037,0.399,0.239,0.153,0.177,0.179,0.079
+"P48","Ni buena ni mala",0.243,0.12,0.207,0.17,0.277,0.202,0.22,0.388
+"P48","Mala",0.395,0.292,0.049,0.043,0.149,0.114,0.239,0.078
+"P48","Muy mala",0.171,0.502,0.027,0.059,0.265,0.436,0.137,0.14
+"P48","No sabe",0.054,0.03,0.008,0.018,0.049,0.009,0.219,0.266
+"P49","Muy buena",0.022,0.012,0.097,0.037,0.281,0.046,0,0.031
+"P49","Buena",0.035,0.034,0.139,0.092,0.265,0.174,0.122,0.013
+"P49","Ni buena ni mala",0.24,0.139,0.397,0.454,0.218,0.211,0.242,0.426
+"P49","Mala",0.256,0.21,0.107,0.057,0.054,0.079,0.132,0.052
+"P49","Muy mala",0.245,0.518,0.1,0.19,0.121,0.382,0.213,0.12
+"P49","No sabe",0.202,0.087,0.16,0.17,0.061,0.108,0.291,0.358
+"P50","Siempre",0.336,0.325,0.397,0.364,0.326,0.225,0.209,0.195
+"P50","Casi siempre",0.405,0.453,0.367,0.422,0.328,0.384,0.512,0.39
+"P50","Casi nunca",0.156,0.144,0.182,0.178,0.288,0.216,0.163,0.196
+"P50","Nunca, pero esta es una excepción",0.103,0.078,0.054,0.036,0.058,0.175,0.116,0.219
+"P51","Si",0.544,0.565,0.557,0.528,0.589,0.545,0.229,0.403
+"P51","No",0.456,0.435,0.443,0.472,0.411,0.455,0.771,0.597

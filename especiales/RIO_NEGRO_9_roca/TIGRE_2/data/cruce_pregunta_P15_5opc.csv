@@ -1,0 +1,58 @@
+"var","categoria","Muy buena","Buena","Ni buena ni mala","Mala","Muy mala","No sabe"
+"P06","Julio Zamora",0.249,0.338,0.506,0.647,0.685,0.351
+"P06","Segundo Cernadas",0.443,0.311,0.106,0.087,0.053,0.131
+"P06","Otro candidato",0.171,0.206,0.126,0.122,0.152,0.046
+"P06","En blanco",0.069,0.06,0.131,0.065,0.063,0.035
+"P06","No sabe",0.068,0.085,0.131,0.079,0.047,0.437
+"P07","Victoria Tolosa Paz para diputada nacional y Gisela Zamora para concejal por el frente de todos",0.068,0.242,0.362,0.651,0.654,0.345
+"P07","Santilli para diputado nacional y Segundo cernadas para concejal por Juntos",0.583,0.406,0.166,0.08,0.053,0.165
+"P07","Manes para diputado nacional y Nicolas massot para concejal por juntos",0.121,0.132,0.062,0.055,0.035,0
+"P07","Espert para diputado nacional y Juan José Cervetto para concejal por avanza libertad",0.054,0.08,0.076,0.023,0.041,0
+"P07","Espert para diputado nacional y Martin Liserre Moreno para concejal por Republicanos unidos",0.02,0.012,0.046,0.032,0.014,0.041
+"P07","Randazzo para diputado nacional y Matias Orfo para concejal por Vamos con vos",0.006,0.017,0.021,0,0.035,0
+"P07","Randazzo para diputado nacional y Oscar Hurtado para concejal por vamos con vos",0,0.005,0.003,0.013,0,0
+"P07","Guillermo Moreno para diputado nacional y Andrés “Pichon” Flores para concejal por principios y valores",0.061,0.009,0.056,0.015,0.035,0.068
+"P07","A los candidatos de la izquierda",0.034,0.008,0.008,0,0.028,0
+"P07","En blanco o anularía",0.033,0.057,0.141,0.029,0.061,0.315
+"P07","Cortaría Boleta",0.02,0.032,0.059,0.102,0.044,0.066
+"P08","Victoria Tolosa Paz por el frente de todos",0.019,0.158,0.539,0.312,1,0.25
+"P08","Santilli dentro de la interna de Juntos",0.019,0.158,0,0,0,0
+"P08","Manes dentro de la interna de juntos",0,0.079,0.01,0.078,0,0.25
+"P08","Espert por avanza libertad",0,0.079,0,0.006,0,0
+"P08","Randazzo por Vamos con vos",0,0.079,0.01,0.136,0,0
+"P08","Guillermo Moreno por principios y valores",0,0,0.02,0.006,0,0
+"P08","A los candidatos de la izquierda",0,0,0.02,0.121,0,0
+"P08","En blanco o anularía",0.962,0.447,0.401,0.341,0,0.5
+"P09","Gisela Zamora por el frente de todos",0,0.684,0.919,0.39,0.733,0.5
+"P09","Segundo cernadas dentro de la interna Juntos",0.019,0.079,0.02,0.306,0,0
+"P09","Nicolas massot dentro de la interna por juntos",0,0.158,0,0,0,0.25
+"P09","Juan José Cervetto dentro de la interna de avanza libertad",0,0,0,0.006,0,0
+"P09","Martin Liserre Moreno por Republicanos unidos dentro de la interna de Avanza libertad",0,0,0,0.142,0,0
+"P09","Matias Orfo dentro de la interna de vamos con vos",0,0,0.02,0,0,0
+"P09","Oscar Hurtado dentro de la interna de vamos con vos",0,0,0.01,0.121,0,0
+"P09","Andrés “Pichon” Flores por principios y valores",0,0,0.021,0,0.015,0
+"P09","A los candidatos de la izquierda",0,0,0,0.006,0.031,0
+"P09","En blanco o anularía",0.981,0.079,0.01,0.029,0.221,0.25
+"P10","Si",0.791,0.759,0.727,0.918,0.833,0.376
+"P10","Puede ser",0.06,0.122,0.12,0.058,0.068,0.562
+"P10","No",0.149,0.119,0.153,0.024,0.099,0.062
+"P11","Si",0.873,0.834,0.729,0.893,0.925,0.548
+"P11","No",0.127,0.166,0.271,0.107,0.075,0.452
+"P12","Muy buena",0.116,0.137,0.224,0.426,0.549,0.255
+"P12","Buena",0.009,0.075,0.182,0.275,0.171,0.225
+"P12","Ni buena ni mala",0.054,0.106,0.174,0.131,0.06,0.231
+"P12","Mala",0.093,0.194,0.085,0.029,0.066,0.042
+"P12","Muy mala",0.712,0.482,0.314,0.128,0.151,0.067
+"P12","No sabe",0.016,0.006,0.021,0.011,0.003,0.18
+"P13","Muy buena",0.123,0.122,0.257,0.462,0.666,0.15
+"P13","Buena",0.011,0.063,0.099,0.192,0.04,0.077
+"P13","Ni buena ni mala",0.014,0.061,0.223,0.117,0.059,0.144
+"P13","Mala",0.081,0.076,0.076,0.033,0.086,0.028
+"P13","Muy mala",0.747,0.653,0.342,0.196,0.138,0.204
+"P13","No sabe",0.024,0.025,0.003,0,0.011,0.397
+"P14","Muy buena",0.375,0.112,0.03,0.051,0.054,0.02
+"P14","Buena",0.205,0.162,0.033,0,0.001,0.09
+"P14","Ni buena ni mala",0.21,0.411,0.33,0.145,0.007,0.213
+"P14","Mala",0.079,0.164,0.225,0.325,0.056,0.131
+"P14","Muy mala",0.121,0.146,0.337,0.479,0.874,0.282
+"P14","No sabe",0.01,0.005,0.045,0,0.008,0.264

@@ -1,0 +1,58 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.381,0.217,0.333,0.207
+"P05","Bastante",0.348,0.381,0.283,0.277
+"P05","Poco",0.128,0.212,0.178,0.194
+"P05","Nada",0.143,0.167,0.156,0.204
+"P05","No sabe",0,0.023,0.05,0.118
+"P06","Siempre",0.107,0.202,0.191,0.192
+"P06","Casi siempre",0.263,0.325,0.336,0.371
+"P06","Casi nunca",0.407,0.236,0.331,0.271
+"P06","Nunca, pero esta es una excepción",0.223,0.237,0.142,0.166
+"P08","Al candidato del Frente de Todos",0.347,0.228,0.325,0.145
+"P08","Al candidato de Juntos por el Cambio",0.287,0.352,0.172,0.283
+"P08","Al candidato de los liberales - libertarios",0.242,0.091,0.326,0.208
+"P08","Al candidato de la Izquierda",0.021,0.081,0.018,0.024
+"P08","A otro candidato",0.103,0.092,0.047,0.058
+"P08","No sabe",0,0.156,0.112,0.282
+"P09","A Blanca Cantero por el Frente de Todos",0.183,0.311,0.222,0.138
+"P09","A Federico García por el Frente de Todos",0.047,0.043,0.047,0.069
+"P09","A Victor Rengifo por Juntos por el Cambio",0.328,0.219,0.169,0.203
+"P09","A Mauro Arranz por Juntos por el Cambio",0.093,0.097,0.077,0.065
+"P09","A Anibal Regueiro por un partido vecinal",0.197,0.085,0.107,0.085
+"P09","A Eduardo Guardia por La Libertad Avanza",0.131,0.177,0.208,0.127
+"P09","A Miguel Coria por el Frente de Izquierda",0.021,0.006,0.046,0
+"P09","No sabe",0,0.062,0.124,0.313
+"P12","A Blanca Cantero por el Frente de Todos con el apoyo de Sergio Massa",0.166,0.166,0.239,0.108
+"P12","A Federico García por el Frente de Todos con el apoyo de La Cámpora",0.037,0.05,0.046,0.03
+"P12","A Victor Rengifo por Juntos por el Cambio con el apoyo de Patricia Bullrich",0.268,0.303,0.098,0.25
+"P12","A Mauro Arranz por Juntos por el Cambio con el apoyo de Horacio Rodriguez Larreta",0.112,0.166,0.107,0.035
+"P12","A Anibal Regueiro por un partido vecinal",0.093,0.146,0.088,0.068
+"P12","A Eduardo Guardia por La Libertad Avanza con el apoyo de Javier Milei",0.172,0.105,0.261,0.238
+"P12","A Miguel Coria por el Frente de Izquierda con el apoyo de Myriam Bregman",0.152,0.01,0.046,0.011
+"P12","No sabe",0,0.054,0.115,0.26
+"P15","La votaría",0.354,0.138,0.252,0.115
+"P15","Puede que la vote",0.131,0.399,0.118,0.09
+"P15","Nunca la votaría",0.426,0.379,0.537,0.262
+"P15","No sabe",0.089,0.084,0.093,0.533
+"P16","Lo votaría",0.432,0.096,0.033,0.016
+"P16","Puede que lo vote",0.218,0.578,0.125,0.041
+"P16","Nunca lo votaría",0.336,0.242,0.757,0.12
+"P16","No sabe",0.014,0.084,0.085,0.823
+"P18","Lo votaría",0.344,0.046,0.05,0.009
+"P18","Puede que lo vote",0.136,0.515,0.048,0.034
+"P18","Nunca lo votaría",0.395,0.3,0.812,0.095
+"P18","No sabe",0.125,0.139,0.09,0.862
+"P19","Lo votaría",0.351,0.115,0.105,0.053
+"P19","Puede que lo vote",0.129,0.607,0.102,0.123
+"P19","Nunca lo votaría",0.47,0.244,0.729,0.09
+"P19","No sabe",0.05,0.034,0.064,0.734
+"P20","Lo votaría",0.28,0.075,0.112,0.044
+"P20","Puede que lo vote",0.184,0.541,0.088,0.058
+"P20","Nunca lo votaría",0.452,0.322,0.709,0.089
+"P20","No sabe",0.084,0.062,0.091,0.809
+"P21","Lo votaría",0.32,0.02,0.101,0.011
+"P21","Puede que lo vote",0.179,0.558,0.047,0.053
+"P21","Nunca lo votaría",0.282,0.265,0.756,0.046
+"P21","No sabe",0.219,0.157,0.096,0.89
+"P22","Si",0.394,0.24,0.298,0.341
+"P22","No",0.606,0.76,0.702,0.659

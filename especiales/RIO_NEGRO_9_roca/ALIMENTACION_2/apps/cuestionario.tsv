@@ -1,0 +1,37 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P04	Sociodemográfico		Respecto de su nivel de ingreso familiar, ¿podría por favor indicar la opción que corresponda?	Nivel de ingresos familiares
+P05	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió verduras frescas?	Frecuencia de consumo de verduras frescas
+P06	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió carnes rojas?	Frecuencia de consumo de carnes rojas
+P07	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió otro tipo de carnes (pollo, pescado, cerdo, etc.)?	Frecuencia de consumo de otro tipo de carnes
+P08	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió alimentos ultraprocesados (comida rápida, snacks, etc.)?	Frecuencia de consumo de alimentos ultraprocesados
+P09	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió alimentos ricos en azúcares añadidos (dulces, golosinas, galletitas dulces, etc.)?	Frecuencia de consumo de alimentos ricos en azúcares añadidos
+P10	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió frutas frescas?	Frecuencia de consumo de frutas secas
+P11	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió lácteos (leche, yogurt, quesos, etc.)?	Frecuencia de consumo de lácteos
+P12	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió legumbres (por ejemplo, lentejas, garbanzos, porotos, etc.)?	Frecuencia de consumo de legumbres
+P13	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió alimentos elaborados con harinas (pan, pastas, tortas, etc.)?	Frecuencia de consumo de alimentos elaborados con harinas
+P14	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió cereales (arroz, maíz, trigo, avena, etc.)?	Frecuencia de consumo de cereales
+P15	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Cuánta agua bebió diariamente?	Consumo de agua (bebida) diaria
+P16	Hábitos alimentarios y consumos regulares		Cuando consume agua, consume:	Tipo y presentación del agua consumida
+P17	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió bebidas alcohólicas?	Frecuencia de consumo de bebidas alcohólicas
+P18	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Qué tipo de bebida alcohólica consumió más habitualmente?	Tipo de bebida alcohólica más consumida
+P19	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió bebidas azucaradas (gaseosas, jugos comerciales, etc.)?	Frecuencia de consumo de bebidas azucaradas
+P20	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió mate?	Frecuencia de consumo de mate
+P21	Hábitos alimentarios y consumos regulares		Durante el último mes ¿Con qué frecuencia consumió otras infusiones (té, café etc.)?	Frecuencia de consumo de infusiones
+P22	Hábitos alimentarios y consumos regulares		De entre los siguientes platos salados, cuál sería el de su preferencia.	Preferencia por platos salados habituales
+P23	Hábitos alimentarios y consumos regulares		De entre los siguientes platos salados, cual fue el que más consumió la última semana.	Frecuencia de consumo de platos salados habituales
+P24	Hábitos alimentarios y consumos regulares		De entre los siguientes platos dulces, cuál sería el de su preferencia.	Preferencia por platos dulces habituales
+P25	Hábitos alimentarios y consumos regulares		De entre los siguientes platos dulces, cual fue el que más consumió la última semana.	Frecuencia de consumo de platos dulces habituales
+P26	Hábitos alimentarios y consumos regulares		Tiene alguna preferencia alimentaria especial.	Preferencias y restricciones alimentarias
+P27	Etiquetado frontal		¿Conoce usted la Ley de Etiquetado Frontal?	Conocimiento de la Ley de Etiquetado Frontal
+P28	Etiquetado frontal		En los comercios donde suele hacer las compras, ¿ha visto alimentos y/o bebidas con los sellos del Etiquetado Frontal? 	Existencia de productos con los sellos de Etiquetado Frontal en lugar de compras habitual
+P29	Etiquetado frontal		¿Considera que la Ley de Etiquetado Frontal lo ayuda a cuidar su salud?	Opinión sobre la Ley de Etiquetado Frontal en relación al cuidado de la salud propia
+P30	Etiquetado frontal		¿Está usted de acuerdo con la Ley de Etiquetado Frontal?	Opinión sobre la Ley de Etiquetado Frontal
+P31	Salud alimentaria		Tiene usted problemas de salud relacionados con la alimentación y el peso: 	Problemas de salud relacionados al peso
+P32	Salud alimentaria		Tiene usted enfermedades relacionadas con la alimentación:	Problemas de salud relacionados a la alimentación
+P33	Cotidianidad 		Durante el último mes, con qué frecuencia comió fuera de casa, en restaurantes o establecimientos similares.	Frecuencia de alimentación en establecimientos gastronómicos
+P34	Cotidianidad 		Durante el último mes, con qué frecuencia pidió comida a domicilio.	Frecuencia de pedido de comida a domicilio
+P35	Cotidianidad 		Durante el último mes, con qué frecuencia cocinó su propia comida en casa.	Frecuencia de elaboración propia de la comida
+P36	Cotidianidad 		Cuántas comidas hace al día.	Cantidad de comidas realizadas en un día
+P37	Sobre hábitos de compra y planificación de comidas		¿Qué factores considera al elegir los alimentos que compras?	Consideración respecto al precio y calidad al comprar alimentos
+P38	Sobre hábitos de compra y planificación de comidas		¿Cuántas veces a la semana realiza compras de alimentos?	Frecuencia de compra de alimentos
+P39	Sobre hábitos de compra y planificación de comidas		Al realizar las compras de alimentos, lo hace en:	Lugar de preferencia para realizar las compras de alimentos

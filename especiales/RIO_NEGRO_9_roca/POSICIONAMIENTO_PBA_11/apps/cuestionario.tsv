@@ -1,0 +1,37 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P06	Preferencias electorales 	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en elecciones Presidenciales
+P07	Preferencias electorales 	politica	¿A cuál de los siguientes dirigentes Unión por la Patria y el peronismo preferiría ud. votar? (Solo para quienes tienen intención de votar al Frente de Todos)	Intención de voto para Presidente dentro de los votantes del Frente de Todos
+P08	Preferencias electorales 	politica	¿A cuál de los siguientes candidatos de Juntos por el cambio preferiría ud. votar? (Solo para quienes tienen intención de votar a Juntos por el cambio)	Intención de voto para Presidente dentro de los votantes del Juntos por el Cambio
+P09	Escenarios políticos	politica	Pensando en las próximas elecciones primarias (PASO) ¿A cuáles de los siguientes candidatos a Presidente y Gobernador de la Provincia de Buenos Aires preferiría votar?	Intención de voto a Presidente y Gobernador (PASO, escenario 1)
+P12	Escenarios políticos	politica	Y si los candidatos fueran los siguientes, ¿a quién votaría en las próximas elecciones primarias (PASO)?	Intención de voto a Presidente y Gobernador (PASO, escenario 2)
+P15	Escenarios políticos	politica	Si en cambio los candidatos para las PASO fueran estos, ¿a quién votaría?	Intención de voto a Presidente y Gobernador (PASO, escenario 3)
+P18	Escenarios políticos	politica	En caso que los candidatos para las PASO fueran los siguientes, ¿a quién preferiría votar?	Intención de voto a Presidente y Gobernador (PASO, escenario 4)
+P21	Escenarios políticos	politica	¿A quién votaría en las elecciones PASO si las candidaturas fueran las siguientes?	Intención de voto a Presidente y Gobernador (PASO, escenario 5)
+P24	Escenarios políticos	politica	Sí en las elecciones PASO las candidaturas fueran las siguientes, ¿a quien votaría?	Intención de voto a Presidente y Gobernador (PASO, escenario 6)
+P25	Escenarios políticos	politica	Si por el contrario los candidatos fueran estos, ¿a quien preferiría votar?	Intención de voto a Presidente y Gobernador (PASO, escenario 7)
+P26	Escenarios políticos	politica	Si los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 1)
+P27	Escenarios políticos	politica	Si los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 2)
+P28	Escenarios políticos	politica	En cambio si los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 3)
+P29	Escenarios políticos	politica	En cambio si los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 4)
+P30	Escenarios políticos	politica	Y si los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 5)
+P31	Escenarios políticos	politica	Y si los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 6)
+P32	Escenarios políticos	politica	En caso que los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 7)
+P33	Escenarios políticos	politica	En caso que los candidatos en las elecciones de primera vuelta a Presidente y generales a Gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto a Presidente y Gobernador (Elecciones unificadas, escenario 8)
+P34	Escenarios políticos	politica	Si los candidatos a gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Gobernador (Elecciones desdobladas, escenario 1)
+P35	Escenarios políticos	politica	En caso de que los candidatos a gobernador  fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Gobernador (Elecciones desdobladas, escenario 2)
+P36	Escenarios políticos	politica	Si en cambio los candidatos a gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Gobernador (Elecciones desdobladas, escenario 3)
+P37	Escenarios políticos	politica	Y si los candidatos a gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Gobernador (Elecciones desdobladas, escenario 4)
+P38	Escenarios políticos	politica	Ahora si los candidatos a gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Gobernador (Elecciones desdobladas, escenario 5)
+P39	Escenarios políticos	politica	Finalmente, si los candidatos a gobernador fueran los siguientes ¿A cúal preferiría votar?	Intención de voto por candidatos a Gobernador (Elecciones desdobladas, escenario 6)
+P40	Reach de intención de voto	votaria	Si Axel Kicillof  fuese candidato a Gobernador de la provincia ud...	Intención de voto por Axel Kicillof para Gobernador
+P41	Reach de intención de voto	votaria	Si Victoria Tolosa Paz   fuese candidata a Gobernadora de la provincia ud...	Intención de voto por Victoria Tolosa Paz para Gobernadora
+P42	Reach de intención de voto	votaria	Si Nestor Grindetti  fuese candidato a Gobernador de la provincia ud...	Intención de voto por Nestor Grindetti para Gobernador
+P43	Reach de intención de voto	votaria	Si Diego Santilli  fuese candidato a Gobernador de la provincia ud...	Intención de voto por Diego Santilli para Gobernador
+P44	Reach de intención de voto	votaria	Si Guillermo Britos fuese candidato a Gobernador de la provincia, ud...	Intención de voto por Guillermo Britos para Gobernador
+P45	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof ? 	Imagen de Axel Kicillof
+P46	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Tolosa Paz?	Imagen de Victoria Tolosa Paz
+P47	Imagen de dirigentes	imagen	¿Qué imagen tiene de Nestor Grindetti?	Imagen de Nestor Grindetti
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Diego Santilli?	Imagen de Diego Santilli
+P49	Imagen de dirigentes	imagen	¿Qué imagen tiene de Guillermo Britos?	Imagen de Guillermo Britos
+P50	control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas
+P51	control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	

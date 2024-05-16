@@ -1,0 +1,199 @@
+"var","categoria","Lo votaria","Puede que lo vote","Nunca lo votaría","No sabe"
+"P07","Al candidato del Frente de Todos",0.417,0.425,0.507,0.456
+"P07","Al candidato de Juntos por el Cambio",0.434,0.391,0.161,0.171
+"P07","Al candidato de los liberales - libertarios",0.081,0.156,0.171,0.156
+"P07","Al candidato de Consenso Federal",0.045,0,0.001,0.002
+"P07","Al candidato de la Izquierda",0,0,0.013,0
+"P07","A otro candidato",0.018,0.018,0.106,0.021
+"P07","No sabe",0.005,0.01,0.041,0.194
+"P08","A Ariel Sujarchuk por el Frente de Todos",0.508,0.484,0.595,0.53
+"P08","A Roberto Costa por Juntos por el cambio",0.248,0.348,0.096,0.118
+"P08","A Mariano Castagnaro por Juntos por el Cambio",0.21,0.063,0.016,0.081
+"P08","A Jesica Avejera por Juntos por el Cambio",0.027,0.027,0.023,0.058
+"P08","A Ricardo Choffi por  Consenso Federal",0,0,0.007,0.019
+"P08","A Griselda Romariz por los liberales libertarios",0,0.034,0.137,0.111
+"P08","A Sandro Salazar por el Frente de Izquierda",0,0.01,0.004,0.006
+"P08","No sabe",0.007,0.034,0.122,0.077
+"P09","A Carlos “Beto” Ramil por el Frente de Todos",0.351,0.304,0.462,0.315
+"P09","A Roberto Costa por Juntos por el cambio",0.211,0.38,0.135,0.144
+"P09","A Mariano Castagnaro por Juntos por el Cambio",0.249,0.103,0.027,0.077
+"P09","A Jesica Avejera por Juntos por el Cambio",0.054,0.044,0.019,0.021
+"P09","A Ricardo Choffi por Consenso Federal",0.053,0.005,0.014,0.019
+"P09","A Griselda Romariz por los liberales libertarios",0.045,0.032,0.184,0.164
+"P09","A Sandro Salazar por el Frente de Izquierda",0.009,0.004,0.009,0
+"P09","No sabe",0.028,0.128,0.15,0.26
+"P10","A Ariel Sujarchuk por el Frente de Todos",0.463,0.475,0.561,0.532
+"P10","A Roberto Costa por Juntos por el Cambio",0.33,0.366,0.142,0.205
+"P10","A Ricardo Choffi por Consenso Federal",0.029,0.06,0.014,0.045
+"P10","A Griselda Romariz por los liberales libertarios",0.032,0.044,0.128,0.054
+"P10","A Sandro Salazar por el Frente de Izquierda",0.066,0,0.01,0
+"P10","No sabe",0.08,0.055,0.145,0.164
+"P12","A  Carlos “Beto” Ramil por el Frente de Todos",0.498,0.349,0.465,0.425
+"P12","A Roberto Costa por Juntos por el Cambio",0.39,0.429,0.128,0.144
+"P12","A Ricardo Choffi por Consenso Federal",0.007,0.021,0.013,0.017
+"P12","A Griselda Romariz por los liberales libertarios",0.034,0.08,0.178,0.186
+"P12","A Sandro Salazar por el Frente de Izquierda",0.008,0.009,0.013,0
+"P12","No sabe",0.063,0.112,0.203,0.228
+"P13","A Carlos “Beto” Ramil por el Frente de Todos",0.468,0.279,0.468,0.393
+"P13","A Mariano Castagnaro por Juntos por el Cambio",0.435,0.477,0.109,0.096
+"P13","A Ricardo Choffi por Consenso Federal",0.057,0.022,0.014,0.038
+"P13","A Griselda Romariz por los liberales libertarios",0.008,0.076,0.181,0.192
+"P13","A Sandro Salazar por el Frente de Izquierda",0.003,0.009,0.011,0.016
+"P13","No sabe",0.029,0.137,0.217,0.265
+"P14","Lo votaria",0.524,0.423,0.519,0.487
+"P14","Puede que lo vote",0.128,0.22,0.112,0.06
+"P14","Nunca lo votaría",0.34,0.302,0.344,0.246
+"P14","No sabe",0.008,0.055,0.025,0.207
+"P15","Lo votaria",0.494,0.295,0.16,0.161
+"P15","Puede que lo vote",0.232,0.45,0.085,0.097
+"P15","Nunca lo votaría",0.233,0.201,0.699,0.356
+"P15","No sabe",0.041,0.054,0.056,0.386
+"P17","Lo votaria",0.377,0.231,0.263,0.129
+"P17","Puede que lo vote",0.04,0.265,0.177,0.125
+"P17","Nunca lo votaría",0.452,0.4,0.488,0.251
+"P17","No sabe",0.131,0.104,0.072,0.495
+"P18","Lo votaria",0.33,0.058,0.066,0.004
+"P18","Puede que lo vote",0.047,0.242,0.1,0.085
+"P18","Nunca lo votaría",0.452,0.427,0.775,0.307
+"P18","No sabe",0.171,0.273,0.059,0.604
+"P19","Lo votaria",0.294,0.064,0.105,0.159
+"P19","Puede que lo vote",0.163,0.29,0.081,0.057
+"P19","Nunca lo votaría",0.419,0.393,0.708,0.152
+"P19","No sabe",0.124,0.253,0.106,0.632
+"P20","Lo votaria",0.183,0.069,0.079,0.084
+"P20","Puede que lo vote",0.06,0.364,0.134,0.076
+"P20","Nunca lo votaría",0.564,0.325,0.688,0.184
+"P20","No sabe",0.193,0.242,0.099,0.656
+"P21","Muy buena",0.42,0.278,0.284,0.417
+"P21","Buena",0.124,0.205,0.176,0.133
+"P21","Ni buena ni mala",0.265,0.31,0.287,0.127
+"P21","Mala",0.069,0.082,0.111,0.203
+"P21","Muy mala",0.122,0.125,0.123,0.088
+"P21","No sabe",0,0,0.019,0.032
+"P22","Que continúe el intendente Ariel Sujarchuk",0.404,0.36,0.316,0.385
+"P22","Que continúe Ariel Sujarchuk  pero con mejoras",0.141,0.19,0.2,0.23
+"P22","Que cambie Ariel Sujarchuk pero que se mantengan los avances",0.089,0.164,0.163,0.054
+"P22","Que cambie el intendente Ariel Sujarchuk",0.366,0.286,0.321,0.331
+"P23","La seguridad",0.225,0.059,0.034,0.076
+"P23","El tránsito",0.05,0.113,0.036,0.01
+"P23","El arreglo de las calles",0.284,0.226,0.335,0.162
+"P23","Los parques y los espacios públicos",0.104,0.177,0.138,0.22
+"P23","El sistema de salud",0.041,0.081,0.058,0.192
+"P23","La limpieza de las calles",0.026,0.038,0.034,0.028
+"P23","El deporte y la cultura",0.026,0.082,0.176,0.047
+"P23","La luminaria",0.003,0.051,0.053,0.075
+"P23","No sabe",0.241,0.173,0.136,0.19
+"P24","La seguridad",0.481,0.422,0.319,0.276
+"P24","El tránsito",0.125,0.177,0.169,0.185
+"P24","El arreglo de las calles",0.092,0.157,0.168,0.146
+"P24","Los parques y los espacios públicos",0.109,0.041,0.006,0.078
+"P24","El sistema de salud",0.077,0.102,0.086,0.212
+"P24","La limpieza de las calles",0.037,0.03,0.04,0.016
+"P24","El deporte y la cultura",0.006,0.021,0.048,0.004
+"P24","La luminaria",0,0.017,0.051,0.006
+"P24","No sabe",0.073,0.033,0.113,0.077
+"P25","Agua corriente y cloacas",0.547,0.575,0.591,0.429
+"P25","Energía eléctrica",0.294,0.154,0.146,0.111
+"P25","Red de gas natural",0.064,0.041,0.093,0.071
+"P25","Recolección de residuos",0.03,0.12,0.079,0.252
+"P25","Ninguno",0.065,0.11,0.091,0.137
+"P26","Los robos",0.627,0.432,0.508,0.43
+"P26","El narcotráfico",0.182,0.19,0.091,0.179
+"P26","La ausencia de patrulleros y personal policial",0.118,0.277,0.238,0.193
+"P26","Otro",0.06,0.083,0.104,0.184
+"P26","Ninguno",0.013,0.018,0.059,0.014
+"P27","Muy buena",0.455,0.215,0.317,0.298
+"P27","Buena",0.069,0.267,0.162,0.222
+"P27","Ni buena ni mala",0.252,0.308,0.285,0.153
+"P27","Mala",0.094,0.088,0.077,0.175
+"P27","Muy mala",0.117,0.107,0.135,0.119
+"P27","No sabe",0.013,0.015,0.024,0.033
+"P28","Muy buena",0.164,0.073,0.038,0.07
+"P28","Buena",0.142,0.236,0.112,0.101
+"P28","Ni buena ni mala",0.459,0.436,0.308,0.386
+"P28","Mala",0.048,0.123,0.181,0.248
+"P28","Muy mala",0.045,0.106,0.266,0.065
+"P28","No sabe",0.142,0.026,0.095,0.13
+"P29","Muy buena",0.333,0.01,0,0.055
+"P29","Buena",0.176,0.156,0.039,0.016
+"P29","Ni buena ni mala",0.291,0.657,0.39,0.456
+"P29","Mala",0.006,0.094,0.12,0.011
+"P29","Muy mala",0.005,0.025,0.279,0.071
+"P29","No sabe",0.189,0.058,0.172,0.391
+"P30","Muy buena",0.125,0.018,0.007,0
+"P30","Buena",0.042,0.069,0.024,0.026
+"P30","Ni buena ni mala",0.316,0.638,0.372,0.502
+"P30","Mala",0.014,0.078,0.136,0.006
+"P30","Muy mala",0.006,0.006,0.201,0.072
+"P30","No sabe",0.497,0.191,0.26,0.394
+"P31","Muy buena",0.157,0.041,0.001,0.159
+"P31","Buena",0.049,0.144,0.017,0.09
+"P31","Ni buena ni mala",0.379,0.608,0.33,0.317
+"P31","Mala",0.02,0.078,0.177,0.061
+"P31","Muy mala",0.012,0.004,0.198,0.018
+"P31","No sabe",0.383,0.125,0.277,0.355
+"P32","Muy buena",0.1,0.063,0.148,0.002
+"P32","Buena",0.024,0.199,0.096,0.083
+"P32","Ni buena ni mala",0.406,0.453,0.236,0.428
+"P32","Mala",0.046,0.128,0.133,0.013
+"P32","Muy mala",0.032,0.018,0.145,0.127
+"P32","No sabe",0.392,0.139,0.242,0.347
+"P33","Muy buena",0.095,0.025,0.041,0.132
+"P33","Buena",0.02,0.137,0.054,0.073
+"P33","Ni buena ni mala",0.359,0.597,0.331,0.362
+"P33","Mala",0.014,0.086,0.092,0.02
+"P33","Muy mala",0.014,0.007,0.234,0.018
+"P33","No sabe",0.498,0.148,0.248,0.395
+"P34","Muy buena",0.14,0.086,0.029,0.136
+"P34","Buena",0.165,0.253,0.058,0.023
+"P34","Ni buena ni mala",0.345,0.559,0.315,0.45
+"P34","Mala",0.077,0.045,0.173,0.132
+"P34","Muy mala",0.014,0.027,0.296,0.044
+"P34","No sabe",0.259,0.03,0.129,0.215
+"P35","Frente de Todos y el peronismo",0.091,0.228,0.447,0.329
+"P35","Cambiemos",0.46,0.416,0.146,0.232
+"P35","Liberales Libertarios",0.369,0.196,0.177,0.32
+"P35","Izquierda",0.022,0,0.088,0.005
+"P35","No sabe",0.058,0.16,0.142,0.114
+"P41","Muy buena",0.28,0.027,0.091,0.115
+"P41","Buena",0.021,0.191,0.183,0.173
+"P41","Ni buena ni mala",0.179,0.191,0.109,0.315
+"P41","Mala",0.164,0.173,0.27,0.069
+"P41","Muy mala",0.356,0.41,0.344,0.32
+"P41","No sabe",0,0.008,0.003,0.008
+"P42","Muy buena",0.331,0.13,0.042,0.171
+"P42","Buena",0.118,0.253,0.139,0.084
+"P42","Ni buena ni mala",0.254,0.272,0.183,0.22
+"P42","Mala",0.058,0.237,0.111,0.352
+"P42","Muy mala",0.111,0.108,0.523,0.164
+"P42","No sabe",0.128,0,0.002,0.009
+"P43","Muy buena",0.443,0.166,0.321,0.378
+"P43","Buena",0.015,0.071,0.078,0.132
+"P43","Ni buena ni mala",0.027,0.224,0.097,0.039
+"P43","Mala",0.034,0.17,0.051,0.117
+"P43","Muy mala",0.481,0.352,0.441,0.295
+"P43","No sabe",0,0.017,0.012,0.039
+"P44","Muy buena",0.171,0.088,0.151,0.114
+"P44","Buena",0.207,0.305,0.052,0.072
+"P44","Ni buena ni mala",0.337,0.183,0.208,0.252
+"P44","Mala",0.006,0.315,0.186,0.203
+"P44","Muy mala",0.112,0.09,0.389,0.301
+"P44","No sabe",0.167,0.019,0.014,0.058
+"P45","Muy buena",0.108,0.033,0.061,0.209
+"P45","Buena",0.057,0.365,0.275,0.358
+"P45","Ni buena ni mala",0.231,0.116,0.203,0.071
+"P45","Mala",0.108,0.264,0.132,0.187
+"P45","Muy mala",0.343,0.209,0.314,0.164
+"P45","No sabe",0.153,0.013,0.015,0.011
+"P46","Muy buena",0.423,0.261,0.103,0.254
+"P46","Buena",0.083,0.136,0.185,0.106
+"P46","Ni buena ni mala",0.259,0.243,0.21,0.193
+"P46","Mala",0.038,0.257,0.134,0.153
+"P46","Muy mala",0.029,0.094,0.352,0.238
+"P46","No sabe",0.168,0.009,0.016,0.056
+"P47","Muy buena",0.19,0.186,0.153,0.409
+"P47","Buena",0.148,0.161,0.029,0.127
+"P47","Ni buena ni mala",0.339,0.227,0.198,0.08
+"P47","Mala",0.035,0.156,0.105,0.107
+"P47","Muy mala",0.101,0.27,0.448,0.228
+"P47","No sabe",0.187,0,0.067,0.049

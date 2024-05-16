@@ -1,0 +1,169 @@
+"var","categoria","Tiene Decidido que va a ir a votar.","Tiene dudas sobre si va a ir a  votar","Tiene Decidido que no va a ir a votar"
+"P06","Mucho",0.503,0.227,0.244
+"P06","Bastante",0.299,0.431,0.011
+"P06","Poco",0.14,0.143,0.406
+"P06","Nada",0.042,0.173,0.241
+"P06","No sabe",0.016,0.026,0.098
+"P07","Siempre",0.243,0.21,0.285
+"P07","Casi siempre",0.29,0.329,0.072
+"P07","Casi nunca",0.301,0.277,0.307
+"P07","Nunca, pero esta es una excepción",0.166,0.184,0.336
+"P11","Sergio Massa a Presidente, Agustín Rossi a Vicepresidente y Pablo Todero a Diputado Nacional por Unión por la Patria",0.382,0.16,0.11
+"P11","Patricia Bullrich a Presidente, Luis Petri a Vicepresidente y Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0.183,0.138,0.243
+"P11","Javier Milei a Presidente, Victoria Villarruel a Vicepresidente por la Libertad Avanza y Nadia Marquez a Diputada Nacional por Arriba Neuquén",0.292,0.303,0.166
+"P11","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0.024,0,0
+"P11","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente y Patricia Jure a Diputada Nacional por el Frente de Izquierda",0.067,0.178,0.144
+"P11","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente",0.024,0,0.04
+"P11","En blanco",0.008,0.067,0.085
+"P11","No sabe",0.02,0.154,0.212
+"P14","Totalmente seguro.",0.746,0.449,0.947
+"P14","Bastante seguro",0.092,0.177,0
+"P14","Algo seguro",0.098,0.096,0
+"P14","Para nada seguro",0.064,0.278,0.053
+"P18","Si",0.495,0.298,0.384
+"P18","No",0.505,0.702,0.616
+"P19","Pablo Todero a Diputado Nacional por Unión por la Patria",0.184,0.165,0.457
+"P19","Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0.144,0.154,0.131
+"P19","Nadia Márquez a Diputada Nacional por Arriba Neuquén",0.161,0.185,0.305
+"P19","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0.234,0.256,0
+"P19","Patricia Jure a Diputada Nacional por el Frente de Izquierda",0.101,0.063,0
+"P19","En blanco",0.074,0.016,0.107
+"P19","No sabe",0.102,0.161,0
+"P22","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.427,0.311,0.578
+"P22","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.18,0.221,0.079
+"P22","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.248,0.185,0.018
+"P22","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.051,0.045,0.212
+"P22","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.045,0.05,0
+"P22","No sabe",0.049,0.188,0.113
+"P23","No estaba enterado del tema",0.17,0.135,0.549
+"P23","Un tema de la vida privada de él",0.164,0.321,0.065
+"P23","Un hecho vergonzoso de exclusiva responsabilidad de él",0.328,0.248,0
+"P23","Un hecho vergonzoso del cual también es responsable el gobernador Kicillof",0.092,0.031,0.32
+"P23","Un hecho vergonzoso que muestran como son los dirigentes que apoyan a Sergio Massa",0.218,0.205,0.033
+"P23","No sabe",0.028,0.06,0.033
+"P24","Ha aumentado significativamente",0.135,0.146,0.207
+"P24","Ha aumentado ligeramente",0.221,0.173,0.083
+"P24","Se mantiene igual",0.298,0.256,0.227
+"P24","Ha disminuido ligeramente",0.157,0.162,0.118
+"P24","Ha disminuido significativamente",0.189,0.263,0.365
+"P25","No, ninguna dificultad",0.407,0.32,0.264
+"P25","Alguna dificultad ocasional",0.327,0.277,0.164
+"P25","Sí, dificultades frecuentes",0.266,0.403,0.572
+"P26","Sí, absolutamente",0.53,0.48,0.64
+"P26","Sí, en cierta medida",0.276,0.303,0.21
+"P26","No, en absoluto",0.194,0.217,0.15
+"P27","Reducir la inflación",0.458,0.498,0.547
+"P27","Implementar reformas fiscales",0.1,0.16,0.238
+"P27","Establecer políticas de control de precios",0.155,0.083,0.041
+"P27","Reducir el gasto público",0.231,0.189,0.174
+"P27","Estimular la inversión extranjera",0.045,0.067,0
+"P27","Aumentar los subsidios a los servicios públicos",0.011,0.003,0
+"P28","Muy positiva",0.269,0.217,0.309
+"P28","Positiva",0.21,0.314,0.242
+"P28","Neutral",0.277,0.253,0.077
+"P28","Algo negativa",0.061,0.065,0.13
+"P28","Negativa",0.086,0.132,0.242
+"P28","No sabe",0.097,0.019,0
+"P29","Muy positiva",0.413,0.196,0.353
+"P29","Positiva",0.205,0.297,0.231
+"P29","Neutral",0.181,0.294,0.231
+"P29","Algo negativa",0.059,0.076,0.14
+"P29","Negativa",0.112,0.112,0.045
+"P29","No sabe",0.03,0.025,0
+"P30","Muy positiva",0.292,0.193,0.317
+"P30","Positiva",0.227,0.249,0.139
+"P30","Neutral",0.233,0.157,0.29
+"P30","Algo negativa",0.081,0.138,0
+"P30","Negativa",0.111,0.18,0.193
+"P30","No sabe",0.056,0.083,0.061
+"P31","Muy positiva",0.529,0.335,0.378
+"P31","Positiva",0.167,0.174,0.079
+"P31","Neutral",0.14,0.064,0.292
+"P31","Algo negativa",0.064,0.271,0.251
+"P31","Negativa",0.086,0.086,0
+"P31","No sabe",0.014,0.07,0
+"P32","Muy positiva",0.473,0.414,0.378
+"P32","Positiva",0.204,0.207,0.078
+"P32","Neutral",0.143,0.049,0.544
+"P32","Algo negativa",0.064,0.112,0
+"P32","Negativa",0.069,0.102,0
+"P32","No sabe",0.047,0.116,0
+"P33","Muy buena",0.184,0.144,0.29
+"P33","Buena",0.236,0.309,0.138
+"P33","Ni buena ni mala",0.39,0.232,0.512
+"P33","Mala",0.105,0.109,0.06
+"P33","Muy mala",0.068,0.147,0
+"P33","No sabe",0.017,0.059,0
+"P34","Muy buena",0.11,0.208,0.291
+"P34","Buena",0.242,0.215,0.078
+"P34","Ni buena ni mala",0.326,0.224,0.087
+"P34","Mala",0.169,0.118,0.291
+"P34","Muy mala",0.139,0.235,0.194
+"P34","No sabe",0.014,0,0.059
+"P35","Muy buena",0.063,0.141,0.29
+"P35","Buena",0.128,0.18,0.079
+"P35","Ni buena ni mala",0.305,0.184,0.088
+"P35","Mala",0.255,0.32,0.29
+"P35","Muy mala",0.239,0.175,0.193
+"P35","No sabe",0.01,0,0.06
+"P36","Muy buena",0.092,0.202,0.349
+"P36","Buena",0.178,0.217,0.08
+"P36","Ni buena ni mala",0.354,0.222,0.028
+"P36","Mala",0.197,0.037,0.29
+"P36","Muy mala",0.152,0.307,0.193
+"P36","No sabe",0.027,0.015,0.06
+"P37","Muy buena",0.038,0.083,0.317
+"P37","Buena",0.058,0.194,0.08
+"P37","Ni buena ni mala",0.332,0.187,0.348
+"P37","Mala",0.249,0.327,0
+"P37","Muy mala",0.282,0.135,0.196
+"P37","No sabe",0.041,0.074,0.059
+"P38","Muy buena",0.061,0.097,0.317
+"P38","Buena",0.061,0.098,0.08
+"P38","Ni buena ni mala",0.352,0.37,0.289
+"P38","Mala",0.223,0.129,0.059
+"P38","Muy mala",0.245,0.232,0.196
+"P38","No sabe",0.058,0.074,0.059
+"P39","Si",0.349,0.288,0.313
+"P39","No",0.651,0.712,0.687
+"PRESIDENTE","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria. ",0.387,0.16,0.11
+"PRESIDENTE","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.195,0.138,0.243
+"PRESIDENTE","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.295,0.303,0.166
+"PRESIDENTE","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0.067,0.178,0.144
+"PRESIDENTE","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.024,0,0.04
+"PRESIDENTE","En blanco",0.01,0.067,0.085
+"PRESIDENTE","No sabe",0.022,0.154,0.212
+"DIPUTADOS","Pablo Todero a Diputado Nacional por Unión por la Patria",0.287,0.141,0.218
+"DIPUTADOS","Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0.167,0.15,0.161
+"DIPUTADOS","Nadia Márquez a Diputada Nacional por Arriba Neuquén",0.238,0.332,0.318
+"DIPUTADOS","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0.136,0.059,0
+"DIPUTADOS","Patricia Jure a Diputada Nacional por el Frente de Izquierda",0.077,0.192,0.199
+"DIPUTADOS","En blanco",0.043,0.017,0.104
+"DIPUTADOS","No sabe",0.052,0.109,0
+"CORTA_DIPUTADOS","Si",0.343,0.183,0.348
+"CORTA_DIPUTADOS","No",0.657,0.817,0.652
+"P11_imputada","Sergio Massa a Presidente, Agustín Rossi a Vicepresidente y Pablo Todero a Diputado Nacional por Unión por la Patria",0.392,0.22,0.11
+"P11_imputada","Patricia Bullrich a Presidente, Luis Petri a Vicepresidente y Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0.185,0.142,0.388
+"P11_imputada","Javier Milei a Presidente, Victoria Villarruel a Vicepresidente por la Libertad Avanza y Nadia Marquez a Diputada Nacional por Arriba Neuquén",0.298,0.352,0.229
+"P11_imputada","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0.024,0,0
+"P11_imputada","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente y Patricia Jure a Diputada Nacional por el Frente de Izquierda",0.068,0.219,0.148
+"P11_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente",0.024,0,0.04
+"P11_imputada","En blanco",0.009,0.067,0.085
+"P19_imputada","Pablo Todero a Diputado Nacional por Unión por la Patria",0.209,0.165,0.457
+"P19_imputada","Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0.164,0.191,0.131
+"P19_imputada","Nadia Márquez a Diputada Nacional por Arriba Neuquén",0.194,0.239,0.305
+"P19_imputada","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0.247,0.31,0
+"P19_imputada","Patricia Jure a Diputada Nacional por el Frente de Izquierda",0.109,0.079,0
+"P19_imputada","En blanco",0.077,0.016,0.107
+"PRESIDENTE_imputada","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria. ",0.398,0.22,0.111
+"PRESIDENTE_imputada","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.196,0.142,0.387
+"PRESIDENTE_imputada","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.301,0.352,0.229
+"PRESIDENTE_imputada","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0.069,0.219,0.148
+"PRESIDENTE_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.025,0,0.04
+"PRESIDENTE_imputada","En blanco",0.011,0.067,0.085
+"DIPUTADOS_imputada","Pablo Todero a Diputado Nacional por Unión por la Patria",0.3,0.15,0.218
+"DIPUTADOS_imputada","Francisco Sánchez a Diputado Nacional por Juntos por el Cambio",0.175,0.17,0.161
+"DIPUTADOS_imputada","Nadia Márquez a Diputada Nacional por Arriba Neuquén",0.256,0.346,0.318
+"DIPUTADOS_imputada","Sandro Badilla a diputado nacional por el movimiento popular neuquino",0.141,0.073,0
+"DIPUTADOS_imputada","Patricia Jure a Diputada Nacional por el Frente de Izquierda",0.082,0.244,0.199
+"DIPUTADOS_imputada","En blanco",0.046,0.017,0.104

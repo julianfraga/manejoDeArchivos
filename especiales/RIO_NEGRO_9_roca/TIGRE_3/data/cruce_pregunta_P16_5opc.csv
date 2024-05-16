@@ -1,0 +1,60 @@
+"var","categoria","Muy buena","Buena","Ni buena ni mala","Mala","Muy mala","No sabe"
+"P06","A Santilli y Manes por Juntos",0.084,0.009,0.123,0.425,0.745,0.175
+"P06","A Tolosa Paz por el Frente de Todos",0.827,0.93,0.288,0.183,0.009,0.018
+"P06","A del Caño por el Frente de Izquierda",0.005,0.017,0.051,0.139,0.022,0
+"P06","A Espert por Avanza libertad",0.018,0,0.043,0.136,0.128,0.056
+"P06","A Randazzo ""Vamos con vos""",0.019,0.022,0.121,0.049,0.025,0.278
+"P06","Votaría en blanco o anularía",0.047,0.022,0.374,0.068,0.071,0.473
+"P08","A Segundo cernadas por Juntos",0.066,0.034,0.179,0.438,0.677,0.154
+"P08","A Gisela Zamora por el frente de todos",0.867,0.866,0.456,0.259,0.068,0.233
+"P08","A Juan José Cervetto por avanza libertad",0.013,0,0.02,0.029,0.105,0.095
+"P08","A Paula Yamila Akerfeld por el Frente de Izquierda",0.02,0.042,0.032,0.138,0.019,0
+"P08","A Matias Orfo por Vamos con vos",0.006,0.009,0.008,0,0.012,0
+"P08","A Nicolás Viera Dutra por el Partido Unión Celeste y Blanco",0.014,0.028,0.029,0.013,0.038,0.045
+"P08","En blanco o anularía",0.014,0.021,0.276,0.123,0.081,0.473
+"P10","Victoria Tolosa Paz por el frente de todos",0.761,0.724,0.416,0.284,0.036,0.039
+"P10","Santilli dentro de la interna de Juntos",0.094,0.073,0.092,0.238,0.487,0.154
+"P10","Manes dentro de la interna de juntos",0.037,0,0.011,0.197,0.167,0
+"P10","Espert por avanza libertad",0.027,0.014,0.053,0.076,0.11,0
+"P10","A los candidatos de la izquierda",0.002,0.02,0.029,0.022,0.002,0
+"P10","Randazzo por Vamos con vos",0.017,0,0.094,0.047,0.045,0.278
+"P10","Otra lista",0.028,0,0.09,0.088,0.05,0.056
+"P10","Votó en blanco o anuló",0.008,0.057,0.114,0.036,0.049,0.429
+"P10","No fue a votar",0.026,0.112,0.101,0.012,0.054,0.044
+"P12","Gisela Zamora por el frente de todos",0.782,0.743,0.367,0.359,0.053,0.278
+"P12","Segundo cernadas dentro de la interna Juntos",0.061,0.075,0.126,0.329,0.492,0.154
+"P12","Nicolas Massot dentro de la interna por juntos",0,0.023,0.019,0.064,0.155,0
+"P12","A los candidatos de avanza libertad",0.025,0.009,0.026,0.016,0.093,0.095
+"P12","A los candidatos de vamos con vos",0.005,0,0.058,0,0.031,0
+"P12","A los candidatos de la izquierda",0.037,0.02,0.048,0.094,0.035,0
+"P12","A los candidatos de unión celeste y blanco",0.039,0,0.018,0,0.011,0
+"P12","Otra lista",0.012,0.008,0.076,0.018,0.048,0
+"P12","Votó en blanco o anuló",0.005,0.02,0.218,0.078,0.036,0.429
+"P12","No fue a votar",0.034,0.102,0.044,0.042,0.046,0.044
+"P14","Si",0.901,0.752,0.686,0.818,0.925,0.255
+"P14","Puede ser",0.078,0.234,0.152,0.13,0.035,0.272
+"P14","No",0.021,0.014,0.162,0.052,0.04,0.473
+"P15","Muy buena",0.625,0.15,0.221,0.072,0.04,0
+"P15","Buena",0.241,0.711,0.157,0.133,0.01,0.045
+"P15","Ni buena ni mala",0.075,0.11,0.597,0.284,0.022,0.369
+"P15","Mala",0.045,0.022,0,0.421,0.15,0.039
+"P15","Muy mala",0.012,0.007,0.006,0.073,0.761,0
+"P15","No sabe",0.002,0,0.019,0.017,0.017,0.547
+"P17","Muy buena",0.4,0.211,0.164,0.06,0.004,0
+"P17","Buena",0.264,0.325,0.124,0.126,0.015,0.041
+"P17","Ni buena ni mala",0.181,0.291,0.604,0.258,0.064,0.425
+"P17","Mala",0.069,0.093,0.022,0.379,0.126,0
+"P17","Muy mala",0.063,0.052,0.029,0.155,0.786,0.073
+"P17","No sabe",0.023,0.028,0.057,0.022,0.005,0.461
+"P18","Muy buena",0.04,0,0.02,0.063,0.207,0.135
+"P18","Buena",0.032,0.028,0.08,0.159,0.171,0
+"P18","Ni buena ni mala",0.009,0.094,0.221,0.289,0.295,0.041
+"P18","Mala",0.122,0.185,0.218,0.198,0.16,0.294
+"P18","Muy mala",0.776,0.693,0.438,0.291,0.158,0.266
+"P18","No sabe",0.021,0,0.023,0,0.009,0.264
+"P19","Muy buena",0.037,0.014,0.047,0.265,0.445,0.211
+"P19","Buena",0.058,0.097,0.145,0.146,0.229,0.261
+"P19","Ni buena ni mala",0.148,0.185,0.508,0.237,0.171,0.054
+"P19","Mala",0.187,0.186,0.089,0.124,0.054,0
+"P19","Muy mala",0.52,0.468,0.189,0.21,0.093,0
+"P19","No sabe",0.05,0.05,0.022,0.018,0.008,0.474

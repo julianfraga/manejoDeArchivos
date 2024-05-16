@@ -1,0 +1,58 @@
+"var","categoria","Muy buena","Buena","Ni buena ni mala","Mala","Muy mala","No sabe"
+"P06","Julio Zamora",0.695,0.792,0.568,0.294,0.206,0.089
+"P06","Segundo Cernadas",0.06,0.022,0.048,0.235,0.425,0.251
+"P06","Otro candidato",0.134,0.067,0.114,0.216,0.196,0.141
+"P06","En blanco",0.038,0.065,0.126,0.109,0.088,0.015
+"P06","No sabe",0.073,0.054,0.144,0.146,0.085,0.504
+"P07","Victoria Tolosa Paz para diputada nacional y Gisela Zamora para concejal por el frente de todos",0.732,0.819,0.369,0.108,0.013,0
+"P07","Santilli para diputado nacional y Segundo cernadas para concejal por Juntos",0.07,0.028,0.164,0.293,0.532,0.472
+"P07","Manes para diputado nacional y Nicolas massot para concejal por juntos",0.027,0.039,0.054,0.135,0.128,0
+"P07","Espert para diputado nacional y Juan José Cervetto para concejal por avanza libertad",0,0,0.026,0.073,0.117,0.103
+"P07","Espert para diputado nacional y Martin Liserre Moreno para concejal por Republicanos unidos",0.014,0,0.05,0,0.049,0.023
+"P07","Randazzo para diputado nacional y Matias Orfo para concejal por Vamos con vos",0.001,0,0.052,0.066,0.013,0
+"P07","Randazzo para diputado nacional y Oscar Hurtado para concejal por vamos con vos",0.004,0.004,0.002,0.003,0.001,0
+"P07","Guillermo Moreno para diputado nacional y Andrés “Pichon” Flores para concejal por principios y valores",0.047,0.027,0.009,0.091,0.034,0
+"P07","A los candidatos de la izquierda",0.016,0.016,0.042,0.006,0.017,0
+"P07","En blanco o anularía",0.031,0.036,0.215,0.138,0.063,0.286
+"P07","Cortaría Boleta",0.058,0.031,0.017,0.087,0.033,0.116
+"P08","Victoria Tolosa Paz por el frente de todos",0.505,0.81,0.2,0.063,0.361,0
+"P08","Santilli dentro de la interna de Juntos",0,0,0.2,0.031,0.007,0
+"P08","Manes dentro de la interna de juntos",0,0.19,0.2,0.032,0.007,0
+"P08","Espert por avanza libertad",0,0,0,0,0.014,0
+"P08","Randazzo por Vamos con vos",0.174,0,0,0,0.014,0
+"P08","Guillermo Moreno por principios y valores",0.008,0,0.2,0,0,0.047
+"P08","A los candidatos de la izquierda",0,0,0,0.032,0.007,0.907
+"P08","En blanco o anularía",0.313,0,0.2,0.842,0.59,0.046
+"P09","Gisela Zamora por el frente de todos",0.689,0.97,0.4,0.21,0.361,0
+"P09","Segundo cernadas dentro de la interna Juntos",0,0,0.4,0,0.354,0
+"P09","Nicolas massot dentro de la interna por juntos",0,0,0,0.032,0.014,0
+"P09","Juan José Cervetto dentro de la interna de avanza libertad",0,0,0,0,0.007,0
+"P09","Martin Liserre Moreno por Republicanos unidos dentro de la interna de Avanza libertad",0.174,0,0.2,0,0,0
+"P09","Matias Orfo dentro de la interna de vamos con vos",0.008,0,0,0,0.007,0
+"P09","Oscar Hurtado dentro de la interna de vamos con vos",0,0,0,0.031,0,0.907
+"P09","Andrés “Pichon” Flores por principios y valores",0.008,0.015,0,0,0,0.047
+"P09","A los candidatos de la izquierda",0.016,0,0,0.032,0,0
+"P09","En blanco o anularía",0.105,0.015,0,0.695,0.257,0.046
+"P10","Si",0.843,0.863,0.622,0.561,0.806,0.315
+"P10","Puede ser",0.089,0.117,0.245,0.093,0.066,0.587
+"P10","No",0.068,0.02,0.133,0.346,0.128,0.098
+"P11","Si",0.916,0.82,0.691,0.767,0.865,0.293
+"P11","No",0.084,0.18,0.309,0.233,0.135,0.707
+"P13","Muy buena",0.824,0.435,0.081,0.004,0.024,0.188
+"P13","Buena",0.043,0.32,0.078,0.015,0.008,0
+"P13","Ni buena ni mala",0.051,0.176,0.36,0.073,0.012,0.075
+"P13","Mala",0.021,0.016,0.18,0.368,0.026,0
+"P13","Muy mala",0.041,0.017,0.184,0.54,0.927,0.119
+"P13","No sabe",0.02,0.036,0.117,0,0.003,0.618
+"P14","Muy buena",0.117,0.03,0.011,0.101,0.222,0.088
+"P14","Buena",0.021,0.007,0.039,0.064,0.198,0.059
+"P14","Ni buena ni mala",0.102,0.189,0.277,0.404,0.269,0.047
+"P14","Mala",0.123,0.22,0.211,0.167,0.113,0
+"P14","Muy mala",0.611,0.552,0.372,0.264,0.191,0.348
+"P14","No sabe",0.026,0.002,0.09,0,0.007,0.458
+"P15","Muy buena",0.095,0.015,0.117,0.215,0.435,0.186
+"P15","Buena",0.103,0.122,0.212,0.416,0.272,0.06
+"P15","Ni buena ni mala",0.151,0.263,0.309,0.163,0.157,0.2
+"P15","Mala",0.146,0.203,0.118,0.028,0.033,0.055
+"P15","Muy mala",0.459,0.309,0.133,0.157,0.094,0.03
+"P15","No sabe",0.046,0.088,0.111,0.021,0.009,0.469

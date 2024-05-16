@@ -1,0 +1,176 @@
+"var","categoria","A Horacio Rodriguez Larreta","A Patricia Bullrich","A Facundo Manes","A Gerardo Morales"
+"P05","Mucho",0.41,0.446,0.294,0.261
+"P05","Bastante",0.249,0.395,0.161,0.296
+"P05","Poco",0.291,0.129,0.436,0.337
+"P05","Nada",0.045,0.029,0.005,0.096
+"P05","No sabe",0.005,0.001,0.104,0.01
+"P06","Siempre",0.128,0.262,0.144,0.212
+"P06","Casi siempre",0.39,0.465,0.356,0.342
+"P06","Casi nunca",0.32,0.215,0.395,0.433
+"P06","Nunca, pero esta es una excepción",0.162,0.058,0.105,0.013
+"P11","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.148,0.019,0.368,0.145
+"P11","A Leonardo Grosso a intendente por Unión por la Patria",0.002,0.056,0.039,0.114
+"P11","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.23,0.771,0.191,0.247
+"P11","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.595,0.094,0.287,0.324
+"P11","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.009,0.038,0,0.098
+"P11","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.006,0.003,0,0
+"P11","En blanco",0,0.007,0.014,0
+"P11","No sabe",0.01,0.012,0.101,0.072
+"P13","Axel Kicillof a presidente, Sergio Massa a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.105,0.098,0.344,0.083
+"P13","A Leonardo Grosso a intendente por Unión por la Patria",0.036,0.028,0.021,0.253
+"P13","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.178,0.735,0.291,0.3
+"P13","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.667,0.086,0.243,0.286
+"P13","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.006,0.03,0.039,0.052
+"P13","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0,0.002,0,0
+"P13","En blanco",0,0.008,0.031,0
+"P13","No sabe",0.008,0.013,0.031,0.026
+"P15","Wado de Pedro a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.066,0.098,0.274,0.039
+"P15","A Leonardo Grosso a intendente por Unión por la Patria",0.116,0.033,0.005,0.013
+"P15","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.138,0.75,0.507,0.551
+"P15","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.667,0.054,0.167,0.282
+"P15","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0,0.047,0,0.069
+"P15","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0,0.003,0,0
+"P15","En blanco",0.003,0.004,0.033,0.017
+"P15","No sabe",0.01,0.011,0.014,0.029
+"P17","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.052,0.085,0.358,0.146
+"P17","Daniel Scioli a presidente, Victoria Tolosa Paz gobernadora y  Leonardo Grosso a intendente por Unión por la Patria",0.065,0.034,0.096,0.143
+"P17","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.19,0.764,0.234,0.387
+"P17","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.621,0.068,0.258,0.18
+"P17","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.013,0.023,0,0.101
+"P17","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0,0.009,0,0
+"P17","En blanco",0.03,0.003,0.035,0
+"P17","No sabe",0.029,0.014,0.019,0.043
+"P19","Axel Kicillof a presidente, Sergio Massa a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.101,0.072,0.213,0.093
+"P19","Daniel Scioli a presidente, Victoria Tolosa Paz gobernadora y  Leonardo Grosso a intendente por Unión por la Patria",0.104,0.019,0.024,0.087
+"P19","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.09,0.805,0.24,0.34
+"P19","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.607,0.066,0.382,0.333
+"P19","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.04,0.019,0.105,0.103
+"P19","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0,0.003,0,0.019
+"P19","En blanco",0.03,0.003,0.036,0
+"P19","No sabe",0.028,0.013,0,0.025
+"P21","Wado de Pedro a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.073,0.108,0.266,0.068
+"P21","Daniel Scioli a presidente, Victoria Tolosa Paz gobernadora y  Leonardo Grosso a intendente por Unión por la Patria",0.097,0.042,0.036,0.139
+"P21","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.129,0.728,0.384,0.218
+"P21","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.678,0.082,0.314,0.427
+"P21","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0,0.023,0,0.094
+"P21","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0,0.003,0,0
+"P21","En blanco",0,0.007,0,0
+"P21","No sabe",0.023,0.007,0,0.054
+"P22","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.096,0.039,0.541,0.065
+"P22","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.565,0.848,0.174,0.325
+"P22","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.224,0.089,0.153,0.217
+"P22","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.033,0,0,0
+"P22","En blanco",0.018,0.01,0,0
+"P22","No sabe",0.064,0.014,0.132,0.393
+"P23","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.076,0.063,0.706,0.17
+"P23","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.861,0.569,0.257,0.668
+"P23","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0,0.124,0,0.108
+"P23","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.016,0.002,0,0
+"P23","En blanco",0,0.074,0,0.022
+"P23","No sabe",0.047,0.168,0.037,0.032
+"P24","Axel Kicillof a presidente, Sergio Massa gobernador y Fernando Moreira a intendente por Unión por la Patria",0.045,0.062,0.522,0.166
+"P24","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.555,0.832,0.331,0.583
+"P24","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.133,0.064,0,0
+"P24","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.164,0,0,0.087
+"P24","En blanco",0.042,0.024,0.1,0
+"P24","No sabe",0.061,0.018,0.047,0.164
+"P25","Axel Kicillof a presidente, Sergio Massa gobernador y Fernando Moreira a intendente por Unión por la Patria",0.01,0.056,0.686,0.171
+"P25","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.636,0.578,0.27,0.573
+"P25","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.133,0.139,0.009,0.089
+"P25","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0,0,0,0
+"P25","En blanco",0.179,0.085,0,0.024
+"P25","No sabe",0.042,0.142,0.035,0.143
+"P26","Wado de Pedro a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.018,0.028,0.754,0.191
+"P26","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.769,0.862,0.208,0.565
+"P26","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.136,0.076,0,0.107
+"P26","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.049,0,0,0
+"P26","En blanco",0,0.017,0,0
+"P26","No sabe",0.028,0.017,0.038,0.137
+"P27","Wado de Pedro a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.072,0.01,0.643,0.06
+"P27","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.891,0.603,0.357,0.71
+"P27","Javier Milei a presidente, Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.005,0.166,0,0.136
+"P27","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.007,0.005,0,0
+"P27","En blanco",0.018,0.053,0,0.036
+"P27","No sabe",0.007,0.163,0,0.058
+"P28","Sergio Massa a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.061,0.032,0.435,0.084
+"P28","Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.766,0.869,0.565,0.47
+"P28","Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0,0.047,0,0.206
+"P28","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.026,0,0,0
+"P28","No sabe",0.147,0.052,0,0.24
+"P29","Sergio Massa a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.064,0.029,0.435,0.093
+"P29","Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.936,0.829,0.565,0.845
+"P29","Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0,0.058,0,0
+"P29","A los candidatos a gobernador y a intendente del Frente de Izquierda",0,0,0,0
+"P29","No sabe",0,0.084,0,0.062
+"P30","Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.063,0.009,0.704,0.089
+"P30","Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.891,0.88,0.296,0.627
+"P30","Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0.009,0.061,0,0.284
+"P30","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.028,0.009,0,0
+"P30","No sabe",0.009,0.041,0,0
+"P31","Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.12,0.012,0.595,0.089
+"P31","Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.88,0.822,0.405,0.624
+"P31","Guillermo Britos a gobernador y su candidato a intendente por la Libertad Avanza",0,0.103,0,0.225
+"P31","A los candidatos a gobernador y a intendente del Frente de Izquierda",0,0,0,0
+"P31","No sabe",0,0.063,0,0.062
+"P32","Lo votaría",0.3,0.081,0.46,0.276
+"P32","Puede que lo vote",0.243,0.232,0.118,0.308
+"P32","Nunca lo votaría",0.332,0.569,0.356,0.352
+"P32","No sabe",0.125,0.118,0.066,0.064
+"P33","Lo votaría",0.251,0.073,0.485,0
+"P33","Puede que lo vote",0.334,0.247,0.175,0.064
+"P33","Nunca lo votaría",0.27,0.505,0.303,0.936
+"P33","No sabe",0.145,0.175,0.037,0
+"P34","Lo votaría",0.302,0.482,0.125,0
+"P34","Puede que lo vote",0.461,0.194,0.33,0.352
+"P34","Nunca lo votaría",0.119,0.195,0.508,0.648
+"P34","No sabe",0.118,0.129,0.037,0
+"P35","Lo votaría",0.563,0.565,0.245,0.621
+"P35","Puede que lo vote",0.265,0.238,0.33,0.052
+"P35","Nunca lo votaría",0.107,0.124,0.425,0.327
+"P35","No sabe",0.065,0.073,0,0
+"P36","Lo votaría",0.221,0.033,0.485,0.09
+"P36","Puede que lo vote",0.151,0.215,0.152,0.289
+"P36","Nunca lo votaría",0.6,0.745,0.363,0.621
+"P36","No sabe",0.028,0.007,0,0
+"P37","La votaría",0.117,0.005,0.084,0.052
+"P37","Puede que la vote",0.199,0.219,0.493,0.289
+"P37","Nunca la votaría",0.592,0.744,0.423,0.659
+"P37","No sabe",0.092,0.032,0,0
+"P38","Lo votaría",0.406,0.538,0.215,0
+"P38","Puede que lo vote",0.31,0.154,0.079,0.503
+"P38","Nunca lo votaría",0.256,0.222,0.676,0.379
+"P38","No sabe",0.028,0.086,0.03,0.118
+"P39","Lo votaría",0.78,0.659,0.214,0.512
+"P39","Puede que lo vote",0.047,0.242,0.194,0.334
+"P39","Nunca lo votaría",0.145,0.077,0.592,0.154
+"P39","No sabe",0.028,0.022,0,0
+"P40","Lo votaría",0.099,0.176,0,0
+"P40","Puede que lo vote",0.418,0.328,0.663,0.064
+"P40","Nunca lo votaría",0.387,0.364,0.271,0.476
+"P40","No sabe",0.096,0.132,0.066,0.46
+"P41","Lo votaría",0.104,0.039,0.086,0.092
+"P41","Puede que lo vote",0.255,0.251,0.55,0.122
+"P41","Nunca lo votaría",0.529,0.703,0.364,0.786
+"P41","No sabe",0.112,0.007,0,0
+"P42","Lo votaría",0.038,0.017,0.528,0.092
+"P42","Puede que lo vote",0.274,0.23,0.144,0.122
+"P42","Nunca lo votaría",0.544,0.739,0.328,0.786
+"P42","No sabe",0.144,0.014,0,0
+"P43","Lo votaría",0.018,0.007,0.465,0.059
+"P43","Puede que lo vote",0.3,0.232,0.121,0.379
+"P43","Nunca lo votaría",0.625,0.723,0.414,0.562
+"P43","No sabe",0.057,0.038,0,0
+"P44","La votaría",0.323,0.873,0.111,0.122
+"P44","Puede que la vote",0.531,0.041,0.288,0.615
+"P44","Nunca la votaría",0.118,0.086,0.601,0.039
+"P44","No sabe",0.028,0,0,0.224
+"P45","Lo votaría",0.779,0.459,0.241,0.406
+"P45","Puede que lo vote",0.075,0.344,0.158,0.555
+"P45","Nunca lo votaría",0.118,0.183,0.601,0.039
+"P45","No sabe",0.028,0.014,0,0
+"P46","Lo votaría",0.149,0.176,0,0.226
+"P46","Puede que lo vote",0.325,0.39,0.12,0.38
+"P46","Nunca lo votaría",0.469,0.359,0.845,0.394
+"P46","No sabe",0.057,0.075,0.035,0
+"P47","Si",0.244,0.546,0.582,0.41
+"P47","No",0.756,0.454,0.418,0.59

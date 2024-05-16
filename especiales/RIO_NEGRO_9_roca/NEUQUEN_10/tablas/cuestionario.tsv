@@ -1,0 +1,33 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P09	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas
+P10	Bloque General	opinion	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Provincia de Neuquén?	Opinión sobre la gestión del gobierno provincial
+P11	Bloque General	opinion	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno entrante de Rolo Figueroa 	Expectativas sobre el gobierno de Rolo Figueroa
+P12	Bloque General	opinion	¿Que opinión tiene usted sobre el reciente convenio entre el gobernador Rolo Figueroa y el intendente de la ciudad de Neuquén Mariano Gaido?	Opinión sobre el convenio Figueroa-Gaido
+P13	Bloque Neuquén Capital	opinion	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Intendencia de Neuquén?	Opinión sobre el gobierno de la Intendencia de Neuquén	(Sólo Neuquén Capital)
+P14	Bloque Neuquén Capital	opinion	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno entrante de Mariano Gaido?	Expectativas sobre el gobierno de Mariano Gaido	(Sólo Neuquén Capital)
+P15	Bloque General	quali	¿Qué opina usted que debe hacer el gobierno de Rolando Figueroa con  la actualización de los salarios estatales de acuerdo al IPC?	Opinión sobre la actualización de salarios estatales de acuerdo al IPC
+P16	Bloque General	opinion	¿Podría indicarnos qué opinión tiene de la idea de algunos intendentes de que Rolo Figueroa vuelva a formar parte del MPN?	Opinión sobre el regreso de Rolo Figueroa al MPN
+P17	Bloque General	sino	¿Considera usted que los derechos de las comunidades Mapuches sin personaría Jurídica que reclaman por tierras dentro de la zona de Vaca Muerta son legítimos?	Opinión sobre la legitimidad de los reclamos de comunidades Mapuches no registradas en Vaca Muerta
+P18	Bloque General	quali	¿Qué piensa Ud que se debería hacer con la reciente toma de tierras en Vaca Muerta por la comunidad Mapuche no registrada Futa Xayen?	Opinión sobre la toma de tierras por parte de Futa Xayen
+P19	Bloque General	opinion	¿Podría indicarnos qué opinión tiene sobre el programa de relevamiento de Planes sociales que está llevando adelante el gobierno de la provincia?	Opinión sobre el programa de relevamiento de planes sociales llevado adelante en la Provincia
+P20	Bloque General	sino	¿Podría indicarnos si cree que Rolo Figueroa tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Rolo Figueroa
+P21	Bloque General	sino	¿Usted cree que Rolo Figueroa es una persona honesta? 	Opinión sobre la honestidad de Rolo Figueroa
+P22	Bloque Neuquén Capital	sino	¿Podría indicarnos si cree que Mariano Gaido tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Mariano Gaido	(Sólo Neuquén Capital)
+P23	Bloque Neuquén Capital	sino	¿Usted cree que Mariano Gaido es una persona honesta? 	Opinión sobre la honestidad de Mariano Gaido	(Sólo Neuquén Capital)
+P24	Bloque General	opinion	Podría indicarnos que opinion tiene sobre el DNU impulsado por el presidente Javier Milei	Opinión sobre el DNU impulsado por Milei
+P25	Bloque General	opinion	Podría indicarnos que opinion tiene sobre el la ley ómnibus impulsada por el presidente Javier Milei	Opinión sobre la Ley Ómnibus  impulsada por Milei
+P26	Imagen de dirigentes	imagen	¿Qué imagen tiene de Rolo Figueroa?	Imagen de Rolo Figueroa
+P27	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mariano Gaido?	Imagen de Mariano Gaido
+P28	Imagen de dirigentes	imagen	¿Qué imagen tiene de Omar Gutierrez?	Imagen de Omar Gutierrez
+P29	Imagen de dirigentes	imagen	¿Qué imagen tiene de Marcos Koopmann?	Imagen de Marcos Koopmann
+P30	Imagen de dirigentes	imagen	¿Qué imagen tiene de Ramon Rioseco?	Imagen de Ramon Rioseco
+P31	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner
+P32	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri
+P33	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa
+P34	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei
+P35	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich
+P36	Imagen de dirigentes	imagen	¿Qué imagen tiene de Karina Milei?	Imagen de Karina Milei
+P37	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel
+P38	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti? 	Imagen de Juan Schiaretti
+P39	Imagen de dirigentes	imagen	¿Qué imagen tiene de Toto Caputo? 	Imagen de Toto Caputo
+P40	Imagen de dirigentes	imagen	¿Qué imagen tiene de Guillermo Francos? 	Imagen de Guillermo Francos

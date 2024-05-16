@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Fernandez","Macri","Lavagna","Centro","Norte","Sur","Buenos Aires","Massa","Bullrich","Milei","Bregman","Schiaretti"
+"Tiene Decidido que va a ir a votar",0.905,0.911,0.899,0.89,0.922,0.923,0.863,0.884,0.897,0.941,0.934,0.912,0.884,0.898,0.925,0.909,0.9,0.942,0.882,0.931,0.781,0.862
+"Tiene dudas sobre si va a ir a  votar",0.061,0.058,0.064,0.076,0.049,0.054,0.077,0.067,0.071,0.041,0.045,0.057,0.065,0.066,0.047,0.047,0.067,0.038,0.075,0.044,0.12,0.104
+"Tiene Decidido que no va a ir a votar",0.034,0.031,0.037,0.034,0.029,0.023,0.06,0.049,0.032,0.018,0.021,0.031,0.051,0.036,0.028,0.044,0.033,0.02,0.043,0.025,0.099,0.034

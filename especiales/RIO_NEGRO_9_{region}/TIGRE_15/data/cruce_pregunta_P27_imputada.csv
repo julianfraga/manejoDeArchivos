@@ -1,0 +1,37 @@
+"var","categoria","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda","Otros","No sabe"
+"P12_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.617,0.148,0.016,0.017,0.04,0.138
+"P12_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.09,0.037,0.003,0.014,0.042,0.003
+"P12_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador y Julio Zamora a intendente por Unión por la Patria",0.1,0.052,0.066,0.323,0.411,0.285
+"P12_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Claudio Cufré a intendente por Juntos por el Cambio",0.038,0.335,0.11,0.008,0.22,0.209
+"P12_imputada","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.063,0.381,0.034,0,0.087,0.164
+"P12_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.088,0.036,0.753,0.096,0.027,0.06
+"P12_imputada","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0,0,0.001,0.542,0.017,0.045
+"P12_imputada","Otros",0.004,0.011,0.017,0,0.156,0.096
+"PRESIDENTE_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.641,0.145,0.036,0.086,0.096,0.16
+"PRESIDENTE_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.158,0.081,0.023,0.194,0.261,0.152
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.058,0.367,0.104,0.103,0.251,0.344
+"PRESIDENTE_imputada","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0.066,0.349,0.043,0,0.099,0.222
+"PRESIDENTE_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.072,0.045,0.785,0.033,0.058,0.06
+"PRESIDENTE_imputada","Alguno de los candidatos a presidente y gobernador de la Izquierda",0.003,0,0.008,0.516,0.012,0
+"PRESIDENTE_imputada","Otros",0.002,0.013,0.001,0.068,0.223,0.062
+"INTENDENTE_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.597,0.176,0.055,0.026,0.042,0.118
+"INTENDENTE_imputada","Julio Zamora a intendente por Unión por la Patria",0.207,0.212,0.163,0.244,0.596,0.479
+"INTENDENTE_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.055,0.108,0.074,0.068,0.05,0.122
+"INTENDENTE_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.07,0.464,0.162,0.171,0.181,0.184
+"INTENDENTE_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.06,0.037,0.541,0,0.008,0.039
+"INTENDENTE_imputada","Alguno de los candidatos a intendente de la Izquierda",0.001,0.001,0.002,0.474,0.014,0
+"INTENDENTE_imputada","Otros",0.01,0.002,0.003,0.017,0.109,0.058
+"INTENDENTE_CORTA_1_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.563,0.085,0.011,0.016,0.125,0.194
+"INTENDENTE_CORTA_1_imputada","Julio Zamora a intendente por Unión por la Patria",0.044,0.028,0.028,0.401,0.005,0.119
+"INTENDENTE_CORTA_1_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.109,0.577,0.189,0.021,0.582,0.191
+"INTENDENTE_CORTA_1_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.042,0.261,0.017,0,0.056,0.187
+"INTENDENTE_CORTA_1_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.242,0.028,0.709,0.197,0.046,0.051
+"INTENDENTE_CORTA_1_imputada","Alguno de los candidatos a intendente de la Izquierda",0,0,0,0.365,0.054,0.16
+"INTENDENTE_CORTA_1_imputada","Otros",0,0.021,0.046,0,0.132,0.098
+"INTENDENTE_CORTA_2_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.071,0.07,0.158,0,0,0.096
+"INTENDENTE_CORTA_2_imputada","Julio Zamora a intendente por Unión por la Patria",0.509,0.418,0.335,0.016,0.621,0.645
+"INTENDENTE_CORTA_2_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.177,0.024,0.104,0.36,0.016,0
+"INTENDENTE_CORTA_2_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.11,0.444,0.367,0.583,0.32,0.239
+"INTENDENTE_CORTA_2_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.107,0.04,0.031,0,0.005,0.02
+"INTENDENTE_CORTA_2_imputada","Alguno de los candidatos a intendente de la Izquierda",0.005,0.002,0,0,0.038,0
+"INTENDENTE_CORTA_2_imputada","Otros",0.021,0.002,0.005,0.041,0,0

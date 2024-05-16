@@ -1,0 +1,91 @@
+"var","categoria","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza","Alguno de los candidatos a presidente y gobernador de la Izquierda","Otros","No sabe"
+"P05","Mucho",0.496,0.419,0.48,0.325,0.546,0.312,0.437,0.071
+"P05","Bastante",0.371,0.287,0.233,0.461,0.184,0.458,0.214,0.515
+"P05","Poco",0.109,0.157,0.195,0.147,0.2,0.03,0.271,0.307
+"P05","Nada",0.002,0.137,0.082,0.067,0.056,0.155,0.078,0.099
+"P05","No sabe",0.022,0,0.01,0,0.014,0.045,0,0.008
+"P06","Siempre",0.218,0.228,0.222,0.226,0.182,0.074,0.252,0.12
+"P06","Casi siempre",0.389,0.443,0.383,0.368,0.288,0.529,0.224,0.381
+"P06","Casi nunca",0.218,0.156,0.284,0.323,0.365,0.375,0.491,0.238
+"P06","Nunca, pero esta es una excepción",0.175,0.173,0.111,0.083,0.165,0.022,0.033,0.261
+"P07","Tiene Decidido que va a ir a votar.",0.874,0.877,0.857,0.844,0.855,0.694,0.758,0.695
+"P07","Tiene dudas sobre si va a ir a  votar",0.105,0.056,0.118,0.044,0.097,0.283,0.228,0.305
+"P07","Tiene Decidido que no va a ir a votar",0.021,0.067,0.025,0.112,0.048,0.023,0.014,0
+"P09","Unión por la Patria",0.732,0.732,0.079,0.074,0.105,0.125,0.304,0.173
+"P09","Juntos por el Cambio",0.064,0.082,0.786,0.722,0.074,0.092,0.039,0
+"P09","De los Liberales libertarios",0.1,0.041,0.049,0.081,0.782,0,0.035,0.038
+"P09","De la Izquierda",0.008,0.038,0.005,0.043,0,0.592,0.04,0
+"P09","Hacemos por nuestro país",0.004,0.025,0.004,0.005,0,0,0.039,0
+"P09","Otro",0.006,0.056,0.054,0.07,0.014,0.191,0.535,0.344
+"P09","En blanco",0.016,0,0.007,0,0.008,0,0,0.117
+"P09","No sabe",0.07,0.026,0.016,0.005,0.017,0,0.008,0.328
+"P15","Totalmente seguro.",0.703,0.67,0.745,0.575,0.788,0.8,0.422,0.207
+"P15","Bastante seguro",0.17,0.161,0.146,0.183,0.087,0.074,0.095,0.113
+"P15","Algo seguro",0.049,0.084,0.069,0.125,0.058,0.033,0.106,0.092
+"P15","Para nada seguro",0.078,0.085,0.04,0.117,0.067,0.093,0.377,0.588
+"P23","Totalmente seguro",0.621,0.686,0.679,0.533,0.738,0.48,0.593,0.447
+"P23","Bastante seguro",0.187,0.249,0.184,0.23,0.119,0.475,0.169,0.029
+"P23","Algo seguro",0.13,0.039,0.047,0.071,0.086,0.045,0.014,0.048
+"P23","Para nada seguro",0.062,0.026,0.09,0.166,0.057,0,0.224,0.476
+"P24","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.815,0.272,0.069,0.033,0.069,0.124,0.098,0.149
+"P24","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Claudio Cufré a intendente por Juntos por el Cambio",0.038,0.142,0.755,0.352,0.111,0.207,0.1,0
+"P24","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.078,0.12,0.042,0.104,0.688,0.036,0.025,0.048
+"P24","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.019,0.093,0.004,0.029,0.006,0.583,0.049,0.033
+"P24","Otros",0.016,0.26,0.087,0.364,0.059,0.05,0.548,0.253
+"P24","No sabe",0.034,0.113,0.043,0.118,0.067,0,0.18,0.517
+"P27","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.757,0.359,0.087,0.13,0.11,0.04,0.013,0.054
+"P27","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.148,0.164,0.485,0.602,0.056,0,0.081,0.056
+"P27","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.027,0.033,0.099,0.054,0.762,0.069,0.007,0.025
+"P27","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.011,0.049,0.017,0,0.006,0.8,0.054,0
+"P27","Otros",0.044,0.31,0.194,0.1,0.042,0.091,0.827,0.167
+"P27","No sabe",0.013,0.085,0.118,0.114,0.024,0,0.018,0.698
+"P28","Lo votaría",0.791,0.229,0.036,0.019,0.088,0.044,0.135,0.097
+"P28","Puede que lo vote",0.078,0.246,0.067,0.128,0.054,0.073,0.361,0.047
+"P28","Nunca lo votaría",0.113,0.501,0.85,0.765,0.835,0.691,0.168,0.34
+"P28","No sabe",0.018,0.024,0.047,0.088,0.023,0.192,0.336,0.516
+"P29","Lo votaría",0.276,0.422,0.048,0.06,0.038,0,0.206,0.056
+"P29","Puede que lo vote",0.248,0.26,0.014,0.038,0.009,0.045,0.042,0.025
+"P29","Nunca lo votaría",0.351,0.304,0.889,0.894,0.912,0.955,0.493,0.306
+"P29","No sabe",0.125,0.014,0.049,0.008,0.041,0,0.259,0.613
+"P30","Lo votaría",0.266,0.697,0.079,0.032,0.054,0.109,0.255,0.23
+"P30","Puede que lo vote",0.196,0.154,0.025,0.059,0.053,0.023,0.01,0.017
+"P30","Nunca lo votaría",0.49,0.134,0.847,0.886,0.88,0.868,0.375,0.098
+"P30","No sabe",0.048,0.015,0.049,0.023,0.013,0,0.36,0.655
+"P31","Lo votaría",0.059,0.154,0.703,0.164,0.1,0.036,0.207,0
+"P31","Puede que lo vote",0.107,0.05,0.163,0.462,0.28,0.026,0.053,0.082
+"P31","Nunca lo votaría",0.81,0.776,0.11,0.326,0.582,0.938,0.632,0.389
+"P31","No sabe",0.024,0.02,0.024,0.048,0.038,0,0.108,0.529
+"P32","Lo votaría",0.053,0.154,0.44,0.717,0.077,0,0.113,0.008
+"P32","Puede que lo vote",0.073,0.062,0.369,0.152,0.161,0.047,0.061,0.022
+"P32","Nunca lo votaría",0.838,0.76,0.155,0.082,0.713,0.953,0.438,0.435
+"P32","No sabe",0.036,0.024,0.036,0.049,0.049,0,0.388,0.535
+"P33","Lo votaría",0.057,0.063,0.106,0.089,0.78,0.018,0.141,0.008
+"P33","Puede que lo vote",0.042,0.126,0.245,0.139,0.028,0.054,0.012,0.201
+"P33","Nunca lo votaría",0.873,0.811,0.599,0.661,0.182,0.768,0.482,0.241
+"P33","No sabe",0.028,0,0.05,0.111,0.01,0.16,0.365,0.55
+"P34","Si",0.417,0.366,0.402,0.25,0.46,0.59,0.144,0.07
+"P34","No",0.583,0.634,0.598,0.75,0.54,0.41,0.856,0.93
+"INTENDENTE","Malena Galmarini a intendenta por Unión por la Patria",0.694,0.247,0.043,0.045,0.027,0,0.133,0.009
+"INTENDENTE","Julio Zamora a intendente por Unión por la Patria",0.21,0.692,0.239,0.24,0.189,0.292,0.275,0.385
+"INTENDENTE","Claudio Cufré a intendente por Juntos por el Cambio",0.033,0.004,0.291,0.055,0.07,0.071,0,0
+"INTENDENTE","Segundo Cernadas a intendente por Juntos por el Cambio",0.025,0.04,0.378,0.646,0.145,0.054,0.115,0.017
+"INTENDENTE","Claudio Baumgarten a intendente por la Libertad Avanza",0.019,0.002,0.035,0.012,0.549,0,0,0.012
+"INTENDENTE","Alguno de los candidatos a intendente de la Izquierda",0.001,0.011,0,0.001,0,0.583,0,0
+"INTENDENTE","Otros",0.006,0,0.007,0,0.007,0,0.323,0.012
+"INTENDENTE","No sabe",0.012,0.004,0.007,0.001,0.013,0,0.154,0.565
+"INTENDENTE_CORTA_1","Malena Galmarini a intendenta por Unión por la Patria",0.551,0.311,0.05,0,0.134,0,0.154,0.523
+"INTENDENTE_CORTA_1","Julio Zamora a intendente por Unión por la Patria",0.082,0.079,0.039,0.001,0.023,0,0.025,0
+"INTENDENTE_CORTA_1","Claudio Cufré a intendente por Juntos por el Cambio",0.071,0.113,0.737,0.131,0.046,0.505,0.028,0
+"INTENDENTE_CORTA_1","Segundo Cernadas a intendente por Juntos por el Cambio",0.023,0,0.029,0.67,0.015,0,0.026,0
+"INTENDENTE_CORTA_1","Claudio Baumgarten a intendente por la Libertad Avanza",0.102,0.102,0.092,0.094,0.739,0.201,0,0.118
+"INTENDENTE_CORTA_1","Alguno de los candidatos a intendente de la Izquierda",0.01,0.038,0.015,0,0.023,0,0.236,0.025
+"INTENDENTE_CORTA_1","Otros",0.113,0.191,0.03,0.006,0.02,0,0.531,0
+"INTENDENTE_CORTA_1","No sabe",0.048,0.166,0.008,0.098,0,0.294,0,0.334
+"INTENDENTE_CORTA_2","Malena Galmarini a intendenta por Unión por la Patria",0.119,0.189,0.051,0.106,0.066,0,0.1,0
+"INTENDENTE_CORTA_2","Julio Zamora a intendente por Unión por la Patria",0.579,0.455,0.371,0.565,0.373,0.201,0.118,0.899
+"INTENDENTE_CORTA_2","Claudio Cufré a intendente por Juntos por el Cambio",0.135,0.026,0.041,0.134,0.163,0.288,0,0
+"INTENDENTE_CORTA_2","Segundo Cernadas a intendente por Juntos por el Cambio",0.061,0.213,0.48,0.156,0.326,0.511,0.274,0.101
+"INTENDENTE_CORTA_2","Claudio Baumgarten a intendente por la Libertad Avanza",0.066,0.014,0.045,0.03,0.026,0,0,0
+"INTENDENTE_CORTA_2","Alguno de los candidatos a intendente de la Izquierda",0.006,0.079,0,0.004,0,0,0,0
+"INTENDENTE_CORTA_2","Otros",0.007,0,0.01,0,0,0,0.064,0
+"INTENDENTE_CORTA_2","No sabe",0.027,0.024,0.002,0.005,0.046,0,0.444,0

@@ -1,0 +1,321 @@
+"var","categoria","Wado de Pedro a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos","Daniel Scioli a presidente, Victoria Tolosa Paz a gobernadora y Julio Zamora a intendente por el Frente de Todos","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda","En blanco","No sabe"
+"P07","Al candidato del Frente de Todos",0.814,0.479,0.115,0.258,0.078,0.158,0.187,0.203
+"P07","Al candidato de Juntos por el Cambio",0.059,0.269,0.619,0.53,0.105,0.087,0.209,0.119
+"P07","Al candidato de los liberales - libertarios",0.033,0.094,0.142,0.078,0.736,0.109,0.034,0.044
+"P07","Al candidato de la Izquierda",0.032,0.027,0.036,0.038,0.014,0.292,0.09,0.1
+"P07","A otro candidato",0.028,0.044,0.025,0.051,0.043,0.22,0.119,0.226
+"P07","No sabe",0.034,0.087,0.063,0.045,0.024,0.134,0.361,0.308
+"P08","A Malena Galmarini",0.662,0.166,0.075,0.613,0.313,0.052,0.089,0.318
+"P08","A Julio Zamora",0.338,0.834,0.925,0.387,0.687,0.948,0.911,0.682
+"P09","A Segundo Cernadas",0.38,0.445,0.503,0.649,0.916,0.845,0.84,0.567
+"P09","A Nicolás Massot",0.62,0.555,0.497,0.351,0.084,0.155,0.16,0.433
+"P10","A Malena Galmarini por el Frente de Todos",0.529,0.111,0.079,0.125,0.061,0.025,0.084,0.078
+"P10","A Julio Zamora por el Frente de Todos",0.324,0.49,0.108,0.161,0.042,0.178,0.272,0.329
+"P10","A Segundo Cernadas por Juntos por el Cambio",0.034,0.165,0.372,0.461,0.124,0.071,0.298,0.098
+"P10","A Nicolás Massot por Juntos por el Cambio",0.048,0.075,0.273,0.1,0.056,0.066,0,0.112
+"P10","Al candidato de los liberales libertarios",0.014,0.059,0.104,0.068,0.658,0.062,0.036,0.023
+"P10","A Paula Akerfeld por el Frente de Izquierda",0.03,0.033,0.011,0.029,0.009,0.383,0.122,0.11
+"P10","No sabe",0.021,0.067,0.053,0.056,0.05,0.215,0.188,0.25
+"P12","A Julio Zamora por el Frente de Todos",0.672,0.536,0.147,0.193,0.064,0.09,0.314,0.42
+"P12","A Segundo Cernadas por Juntos por el Cambio",0.094,0.289,0.552,0.498,0.112,0.097,0.192,0.172
+"P12","Al candidato de los liberales libertarios",0.055,0.083,0.193,0.095,0.661,0.015,0.084,0.033
+"P12","A Paula Akerfeld por el Frente de Izquierda",0.039,0.022,0.025,0.046,0.006,0.338,0.09,0.1
+"P12","No sabe",0.14,0.07,0.083,0.168,0.157,0.46,0.32,0.275
+"P14","A Malena Galmarini por el Frente de Todos",0.755,0.244,0.086,0.206,0.036,0.194,0.147,0.183
+"P14","A Segundo Cernadas por Juntos por el Cambio",0.072,0.301,0.59,0.463,0.12,0.092,0.161,0.284
+"P14","Al candidato de los liberales libertarios",0.037,0.155,0.177,0.164,0.749,0.02,0.086,0.033
+"P14","A Paula Akerfeld por el Frente de Izquierda",0.035,0.074,0.019,0.067,0.007,0.334,0.09,0.132
+"P14","No sabe",0.101,0.226,0.128,0.1,0.088,0.36,0.516,0.368
+"P16","A Malena Galmarini por el Frente de Todos",0.611,0.236,0.069,0.224,0.067,0.035,0.127,0.157
+"P16","A Segundo Cernadas por Juntos por el Cambio",0.073,0.271,0.442,0.402,0.103,0.088,0.293,0.21
+"P16","A Nicolás Massot por Juntos por el Cambio",0.058,0.044,0.26,0.11,0.05,0.051,0.015,0.006
+"P16","A Julio Zamora por un partido vecinal",0.167,0.331,0.084,0.088,0.042,0.064,0.195,0.253
+"P16","Al candidato de los liberales libertarios",0.035,0.071,0.105,0.125,0.696,0.219,0.201,0.108
+"P16","A Paula Akerfeld por el Frente de Izquierda",0.009,0.013,0.001,0.002,0.009,0.393,0.09,0.096
+"P16","No sabe",0.047,0.034,0.039,0.049,0.033,0.15,0.079,0.17
+"P18","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.713,0.121,0.052,0.212,0.003,0.099,0.024,0.14
+"P18","Daniel Scioli a presidente, Victoria Tolosa Paz a gobernadora y Julio Zamora a intendente por el Frente de Todos",0.116,0.46,0.034,0.035,0.012,0,0.073,0.099
+"P18","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.029,0.25,0.778,0.095,0.017,0.15,0.126,0.017
+"P18","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.019,0.072,0.061,0.45,0.014,0.062,0.105,0.042
+"P18","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.022,0.051,0.051,0.13,0.925,0.027,0.019,0.045
+"P18","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.023,0.024,0.006,0.053,0.011,0.366,0.016,0.016
+"P18","En blanco",0.017,0.003,0.005,0.014,0.004,0.015,0.366,0.017
+"P18","No sabe",0.061,0.019,0.013,0.011,0.014,0.281,0.271,0.624
+"P19","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.733,0.164,0.026,0.234,0.02,0.025,0.063,0.106
+"P19","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.034,0.241,0.711,0.087,0.01,0.019,0.074,0.032
+"P19","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.011,0.092,0.145,0.427,0.007,0.154,0.11,0.032
+"P19","Julio Zamora a intendente por un partido vecinal",0.13,0.384,0.051,0.082,0.217,0.047,0.123,0.208
+"P19","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.012,0.054,0.043,0.127,0.741,0.181,0.01,0.045
+"P19","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.025,0.005,0,0.033,0.001,0.294,0.044,0
+"P19","En blanco",0.02,0.048,0.006,0.007,0.003,0.118,0.361,0.214
+"P19","No sabe",0.035,0.012,0.018,0.003,0.001,0.162,0.215,0.363
+"P20","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.754,0.191,0.074,0.232,0,0.13,0.116,0.12
+"P20","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.021,0.319,0.538,0.467,0.013,0.071,0.164,0.145
+"P20","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.062,0.132,0.23,0.102,0.786,0.039,0.075,0.036
+"P20","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.054,0.072,0.003,0.109,0.036,0.357,0.015,0.014
+"P20","En blanco",0.044,0.083,0.053,0.059,0.141,0.009,0.215,0.032
+"P20","No sabe",0.065,0.203,0.102,0.031,0.024,0.394,0.415,0.653
+"P21","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.77,0.146,0.027,0.215,0.016,0.035,0.063,0.236
+"P21","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.029,0.216,0.537,0.492,0.011,0.155,0.231,0.065
+"P21","Julio Zamora a intendente por un partido vecinal",0.102,0.335,0.104,0.091,0.107,0.104,0.046,0.18
+"P21","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.033,0.075,0.156,0.17,0.796,0.171,0.039,0.017
+"P21","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.017,0.098,0.032,0.007,0.052,0.186,0.09,0.006
+"P21","En blanco",0.016,0.055,0.063,0.002,0.002,0.212,0.516,0.074
+"P21","No sabe",0.033,0.075,0.081,0.023,0.016,0.137,0.015,0.422
+"P22","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.795,0.259,0.039,0.249,0.016,0.05,0.063,0.174
+"P22","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.022,0.253,0.822,0.387,0.01,0.074,0.105,0.056
+"P22","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.079,0.13,0.079,0.133,0.773,0.006,0.06,0.03
+"P22","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.007,0.091,0.019,0.081,0.135,0.308,0.084,0
+"P22","En blanco",0.024,0.056,0.014,0.019,0.035,0.03,0.401,0.135
+"P22","No sabe",0.073,0.211,0.027,0.131,0.031,0.532,0.287,0.605
+"P23","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.79,0.198,0.022,0.292,0.016,0.05,0.079,0.13
+"P23","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.022,0.288,0.822,0.322,0.016,0.033,0,0.029
+"P23","Julio Zamora a intendente por un partido vecinal",0.118,0.263,0.107,0.086,0.188,0.067,0.087,0.09
+"P23","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.009,0.057,0.023,0.16,0.714,0.034,0,0.017
+"P23","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.006,0.034,0.01,0.016,0.039,0.239,0.217,0.032
+"P23","En blanco",0.028,0.082,0.013,0.04,0.018,0.507,0.189,0.091
+"P23","No sabe",0.027,0.078,0.003,0.084,0.009,0.07,0.428,0.611
+"P25","Wado de Pedro a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.829,0.134,0.012,0.125,0,0.011,0.129,0.051
+"P25","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.044,0.295,0.699,0.012,0.024,0.081,0,0.033
+"P25","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.022,0.098,0.179,0.56,0.017,0.066,0.02,0.007
+"P25","Julio Zamora a intendente por un partido vecinal",0.061,0.408,0.066,0.15,0.026,0.01,0.012,0.21
+"P25","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.007,0.045,0.031,0.113,0.918,0.049,0,0.013
+"P25","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.001,0.005,0,0.014,0.004,0.762,0,0.018
+"P25","En blanco",0.001,0.002,0.003,0.021,0.002,0,0.517,0
+"P25","No sabe",0.035,0.013,0.01,0.005,0.009,0.021,0.322,0.668
+"P26","Wado de Pedro a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.795,0.234,0.028,0.281,0.039,0.195,0.024,0.312
+"P26","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.013,0.287,0.559,0.422,0.024,0.189,0.164,0.028
+"P26","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.115,0.112,0.192,0.144,0.638,0.061,0.074,0.017
+"P26","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.018,0.111,0.043,0.054,0.03,0.194,0.121,0
+"P26","En blanco",0.011,0.09,0.054,0.088,0.213,0.104,0.365,0.02
+"P26","No sabe",0.048,0.166,0.124,0.011,0.056,0.257,0.252,0.623
+"P27","Wado de Pedro a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.75,0.213,0.009,0.213,0.031,0.035,0.029,0.162
+"P27","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.043,0.254,0.559,0.466,0.008,0.186,0.208,0.161
+"P27","Julio Zamora a intendente por un partido vecinal",0.113,0.335,0.117,0.147,0.154,0.027,0.189,0.139
+"P27","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.025,0.074,0.127,0.155,0.688,0.131,0.019,0.006
+"P27","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.021,0.051,0.033,0,0.101,0.213,0.053,0
+"P27","En blanco",0.024,0.026,0.072,0.009,0.012,0.307,0.474,0.227
+"P27","No sabe",0.024,0.047,0.083,0.01,0.006,0.101,0.028,0.305
+"P28","Wado de Pedro a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.854,0.302,0.023,0.24,0.042,0.033,0.028,0.189
+"P28","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.022,0.347,0.783,0.39,0.026,0.189,0.078,0.075
+"P28","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.047,0.097,0.09,0.204,0.728,0.133,0.017,0.028
+"P28","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.01,0.041,0.041,0.048,0.106,0.151,0,0
+"P28","En blanco",0.036,0.075,0.005,0.059,0.088,0.031,0.515,0.129
+"P28","No sabe",0.031,0.138,0.058,0.059,0.01,0.463,0.362,0.579
+"P29","Wado de Pedro a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.791,0.177,0.014,0.188,0.023,0.412,0,0.291
+"P29","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.063,0.301,0.774,0.401,0.017,0.026,0,0.121
+"P29","Julio Zamora a intendente por un partido vecinal",0.094,0.441,0.111,0.129,0.183,0.034,0,0.12
+"P29","Javier Milei a presidente, su candidato a gobernador y su candidato a intendente por la Libertad Avanza",0.016,0.043,0.059,0.114,0.682,0.049,0.162,0.006
+"P29","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.021,0.027,0.011,0.036,0.084,0.167,0.096,0.009
+"P29","En blanco",0.008,0.005,0.011,0.038,0.004,0.272,0.519,0.157
+"P29","No sabe",0.007,0.006,0.02,0.094,0.007,0.04,0.223,0.296
+"P30","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.788,0.186,0.004,0.16,0.022,0.069,0,0.129
+"P30","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.024,0.228,0.533,0.044,0.008,0.228,0,0.061
+"P30","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.032,0.16,0.306,0.521,0.031,0.158,0.453,0.134
+"P30","Julio Zamora a intendente por un partido vecinal",0.108,0.367,0.09,0.106,0.068,0.02,0.02,0.156
+"P30","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.016,0.041,0.047,0.108,0.848,0.013,0.062,0.113
+"P30","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.001,0.007,0,0,0.006,0.384,0,0
+"P30","En blanco",0.01,0.007,0,0.024,0.011,0.128,0.321,0
+"P30","No sabe",0.021,0.004,0.02,0.037,0.006,0,0.144,0.407
+"P31","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.789,0.222,0.056,0.108,0.044,0.241,0,0.169
+"P31","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.031,0.263,0.64,0.466,0.037,0.178,0.452,0.128
+"P31","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.094,0.191,0.164,0.198,0.664,0.037,0.043,0.064
+"P31","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.025,0.044,0.007,0.055,0.037,0.199,0,0.035
+"P31","En blanco",0.009,0.106,0.055,0.094,0.174,0.013,0.216,0.129
+"P31","No sabe",0.052,0.174,0.078,0.079,0.044,0.332,0.289,0.475
+"P32","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.727,0.184,0.046,0.153,0.033,0.069,0,0.156
+"P32","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.031,0.24,0.649,0.463,0.048,0.161,0.328,0.117
+"P32","Julio Zamora a intendente por un partido vecinal",0.164,0.354,0.098,0.181,0.166,0.152,0.177,0.349
+"P32","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.029,0.073,0.104,0.139,0.603,0.039,0.049,0.027
+"P32","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.003,0.046,0.009,0.032,0.14,0.219,0.052,0
+"P32","En blanco",0.039,0.031,0.043,0.032,0.003,0.36,0.197,0
+"P32","No sabe",0.007,0.072,0.051,0,0.007,0,0.197,0.351
+"P33","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.841,0.265,0.029,0.112,0.033,0.051,0,0.224
+"P33","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.02,0.274,0.71,0.455,0.02,0.154,0.059,0.195
+"P33","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.067,0.154,0.088,0.177,0.718,0,0,0.103
+"P33","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.012,0.047,0.032,0.044,0.106,0.39,0.023,0.019
+"P33","En blanco",0.01,0.158,0.031,0.015,0.103,0.029,0.453,0
+"P33","No sabe",0.05,0.102,0.11,0.197,0.02,0.376,0.465,0.459
+"P34","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.796,0.156,0.032,0.12,0.029,0.071,0,0.339
+"P34","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.028,0.31,0.676,0.386,0.018,0.138,0.061,0.092
+"P34","Julio Zamora a intendente por un partido vecinal",0.113,0.355,0.061,0.219,0.137,0.029,0.182,0.189
+"P34","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.016,0.048,0.061,0.128,0.685,0.012,0.021,0.028
+"P34","A los candidatos a gobernador y a intendente del Frente de Izquierda",0,0.032,0.014,0.055,0.12,0.421,0.085,0
+"P34","En blanco",0.047,0.012,0.087,0.066,0.011,0.176,0.287,0.031
+"P34","No sabe",0,0.087,0.069,0.026,0,0.153,0.364,0.321
+"P35","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.7,0.14,0.032,0.115,0.046,0.071,0,0.125
+"P35","Victoria Tolosa Paz a gobernadora y Julio Zamora a intendente por el Frente de Todos",0.121,0.494,0.119,0.038,0.057,0.115,0.06,0.017
+"P35","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.025,0.142,0.503,0.097,0.012,0.036,0.183,0.123
+"P35","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.084,0.098,0.219,0.476,0.075,0.094,0.276,0.2
+"P35","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.015,0.053,0.071,0.212,0.804,0.029,0.072,0.011
+"P35","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.023,0.02,0.003,0.01,0,0.402,0.094,0.031
+"P35","En blanco",0.009,0.031,0.028,0.018,0.004,0.253,0.112,0
+"P35","No sabe",0.023,0.022,0.025,0.034,0.002,0,0.203,0.493
+"P36","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.792,0.146,0.029,0.135,0.029,0.071,0,0.129
+"P36","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.026,0.202,0.465,0.06,0.008,0.075,0,0.065
+"P36","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.038,0.15,0.27,0.468,0.061,0.184,0.552,0.092
+"P36","Julio Zamora a intendente por un partido vecinal",0.103,0.349,0.092,0.119,0.05,0.011,0,0.131
+"P36","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.014,0.054,0.07,0.186,0.831,0,0.02,0.221
+"P36","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.023,0.004,0.006,0.003,0.001,0.372,0.02,0
+"P36","En blanco",0,0.016,0.029,0,0.005,0.259,0.408,0
+"P36","No sabe",0.004,0.079,0.039,0.029,0.015,0.028,0,0.362
+"P37","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.814,0.19,0.048,0.169,0.031,0.075,0,0.169
+"P37","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.031,0.278,0.608,0.461,0.027,0.135,0.361,0.146
+"P37","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.055,0.243,0.134,0.195,0.691,0.126,0.218,0.083
+"P37","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.027,0.07,0.021,0.041,0.059,0.2,0,0.037
+"P37","En blanco",0.027,0.128,0.067,0.111,0.156,0,0.203,0.126
+"P37","No sabe",0.046,0.091,0.122,0.023,0.036,0.464,0.218,0.439
+"P38","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.828,0.176,0.026,0.136,0.019,0.073,0,0.302
+"P38","Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.044,0.242,0.674,0.463,0.062,0.233,0.372,0.094
+"P38","Julio Zamora a intendente por un partido vecinal",0.059,0.393,0.078,0.189,0.145,0.02,0.224,0.174
+"P38","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.031,0.101,0.095,0.073,0.657,0.028,0,0.03
+"P38","A los candidatos a gobernador y a intendente del Frente de Izquierda",0,0.071,0.021,0.067,0.101,0.331,0.097,0
+"P38","En blanco",0.028,0.017,0.042,0.036,0.016,0.315,0.105,0.039
+"P38","No sabe",0.01,0,0.064,0.036,0,0,0.202,0.361
+"P39","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.833,0.225,0.028,0.179,0.011,0.057,0,0.277
+"P39","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.064,0.35,0.733,0.444,0.06,0.219,0.336,0.089
+"P39","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.03,0.178,0.069,0.172,0.7,0.193,0.028,0.118
+"P39","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.025,0.07,0.035,0.042,0.086,0.208,0,0.019
+"P39","En blanco",0.01,0.121,0.026,0.045,0.136,0.027,0.336,0
+"P39","No sabe",0.038,0.056,0.109,0.118,0.007,0.296,0.3,0.497
+"P40","Axel Kicillof a gobernador y Malena Galmarini a intendenta por el Frente de Todos",0.625,0.124,0.241,0.166,0.018,0.103,0,0.268
+"P40","Néstor Grindetti a gobernador y Nicolás Massot a intendente por Juntos por el Cambio",0.243,0.36,0.514,0.412,0.066,0.321,0.337,0.053
+"P40","Julio Zamora a intendente por un partido vecinal",0.064,0.372,0.059,0.248,0.182,0.049,0.028,0.221
+"P40","A los candidatos a gobernador y a intendente de la Libertad Avanza",0.025,0.035,0.061,0.1,0.61,0.013,0,0.031
+"P40","A los candidatos a gobernador y a intendente del Frente de Izquierda",0.005,0.067,0.009,0,0.116,0.205,0,0
+"P40","En blanco",0.027,0.042,0.049,0.014,0.006,0.194,0.335,0.274
+"P40","No sabe",0.011,0,0.067,0.06,0.002,0.115,0.3,0.153
+"P41","Muy buena",0.439,0.118,0.069,0.087,0.013,0.251,0,0.151
+"P41","Buena",0.227,0.115,0.136,0.154,0.052,0,0,0.142
+"P41","Ni buena ni mala",0.213,0.198,0.092,0.244,0.154,0.344,0.337,0.044
+"P41","Mala",0.078,0.156,0.197,0.127,0.174,0.072,0.215,0.106
+"P41","Muy mala",0.036,0.394,0.488,0.384,0.598,0.333,0.357,0.401
+"P41","No sabe",0.007,0.019,0.018,0.004,0.009,0,0.091,0.156
+"P42","Muy buena",0.319,0.33,0.078,0.091,0.046,0.252,0,0.097
+"P42","Buena",0.304,0.172,0.115,0.139,0.086,0.022,0,0.26
+"P42","Ni buena ni mala",0.244,0.112,0.236,0.348,0.111,0.219,0.383,0.261
+"P42","Mala",0.089,0.142,0.232,0.087,0.163,0.146,0.252,0
+"P42","Muy mala",0.025,0.211,0.32,0.285,0.583,0.361,0.365,0.298
+"P42","No sabe",0.019,0.033,0.019,0.05,0.011,0,0,0.084
+"P43","Muy buena",0.138,0.109,0.219,0.168,0.105,0.201,0.084,0.01
+"P43","Buena",0.098,0.178,0.318,0.354,0.117,0.222,0.327,0.058
+"P43","Ni buena ni mala",0.192,0.28,0.273,0.272,0.314,0.191,0.279,0.3
+"P43","Mala",0.242,0.102,0.028,0.047,0.116,0.028,0,0.034
+"P43","Muy mala",0.278,0.291,0.127,0.107,0.306,0.358,0.142,0.398
+"P43","No sabe",0.052,0.04,0.035,0.052,0.042,0,0.168,0.2
+"P44","Muy buena",0.085,0.152,0.22,0.088,0.047,0.057,0,0
+"P44","Buena",0.084,0.228,0.307,0.192,0.172,0.053,0.031,0.028
+"P44","Ni buena ni mala",0.241,0.136,0.309,0.445,0.357,0.64,0.632,0.331
+"P44","Mala",0.216,0.131,0.039,0.088,0.076,0.05,0,0.062
+"P44","Muy mala",0.27,0.302,0.055,0.066,0.282,0.2,0.051,0.184
+"P44","No sabe",0.104,0.051,0.07,0.121,0.066,0,0.286,0.395
+"P45","Muy buena",0.247,0.342,0.068,0.099,0.046,0.059,0,0.05
+"P45","Buena",0.347,0.243,0.191,0.169,0.117,0.021,0,0.378
+"P45","Ni buena ni mala",0.203,0.261,0.232,0.434,0.211,0.18,0.359,0.244
+"P45","Mala",0.096,0.041,0.244,0.135,0.139,0.471,0.54,0.218
+"P45","Muy mala",0.038,0.1,0.233,0.156,0.474,0.269,0,0.025
+"P45","No sabe",0.069,0.013,0.032,0.007,0.013,0,0.101,0.085
+"P46","Que continúe el intendente Julio Zamora",0.211,0.422,0.073,0.088,0.039,0.249,0,0.018
+"P46","Que continúe Julio Zamora pero con mejoras",0.398,0.193,0.126,0.177,0.102,0.045,0,0.433
+"P46","Que cambie Julio Zamora pero que se mantengan los avances",0.184,0.148,0.17,0.197,0.13,0.461,0.309,0.264
+"P46","Que cambie el intendente Julio Zamora",0.207,0.237,0.631,0.538,0.729,0.245,0.691,0.285
+"P47","Es kirchnerista",0.155,0.284,0.177,0.145,0.242,0.192,0.279,0.019
+"P47","Forma parte del Frente de Todos",0.395,0.307,0.249,0.349,0.198,0.021,0,0.116
+"P47","Es un hombre de Massa",0.174,0.079,0.108,0.137,0.183,0.342,0.339,0.032
+"P47","Es un peronista independiente de centro",0.1,0.195,0.146,0.11,0.15,0.185,0.089,0.121
+"P47","Es un oportunista y está donde le conviene",0.089,0.087,0.226,0.169,0.163,0.232,0.243,0.538
+"P47","No sabe",0.087,0.048,0.094,0.09,0.064,0.028,0.05,0.174
+"P48","El tránsito",0.321,0.378,0.234,0.221,0.304,0.123,0,0.043
+"P48","El arreglo de las calles",0.148,0.12,0.075,0.05,0.098,0,0.03,0
+"P48","Los parques y espacios públicos",0.096,0.08,0.041,0.082,0.116,0.046,0,0.169
+"P48","El sistema de salud",0.07,0,0.067,0.014,0.018,0.295,0.089,0
+"P48","La limpieza de las calles",0.149,0.096,0.145,0.091,0.016,0,0.383,0.359
+"P48","El deporte y la cultura",0.048,0.094,0.066,0.232,0.116,0.442,0.05,0.036
+"P48","La obra pública",0.015,0.059,0.02,0.057,0.036,0,0,0.026
+"P48","La luminaria",0.057,0.075,0.072,0.056,0.054,0,0.051,0
+"P48","No sabe",0.096,0.098,0.28,0.197,0.242,0.094,0.397,0.367
+"P49","El tránsito",0.193,0.231,0.17,0.331,0.27,0.187,0.339,0.172
+"P49","El arreglo de las calles",0.121,0.111,0.132,0.045,0.095,0.046,0.05,0.057
+"P49","Los parques y espacios públicos",0.198,0.096,0.2,0.102,0.108,0.17,0,0.097
+"P49","El sistema de salud",0.077,0.098,0.087,0.102,0.088,0.185,0.103,0.188
+"P49","La limpieza de las calles",0.199,0.179,0.148,0.191,0.198,0.063,0.508,0.151
+"P49","El deporte y la cultura",0.031,0.052,0.025,0.081,0.053,0.125,0,0
+"P49","La obra pública",0.035,0,0.043,0.052,0.042,0,0,0
+"P49","La luminaria",0.03,0.032,0.013,0.008,0.009,0,0,0.044
+"P49","No sabe",0.116,0.201,0.182,0.088,0.137,0.224,0,0.291
+"P50","Agua corriente y cloacas",0.326,0.474,0.495,0.448,0.394,0.489,0.38,0.313
+"P50","Energía eléctrica",0.191,0.136,0.11,0.071,0.113,0.313,0.279,0.171
+"P50","Red de gas natural",0.12,0.046,0.1,0.097,0.134,0,0,0.043
+"P50","Recolección de residuos",0.146,0.113,0.105,0.194,0.171,0,0.059,0.033
+"P50","Ninguno",0.217,0.231,0.19,0.19,0.188,0.198,0.282,0.44
+"P51","Los robos",0.32,0.271,0.285,0.373,0.333,0.608,0.359,0.17
+"P51","El narcotráfico",0.252,0.205,0.339,0.336,0.269,0.052,0.118,0.333
+"P51","La ausencia de patrulleros y personal policial",0.13,0.242,0.104,0.139,0.082,0.143,0.155,0.14
+"P51","Otro",0.162,0.139,0.161,0.062,0.196,0.072,0.279,0.169
+"P51","Ninguno",0.136,0.143,0.111,0.09,0.12,0.125,0.089,0.188
+"P52","Muy buena",0.219,0.103,0.042,0.055,0.019,0.109,0,0.032
+"P52","Buena",0.255,0.182,0.052,0.074,0.094,0.295,0,0.171
+"P52","Ni buena ni mala",0.239,0.188,0.047,0.094,0.068,0.189,0,0.161
+"P52","Mala",0.169,0.149,0.092,0.064,0.048,0.041,0.051,0.249
+"P52","Muy mala",0.093,0.378,0.767,0.688,0.761,0.366,0.949,0.375
+"P52","No sabe",0.025,0,0,0.025,0.01,0,0,0.012
+"P53","Muy buena",0.121,0.211,0.401,0.145,0.142,0.109,0,0.043
+"P53","Buena",0.084,0.176,0.251,0.28,0.199,0.142,0.359,0
+"P53","Ni buena ni mala",0.076,0.119,0.166,0.091,0.159,0.036,0.397,0.106
+"P53","Mala",0.135,0.156,0.054,0.104,0.234,0.342,0.105,0.254
+"P53","Muy mala",0.572,0.338,0.121,0.376,0.233,0.371,0.139,0.597
+"P53","No sabe",0.012,0,0.007,0.004,0.033,0,0,0
+"P54","Muy buena",0.704,0.221,0.035,0.167,0.049,0.299,0,0.152
+"P54","Buena",0.068,0.173,0.068,0.094,0.008,0.123,0,0.113
+"P54","Ni buena ni mala",0.049,0.089,0.051,0.045,0.038,0.023,0.278,0.199
+"P54","Mala",0.019,0.138,0.041,0.045,0.08,0.294,0,0
+"P54","Muy mala",0.138,0.379,0.8,0.649,0.825,0.261,0.722,0.536
+"P54","No sabe",0.022,0,0.005,0,0,0,0,0
+"P55","Muy buena",0.188,0.046,0.073,0.232,0.023,0.107,0,0
+"P55","Buena",0.055,0.199,0.306,0.286,0.175,0.041,0.281,0.102
+"P55","Ni buena ni mala",0.084,0.232,0.277,0.136,0.19,0.385,0.478,0.347
+"P55","Mala",0.201,0.18,0.145,0.103,0.145,0.147,0.139,0.09
+"P55","Muy mala",0.467,0.34,0.197,0.243,0.467,0.32,0.102,0.346
+"P55","No sabe",0.005,0.003,0.002,0,0,0,0,0.115
+"P56","Muy buena",0.312,0.056,0.029,0.086,0.022,0.107,0,0.09
+"P56","Buena",0.234,0.104,0.053,0.119,0.038,0.022,0.281,0.098
+"P56","Ni buena ni mala",0.222,0.183,0.047,0.186,0.114,0.172,0,0.14
+"P56","Mala",0.082,0.166,0.136,0.091,0.043,0.171,0.189,0.043
+"P56","Muy mala",0.15,0.491,0.718,0.514,0.776,0.528,0.53,0.629
+"P56","No sabe",0,0,0.017,0.004,0.007,0,0,0
+"P57","Muy buena",0.553,0.136,0.006,0.101,0.018,0.107,0,0.115
+"P57","Buena",0.232,0.123,0.016,0.113,0.005,0.191,0,0.189
+"P57","Ni buena ni mala",0.09,0.276,0.111,0.177,0.134,0.046,0.281,0.109
+"P57","Mala",0.016,0.109,0.132,0.251,0.137,0.332,0.05,0.082
+"P57","Muy mala",0.075,0.294,0.659,0.319,0.687,0.324,0.53,0.321
+"P57","No sabe",0.034,0.062,0.076,0.039,0.019,0,0.139,0.184
+"P58","Muy buena",0.105,0.255,0.586,0.198,0.164,0.106,0.03,0.044
+"P58","Buena",0.031,0.135,0.229,0.349,0.231,0.032,0.729,0.209
+"P58","Ni buena ni mala",0.085,0.154,0.055,0.167,0.169,0.347,0.089,0.041
+"P58","Mala",0.084,0.155,0.044,0.073,0.202,0,0,0.098
+"P58","Muy mala",0.673,0.301,0.083,0.213,0.234,0.515,0.152,0.535
+"P58","No sabe",0.022,0,0.003,0,0,0,0,0.073
+"P59","Muy buena",0.091,0.191,0.181,0.198,0.622,0.119,0,0.044
+"P59","Buena",0.061,0.065,0.199,0.139,0.184,0,0.31,0
+"P59","Ni buena ni mala",0.067,0.21,0.291,0.243,0.119,0.214,0,0.219
+"P59","Mala",0.095,0.181,0.193,0.157,0.023,0.297,0.551,0.056
+"P59","Muy mala",0.661,0.353,0.088,0.234,0.052,0.37,0.139,0.497
+"P59","No sabe",0.025,0,0.048,0.029,0,0,0,0.184
+"P60","Muy buena",0.622,0.3,0.051,0.173,0.082,0.23,0,0.348
+"P60","Buena",0.131,0.191,0.055,0.059,0.036,0.192,0,0.139
+"P60","Ni buena ni mala",0.051,0.072,0.097,0.109,0.061,0.195,0,0.056
+"P60","Mala",0.024,0.102,0.084,0.093,0.104,0.142,0,0
+"P60","Muy mala",0.15,0.322,0.711,0.566,0.717,0.241,1,0.309
+"P60","No sabe",0.022,0.013,0.002,0,0,0,0,0.148
+"P61","Muy buena",0.114,0.126,0.193,0.128,0.029,0.358,0,0
+"P61","Buena",0.041,0.194,0.317,0.143,0.156,0.046,0.029,0.054
+"P61","Ni buena ni mala",0.218,0.285,0.266,0.286,0.264,0.401,0.358,0.461
+"P61","Mala",0.14,0.052,0.021,0.151,0.177,0,0,0.145
+"P61","Muy mala",0.365,0.209,0.112,0.194,0.299,0.195,0.433,0.093
+"P61","No sabe",0.122,0.134,0.091,0.098,0.075,0,0.18,0.247
+"P62","Muy buena",0.069,0.044,0.147,0.222,0.05,0.124,0,0
+"P62","Buena",0.041,0.245,0.367,0.412,0.178,0.075,0.308,0.23
+"P62","Ni buena ni mala",0.204,0.212,0.329,0.212,0.342,0.054,0.613,0.134
+"P62","Mala",0.24,0.186,0.07,0.068,0.163,0.172,0.029,0.101
+"P62","Muy mala",0.39,0.3,0.049,0.083,0.194,0.514,0.05,0.285
+"P62","No sabe",0.056,0.013,0.038,0.003,0.073,0.061,0,0.25

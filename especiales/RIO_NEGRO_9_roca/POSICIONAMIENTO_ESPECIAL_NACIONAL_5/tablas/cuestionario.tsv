@@ -1,0 +1,18 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P06	Control	muchopoco	¿Cuánto diría usted que le importa la política?	Opinión sobre la importancia de la política	
+P07	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P08	Preferencias Electorales Primera Vuelta	irAVotar	¿Qué tan decidido está en ir a votar en las próximas elecciones?	Nivel de decisión sobre ir o no a votar	
+P11	Preferencias Electorales Primera Vuelta	politica	¿En las elecciones presidenciales de este año, al candidato de qué espacio político votaría?	Intención de voto por espacio político en elecciones presidenciales	
+P12	Preferencias Electorales Primera Vuelta	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto a Presidente y Vicepresidente en elecciones generales	
+PRESIDENTE	Preferencias Electorales Primera Vuelta	politica	Intención de voto por fórmula Presidencial en primera vuelta, considerando corte de boleta	Intención de voto por fórmula Presidencial en primera vuelta, considerando corte de boleta	
+P15	Preferencias Electorales Primera Vuelta	seguridadVoto	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente y vicepresidente en las próximas elecciones de primera vuelta.	Nivel de seguridad sobre la preferencia de voto a Presidente y Vicepresidente	
+P24	Preferencias Electorales Primera Vuelta	politica	Y si tuviese que elegir a otros candidatos a Presidente y vice presidente  que no fuesen ninguno los dos que usted indicó en la pregunta anterior a ¿cuál preferiría entonces?	Intención de voto alternativa a Presidente y Vicepresidente en elecciones generales	
+P31	Escenarios Electorales Segunda Vuelta	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en segunda vuelta electoral	(Escenario 1)
+P32	Escenarios Electorales Segunda Vuelta	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en segunda vuelta electoral	(Escenario 2)
+P33	Escenarios Electorales Segunda Vuelta	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en segunda vuelta electoral	(Escenario 3)
+P35	Reach de intención de voto	votaria	Si Sergio Massa fuese candidato a Presidente y Agustin Rossi a Vicepresidente ud...	Intención de voto por fórmula Massa - Rossi.	
+P36	Reach de intención de voto	votaria	Si Patricia Bullrich fuese candidato a Presidente y Luis Petri a Vicepresidente ud...	Intención de voto por fórmula Bullrich - Petri.	
+P37	Reach de intención de voto	votaria	Si Javier Milei fuese candidato a Presidente y Victoria Villaruel a Vicepresidente ud...	Intención de voto por fórmula Milei - Villaruel.	
+P38	Reach de intención de voto	votaria	Si Myriam Bregman fuese candidato a Presidente y Nicolás del Caño a Vicepresidente ud...	Intención de voto por fórmula Bregman - del Caño.	
+P39	Reach de intención de voto	votaria	Si Juan Schiaretti fuese candidato a Presidente y Florencio Randazzo a Vicepresidente ud...	Intención de voto por fórmula Schiaretti - Randazzo.	
+P52	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

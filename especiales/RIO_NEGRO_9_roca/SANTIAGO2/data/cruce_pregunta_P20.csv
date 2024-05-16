@@ -1,0 +1,59 @@
+"var","categoria","Si","No"
+"P05","Si",0.845,0.766
+"P05","Puede ser",0.119,0.137
+"P05","No",0.036,0.097
+"P06","Gerardo Zamora por el Frente Civico por Santiago",0.695,0.692
+"P06","Pablo Mirolo por el Frente Renovador",0.136,0.067
+"P06","Marcelo Lugones por Juntos por el Cambio",0.052,0.096
+"P06","Emilio Rached por Juntos por el Cambio",0.024,0.037
+"P06","Guillermo Suarez Melean por Juntos por el Cambio",0.007,0.012
+"P06","Natalia Neme por Juntos por el Cambio",0.006,0.002
+"P06","No sabe",0.08,0.094
+"P08","Angel Nicolai del Frente Cívico por Santiago",0.473,0.453
+"P08","Pablo Mirolo por el Frente renovador",0.205,0.122
+"P08","Marcelo Lugones por Juntos por el Cambio",0.074,0.091
+"P08","Emilio Rached por Juntos por el Cambio",0.04,0.044
+"P08","Rodrigo Posse por Juntos por el Cambio",0.02,0.003
+"P08","Facundo Perez Carletti por Juntos por el Cambio",0.027,0.017
+"P08","Natalia Neme por Juntos por el Cambio",0.013,0.092
+"P08","A otros candidatos",0.032,0.056
+"P08","No sabe",0.116,0.122
+"P10","El covid-19",0.203,0.202
+"P10","El desempleo",0.326,0.2
+"P10","El precio del dólar",0.062,0.106
+"P10","La inseguridad",0.046,0.066
+"P10","La inflación",0.083,0.076
+"P10","La corrupción",0.078,0.118
+"P10","La pobreza",0.124,0.106
+"P10","Las tarifas",0.03,0.011
+"P10","Otro",0.048,0.115
+"P15","Muy buena",0.42,0.355
+"P15","Buena",0.157,0.149
+"P15","Ni buena ni mala",0.21,0.206
+"P15","Mala",0.078,0.052
+"P15","Muy mala",0.108,0.167
+"P15","No sabe",0.027,0.071
+"P16","Muy buena",0.056,0.081
+"P16","Buena",0.113,0.146
+"P16","Ni buena ni mala",0.288,0.217
+"P16","Mala",0.291,0.304
+"P16","Muy mala",0.234,0.191
+"P16","No sabe",0.018,0.061
+"P17","Muy buena",0.506,0.375
+"P17","Buena",0.161,0.166
+"P17","Ni buena ni mala",0.083,0.186
+"P17","Mala",0.089,0.042
+"P17","Muy mala",0.151,0.197
+"P17","No sabe",0.01,0.034
+"P18","Muy buena",0.157,0.1
+"P18","Buena",0.227,0.108
+"P18","Ni buena ni mala",0.383,0.489
+"P18","Mala",0.087,0.114
+"P18","Muy mala",0.061,0.042
+"P18","No sabe",0.085,0.147
+"P19","Muy buena",0.09,0.093
+"P19","Buena",0.219,0.213
+"P19","Ni buena ni mala",0.442,0.373
+"P19","Mala",0.103,0.124
+"P19","Muy mala",0.085,0.118
+"P19","No sabe",0.061,0.079

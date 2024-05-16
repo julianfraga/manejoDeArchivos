@@ -74,7 +74,7 @@ def insertString (source_str, insert_str, pos):
     return source_str[:pos]+insert_str+source_str[pos:]
 
 #%%
-p = 'P19'
+p = 'BORRAR'
 csv = files_TRACKING_NACIONAL['csv'+p][1]
 
 palette =  paletas[p]

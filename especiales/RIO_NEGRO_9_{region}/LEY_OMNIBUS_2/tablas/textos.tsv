@@ -1,0 +1,13 @@
+clave	texto
+encuesta_especial	Encuesta Nacional: Opinión sobre la Ley Ómnibus (Raking sin voto anterior)- Febrero 2024
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	09/02/2024
+ficha_Población objeto de estudio	Población mayor de 16 años.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	República Argentina
+ficha_Estratificación	Cinco estratos regionales (NEA, NOA, Cuyo, Centro y Patagonia), CABA, Cordones I,II y III de la RMBA e interior PBA.
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Diseño muestral	Aleatorio Simple
+ficha_Tamaño muestral	La captura de datos se llevó a cabo del 08/02/2024 al 11/02/2024 abarcando 3.732 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo.
+ficha_Margen de error	+/- 1.6 %

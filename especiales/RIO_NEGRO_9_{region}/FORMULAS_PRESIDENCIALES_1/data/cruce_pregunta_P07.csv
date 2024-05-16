@@ -1,0 +1,94 @@
+"var","categoria","A Sergio Massa a presidente y a Wado De Pedro a vicepresidente por el Frente de Todos","A Horacio Rodríguez Larreta a presidente y a Soledad Acuña a vicepresidenta por Juntos por el Cambio","A Patricia Bullrich a presidenta y a Ricardo López Murphy a vicepresidente por Juntos por el Cambio","A Javier Milei a presidente y a Victoria Villarruel a vicepresidenta por La Libertad Avanza","A los candidatos a presidente y vicepresidente del Frente de Izquierda","En blanco","No sabe"
+"P05","A Sergio Massa a presidente y a Juan Manzur a vicepresidente por el Frente de Todos",0.795,0.104,0.106,0.135,0.069,0.09,0.055
+"P05","A Horacio Rodríguez Larreta a presidente y a Gerardo Morales a vicepresidente por Juntos por el Cambio",0.104,0.762,0.062,0.046,0.08,0.087,0.175
+"P05","A Patricia Bullrich a presidenta y a Rodrigo De Loredo a vicepresidente por Juntos por el Cambio",0.009,0.067,0.768,0.041,0.021,0.022,0.06
+"P05","A Javier Milei a presidente y a Victoria Villarruel a vicepresidenta por La Libertad Avanza",0.005,0.014,0.032,0.725,0.066,0.008,0.037
+"P05","A los candidatos a presidente y vicepresidente del Frente de Izquierda",0.017,0.008,0.005,0.023,0.627,0.012,0.01
+"P05","En blanco",0.014,0.001,0.004,0.009,0.049,0.5,0.058
+"P05","No sabe",0.056,0.044,0.023,0.021,0.088,0.281,0.605
+"P06","A Sergio Massa a presidente y a Victoria Tolosa Paz a vicepresidenta por el Frente de Todos",0.886,0.032,0.014,0.014,0.036,0.044,0.029
+"P06","A Horacio Rodríguez Larreta a presidente y a Martín Lousteau a vicepresidente por Juntos por el Cambio",0.023,0.824,0.065,0.014,0.061,0.074,0.085
+"P06","A Patricia Bullrich a presidenta y a Maximiliano Abad a vicepresidente por Juntos por el Cambio",0.002,0.08,0.823,0.021,0.005,0.025,0.058
+"P06","A Javier Milei a presidente y a Victoria Villarruel a vicepresidenta por La Libertad Avanza",0.004,0.021,0.052,0.914,0.015,0,0.031
+"P06","A los candidatos a presidente y vicepresidente del Frente de Izquierda",0.02,0.005,0.003,0.015,0.795,0.014,0.006
+"P06","En blanco",0.018,0.013,0.006,0.002,0.066,0.644,0.033
+"P06","No sabe",0.047,0.025,0.037,0.02,0.022,0.199,0.758
+"P08","Los votaría",0.125,0.214,0.64,0.133,0.03,0.027,0.062
+"P08","Puede que los vote",0.014,0.443,0.204,0.274,0.032,0.144,0.086
+"P08","Nunca los votaría",0.848,0.243,0.131,0.374,0.848,0.766,0.545
+"P08","No sabe",0.013,0.1,0.025,0.219,0.09,0.063,0.307
+"P09","Los votaría",0.043,0.66,0.28,0.067,0.021,0.081,0.094
+"P09","Puede que los vote",0.041,0.262,0.406,0.179,0.067,0.067,0.094
+"P09","Nunca los votaría",0.896,0.051,0.233,0.614,0.826,0.748,0.544
+"P09","No sabe",0.02,0.027,0.081,0.14,0.086,0.104,0.268
+"P10","Los votaría",0.041,0.276,0.571,0.09,0.035,0.015,0.035
+"P10","Puede que los vote",0.01,0.345,0.31,0.273,0.043,0.06,0.08
+"P10","Nunca los votaría",0.932,0.264,0.062,0.463,0.848,0.782,0.598
+"P10","No sabe",0.017,0.115,0.057,0.174,0.074,0.143,0.287
+"P11","Los votaría",0.512,0.059,0.083,0.049,0.008,0.032,0.024
+"P11","Puede que los vote",0.276,0.12,0.05,0.095,0.269,0.134,0.209
+"P11","Nunca los votaría",0.164,0.722,0.85,0.786,0.585,0.783,0.521
+"P11","No sabe",0.048,0.099,0.017,0.07,0.138,0.051,0.246
+"P12","Los votaría",0.07,0.201,0.707,0.105,0.017,0.006,0.022
+"P12","Puede que los vote",0.043,0.327,0.17,0.3,0.066,0.117,0.129
+"P12","Nunca los votaría",0.867,0.371,0.111,0.51,0.824,0.817,0.615
+"P12","No sabe",0.02,0.101,0.012,0.085,0.093,0.06,0.234
+"P13","Los votaría",0.037,0.577,0.263,0.079,0.021,0.098,0.053
+"P13","Puede que los vote",0.049,0.304,0.464,0.219,0.141,0.05,0.167
+"P13","Nunca los votaría",0.89,0.085,0.225,0.609,0.761,0.777,0.585
+"P13","No sabe",0.024,0.034,0.048,0.093,0.077,0.075,0.195
+"P14","Los votaría",0.018,0.201,0.47,0.062,0.005,0.009,0.016
+"P14","Puede que los vote",0.015,0.377,0.357,0.279,0.072,0.117,0.07
+"P14","Nunca los votaría",0.958,0.299,0.095,0.521,0.823,0.828,0.642
+"P14","No sabe",0.009,0.123,0.078,0.138,0.1,0.046,0.272
+"P15","Los votaría",0.528,0.037,0.066,0.045,0.046,0.016,0.031
+"P15","Puede que los vote",0.302,0.154,0.05,0.048,0.281,0.065,0.167
+"P15","Nunca los votaría",0.128,0.763,0.868,0.839,0.509,0.792,0.537
+"P15","No sabe",0.042,0.046,0.016,0.068,0.164,0.127,0.265
+"P16","Los votaría",0.05,0.159,0.504,0.048,0.043,0.023,0.037
+"P16","Puede que los vote",0.05,0.392,0.295,0.261,0.075,0.126,0.101
+"P16","Nunca los votaría",0.883,0.328,0.144,0.576,0.736,0.815,0.625
+"P16","No sabe",0.017,0.121,0.057,0.115,0.146,0.036,0.237
+"P17","Los votaría",0.027,0.431,0.223,0.03,0.005,0.008,0.005
+"P17","Puede que los vote",0.041,0.341,0.448,0.191,0.087,0.107,0.117
+"P17","Nunca los votaría",0.909,0.123,0.246,0.676,0.808,0.839,0.635
+"P17","No sabe",0.023,0.105,0.083,0.103,0.1,0.046,0.243
+"P18","Los votaría",0.025,0.267,0.627,0.078,0.005,0.007,0.046
+"P18","Puede que los vote",0.011,0.399,0.247,0.284,0.061,0.121,0.121
+"P18","Nunca los votaría",0.949,0.249,0.082,0.545,0.837,0.842,0.666
+"P18","No sabe",0.015,0.085,0.044,0.093,0.097,0.03,0.167
+"P19","Los votaría",0.696,0.045,0.088,0.02,0.028,0.135,0.039
+"P19","Puede que los vote",0.168,0.113,0.031,0.055,0.385,0.128,0.316
+"P19","Nunca los votaría",0.128,0.77,0.861,0.871,0.469,0.709,0.463
+"P19","No sabe",0.008,0.072,0.02,0.054,0.118,0.028,0.182
+"P20","Los votaría",0.108,0.202,0.589,0.161,0.013,0.011,0.051
+"P20","Puede que los vote",0.022,0.37,0.24,0.283,0.096,0.114,0.089
+"P20","Nunca los votaría",0.865,0.338,0.158,0.471,0.803,0.812,0.696
+"P20","No sabe",0.005,0.09,0.013,0.085,0.088,0.063,0.164
+"P21","Ricardo López Murphy",0.03,0.164,0.407,0.222,0.077,0.03,0.066
+"P21","Rodolfo Suárez",0.007,0.08,0.075,0.051,0.044,0.008,0.034
+"P21","Rodrigo de Loredo",0.137,0.086,0.148,0.17,0.132,0.134,0.167
+"P21","Maximiliano Abad",0.021,0.051,0.013,0.051,0.069,0.008,0.04
+"P21","Luis Naidenoff",0.007,0.055,0.048,0.011,0.006,0.04,0.01
+"P21","Martín Tetaz",0.03,0.15,0.11,0.047,0.011,0.055,0.037
+"P21","José Luis Espert",0.041,0.139,0.159,0.22,0.079,0.115,0.043
+"P21","No sabe",0.727,0.275,0.04,0.228,0.582,0.61,0.603
+"P22","Gustavo Valdés",0.008,0.088,0.076,0.052,0.06,0.004,0.008
+"P22","Gerardo Morales",0.042,0.253,0.18,0.091,0.075,0.048,0.151
+"P22","María Eugenia Vidal",0.063,0.282,0.221,0.216,0.025,0.066,0.064
+"P22","Cristian Ritondo",0.014,0.026,0.063,0.041,0.067,0,0.005
+"P22","Emilio Monzó",0.018,0.034,0.065,0.02,0.013,0.045,0.015
+"P22","Martín Lousteau",0.06,0.198,0.133,0.092,0.055,0.141,0.157
+"P22","Juan Schiaretti",0.028,0.037,0.047,0.055,0.046,0.033,0.039
+"P22","Soledad Acuña",0.324,0.051,0.045,0.159,0.203,0.287,0.186
+"P22","No sabe",0.443,0.031,0.17,0.274,0.456,0.376,0.375
+"P23","Wado De Pedro",0.56,0.041,0.027,0.069,0.191,0.229,0.144
+"P23","Victoria Tolosa Paz",0.141,0.11,0.075,0.086,0.158,0.044,0.127
+"P23","Sergio Uñac",0.053,0.061,0.056,0.081,0.055,0.037,0.067
+"P23","Fernanda Raverta",0.035,0.025,0.022,0.019,0.083,0,0.011
+"P23","Anabel Fernández Sagasti",0.042,0.022,0.013,0.019,0.135,0.028,0.016
+"P23","Gustavo Bordet",0.011,0.042,0.013,0.022,0.046,0.063,0.037
+"P23","Juan Manzur",0.076,0.034,0.033,0.035,0.016,0.015,0.056
+"P23","No sabe",0.082,0.665,0.761,0.669,0.316,0.584,0.542
+"P24","Si",0.52,0.541,0.516,0.524,0.482,0.537,0.467
+"P24","No",0.48,0.459,0.484,0.476,0.518,0.463,0.533

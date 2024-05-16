@@ -1,0 +1,128 @@
+"var","categoria","A Alberto Fernández","A Sergio Massa","A algún candidato del peronismo","A algún candidato del kirchnerismo"
+"P07","Al candidato del Frente de Todos",0.845,0.788,0.61,0.862
+"P07","Al candidato de Juntos por el Cambio",0.144,0.207,0.184,0.047
+"P07","Al candidato de los liberales - libertarios",0,0,0.158,0
+"P07","Al candidato de la Izquierda",0,0,0,0.072
+"P07","A otro candidato",0.011,0,0.031,0.002
+"P07","No sabe",0,0.005,0.017,0.017
+"P08","A Julio Zamora por el Frente de Todos",0.761,0.387,0.595,0.488
+"P08","A Malena Galmarini por el Frente de Todos",0.157,0.357,0.018,0.324
+"P08","A Segundo Cernadas por Cambiemos",0.082,0.136,0.05,0.06
+"P08","A Nicolás Massot por Cambiemos",0,0.017,0.276,0.064
+"P08","Al candidato de los liberales libertarios",0,0.097,0.016,0
+"P08","A Paula Akerfeld por el Frente de Izquierda",0,0,0.017,0.023
+"P08","No sabe",0,0.006,0.028,0.041
+"P10","A Julio Zamora por el Frente de Todos",0.691,0.66,0.754,0.727
+"P10","A Segundo Cernadas por Cambiemos",0.242,0.129,0.159,0.036
+"P10","Al candidato de los liberales libertarios",0.02,0.019,0.01,0.036
+"P10","A Paula Akerfeld por el Frente de Izquierda",0.007,0,0.053,0.11
+"P10","No sabe",0.04,0.192,0.024,0.091
+"P12","A Malena Galmarini por el Frente de Todos",0.665,0.762,0.63,0.717
+"P12","A Segundo Cernadas por Cambiemos",0.143,0.102,0.183,0.089
+"P12","Al candidato de los liberales libertarios",0,0.097,0.017,0.002
+"P12","A Paula Akerfeld por el Frente de Izquierda",0.009,0,0,0.113
+"P12","No sabe",0.183,0.039,0.17,0.079
+"P14","Muy buena",0.422,0.415,0.053,0.378
+"P14","Buena",0.166,0.223,0.083,0.255
+"P14","Ni buena ni mala",0.097,0.183,0.353,0.137
+"P14","Mala",0.051,0.101,0.102,0.124
+"P14","Muy mala",0.254,0.023,0.159,0.104
+"P14","No sabe",0.01,0.055,0.25,0.002
+"P15","Muy buena",0.581,0.287,0.152,0.328
+"P15","Buena",0.193,0.224,0.194,0.229
+"P15","Ni buena ni mala",0.044,0.366,0.434,0.179
+"P15","Mala",0.067,0.112,0.091,0.086
+"P15","Muy mala",0.115,0.005,0.117,0.178
+"P15","No sabe",0,0.006,0.012,0
+"P16","Muy buena",0.097,0.14,0.102,0.129
+"P16","Buena",0.186,0.061,0.068,0.008
+"P16","Ni buena ni mala",0.272,0.291,0.558,0.081
+"P16","Mala",0.072,0.181,0.187,0.213
+"P16","Muy mala",0.304,0.234,0.061,0.483
+"P16","No sabe",0.069,0.093,0.024,0.086
+"P17","Muy buena",0.185,0.029,0,0.003
+"P17","Buena",0.12,0.015,0.001,0.007
+"P17","Ni buena ni mala",0.216,0.384,0.409,0.179
+"P17","Mala",0.033,0.026,0.074,0.113
+"P17","Muy mala",0.135,0.034,0,0.056
+"P17","No sabe",0.311,0.512,0.516,0.642
+"P18","Muy buena",0.213,0.119,0.024,0.076
+"P18","Buena",0.024,0.123,0.016,0
+"P18","Ni buena ni mala",0.287,0.438,0.38,0.142
+"P18","Mala",0.077,0.1,0.127,0.403
+"P18","Muy mala",0.153,0.069,0.047,0.3
+"P18","No sabe",0.246,0.151,0.406,0.079
+"P19","La seguridad",0.228,0.434,0.226,0.265
+"P19","El tránsito",0.122,0,0,0.032
+"P19","El arreglo de las calles",0.188,0.03,0.019,0.066
+"P19","El estado de las escuelas y la educación",0.211,0.132,0.035,0.002
+"P19","El sistema de salud",0.049,0.161,0.024,0.234
+"P19","El deporte y la cultura",0.136,0.099,0.055,0.137
+"P19","La obra pública",0.049,0.09,0.092,0.102
+"P19","La luminaria",0,0.027,0.062,0.098
+"P19","No sabe",0.017,0.027,0.487,0.064
+"P20","La seguridad",0.291,0.201,0.054,0.046
+"P20","El tránsito",0.056,0.075,0.074,0.24
+"P20","El arreglo de las calles",0.05,0.156,0.065,0.081
+"P20","El estado de las escuelas y la educación",0.248,0.094,0.035,0.262
+"P20","El sistema de salud",0.136,0.356,0.21,0.261
+"P20","El deporte y la cultura",0.126,0.003,0.017,0.053
+"P20","La obra pública",0.021,0.053,0.058,0.023
+"P20","La luminaria",0,0.017,0.008,0.008
+"P20","No sabe",0.072,0.045,0.479,0.026
+"P21","Agua corriente y cloacas",0.526,0.641,0.385,0.569
+"P21","Energía eléctrica",0.108,0.104,0.063,0.037
+"P21","Red de gas natural",0.12,0.004,0.11,0.041
+"P21","Recolección de residuos",0.018,0.08,0.034,0.148
+"P21","Ninguno",0.228,0.171,0.408,0.205
+"P22","Los robos",0.558,0.198,0.122,0.242
+"P22","El narcotráfico",0.24,0.49,0.269,0.377
+"P22","La ausencia de patrulleros y personal policial",0.052,0.073,0.032,0.073
+"P22","Otro",0.093,0.171,0.127,0.162
+"P22","Ninguno",0.057,0.068,0.45,0.146
+"P26","A Alberto Fernández",0.459,0.077,0,0.005
+"P26","A Sergio Massa",0.042,0.502,0,0.017
+"P26","A algún candidato del peronismo",0.009,0.206,0.842,0.034
+"P26","A Cristina Fernández de Kirchner",0.49,0.215,0.158,0.944
+"P29","Muy buena",0.393,0.126,0.021,0.03
+"P29","Buena",0.358,0.159,0.132,0.479
+"P29","Ni buena ni mala",0.083,0.4,0.487,0.156
+"P29","Mala",0.031,0.178,0.104,0.228
+"P29","Muy mala",0.121,0.137,0.204,0.107
+"P29","No sabe",0.014,0,0.052,0
+"P30","Muy buena",0.308,0.005,0.183,0.015
+"P30","Buena",0.073,0.135,0.081,0.003
+"P30","Ni buena ni mala",0.079,0.139,0,0
+"P30","Mala",0.208,0.27,0.199,0.057
+"P30","Muy mala",0.332,0.366,0.537,0.925
+"P30","No sabe",0,0.085,0,0
+"P31","Muy buena",0.636,0.186,0.26,0.749
+"P31","Buena",0.036,0.154,0.042,0.014
+"P31","Ni buena ni mala",0.101,0.214,0.358,0.093
+"P31","Mala",0,0.143,0.147,0.015
+"P31","Muy mala",0.227,0.243,0.193,0.129
+"P31","No sabe",0,0.06,0,0
+"P32","Muy buena",0.372,0.286,0.113,0.135
+"P32","Buena",0.005,0.119,0.081,0.002
+"P32","Ni buena ni mala",0.063,0.087,0.355,0.028
+"P32","Mala",0.165,0.217,0.233,0.091
+"P32","Muy mala",0.381,0.219,0.164,0.739
+"P32","No sabe",0.014,0.072,0.054,0.005
+"P33","Muy buena",0.376,0.663,0.096,0.057
+"P33","Buena",0.139,0.197,0.159,0.357
+"P33","Ni buena ni mala",0.055,0.117,0.404,0.409
+"P33","Mala",0.057,0.011,0.131,0.087
+"P33","Muy mala",0.286,0.012,0.186,0.09
+"P33","No sabe",0.087,0,0.024,0
+"P34","Muy buena",0.193,0.2,0.24,0.016
+"P34","Buena",0.091,0.131,0.022,0
+"P34","Ni buena ni mala",0.023,0.037,0.033,0.021
+"P34","Mala",0.234,0.171,0.397,0.017
+"P34","Muy mala",0.347,0.453,0.255,0.943
+"P34","No sabe",0.112,0.008,0.053,0.003
+"P35","Muy buena",0.223,0.021,0.29,0
+"P35","Buena",0,0.123,0.002,0
+"P35","Ni buena ni mala",0.058,0.052,0.158,0.018
+"P35","Mala",0.314,0.332,0.234,0.202
+"P35","Muy mala",0.383,0.45,0.263,0.768
+"P35","No sabe",0.022,0.022,0.053,0.012

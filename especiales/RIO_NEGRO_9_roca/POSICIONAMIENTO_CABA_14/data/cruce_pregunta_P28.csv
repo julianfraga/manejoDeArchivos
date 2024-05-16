@@ -1,0 +1,131 @@
+"var","categoria","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria","Horacio Rodríguez Larreta a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais","Otros","En blanco","No sabe"
+"P05","Mucho",0.605,0.483,0.484,0.588,0.347,0.546,0.414,0.224
+"P05","Bastante",0.294,0.376,0.293,0.158,0.226,0.326,0.357,0.531
+"P05","Poco",0.083,0.08,0.127,0.201,0,0.128,0.145,0.22
+"P05","Nada",0.006,0.049,0.096,0.034,0.216,0,0.067,0
+"P05","No sabe",0.012,0.012,0,0.019,0.211,0,0.017,0.025
+"P06","Siempre",0.312,0.228,0.287,0.161,0.466,0.395,0.19,0.068
+"P06","Casi siempre",0.374,0.521,0.338,0.42,0.138,0.23,0.428,0.447
+"P06","Casi nunca",0.272,0.173,0.289,0.343,0.226,0.362,0.242,0.445
+"P06","Nunca, pero esta es una excepción",0.042,0.078,0.086,0.076,0.17,0.013,0.14,0.04
+"P08","Unión por la Patria",0.763,0.127,0.147,0.282,0.138,0.105,0.227,0.027
+"P08","Juntos por el Cambio ",0.173,0.804,0.231,0.074,0.19,0.333,0.444,0.291
+"P08","Liberales",0.007,0.032,0.5,0,0.359,0.031,0.017,0.084
+"P08","Izquierda",0.015,0,0.034,0.552,0.078,0.024,0,0.046
+"P08","Otro",0.016,0.009,0.036,0.023,0.078,0.202,0.071,0.047
+"P08","No sabe",0.026,0.028,0.052,0.069,0.157,0.305,0.241,0.505
+"P09","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria",0.678,0.027,0.041,0.045,0.025,0.031,0.046,0.046
+"P09","Juan Grabois a Presidente y Paula Abal Medina a Vicepresidente por Unión por la Patria",0.231,0,0.019,0.298,0.046,0.343,0.042,0
+"P09","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.015,0.53,0.326,0.009,0.453,0.331,0.573,0.379
+"P09","Horacio Rodríguez Larreta a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.024,0.387,0.009,0.025,0.067,0.146,0.03,0.062
+"P09","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.026,0.029,0.553,0.009,0.179,0.013,0.017,0.037
+"P09","Myriam Bregman a Presidente y Nicolas del Caño a Vicepresidente por el Frente de Izquierda",0.018,0.002,0.019,0.595,0,0.044,0,0.032
+"P09","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0,0.002,0,0,0.23,0,0,0
+"P09","Otros",0.006,0.015,0.019,0.019,0,0.092,0.183,0
+"P09","En blanco",0,0,0.012,0,0,0,0.081,0
+"P09","No sabe",0.002,0.008,0.002,0,0,0,0.028,0.444
+"P12","Leandro Santoro a Jefe de Gobierno por Unión por la Patria",0.727,0.043,0.074,0.216,0.24,0.066,0.109,0.061
+"P12","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio",0.037,0.511,0.273,0.011,0.13,0.17,0.581,0.28
+"P12","Martin Lousteau a Jefe de Gobierno por Juntos por el Cambio",0.109,0.34,0.119,0.159,0.262,0.411,0.04,0.246
+"P12","Ramiro Marra por la Libertad Avanza",0.041,0.05,0.434,0.045,0.098,0.03,0.022,0.051
+"P12","Vanina Biasi por el Frente de Izquierda",0.032,0.037,0.064,0.376,0.245,0.123,0,0.035
+"P12","Otros",0.044,0.014,0.036,0.178,0.025,0.157,0.074,0.013
+"P12","En blanco",0.01,0,0,0,0,0.015,0.097,0.078
+"P12","No sabe",0,0.005,0,0.015,0,0.028,0.077,0.236
+"P18","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria",0.49,0.079,0.042,0.22,0.071,0.173,0.046,0.041
+"P18","Juan Grabois a Presidente y Paula Abal Medina a Vicepresidente por Unión por la Patria",0.237,0.029,0.034,0.334,0.079,0.154,0.074,0.056
+"P18","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.056,0.411,0.341,0.061,0.162,0.379,0.412,0.219
+"P18","Horacio Rodríguez Larreta a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.062,0.36,0.149,0.037,0.266,0.04,0.03,0.027
+"P18","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.054,0.059,0.358,0.047,0.317,0.087,0.058,0.166
+"P18","Myriam Bregman a Presidente y Nicolas del Caño a Vicepresidente por el Frente de Izquierda",0.05,0.018,0.002,0.18,0,0.055,0,0.111
+"P18","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.008,0.013,0,0,0.059,0.044,0,0
+"P18","Otros",0.025,0.006,0.018,0.112,0,0.037,0.089,0.063
+"P18","En blanco",0.014,0.005,0.054,0.009,0,0,0.274,0.059
+"P18","No sabe",0.004,0.02,0.002,0,0.046,0.031,0.017,0.258
+"P21","Leandro Santoro a Jefe de Gobierno por Unión por la Patria",0.433,0.075,0.061,0.432,0.033,0.079,0.091,0.11
+"P21","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio",0.05,0.414,0.348,0.101,0.387,0.229,0.458,0.217
+"P21","Martin Lousteau a Jefe de Gobierno por Juntos por el Cambio",0.122,0.334,0.076,0.091,0.15,0.422,0,0.195
+"P21","Ramiro Marra por la Libertad Avanza",0.052,0.068,0.359,0.045,0.098,0.038,0.05,0.076
+"P21","Vanina Biasi por el Frente de Izquierda",0.155,0.027,0.014,0.269,0.268,0,0,0.087
+"P21","Otros",0.105,0.029,0.042,0.062,0.064,0.165,0.054,0.049
+"P21","En blanco",0.05,0.022,0.05,0,0,0.067,0.325,0.059
+"P21","No sabe",0.033,0.031,0.05,0,0,0,0.022,0.207
+"P25","Totalmente seguro",0.728,0.66,0.558,0.663,0.861,0.616,0.726,0.257
+"P25","Bastante seguro",0.194,0.191,0.212,0.18,0.099,0.131,0.111,0.111
+"P25","Algo seguro",0.058,0.1,0.128,0.106,0.02,0.144,0.05,0.091
+"P25","Para nada seguro",0.02,0.049,0.102,0.051,0.02,0.109,0.113,0.541
+"P26","Tiene Decidido que va a ir a votar",0.912,0.923,0.855,0.927,0.961,0.759,0.92,0.754
+"P26","Tiene dudas sobre si va a ir a  votar",0.076,0.054,0.066,0.032,0.039,0.075,0.017,0.136
+"P26","Tiene Decidido que no va a ir a votar",0.012,0.023,0.079,0.041,0,0.166,0.063,0.11
+"P27","Sergio Massa a Presidente y Agustín Rossi a Vicepresidente por Unión por la Patria",0.93,0.093,0.004,0.087,0.046,0.044,0.046,0.083
+"P27","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.022,0.758,0.244,0.043,0.104,0.296,0.587,0.301
+"P27","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.012,0.049,0.735,0.017,0,0,0.017,0
+"P27","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0.018,0.005,0.011,0.794,0.212,0,0,0.063
+"P27","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0,0.024,0,0.019,0.5,0,0,0
+"P27","Otros",0.015,0.037,0,0.012,0,0.629,0.066,0.063
+"P27","En blanco",0,0.009,0.003,0.017,0,0,0.262,0.051
+"P27","No sabe",0.003,0.025,0.003,0.011,0.138,0.031,0.022,0.439
+"P29","Leandro Santoro a Jefe de Gobierno por Unión por la Patria",0.902,0.034,0.041,0.341,0.066,0.161,0.034,0.207
+"P29","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio",0.023,0.825,0.284,0.012,0.529,0.252,0.367,0.296
+"P29","Ramiro Marra por la Libertad Avanza",0.023,0.025,0.551,0.047,0.105,0,0.145,0
+"P29","Vanina Biasi por el Frente de Izquierda",0.03,0.023,0,0.38,0,0.038,0.024,0.043
+"P29","Otros",0.017,0.043,0.074,0.09,0.273,0.204,0.034,0.04
+"P29","En blanco",0,0.021,0.047,0,0,0.345,0.114,0
+"P29","No sabe",0.005,0.029,0.003,0.13,0.027,0,0.282,0.414
+"P30","Leandro Santoro a Jefe de Gobierno por Unión por la Patria",0.848,0.026,0.054,0.366,0,0.129,0.036,0.163
+"P30","Martin Lousteau a Jefe de Gobierno por Juntos por el Cambio",0.088,0.864,0.224,0.121,0.53,0.273,0.242,0.316
+"P30","Ramiro Marra por la Libertad Avanza",0.006,0.038,0.636,0.047,0.106,0.04,0.026,0.045
+"P30","Vanina Biasi por el Frente de Izquierda",0.022,0.01,0,0.34,0,0,0.026,0.044
+"P30","Otros",0.02,0.023,0.05,0.029,0.215,0.22,0.044,0
+"P30","En blanco",0,0.01,0.03,0,0.108,0.285,0.431,0
+"P30","No sabe",0.016,0.029,0.006,0.097,0.041,0.053,0.195,0.432
+"P33","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Unión por la Patria",0.889,0.129,0.117,0.565,0,0.225,0,0.131
+"P33","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.041,0.802,0.669,0.022,0.489,0.46,0.707,0.478
+"P33","En blanco",0.064,0.036,0.167,0.351,0.453,0.113,0.247,0
+"P33","No sabe",0.006,0.033,0.047,0.062,0.058,0.202,0.046,0.391
+"P34","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.09,0.784,0.418,0.2,0.819,0.385,0.601,0.517
+"P34","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.069,0.12,0.533,0,0.041,0.12,0.124,0.035
+"P34","En blanco",0.705,0.066,0.036,0.701,0.14,0.178,0.195,0.09
+"P34","No sabe",0.136,0.03,0.013,0.099,0,0.317,0.08,0.358
+"P35","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Unión por la Patria",0.898,0.075,0.086,0.568,0.043,0.198,0,0.074
+"P35","Horacio Rodríguez Larreta  a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.044,0.833,0.33,0.058,0.76,0.435,0.324,0.322
+"P35","En blanco",0.046,0.04,0.492,0.358,0.197,0.061,0.562,0.089
+"P35","No sabe",0.012,0.052,0.092,0.016,0,0.306,0.114,0.515
+"P36","Horacio Rodríguez Larreta  a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.183,0.808,0.161,0.276,0.381,0.346,0.309,0.237
+"P36","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.044,0.113,0.772,0,0.451,0.084,0.046,0.164
+"P36","En blanco",0.655,0.036,0.064,0.626,0.168,0.287,0.506,0.07
+"P36","No sabe",0.118,0.043,0.003,0.098,0,0.283,0.139,0.529
+"P37","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Unión por la Patria",0.915,0.195,0.088,0.627,0.27,0.229,0,0.021
+"P37","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.034,0.324,0.833,0,0.194,0.12,0.135,0.2
+"P37","En blanco",0.042,0.256,0.038,0.318,0.478,0.145,0.583,0.022
+"P37","No sabe",0.009,0.225,0.041,0.055,0.058,0.506,0.282,0.757
+"P38","Lo votaría",0.83,0.08,0.06,0.334,0.314,0.24,0.085,0
+"P38","Puede que lo vote",0.12,0.205,0.138,0.329,0.09,0.195,0.144,0.142
+"P38","Nunca lo votaría",0.028,0.678,0.759,0.212,0.596,0.366,0.673,0.681
+"P38","No sabe",0.022,0.037,0.043,0.125,0,0.199,0.098,0.177
+"P39","Lo votaría",0.532,0.017,0.049,0.497,0,0.383,0.114,0
+"P39","Puede que lo vote",0.273,0.09,0.083,0.212,0.102,0.121,0,0
+"P39","Nunca lo votaría",0.169,0.849,0.856,0.214,0.898,0.425,0.816,0.916
+"P39","No sabe",0.026,0.044,0.012,0.077,0,0.071,0.07,0.084
+"P40","Lo votaría",0.115,0.663,0.421,0.226,0.576,0.344,0.722,0.497
+"P40","Puede que lo vote",0.069,0.124,0.286,0.097,0.325,0,0.035,0.086
+"P40","Nunca lo votaría",0.793,0.189,0.274,0.599,0.099,0.604,0.173,0.255
+"P40","No sabe",0.023,0.024,0.019,0.078,0,0.052,0.07,0.162
+"P41","Lo votaría",0.021,0.696,0.16,0.091,0.32,0.27,0.111,0.267
+"P41","Puede que lo vote",0.15,0.254,0.361,0.176,0.347,0.158,0.173,0.312
+"P41","Nunca lo votaría",0.802,0.043,0.453,0.609,0.333,0.427,0.483,0.2
+"P41","No sabe",0.027,0.007,0.026,0.124,0,0.145,0.233,0.221
+"P42","Lo votaría",0.037,0.145,0.797,0,0.118,0.081,0.118,0.036
+"P42","Puede que lo vote",0.044,0.33,0.138,0.075,0.214,0.099,0.062,0.326
+"P42","Nunca lo votaría",0.9,0.485,0.065,0.839,0.668,0.618,0.604,0.578
+"P42","No sabe",0.019,0.04,0,0.086,0,0.202,0.216,0.06
+"P43","Lo votaría",0.079,0.035,0.144,0.647,0.043,0,0,0.063
+"P43","Puede que lo vote",0.478,0.054,0.069,0.145,0.105,0.06,0.029,0.15
+"P43","Nunca lo votaría",0.385,0.893,0.768,0.208,0.852,0.884,0.842,0.587
+"P43","No sabe",0.058,0.018,0.019,0,0,0.056,0.129,0.2
+"P44","Lo votaría",0.051,0.02,0.039,0.033,0.775,0,0,0
+"P44","Puede que lo vote",0.205,0.152,0.093,0.084,0.106,0.089,0.095,0.217
+"P44","Nunca lo votaría",0.653,0.747,0.846,0.704,0.119,0.855,0.827,0.468
+"P44","No sabe",0.091,0.081,0.022,0.179,0,0.056,0.078,0.315
+"P52","Si",0.517,0.494,0.572,0.352,0.18,0.5,0.464,0.175
+"P52","No",0.483,0.506,0.428,0.648,0.82,0.5,0.536,0.825

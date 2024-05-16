@@ -1,0 +1,17 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P07	Control	quali	Y podría decirnos entonces si usted:	Nivel de decisión sobre ir o no a votar	
+P09	Preferencias electorales 	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en elecciones presidenciales	
+P12	Escenarios políticos 	politica	Pensando en las próximas elecciones primarias (PASO), ¿a qué candidatos a presidente, vicepresidente, gobernador y vicegobernador votaría?	Intención de voto por candidatos a Presidente, Vicepresidente, Gobernador y Vicegobernador	
+P15	Escenarios políticos 	quali	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente, vicepresidente, gobernador y vicegobernador en las próximas elecciones primarias paso.	Nivel de seguridad sobre la preferencia de voto en PASO	
+P16	Reach de intención de voto	votaria	Votaría usted la fórmula de Sergio Massa presidente,  Agustín Rossi vicepresidente,  Adán Bahl gobernador y Claudia Monjo a vicegobernadora…	Intención de voto por fórmula Massa - Rossi - Bahl – Monjo.
+P17	Reach de intención de voto	votaria	Votaría usted la fórmula de Juan Grabois presidente,  Paula Abal Medina vicepresidente, Adán Bahl gobernador y Claudia Monjo a vicegobernadora…	Intención de voto por fórmula Grabois - Abal Medina - Bahl – Monjo.
+P18	Reach de intención de voto	votaria	Votaría usted la fórmula de Patricia Bullrich Presidenta, Luis Petri vicepresidente, Rogelio Frigerio a gobernador y Alicia Aluani a vicegobernadora… 	Intención de voto por fórmula Bullrich - Petri - Frigerio – Aluani.
+P19	Reach de intención de voto	votaria	Votaría usted la fórmula de Horacio Rodriguez Larreta Presidente, Gerardo Morales vicepresidente, Rogelio Frigerio a gobernador y Alicia Aluani a vicegobernadora	Intención de voto por fórmula Rodríguez Larreta - Morales - Frigerio – Aluani.
+P20	Reach de intención de voto	votaria	Votaría usted la fórmula de Javier Milei Presidente, Victoria Villarruel vicepresidenta, Arturo Etchevere a gobernador y Mayda Spizzi a vicegobernadora…	Intención de voto por fórmula Milei - Villarruel - Etchevere – Spizzi.
+P21	Reach de intención de voto	votaria	Votaría usted la fórmula de Pedro Galimberti a gobernador y Ana D´Angelo vicegobernadora…	Intención de voto por fórmula Galimberti – D'Angelo.
+P22	Reach de intención de voto	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	
+P12_imputada	Escenarios políticos 	politica	Pensando en las próximas elecciones primarias (PASO), ¿a qué candidatos a presidente, vicepresidente, gobernador y vicegobernador votaría?	Intención de voto por candidatos a Presidente, Vicepresidente, Gobernador y Vicegobernador	 (Imputación no lineal de indecisos)
+PRESIDENTE	Escenarios políticos 	politica	Intención de voto por fórmula Presidencial de la muestra completa	Intención de voto por fórmula Presidencial de la muestra completa	
+PRESIDENTE_imputada	Escenarios políticos 	politica	Intención de voto por fórmula Presidencial de la muestra completa	Intención de voto por fórmula Presidencial de la muestra completa	(Imputación no lineal de indecisos)

@@ -1,0 +1,48 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P12	Bloque Perfil económico y laboral	ingresos	Considerando la totalidad de los ingresos actuales de su grupo familiar, Ud diría que:	Ingresos familiares	
+P23	Bloque Perfil económico y laboral	quali	Podría indicarnos cuál es su situación laboral?	Situación laboral	
+P13	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del Gobierno de la Provincia de Rio Negro?	Opinión sobre la gestión del Gobierno de la Provincia de Rio Negro	
+P14	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del Gobierno del gobierno nacional?	Opinión sobre la gestión del Gobierno Nacional	
+P15	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de Bariloche?	Opinión sobre la gestión del Gobierno Municipal de Bariloche	
+P16	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de General Roca?	Opinión sobre la gestión del Gobierno Municipal de Roca	
+P17	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de Cipoletti?	Opinión sobre la gestión del Gobierno Municipal de Cipoletti	
+P18	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de Viedma?	Opinión sobre la gestión del Gobierno Municipal de Viedma	
+P19	Bloque Gestión pública provincial y nacional	opinion	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno entrante de Alberto Weretilneck? 	Expectativas sobre el gobierno entrante de A. Weretilneck	
+P33	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión educativa?	Valoración de la calidad de la gestión educativa	
+P34	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión de salud?	Valoración la calidad de la gestión de salud	
+P35	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión de seguridad?	Valoración la calidad de la gestión de seguridad	
+P36	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión ambiental?	Valoración la calidad de la gestión ambiental.	
+P20	Bloque Gestión pública provincial y nacional	politica	Quien considera usted que es el principal responsable de la actual situación de la provincia de Rio Negro	Opinión sobre la responsabilidad de la situación actual de la Provincia	
+P21	Bloque Gestión pública provincial y nacional	politica	Y quien considera usted mas responsable de la actual situación de la provincia de Rio negro	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Provincial)
+P22	Bloque Gestión pública provincial y nacional	politica	Y quien considera usted más responsable de la actual situación de la provincia de Rio negro	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Nacional)
+P40	Bloque Principales problemas y situación económica provincial	quali	¿Cuál cree que es el principal problema de la provincia de Rio Negro?	Principal problema de la Provincia	
+P44	Bloque Principales problemas y situación económica provincial	opinion	¿Cuál es su opinión sobre la situación económica actual de la provincia de rio negro? 	Percepción de la situación económica actual de la Provincia	
+P45	Bloque Principales problemas y situación económica provincial	diverging	¿Considera usted que la situación económica de la provincia de rio negro está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación económica de la Provincia comparada con seis meses atrás	
+P46	Bloque Principales problemas y situación económica provincial	diverging	¿Cómo cree que va a estar la situación económica de la provincia de rio negro dentro de seis meses? 	Expectativa respecto de la situación económica de la Provincia dentro de seis meses	
+P24	Bloque Coyuntura provincial	opinion	Podría indicarnos cuál es su opinión sobre la decisión del poder ejecutivo provincial de poner un piso de 500mil pesos para el pago de empleados estatales?	Opinión sobre el piso de 500mil pesos para empleados estatales	
+P30	Bloque Coyuntura provincial		Qué opina usted sobre el cierre de delegaciones regionales del ENACOM en la Provincia de Río Negro	Opinión sobre el cierre de delegaciones regionales de ENACOM en la Provincia	
+P31	Bloque Coyuntura provincial	quali	Ha tenido usted problema alguno con los servicios prestados por las empresas de cable o internet	Problemas con los servicios de internet o cable	
+P32	Bloque Coyuntura provincial	quali	Cómo se resolvieron los problemas que usted tuvo?	Medio de resolución de problemas de internet o cable	
+P25	Bloque Coyuntura nacional	opinion	Que opina usted sobre el aumento anunciado por el gobierno nacional de la tarifa de gas y electricidad que podría ser en promedio de un 300% a partir del mes de abril 	Opinión sobre el aumento de tarifas de Gas y Electricidad	
+P26	Bloque Coyuntura nacional	sino	El gobierno nacional analiza actualizar el piso del impuesto a las ganancias en un millón doscientos mil pesos ¿Estaba usted enterado de lo que busca hacer el gobierno nacional?	Conocimiento sobre la posible actualización del piso de Ganancias	
+P27	Bloque Coyuntura nacional	opinion	Qué opina usted de la intención del gobierno nacional de actualizar el piso del impuesto a las ganancias en un millón doscientos mil pesos	Opinión sobre la posible actualización del piso de Ganancias	
+P28	Bloque Coyuntura nacional	sino	El gobierno nacional recortó el envió de la coparticipación de la provincia la cual generó una pérdida trimestral en términos reales de 50 mil millones de pesos ¿Estaba usted enterado de esta decisión por parte del gobierno nacional?	Conocimiento de las consecuencia del recorte a la coparticipación de la Provincia	
+P29	Bloque Coyuntura nacional	opinion	Qué opina usted que debido a que el gobierno nacional recorto el envió de la coparticipación la provincia totalizó una perdida trimestral en términos reales de 50 mil millones de pesos	Opinión sobre las consecuencia del recorte a la coparticipación de la Provincia	
+P37	Bloque Coyuntura nacional	quali	¿Qué debiera hacer el gobierno provincial en relación a la decisión del gobierno nacional de limitar las transferencias de recursos coparticipables?	Opinión sobre la postura del Gob. Provincial en función del recorte a la coparticipación	
+P38	Bloque Coyuntura nacional	quali	Qué debería hacer el gobierno de la provincia en relación al denominado pacto de Mayo propuesto por el gobierno nacional	Opinión sobre la postura del Gob. Provincial en relación al Pacto de Mayo	
+P39	Bloque Coyuntura nacional	quali	Qué debiera ser el gobierno de la provincia en relación al envío de una ley más corta de la denominada ley ómnibus o ley de bases.	Opinión sobre la postura del Gob. Provincial en relación a la nueva versión de la ley Ómnibus	
+P47	Bloque Coyuntura nacional		En la disputa entre el presidente Milei y los gobernadores quien considera usted que tiene la razón	Opinión respecto a la disputa entre los gobernadores y el presidente	
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Alberto Weretilneck? 	Imagen de Alberto Weretilneck	
+P49	Imagen de dirigentes	imagen	¿Qué imagen tiene de Gustavo Gennuso?	Imagen de Gustavo Gennuso	(Sólo habitantes de Bariloche)
+P50	Imagen de dirigentes	imagen	¿Qué imagen tiene de María Emilia Soria? 	Imagen de María Emilia Soria	
+P51	Imagen de dirigentes	imagen	¿Qué imagen tiene de Aníbal Tortoriello?	Imagen de Aníbal Tortoriello	
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Claudio Di Tella? 	Imagen de Claudio Di Tella	(Sólo habitantes de Cipoletti)
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Marcos Castro? 	Imagen de Marcos Castro	(Sólo habitantes de Viedma)
+P54	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner	
+P55	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	
+P57	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen de Axel Kicillof	
+P58	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P59	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich	
+P60	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel	
+P61	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti? 	Imagen de Juan Schiaretti	

@@ -1,0 +1,68 @@
+"var","categoria","Sergio Massa a presidente, Axel Kicillof a gobernador y Damian Selci a intendente por Unión por la Patria","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio","Javier Milei a presidente, Carolina Piparo a gobernadora  y Rafael De Francesco a intendente por la Libertad Avanza","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda","En blanco","No sabe"
+"P05","Mucho",0.456,0.252,0.302,0.411,0.221,0.288
+"P05","Bastante",0.34,0.351,0.3,0.168,0.171,0.093
+"P05","Poco",0.129,0.243,0.231,0.123,0.105,0.227
+"P05","Nada",0.071,0.131,0.122,0.298,0.465,0.287
+"P05","No sabe",0.004,0.023,0.045,0,0.038,0.105
+"P06","Siempre",0.2,0.218,0.213,0.123,0.086,0.092
+"P06","Casi siempre",0.316,0.315,0.19,0.187,0.18,0.255
+"P06","Casi nunca",0.308,0.306,0.318,0.259,0.284,0.275
+"P06","Nunca, pero esta es una excepción",0.176,0.161,0.279,0.431,0.45,0.378
+"P09","Unión por la Patria",0.748,0.083,0.301,0.136,0.216,0.317
+"P09","Juntos por el Cambio",0.097,0.7,0.103,0.106,0.101,0.155
+"P09","De los Liberales libertarios",0.015,0.133,0.471,0,0.027,0.01
+"P09","De la Izquierda",0.031,0.023,0.016,0.55,0.129,0.016
+"P09","Hacemos por nuestro pais",0.006,0.018,0,0.044,0,0
+"P09","Otro",0.025,0.01,0.066,0,0,0.038
+"P09","En blanco",0.048,0.008,0.03,0.062,0.382,0.029
+"P09","No sabe",0.03,0.025,0.013,0.102,0.145,0.435
+"P10","Sergio Massa a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.407,0.075,0.087,0.062,0.117,0.183
+"P10","Juan Grabois a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.073,0.006,0.057,0.073,0.061,0.036
+"P10","Sergio Massa a presidente, Axel Kicillof a gobernador y Damián Selci a intendente por Unión por la Patria",0.342,0.029,0.098,0.336,0.013,0.044
+"P10","Juan Grabois a presidente, Axel Kicillof a gobernador y Damián Selci a intendente por Unión por la Patria",0.068,0.006,0.007,0.085,0.043,0.041
+"P10","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.02,0.525,0.08,0,0.027,0.081
+"P10","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.034,0.225,0.067,0.106,0.126,0.113
+"P10","Javier Milei a presidente, Carolina Piparo a gobernadora  y Rafael De Francesco a intendente por la Libertad Avanza",0.02,0.091,0.577,0,0.032,0.004
+"P10","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0,0.01,0,0.185,0.116,0.05
+"P10","En blanco",0.006,0.023,0.009,0,0.421,0.007
+"P10","No sabe",0.03,0.01,0.018,0.153,0.044,0.441
+"P13","Sergio Massa a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.638,0.109,0.155,0.062,0.161,0.208
+"P13","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Andrea Giorgini a intendenta por Juntos por el Cambio",0.079,0.758,0.059,0.044,0.027,0.037
+"P13","Javier Milei a presidente, Carolina Piparo a gobernadora  y Rafael De Francesco a intendente por la Libertad Avanza",0.042,0.086,0.732,0,0.117,0.004
+"P13","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.014,0.012,0.024,0.727,0.007,0.018
+"P13","En blanco",0.055,0.006,0.003,0,0.508,0.022
+"P13","No sabe",0.172,0.029,0.027,0.167,0.18,0.711
+"P16","Sergio Massa a presidente, Axel Kicillof a gobernador y Juan Zabaleta a intendente por Unión por la Patria",0.638,0.149,0.148,0.062,0.146,0.218
+"P16","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.033,0.58,0.202,0.106,0.126,0.141
+"P16","Javier Milei a presidente, Carolina Piparo a gobernadora  y Rafael De Francesco a intendente por la Libertad Avanza",0.112,0.137,0.604,0,0,0.011
+"P16","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.034,0.018,0.012,0.573,0,0
+"P16","En blanco",0.047,0.032,0,0.062,0.573,0.004
+"P16","No sabe",0.136,0.084,0.034,0.197,0.155,0.626
+"P22","Sergio Massa a presidente, Axel Kicillof a gobernador y Damián Selci a intendente por Unión por la Patria",0.785,0.059,0.213,0.286,0.091,0.045
+"P22","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Lucas Delfino a intendente por Juntos por el Cambio",0.101,0.718,0.149,0.152,0.054,0.151
+"P22","Javier Milei a presidente, Carolina Piparo a gobernadora  y Rafael De Francesco a intendente por la Libertad Avanza",0.089,0.142,0.551,0,0,0.017
+"P22","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0,0.007,0,0.432,0.149,0
+"P22","En blanco",0,0.05,0.02,0.043,0.654,0.093
+"P22","No sabe",0.025,0.024,0.067,0.087,0.052,0.694
+"P25","Lo votaría",0.299,0.228,0.164,0.116,0.209,0.354
+"P25","Puede que lo vote",0.274,0.184,0.171,0.068,0.037,0.089
+"P25","Nunca lo votaría",0.255,0.487,0.49,0.327,0.539,0.2
+"P25","No sabe",0.172,0.101,0.175,0.489,0.215,0.357
+"P26","Lo votaría",0.542,0.144,0.163,0.376,0.067,0.138
+"P26","Puede que lo vote",0.165,0.198,0.233,0.165,0.12,0.121
+"P26","Nunca lo votaría",0.192,0.526,0.374,0.372,0.48,0.415
+"P26","No sabe",0.101,0.132,0.23,0.087,0.333,0.326
+"P27","Lo votaría",0.069,0.396,0.11,0,0.134,0.071
+"P27","Puede que lo vote",0.079,0.198,0.205,0.052,0.03,0.027
+"P27","Nunca lo votaría",0.666,0.224,0.379,0.424,0.681,0.568
+"P27","No sabe",0.186,0.182,0.306,0.524,0.155,0.334
+"P28","Lo votaría",0.058,0.397,0.17,0,0.064,0.204
+"P28","Puede que lo vote",0.095,0.32,0.187,0.127,0.066,0.039
+"P28","Nunca lo votaría",0.7,0.2,0.364,0.425,0.678,0.452
+"P28","No sabe",0.147,0.083,0.279,0.448,0.192,0.305
+"P29","Lo votaría",0.011,0.143,0.189,0,0.01,0.073
+"P29","Puede que lo vote",0.1,0.167,0.171,0.08,0.064,0.013
+"P29","Nunca lo votaría",0.74,0.48,0.314,0.371,0.674,0.501
+"P29","No sabe",0.149,0.21,0.326,0.549,0.252,0.413
+"P30","Si",0.796,0.993,1,0.96,0.749,0.85
+"P30","No",0.204,0.007,0,0.04,0.251,0.15

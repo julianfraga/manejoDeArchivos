@@ -1,0 +1,57 @@
+"var","categoria","Si","No"
+"P02","Masculino",0.484,0.348
+"P02","Femenino",0.483,0.383
+"P02","No binario",0.033,0.269
+"P03","Soltero o soltera",0.365,0.278
+"P03","Casado o casada",0.434,0.383
+"P03","En concubinato",0.201,0.339
+"P04","No tengo hijos",0.209,0.325
+"P04","Tengo 1 hijo",0.21,0.13
+"P04","Tengo 2 hijos",0.265,0.236
+"P04","Tengo 3 o más hijos",0.316,0.309
+"P06","Tengo trabajo estable",0.568,0.276
+"P06","Realizo changas o trabajos de vez en cuando",0.113,0.365
+"P06","No tengo trabajo",0.121,0.283
+"P06","Soy jubilado o pensionado",0.198,0.076
+"P07","Si, tengo un emprendimiento",0.311,0.206
+"P07","No, no tengo ningún emprendimiento",0.689,0.794
+"P08","Hasta $70.000",0.284,0.68
+"P08","De $70.000 a $140.000",0.282,0.163
+"P08","De $140.000 a $210.000",0.168,0.086
+"P08","De $210.000 a $280.000",0.079,0.021
+"P08","De $280.000 a $350.000",0.08,0.007
+"P08","De $350.000 a $420.000",0.02,0.006
+"P08","De $420.000 a $490.000",0.014,0
+"P08","Más de $490.000",0.073,0.037
+"P11","En un banco",0.72,0.546
+"P11","En una financiera",0.09,0.15
+"P11","En una fintech",0.007,0.019
+"P11","En una red de finanzas colaborativas",0.007,0.025
+"P11","Otro",0.176,0.26
+"P12","De $25.000 a $300.000",0.581,0.52
+"P12","De $300.000 a $500.000",0.136,0.129
+"P12","De $500.000 a $800.000",0.06,0.069
+"P12","De $800.000 a $1.500.000",0.076,0.075
+"P12","De $1.500.000 a $3.000.000",0.079,0.098
+"P12","De $3.000.000 a $5.000.000",0.028,0.044
+"P12","Más de $5.000.000",0.04,0.065
+"P13","No, no tuve ningún problema",0.856,0.298
+"P13","Si, tuve scoring insuficiente",0.059,0.26
+"P13","Si, porque estaba en el veraz",0.018,0.143
+"P13","Si, porque la tasa de interés era muy alta",0.034,0.15
+"P13","Si, porque no cumplía con la documentación solicitada",0.005,0.101
+"P13","Otro problema",0.028,0.048
+"P14","No, no sentí ningún trato diferencial",0.933,0.443
+"P14","Si, sentí desconfianza",0.026,0.217
+"P14","Si, sentí que hubo maltrato",0.002,0.096
+"P14","Si, sentí que hubo una mala atención",0.014,0.074
+"P14","Si, sentí que me subestimaron",0.011,0.067
+"P14","Otro problema",0.014,0.103
+"P16","Si",0.408,0.097
+"P16","No",0.592,0.903
+"P17","Si, recibí apoyo financiero",0.112,0.037
+"P17","No, nunca recibí apoyo financiero",0.888,0.963
+"P18","Menos de $1.500.000",0.393,0.346
+"P18","de $1.500.000 a $3.000.000",0.328,0.524
+"P18","de $3.000.000 a $5.000.000",0.095,0.078
+"P18","Más de $5.000.000",0.184,0.052

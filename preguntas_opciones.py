@@ -28,7 +28,7 @@ def getOpciones(ruta):
         texto = parrafo.text
         if not texto:
             continue
-        if 'rotada' in texto.lower() or 'rotadas' in texto.lower():
+        if 'rotada' in texto.lower() or 'rotadas' in texto.lower() or 'rotacion' in texto.lower():
             continue
         if 'Pregunta' in texto:
             codigo = texto.strip('Pregunta ')
@@ -84,9 +84,11 @@ def getPreguntas(ruta):
         # bis =  'BIS' in texto.lower() or 'bis' in texto.lower()
         
         if 'pregunta' in texto.lower() and 'ahora' not in texto.lower():
-            if 'y si' not in texto.lower() and 'quisiéramos' not in texto.lower():
+            if 'y si' not in texto.lower() and 'quisiéramos' not in texto.lower():                    
                 numero = texto.strip('Pregunta ')
                 codigo = 'P'+str.zfill(numero, 2)
+                if 'ex' in codigo:
+                    codigo = codigo[:3]
                 preguntas[codigo] = ''
                 banderin_apertura = True
                 continue
@@ -139,10 +141,10 @@ def getBloque(ruta):
 def infer_politica(opcion):
 
     dic = dict(
-    peronismo = ['juntos avancemos','por la patria','nos une','peron','peronismo', 'frente de todos', 'fdt','evita', 'kirchnerismo', 'alberto fernandez', 'brutten','kirchner', 'cfk','vamos con todos'],
-    cambiemos = ['unidos para cambiar', 'macrismo', 'cambiemos', 'juntos por el cambio', 'junto x el cambio', 'pro', 'jxc','tortoriello'],
-    liberales = ['lieberal', 'libertar', 'milei', 'libertad'],
-    izquierda = ['izquierda', 'socialismo'],
+    peronismo = ['massa', 'kicillof','juntos avancemos','por la patria','nos une','peron','peronismo', 'frente de todos', 'fdt','evita', 'kirchnerismo', 'alberto fernandez', 'brutten','kirchner', 'cfk','vamos con todos'],
+    cambiemos = ['encuentro por corrientes', 'bullrich','unidos para cambiar', 'macrismo', 'cambiemos', 'juntos por el cambio', 'junto x el cambio', 'pro', 'jxc','tortoriello'],
+    liberales = ['lieberal', 'libertar', 'milei', 'libertad', 'villarruel'],
+    izquierda = ['izquierda', 'socialismo', 'bregman'],
     peronismo_nok = ['país', 'pais', 'randazzo', 'schiaretti'],
     blanco = ['en blanco'],
     nosabe = ['no sabe', 'no se'])
@@ -178,7 +180,6 @@ def infer_paleta_else(paleta):
     
     elif 'mucho' in paleta:
         return('paletas["{pregunta}"] = muchoPocoColorDict')
-        
     
     elif paleta in ['problema', 'deuda', 'ingresos', 'opinion', 'comparacion', 'medios']:
         return('paletas["{pregunta}"] = {paleta}ColorDict')
@@ -186,18 +187,19 @@ def infer_paleta_else(paleta):
         return False
     
 
-def infer_paleta(opciones_todas, cuestionario, default_paleta="diverging"):
-
+def infer_paleta(opciones_todas, cuestionario):
+    
     df_preguntas = cuestionario
 
     paleta = {}
     bloque = ''
     for i, row in df_preguntas.fillna("").iterrows():
+        default_paleta="diverging"
         pregunta = row.codigo
         paleta = row.paleta
         codigo = row.codigo
-        if not pregunta[1].isdigit() or 'imputada' in pregunta:
-            continue
+        # if not pregunta[1].isdigit() or 'imputada' in pregunta:
+        #     continue
         if bloque != row.bloque:
             bloque = row.bloque
             print()
@@ -238,20 +240,20 @@ def infer_paleta(opciones_todas, cuestionario, default_paleta="diverging"):
 
                 print(f'paletas["{pregunta}"] = ' + value + '\n', sep = '\n')
             
-
-            elif infer_paleta_else(paleta.lower()):
-                string_salida = infer_paleta_else(paleta.lower()).format(pregunta = pregunta, paleta = paleta.lower())
-                print(string_salida)
             else:
-                opciones_lower = [ ]
-                for opcion in opciones:
-                    opciones_lower.append(opcion.lower())
-                    
-                nosabe =  ("no sabe" in opciones_lower )  or ( "no se" in opciones_lower)
-                if 'quali' in paleta:
-                    default_paleta = 'qualitative_strong'
-                    
-                print(f'paletas["{pregunta}"] = list2dictPalette({repr(opciones)}, {default_paleta}, noSabe={nosabe})')
+                if infer_paleta_else(paleta.lower()):
+                    string_salida = infer_paleta_else(paleta.lower()).format(pregunta = pregunta, paleta = paleta.lower())
+                    print(string_salida)
+                else:
+                    opciones_lower = [ ]
+                    for opcion in opciones:
+                        opciones_lower.append(opcion.lower())
+                        
+                    nosabe =  ("no sabe" in opciones_lower )  or ( "no se" in opciones_lower)
+                    if 'quali' in paleta:
+                        default_paleta = 'qualitative_strong'
+                        
+                    print(f'paletas["{pregunta}"] = list2dictPalette({repr(opciones)}, {default_paleta}, noSabe={nosabe})')
 
 def limpiarKeys(diccionario):
     
@@ -271,15 +273,16 @@ def limpiarKeys(diccionario):
     return diccionarioLimpio
 
 def cuestionarioTSV(rutaCuestionario, rutaGuardado='/home/julian/trabajo/updates', nombreArchivo = '', 
-                    checkCarpeta = False, rutaData = 'web/individuales'):
+                    checkCarpeta = True, rutaData = 'web/individuales'):
     '''
     Lee las preguntas y bloques previamente pasados a diccionario y arma un csv
     completando código, bloque y texto
     '''
     rutaCompleta = os.path.join(rutaGuardado,nombreArchivo)
     preguntas = limpiarKeys(getPreguntas(rutaCuestionario))
-    bloques = limpiarKeys(getBloque(rutaCuestionario))
     claves = preguntas.keys()
+    
+    bloques = limpiarKeys(getBloque(rutaCuestionario)) or dict(zip(claves, ['General']*len(claves))) #por si no hay ningún bloque marcadoe n la encuesta
     
     campos =['codigo','bloque','paleta','texto','label','aclaracion']
     
@@ -336,7 +339,7 @@ def printPaletas(texto, nombre_tsv, ruta_trabajo, subcarpeta = 'web/individuales
     
     opciones_limpias = {}
     for key in opciones:
-        codigo_limpio = key[:3]
+        codigo_limpio = key.replace('.csv', '')
         if codigo_limpio in cuestionario.codigo.to_list():
             opciones_limpias[codigo_limpio] = opciones[key]
     

@@ -1,0 +1,47 @@
+"var","categoria","Totalmente seguro.","Bastante seguro","Algo seguro","Para nada seguro"
+"P09_votan","Unión por la Patria",0.294,0.244,0.2,0.208
+"P09_votan","Juntos por el Cambio",0.338,0.35,0.283,0.167
+"P09_votan","De los liberales libertarios",0.253,0.287,0.244,0.125
+"P09_votan","De la Izquierda",0.035,0.048,0.052,0.04
+"P09_votan","Hacemos por nuestro país",0.008,0.003,0.012,0.036
+"P09_votan","Otro",0.022,0.03,0.039,0.111
+"P09_votan","En blanco",0.022,0,0.057,0.13
+"P09_votan","No sabe",0.028,0.038,0.113,0.183
+"P19_votan","Sergio Massa Presidente, Agustin Rossi Vicepresidente , Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.283,0.201,0.183,0.151
+"P19_votan","Juan Grabois Presidente, Paula Abal Medina Vicepresidente, Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.07,0.214,0.073,0.039
+"P19_votan","Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.232,0.207,0.165,0.163
+"P19_votan","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente, Diego Santilli gobernador y Gustavo Posse vicegobernador; por Juntos por el Cambio",0.11,0.125,0.193,0.114
+"P19_votan","Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.239,0.176,0.302,0.134
+"P19_votan","Los candidatos a presidente, vicepresidente, gobernador y vicegobernador de las diferentes opciones de izquierda",0.026,0.012,0,0.044
+"P19_votan","Juan Schiaretti a presidente y Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0.009,0.016,0.03,0.008
+"P19_votan","Otros",0.01,0,0.014,0.09
+"P19_votan","En blanco",0.013,0.003,0,0.067
+"P19_votan","No sabe",0.008,0.046,0.04,0.19
+"P23_votan","Tiene Decidido que va a ir a votar.",0.974,0.856,0.931,0.798
+"P23_votan","Tiene dudas sobre si va a ir a  votar",0.026,0.144,0.069,0.202
+"P34_votan","Inflación",0.379,0.33,0.237,0.229
+"P34_votan","Desempleo",0.072,0.079,0.152,0.117
+"P34_votan","Corrupción",0.229,0.215,0.269,0.259
+"P34_votan","Inseguridad",0.172,0.213,0.149,0.269
+"P34_votan","Precio del dólar",0.016,0.007,0.013,0
+"P34_votan","Pobreza",0.052,0.04,0.105,0.037
+"P34_votan","Narcotráfico",0.022,0.011,0.034,0.015
+"P34_votan","Tarifas",0.015,0.034,0,0
+"P34_votan","Otro",0.036,0.019,0.041,0.062
+"P34_votan","No sabe",0.007,0.052,0,0.012
+"P09_imputada_votan","Unión por la Patria",0.297,0.259,0.207,0.224
+"P09_imputada_votan","Juntos por el Cambio",0.351,0.358,0.35,0.21
+"P09_imputada_votan","De los liberales libertarios",0.26,0.29,0.283,0.149
+"P09_imputada_votan","De la Izquierda",0.035,0.048,0.052,0.133
+"P09_imputada_votan","Hacemos por nuestro país",0.008,0.004,0.012,0.043
+"P09_imputada_votan","Otro",0.027,0.03,0.039,0.111
+"P09_imputada_votan","En blanco",0.022,0.011,0.057,0.13
+"P19_imputada_votan","Sergio Massa Presidente, Agustin Rossi Vicepresidente , Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.284,0.224,0.213,0.204
+"P19_imputada_votan","Juan Grabois Presidente, Paula Abal Medina Vicepresidente, Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.07,0.214,0.073,0.052
+"P19_imputada_votan","Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.233,0.207,0.165,0.226
+"P19_imputada_votan","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente, Diego Santilli gobernador y Gustavo Posse vicegobernador; por Juntos por el Cambio",0.111,0.148,0.193,0.134
+"P19_imputada_votan","Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.244,0.176,0.313,0.16
+"P19_imputada_votan","Los candidatos a presidente, vicepresidente, gobernador y vicegobernador de las diferentes opciones de izquierda",0.026,0.012,0,0.044
+"P19_imputada_votan","Juan Schiaretti a presidente y Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0.009,0.016,0.029,0.008
+"P19_imputada_votan","Otros",0.01,0,0.014,0.105
+"P19_imputada_votan","En blanco",0.013,0.003,0,0.067

@@ -1,0 +1,50 @@
+"var","categoria","Siempre","Casi siempre","Casi nunca","Nunca, pero esta es una excepción"
+"P11","Unión por la Patria",0.467,0.41,0.335,0.333
+"P11","Juntos por el Cambio",0.417,0.465,0.395,0.407
+"P11","En blanco",0.061,0.053,0.189,0.08
+"P11","No sabe",0.055,0.072,0.081,0.18
+"P13","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.48,0.454,0.423,0.426
+"P13","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.413,0.442,0.449,0.454
+"P13","En blanco",0.06,0.044,0.063,0.054
+"P13","No sabe",0.047,0.06,0.065,0.066
+"P15","Totalmente seguro",0.787,0.705,0.726,0.734
+"P15","Bastante seguro",0.106,0.157,0.124,0.112
+"P15","Algo seguro",0.052,0.059,0.07,0.052
+"P15","Para nada seguro",0.055,0.079,0.08,0.102
+"P16","Tiene Decidido que va a ir a votar",0.911,0.912,0.911,0.874
+"P16","Tiene dudas sobre si va a ir a  votar",0.054,0.062,0.06,0.071
+"P16","Tiene Decidido que no va a ir a votar",0.035,0.026,0.029,0.055
+"P17","Lo votaría",0.558,0.497,0.461,0.465
+"P17","Puede que lo vote",0.04,0.053,0.062,0.054
+"P17","Nunca lo votaría",0.372,0.427,0.449,0.436
+"P17","No sabe",0.03,0.023,0.028,0.045
+"P18","Lo votaría",0.427,0.391,0.412,0.407
+"P18","Puede que lo vote",0.065,0.106,0.102,0.084
+"P18","Nunca lo votaría",0.472,0.477,0.446,0.462
+"P18","No sabe",0.036,0.026,0.04,0.047
+"P19","Muy buena",0.441,0.391,0.261,0.306
+"P19","Buena",0.089,0.102,0.165,0.129
+"P19","Ni buena ni mala",0.278,0.298,0.411,0.343
+"P19","Mala",0.122,0.124,0.117,0.146
+"P19","Muy mala",0.038,0.085,0.006,0.023
+"P19","No sabe",0.032,0,0.04,0.053
+"P20","Totalmente de acuerdo",0.42,0.183,0.187,0.228
+"P20","Algo de acuerdo",0.042,0.07,0.097,0.135
+"P20","ni de acuerdo ni en desacuerdo",0.181,0.237,0.344,0.275
+"P20","En desacuerdo",0.164,0.314,0.193,0.205
+"P20","Totalmente en desacuerdo",0.193,0.196,0.179,0.157
+"P21","Cristiano no practicante",0.302,0.298,0.165,0.208
+"P21","Católico apostólico romano",0.42,0.388,0.456,0.43
+"P21","Cristiano evangelista o pentecostal",0.083,0.099,0.157,0.069
+"P21","Otras confesiones cristianas",0.027,0.053,0.08,0.108
+"P21","Musulmán",0.038,0.047,0.028,0.008
+"P21","Judío",0.048,0.004,0.005,0.003
+"P21","Otras",0.023,0.011,0.009,0.059
+"P21","No soy religioso",0.037,0.053,0.067,0.099
+"P21","Ateo",0.022,0.047,0.033,0.016
+"P11_imputada","Unión por la Patria",0.495,0.443,0.363,0.409
+"P11_imputada","Juntos por el Cambio",0.437,0.495,0.431,0.49
+"P11_imputada","En blanco",0.068,0.062,0.206,0.101
+"P13_imputada","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.504,0.477,0.447,0.452
+"P13_imputada","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.432,0.473,0.478,0.489
+"P13_imputada","En blanco",0.064,0.05,0.075,0.059

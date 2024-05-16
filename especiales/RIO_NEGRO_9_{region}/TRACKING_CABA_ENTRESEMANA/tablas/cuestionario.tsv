@@ -1,0 +1,50 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P10	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P11	Intención de voto 	politica	Si las elecciones presidenciales de segunda vuelta fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en segunda vuelta	
+P11_imputada	Intención de voto 	politica	Si las elecciones presidenciales de segunda vuelta fueran mañana ¿Al candidato de qué espacio político votaría? (Imputación no lineal de indecisos)	Intención de voto por espacio político en segunda vuelta (Imputación no lineal de indecisos)	(Imputación no lineal de indecisos)
+P11_imputada_sinblanco	Intención de voto 	politica	Si las elecciones presidenciales de segunda vuelta fueran mañana ¿Al candidato de qué espacio político votaría? (Imputación no lineal de indecisos y votos en blanco)	Intención de voto por espacio político en segunda vuelta (Imputación no lineal de indecisos y votos en blanco)	(Imputación no lineal de indecisos y votos en blanco)
+P13	Intención de voto 	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto por fórmulas presidenciales en segunda vuelta	
+P13_imputada	Intención de voto 	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación (Imputación no lineal de indecisos)	Intención de voto por fórmulas presidenciales en segunda vuelta (Imputación no lineal de indecisos)	(Imputación no lineal de indecisos)
+P13_imputada_sinblanco	Intención de voto 	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación (Imputación no lineal de indecisos y votos en blanco)	Intención de voto por fórmulas presidenciales en segunda vuelta (Imputación no lineal de indecisos y votos en blanco)	(Imputación no lineal de indecisos y votos en blanco)
+P15	Intención de voto 	seguridadVoto	¿Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente en las próximas elecciones? 	Nivel de seguridad sobre preferencias electorales	
+P16	Intención de voto 	irAVotar	¿Podría usted decirnos qué tan seguro está en ir a votar en las próximas elecciones?	Nivel decisión sobre ir a votar o no	
+P17	Reach de dirigentes nacionales	votaria	Votaría usted como candidato a Presidente a Sergio Massa 	Preferencia de voto a Sergio Massa	
+P18	Reach de dirigentes nacionales	votaria	Votaría usted como candidato a Presidente a Javier Milei	Preferencia de voto a Javier Milei	
+P19	Coyuntura		¿Podría indicarnos si vio el debate presidencial del pasado domingo? 	Audiencia del último debate presidencial de segunda vuelta
+P20	Coyuntura		¿En su opinión, quien cree que gano el debate presidencial de segunda vuelta?	Opinión sobre el resultado del debate presidencial de segunda vuelta
+P21	Coyuntura		¿Quién demostró más capacidad para gobernar?	Opinión sobre la capacidad de gobernar de cada candidato
+P22	Coyuntura		¿Quién demostró tener mayores conocimientos técnicos?	Opinión sobre los conocimientos técnicos de cada candidato
+P23	Coyuntura		Quien considera usted que demostró mayor seriedad y carácter para ser presidente 	Opinión sobre el carácter y seriedad de cada candidato
+P24	Coyuntura		Considera usted que Javier Milei mintió respecto a sus verdaderas intenciones como presidente 	Opinión sobre la veracidad de las intenciones de Milei como presidente
+P25	Coyuntura		Considera usted que Sergio Massa mintió respecto a sus verdaderas intenciones como presidente 	Opinión sobre la veracidad de las intenciones de Massa como presidente
+P28	Político	problema	¿Cuál de las siguientes opciones diría que es el principal problema del país? 	Principales Problema del país	
+P32	Socioeconómico	deuda	Endeudamiento familiar	Endeudamiento familiar	
+P33	Socioeconómico	ingresos	Ingresos familiares	Ingresos familiares	
+P34	Socioeconómico	opinion	Percepción de la situación económica personal	Percepción de la situación económica personal	
+P35	Socioeconómico	comparacion	¿Considera usted que su situación económica personal está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación económica personal en comparación con seis meses atrás	
+P36	Socioeconómico	comparacion	¿Cómo cree que va a estar su situación económica personal dentro de seis meses? 	Expectativa económica personal para dentro de seis meses	
+P37	Socioeconómico	opinion	¿Cuál es su opinión sobre la situación económica del país? 	Percepción de la situación económica del país	
+P38	Socioeconómico	comparacion	¿Considera usted que la situación económica del país está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación económica del país en comparación con seis meses atrás	
+P39	Socioeconómico	comparacion	¿Cómo cree Ud. que va a estar la situación económica del país en seis meses? 	Expectativa económica del país para dentro de seis meses	
+P40	Socioeconómico	opinion	¿Qué opinión tiene Ud. sobre la gestión del Gobierno Nacional?	Evaluación de la gestión del Gobierno Nacional	
+P41	Socioeconómico	opinion	¿Qué opinión tiene Ud. sobre la gestión del Gobierno de la Provincia de Buenos Aires?	Evaluación de la gestión del Gobierno Provincial	
+P42	Políticas públicas	opinion	¿Qué opinión tiene Ud. sobre la  política económica del Gobierno Nacional?	Evaluación de la política económica del Gobierno Nacional	
+P43	Políticas públicas	opinion	¿Y cómo considera que es la política social del Gobierno Nacional? 	Evaluación de la política social del Gobierno Nacional	
+P44	Políticas públicas	opinion	Y por último, ¿cómo evalúa usted la política de seguridad del Gobierno Nacional? 	Evaluación de la política de seguridad del Gobierno Nacional	
+P45	Imagen de dirigentes	imagen	¿Qué imagen tiene de Alberto Fernandez? 	Imagen de Alberto Fernández	
+P46	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernandez de Kirchner?	Imagen de Cristina Fernández de Kirchner	
+P47	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Horacio Rodriguez Larreta?	Imagen de Horacio Rodríguez Larreta	
+P49	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	
+P50	Imagen de dirigentes	imagen	¿Qué imagen tiene de Maria Eugenia Vidal?	Imagen de María Eugenia Vidal	
+P51	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen de Axel Kicillof	
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Nestor Grindeti?	Imagen de Néstor Grindeti	
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P54	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich	
+P55	Imagen de dirigentes	imagen	¿Qué imagen tiene de Wado de Pedro?	Imagen de Wado de Pedro	
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Malena Galmarini? 	Imagen de Malena Galmarini	
+P57	Imagen de dirigentes	imagen	¿Qué imagen tiene de Martin Lousteau?	Imagen de Martín Lousteau	
+P58	Imagen de dirigentes	imagen	¿Qué imagen tiene de Leandro Santoro? 	Imagen de Leandro Santoro	
+P59	General	medios	De los siguientes medios de comunicación, ¿cuál es el que más utiliza para informarse?	Consumo de Medios de Comunicación	
+P60	General	opinion	¿Qué imagen tiene del Congreso de la Nación?	Imagen del Congreso Nacional	
+P61	General	opinion	¿Qué imagen tiene del Poder Judicial?	Imagen del Poder Judicial	

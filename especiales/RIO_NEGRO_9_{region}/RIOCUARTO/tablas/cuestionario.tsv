@@ -1,0 +1,16 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P08	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P09	Reach de intención de voto	politica	¿Podría indicarnos a quien podría llegar a votar en las próximas elecciones municipales de Rio Cuarto?	Intención de voto para Intendente	
+P13	Reach de intención de voto	votaria	Usted votaría a Adriana Nazario como intendenta…	Intención de voto por Adriana Nazario	
+P14	Reach de intención de voto	votaria	Usted votaría a Guillermo de Rivas como intendente…	Intención de voto por Guillermo Rivas	
+P15	Reach de intención de voto	votaria	Usted votaría a Gonzalo Parodi como intendente…	Intención de voto por Gonzalo Parodi	
+P16	Reach de intención de voto	votaria	Usted votaría a Mauricio Dova como intendente…	Intención de voto por Mauricio Dova	
+P17	Reach de intención de voto	votaria	Usted votaría a Gabriel Abrile como intendente…	Intención de voto por Gabriel Abrile	
+P18	Imagen de dirigentes	opinion	¿Qué imagen tiene de Martín Llaryora?	Imagen de Martín Llaryora	
+P19	Imagen de dirigentes	opinion	¿Qué imagen tiene de Luis Juez?	Imagen de Luis Juez	
+P20	Imagen de dirigentes	opinion	¿Qué imagen tiene de Rodrigo de Loredo?	Imagen de Rodrigo de Loredo	
+P21	Imagen de dirigentes	opinion	¿Qué imagen tiene de Juan Schiaretti?	Imagen de Juan Schiaretti	
+P22	Imagen de dirigentes	opinion	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P23	Imagen de dirigentes	opinion	¿Qué imagen tiene de Cristina Fernández de Kirckner?	Imagen de CFK	
+P24	Imagen de dirigentes	opinion	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P25	Imagen de dirigentes	opinion	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	

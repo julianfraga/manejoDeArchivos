@@ -1,0 +1,53 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P07	Intención de voto por espacio político 	politica	Si las elecciones para intendente municipal fueran mañana ¿A qué espacio político votaría?	Intención de voto para intendente	
+P08	Intención de voto por espacio político 	politica	¿A cuál de los siguientes dirigentes del Frente de Todos y el peronismo preferiría ud. votar? (Solo para quienes tienen intención de votar al Frente de Todos)	Intención de voto para intendente dentro del Frente de Todos y el Peronismo	
+P09	Intención de voto por espacio político 	politica	¿A cuál de los siguientes candidatos de Juntos por el cambio preferiría ud. votar? (Solo para quienes tienen intención de votar a Juntos por el cambio)	Intención de voto para intendente dentro de Juntos por el Cambio	
+P10	Intención de voto por espacio político 	politica	Pensando en las elecciones primarias (PASO) ¿A cuál de los siguientes candidatos preferiría votar para intendente?	Intención de voto para intendente (PASO, escenario 1)	
+P12	Intención de voto por espacio político 	politica	Si estos fueran los candidatos a intendente ¿A cuál preferiría votar?	Intención de voto para intendente (PASO, escenario 2)	
+P14	Intención de voto por espacio político 	politica	Y si los candidatos a intendente fueran los siguientes ¿A cuál preferiría votar?	Intención de voto para intendente (PASO, escenario 3)	
+P16	Intención de voto por espacio político 	politica	En caso de que los candidatos fueran los siguientes, ¿a cuál de los siguientes preferiría votar para intendente?	Intención de voto para intendente (PASO, escenario 4)	
+P18	Escenarios políticos municipales en elecciones unificadas	politica	Pensando en las próximas elecciones primarias (PASO) ¿a qué candidatos votaría?	Intención de voto Nación, Provincia y Partido (PASO, escenario 1)	
+P19	Escenarios políticos municipales en elecciones unificadas	politica	Y si estos fueran los candidatos, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (PASO, escenario 2)	
+P20	Escenarios políticos municipales en elecciones unificadas	politica	En caso de que los candidatos de la primera vuelta fueran los siguientes, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 1)	
+P21	Escenarios políticos municipales en elecciones unificadas	politica	Si en cambio los candidatos fueran estos, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 2)	
+P22	Escenarios políticos municipales en elecciones unificadas	politica	Y si fueran estos los candidatos, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 3)	
+P23	Escenarios políticos municipales en elecciones unificadas	politica	Y si la opción de candidatos fuera esta, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 4)	
+P24	Escenarios políticos municipales en elecciones unificadas	politica	Pensando en las próximas elecciones primarias (PASO) ¿a qué candidatos votaría?	Intención de voto Nación, Provincia y Partido (PASO, escenario 3)	
+P25	Escenarios políticos municipales en elecciones unificadas	politica	Y si estos fueran los candidatos, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (PASO, escenario 4)	
+P26	Escenarios políticos municipales en elecciones unificadas	politica	En caso de que los candidatos de la primera vuelta fueran los siguientes, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 5)	
+P27	Escenarios políticos municipales en elecciones unificadas	politica	Si en cambio los candidatos fueran estos, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 6)	
+P28	Escenarios políticos municipales en elecciones unificadas	politica	Y si fueran estos los candidatos, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 7)	
+P29	Escenarios políticos municipales en elecciones unificadas	politica	Y si la opción de candidatos fuera esta, ¿a quiénes votaría?	Intención de voto Nación, Provincia y Partido (Primera vuelta, escenario 8)	
+P30	Escenarios políticos municipales en elecciones desdobladas	politica	Pensando en las próximas elecciones primarias (PASO) ¿a qué candidatos votaría?	Intención de voto Provincia y Partido (PASO, escenario 1)	
+P31	Escenarios políticos municipales en elecciones desdobladas	politica	Y si estos fueran los candidatos, ¿a quiénes votaría?	Intención de voto Provincia y Partido (PASO, escenario 2)	
+P32	Escenarios políticos municipales en elecciones desdobladas	politica	En caso de que los candidatos de la primera vuelta fueran los siguientes, ¿a quiénes votaría?	Intención de voto Provincia (Primera vuelta, escenario 1)	
+P33	Escenarios políticos municipales en elecciones desdobladas	politica	Si en cambio los candidatos fueran estos, ¿a quiénes votaría?	Intención de voto Provincia (Primera vuelta, escenario 2)	
+P34	Escenarios políticos municipales en elecciones desdobladas	politica	Y si fueran estos los candidatos, ¿a quiénes votaría?	Intención de voto Provincia (Primera vuelta, escenario 3)	
+P35	Escenarios políticos municipales en elecciones desdobladas	politica	Y si la opción de candidatos para las PASO fuera esta, ¿a quiénes votaría?	Intención de voto Provincia y Partido (PASO, escenario 3)	
+P36	Escenarios políticos municipales en elecciones desdobladas	politica	Si en cambio los candidatos a  para las PASO fueran los siguientes, ¿a cuáles preferiría votar?	Intención de voto Provincia y Partido (PASO, escenario 4)	
+P37	Escenarios políticos municipales en elecciones desdobladas	politica	En caso de que los candidatos de la primera vuelta fueran los siguientes, ¿a quiénes votaría?	Intención de voto Provincia y Partido (Primera vuelta, escenario 4)	
+P38	Escenarios políticos municipales en elecciones desdobladas	politica	Si en cambio los candidatos fueran estos, ¿a quiénes votaría?	Intención de voto Provincia y Partido (Primera vuelta, escenario 5)	
+P39	Escenarios políticos municipales en elecciones desdobladas	politica	Y si fueran estos los candidatos, ¿a quiénes votaría?	Intención de voto Provincia y Partido (Primera vuelta, escenario 6)	
+P40	Escenarios políticos municipales en elecciones desdobladas	politica	Y si la opción de candidatos fuera esta, ¿a quiénes votaría?	Intención de voto Provincia y Partido (Primera vuelta, escenario 7)	
+P41	Imagen de dirigentes	imagen	¿Qué imagen tiene de Malena Galmarini?	Imagen sobre Malena Galmarini	
+P42	Imagen de dirigentes	imagen	¿Qué imagen tiene de Julio Zamora?	Imagen sobre Julio Zamora	
+P43	Imagen de dirigentes	imagen	¿Qué imagen tiene de Segundo Cernadas?	Imagen sobre Segundo Cernadas	
+P44	Imagen de dirigentes	imagen	¿Qué imagen tiene de Nicolás Massot?	Imagen sobre Nicolás Massot	
+P45	Gestión municipal	opinion	¿Qué evaluación hace ud de la actual gestión del intendente Julio Zamora?	Evaluación de la gestión de Julio Zamora	
+P46	Gestión municipal	coolwarm	Pensando en las próximas elecciones, ud. preferiría…	Preferencia sobre la continuidad de Julio Zamora como Intendente	
+P47	Gestión municipal	coolwarm	Si ud, tuviese que ubicar políticamente a Julio Zamora, diría que..	Ubicación política percibida de Julio Zamora	
+P48	Gestión municipal	opinion	¿Según su opinión, cuál es el área con mejor desempeño de la gestión municipal?	Opinión sobre el área de mejor gestión municipal	
+P49	Gestión municipal	opinion	¿Según su opinión, cuál es el área con peor desempeño de la gestión municipal?	Opinión sobre el área de peor gestión municipal	
+P50	Gestión municipal	opinion	De los siguientes servicios ¿Cuál considera necesario mejorar?	Opinión sobre la necesidad de mejora de servicios	
+P51	Gestión municipal	opinion	Según su opinión ¿Cuál es el principal problema de seguridad en el municipio?	Opinión sobre la inseguridad en el municipio	
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Alberto Fernández? 	Imagen sobre Alberto Fernández	
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen sobre Mauricio Macri	
+P54	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen sobre CFK	
+P55	Imagen de dirigentes	imagen	¿Qué imagen tiene de Horacio Rodriguez Larreta?	Imagen sobre Horacio Rodríguez Larreta	
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen sobre Sergio Massa	
+P57	Imagen de dirigentes	imagen	¿Qué imagen tiene de Wado de Pedro?	Imagen sobre Wado de Pedro	
+P58	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen sobre Patricia Bullrich	
+P59	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen sobre Javier Milei	
+P60	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen sobre Axcel Kiciloff	
+P61	Imagen de dirigentes	imagen	¿Qué imagen tiene de Néstor Grindetti?	Imagen sobre Néstor Grindetti	
+P62	Imagen de dirigentes	imagen	¿Qué imagen tiene de Diego Santilli?	Imagen sobre Diego Santilli	

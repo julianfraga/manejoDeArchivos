@@ -1,0 +1,54 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.498,0.606,0.389,0.35
+"P05","Bastante",0.28,0.231,0.301,0.162
+"P05","Poco",0.132,0.108,0.218,0.292
+"P05","Nada",0.049,0.043,0.076,0.161
+"P05","No sabe",0.041,0.012,0.016,0.035
+"P06","Siempre",0.289,0.145,0.201,0.091
+"P06","Casi siempre",0.238,0.506,0.337,0.244
+"P06","Casi nunca",0.326,0.265,0.348,0.553
+"P06","Nunca, pero esta es una excepción",0.147,0.084,0.114,0.112
+"P08","Unión por la Patria",0.83,0.761,0.122,0.426
+"P08","Juntos por el Cambio",0.023,0.111,0.537,0.02
+"P08","De los Liberales libertarios",0.077,0.023,0.215,0
+"P08","De la Izquierda",0.005,0.007,0.046,0.073
+"P08","Hacemos por Nuestro País",0,0,0.007,0
+"P08","Otro",0.013,0.071,0.029,0.065
+"P08","En blanco",0,0,0.017,0.042
+"P08","No sabe",0.052,0.027,0.027,0.374
+"P09","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.466,0.452,0.115,0.339
+"P09","Sergio Massa a presidente, Axel Kicillof a gobernador y Leonardo Grosso a intendente por Unión por la Patria",0.172,0.068,0.024,0.005
+"P09","Juan Grabois a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.062,0.161,0.033,0.071
+"P09","Juan Grabois a presidente, Axel Kicillof a gobernador y Leonardo Grosso a intendente por Unión por la Patria",0.078,0.106,0.009,0.029
+"P09","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Santiago López Medrano a intendente por Juntos por el Cambio",0.028,0.085,0.366,0.033
+"P09","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0,0.049,0.175,0.101
+"P09","Javier Milei a presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente por la Libertad Avanza",0.162,0.045,0.197,0.054
+"P09","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.032,0.007,0.025,0.129
+"P09","En blanco",0,0.005,0.014,0.046
+"P09","No sabe",0,0.022,0.042,0.193
+"P12","Lo votaría",0.666,0.556,0.103,0.285
+"P12","Puede que lo vote",0.108,0.325,0.032,0.162
+"P12","Nunca lo votaría",0.17,0.107,0.832,0.157
+"P12","No sabe",0.056,0.012,0.033,0.396
+"P13","Lo votaría",0.52,0.368,0.046,0.066
+"P13","Puede que lo vote",0.246,0.391,0.04,0.098
+"P13","Nunca lo votaría",0.18,0.159,0.886,0.168
+"P13","No sabe",0.054,0.082,0.028,0.668
+"P15","Lo votaría",0.611,0.198,0.014,0.033
+"P15","Puede que lo vote",0.286,0.555,0.019,0.021
+"P15","Nunca lo votaría",0.054,0.173,0.953,0.273
+"P15","No sabe",0.049,0.074,0.014,0.673
+"P16","Lo votaría",0.215,0.058,0.379,0.041
+"P16","Puede que lo vote",0.087,0.098,0.255,0.032
+"P16","Nunca lo votaría",0.668,0.812,0.346,0.548
+"P16","No sabe",0.03,0.032,0.02,0.379
+"P17","Lo votaría",0.161,0.04,0.212,0.045
+"P17","Puede que lo vote",0.038,0.08,0.321,0.123
+"P17","Nunca lo votaría",0.762,0.853,0.438,0.433
+"P17","No sabe",0.039,0.027,0.029,0.399
+"P18","Lo votaría",0.159,0.035,0.213,0.059
+"P18","Puede que lo vote",0.008,0.05,0.202,0.047
+"P18","Nunca lo votaría",0.799,0.883,0.564,0.704
+"P18","No sabe",0.034,0.032,0.021,0.19
+"P19","Si",0.575,0.521,0.438,0.258
+"P19","No",0.425,0.479,0.562,0.742

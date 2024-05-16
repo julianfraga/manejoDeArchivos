@@ -1,0 +1,33 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P06	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P07	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P08	Control	quali	Y podría decirnos entonces si usted:	Nivel de decisión sobre ir o no a votar	
+P10	Preferencias electorales	politica	¿En las elecciones presidenciales de este año, al candidato de qué espacio político votaría?	Intención de voto por espacio político en elecciones presidenciales	
+P11	Preferencias electorales	politica	¿Podría indicarnos cuáles serían los candidatos a presidente y vicepresidente que usted preferiría votar en las próximas elecciones primarias PASO?	Intención de voto a Presidente y Vicepresidente en elecciones primarias 	
+P14	Preferencias electorales	politica	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente y vicepresidente en las próximas elecciones primarias paso.	Seguridad sobre la preferencia de voto a Presidente y Vicepresidente en elecciones primarias	
+P15	Preferencias electorales	politica	¿Podría indicarnos cuáles serían los candidatos a Jefe de Gobierno que usted preferiría votar en las próximas elecciones primarias PASO?	Intención de voto a Jefe de Gobierno en elecciones primarias 	
+P18	Preferencias electorales	politica	Podría usted decirnos cuán seguro está de sus preferencias de voto a Jefe de Gobierno en las próximas elecciones primarias paso.	Seguridad sobre la preferencia de voto a Jefe de Gobierno en elecciones primarias	
+P23	Preferencias electorales	politica	Y si tuviese que elegir a otros candidatos a Presidente y vice presidente  que no fuesen ninguno los dos que usted indicó en la preg anterior a ¿cuál preferiría entonces?	Intención de voto a Presidente y Vicepresidente en elecciones primarias (segunda opción)	
+P26	Preferencias electorales	politica	Y si tuviese que elegir a otro candidato a Jefe de Gobierno que no fuesen ninguno los dos que usted indicó en la preg anterior a ¿cuál preferiría entonces?	Intención de voto a Jefe de Gobierno en elecciones primarias (segunda opción)	
+P30	Preferencias electorales	politica	Si los candidatos a presidente y vicepresidente en la primera vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en primera vuelta (escenario 1)	
+P31	Preferencias electorales	politica	Y si los candidatos a presidente y vicepresidente en la primera vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en primera vuelta (escenario 2)	
+P32	Preferencias electorales	politica	Si los candidatos a Jefe de Gobierno en la primera vuelta electoral fueran los siguientes, usted a cual votaría 	Intención de voto a Jefe de Gobierno en primera vuelta (escenario 1)	
+P33	Preferencias electorales	politica	Y si los candidatos a Jefe de Gobierno en la primera vuelta electoral fueran los siguientes, usted a cual votaría 	Intención de voto a Jefe de Gobierno en primera vuelta (escenario 2)	
+P36	Preferencias electorales	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en segunda vuelta (escenario 1)	
+P37	Preferencias electorales	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en primera vuelta (escenario 2)	
+P38	Preferencias electorales	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Presidente y Vicepresidente en segunda vuelta (escenario 3)	
+P39	Preferencias electorales	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de a Presidente y Vicepresidente voto en segunda vuelta (escenario 4)	
+P40	Preferencias electorales	politica	Si los candidatos a presidente y vicepresidente en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de a Presidente y Vicepresidente voto en segunda vuelta (escenario 5)	
+P41	Preferencias electorales	politica	Si los candidatos a Jefe de Gobierno en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Jefe de Gobierno en segunda vuelta (escenario 1)	
+P42	Preferencias electorales	politica	Si los candidatos a Jefe de Gobierno en la segunda vuelta electoral fueran los siguientes, usted a cual votaría	Intención de voto a Jefe de Gobierno en segunda vuelta (escenario 2)	
+P43	Reach de intención de voto	votaria	Si Sergio Massa fuese candidato a Presidente y Agustin Rossi a Vicepresidente ud...	Intención de voto fórmula Massa – Rossi	
+P44	Reach de intención de voto	votaria	Si Juan Grabois fuese candidato a Presidente y Paula Abal Medina a Vicepresidente ud...	Intención de voto fórmula Grabois – Abal Medina	
+P45	Reach de intención de voto	votaria	Si Patricia Bullrich fuese candidato a Presidente y Luis Petri a Vicepresidente ud...	Intención de voto fórmula Bullrich – Petri	
+P46	Reach de intención de voto	votaria	Si Horacio Rodríguez Larreta fuese candidato a Presidente y Gerardo Morales a Vicepresidente ud...	Intención de voto fórmula Rodríguez Larreta – Morales	
+P47	Reach de intención de voto	votaria	Si Javier Milei fuese candidato a Presidente y Victoria Villaruel a Vicepresidente ud...	Intención de voto fórmula Milei – Villaruel	
+P48	Reach de intención de voto	votaria	Si Myriam Bregman fuese candidato a Presidente y Nicolás del Caño a Vicepresidente ud...	Intención de voto fórmula Bregman – Del Caño	
+P49	Reach de intención de voto	votaria	Si Juan Schiaretti fuese candidato a Presidente y Florencio Randazzo a Vicepresidente ud...	Intención de voto fórmula Schiaretti – Randazzo	
+P57	Reach de intención de voto	votaria	Si Leandro Santoro fuese candidato a Jefe de gobierno ud...	Intención de voto por Leandro Santoro para Jefe de Gobierno	
+P58	Reach de intención de voto	votaria	Si Jorge Macri fuese candidato a Jefe de gobierno ud...	Intención de voto por Jorge Macri para Jefe de Gobierno	
+P59	Reach de intención de voto	votaria	Si Martin Lousteau fuese candidato a Jefe de gobierno ud...	Intención de voto por Martín Lousteau para Jefe de Gobierno	
+P60	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

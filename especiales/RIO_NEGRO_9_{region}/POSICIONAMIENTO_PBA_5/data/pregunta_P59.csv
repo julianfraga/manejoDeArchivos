@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","GBA","Interior","Fernandez","Macri","Lavagna"
+"Siempre",0.307,0.27,0.342,0.279,0.287,0.303,0.375,0.279,0.308,0.335,0.3,0.318,0.33,0.308,0.318
+"Casi siempre",0.395,0.395,0.395,0.323,0.385,0.446,0.407,0.377,0.402,0.405,0.395,0.396,0.389,0.431,0.266
+"Casi nunca",0.194,0.201,0.188,0.238,0.215,0.188,0.124,0.192,0.193,0.199,0.198,0.188,0.169,0.178,0.291
+"Nunca, pero esta es una excepción",0.104,0.134,0.075,0.16,0.113,0.063,0.094,0.152,0.097,0.061,0.107,0.098,0.112,0.083,0.125

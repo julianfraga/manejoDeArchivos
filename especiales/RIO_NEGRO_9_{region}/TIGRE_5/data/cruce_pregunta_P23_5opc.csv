@@ -1,0 +1,85 @@
+"var","categoria","Muy buena","Buena","Ni buena ni mala","Mala","Muy mala","No sabe"
+"P09","Porque me siento desanimado con la realidad del país",0.072,0.157,0.04,0.275,0.337,0
+"P09","Porque estoy en desacuerdo con el gobierno, pero la oposición no me representa",0,0.018,0.637,0.186,0.121,0
+"P09","Nunca voy a votar",0,0.09,0.083,0,0.123,0
+"P09","Por miedo a la pandemia",0.653,0.312,0.24,0,0.28,0
+"P09","Porque las PASO no son elecciones importantes",0.275,0.423,0,0.539,0.139,1
+"P14","A Tolosa Paz por el Frente de Todos",0.825,0.675,0.451,0.334,0.065,0.129
+"P14","A Santilli y Manes por Juntos",0.054,0.053,0.158,0.423,0.625,0.058
+"P14","A del Caño por el Frente de Izquierda",0.049,0.071,0.29,0.075,0.044,0
+"P14","A Espert por Avanza libertad",0.009,0.02,0,0.014,0.133,0
+"P14","A Randazzo por ""Vamos con vos""",0,0.042,0,0,0.05,0
+"P14","A Hotton por “+Valores”",0.007,0,0.034,0.038,0.014,0
+"P14","Votaría en blanco o anularía",0.056,0.139,0.067,0.116,0.069,0.813
+"P16","A Segundo cernadas por Juntos",0.061,0.053,0.158,0.423,0.639,0.058
+"P16","A Gisela Zamora por el frente de todos",0.807,0.675,0.451,0.334,0.071,0.129
+"P16","A Juan José Cervetto por avanza libertad",0.009,0.02,0,0.014,0.117,0
+"P16","A Paula Yamila Akerfeld por el Frente de Izquierda",0.06,0.071,0.29,0.075,0.044,0
+"P16","A Matias Orfo por Vamos con vos",0,0.042,0,0,0.045,0
+"P16","A Nicolás Viera Dutra por el Partido Unión Celeste y Blanco",0.011,0,0.034,0.038,0.014,0
+"P16","En blanco o anularía",0.052,0.139,0.067,0.116,0.07,0.813
+"P18","Diego Santilli y Facundo Manes por “Juntos”",0.054,0.102,0.131,0.46,0.653,0.151
+"P18","Victoria Tolosa Paz por el Frente de todos",0.838,0.475,0.446,0.186,0.034,0.036
+"P18","Nicolás del Caño por el Frente de Izquierda",0.039,0.09,0.228,0.16,0.029,0
+"P18","José Luis Espert por “Avanza Libertad”",0,0.02,0,0.014,0.118,0
+"P18","Florencio Randazzo por “Vamos con vos”",0,0.02,0,0,0.057,0
+"P18","Cynthia Hotton por “+Valores”",0,0,0.038,0.006,0.025,0
+"P18","Ninguna en particular",0,0.221,0.049,0.129,0.056,0.687
+"P18","No sabe",0.069,0.072,0.108,0.045,0.028,0.126
+"P19","Diego Santilli y Facundo Manes por “Juntos”",0.78,0.474,0.367,0.059,0.083,0.129
+"P19","Victoria Tolosa Paz por el Frente de todos",0.025,0.115,0.128,0.456,0.783,0.035
+"P19","Nicolás del Caño por el Frente de Izquierda",0.029,0.015,0.243,0.186,0.047,0
+"P19","José Luis Espert por “Avanza Libertad”",0.033,0.162,0.01,0,0.022,0
+"P19","Florencio Randazzo por “Vamos con vos”",0,0.005,0,0,0.007,0
+"P19","Cynthia Hotton por “+Valores”",0.002,0.06,0.015,0.075,0.002,0
+"P19","Ninguna en particular",0.046,0.148,0.169,0.163,0.052,0.71
+"P19","No sabe",0.085,0.021,0.068,0.061,0.004,0.126
+"P20","No alcanzan para cubrir las necesidades básicas familiares",0.277,0.183,0.427,0.459,0.364,0.219
+"P20","Solo alcanzan para cubrir las necesidades básicas familiares",0.22,0.225,0.245,0.349,0.285,0.517
+"P20","No alcanzan para cubrir los gastos totales de la familia",0.274,0.106,0.099,0.069,0.156,0
+"P20","Alcanzan para cubrir los gastos totales de la familia",0.116,0.193,0.105,0,0.115,0.035
+"P20","Tenemos un pequeño excedente, pero es excepcional",0.056,0.065,0.036,0.061,0.034,0
+"P20","Tenemos un pequeño excedente habitual que ahorramos o invertimos",0.043,0.032,0,0,0.017,0
+"P20","Tenemos un gran excedente pero es excepcional",0,0.043,0.062,0,0.005,0
+"P20","Tenemos un gran excedente habitual que ahorramos o invertimos",0.002,0.021,0,0.062,0.007,0
+"P20","No sabe",0.012,0.132,0.026,0,0.017,0.229
+"P21","La inflación",0.418,0.218,0.233,0.167,0.231,0.164
+"P21","El desempleo",0.1,0.101,0.144,0.337,0.103,0.458
+"P21","La corrupción",0.078,0.21,0.278,0.221,0.531,0.126
+"P21","La inseguridad",0.099,0.009,0.06,0,0.06,0
+"P21","El precio del dólar",0.047,0.006,0.06,0.006,0.003,0
+"P21","La pobreza",0.116,0.142,0.168,0.12,0.025,0.023
+"P21","El narcotráfico",0.009,0.006,0,0,0.008,0
+"P21","Las tarifas",0.035,0.155,0.027,0.099,0.013,0
+"P21","Otro",0.037,0.093,0.03,0.05,0.018,0.229
+"P21","No sabe",0.061,0.06,0,0,0.008,0
+"P22","Muy buena",0.572,0.268,0.149,0,0.022,0
+"P22","Buena",0.269,0.598,0.14,0,0.006,0
+"P22","Ni buena ni mala",0.091,0.104,0.539,0.57,0.05,0
+"P22","Mala",0.061,0.021,0.08,0.344,0.161,0
+"P22","Muy mala",0,0.009,0.088,0.013,0.756,0.093
+"P22","No sabe",0.007,0,0.004,0.073,0.005,0.907
+"P24","Muy buena",0.249,0.114,0.136,0.096,0.005,0.035
+"P24","Buena",0.343,0.526,0.07,0,0.025,0.091
+"P24","Ni buena ni mala",0.232,0.18,0.415,0.454,0.071,0
+"P24","Mala",0.056,0.097,0.241,0.22,0.143,0.034
+"P24","Muy mala",0.062,0.08,0.138,0.157,0.756,0.489
+"P24","No sabe",0.058,0.003,0,0.073,0,0.351
+"P25","Muy buena",0,0.011,0,0.042,0.244,0
+"P25","Buena",0,0.021,0.125,0.05,0.183,0
+"P25","Ni buena ni mala",0.006,0.084,0.251,0.511,0.256,0.022
+"P25","Mala",0.191,0.177,0.163,0.336,0.131,0.034
+"P25","Muy mala",0.803,0.644,0.442,0.061,0.181,0.501
+"P25","No sabe",0,0.063,0.019,0,0.005,0.443
+"P26","Muy buena",0,0.011,0.054,0.214,0.353,0.094
+"P26","Buena",0.043,0.057,0.109,0.241,0.288,0
+"P26","Ni buena ni mala",0.099,0.19,0.336,0.112,0.187,0.023
+"P26","Mala",0.242,0.18,0.1,0.31,0.051,0.494
+"P26","Muy mala",0.562,0.466,0.378,0.05,0.116,0
+"P26","No sabe",0.054,0.096,0.023,0.073,0.005,0.389
+"P27","Muy buena",0.238,0.078,0.123,0.107,0.024,0.037
+"P27","Buena",0.236,0.297,0.124,0.063,0.05,0
+"P27","Ni buena ni mala",0.31,0.32,0.318,0.524,0.182,0
+"P27","Mala",0.054,0.095,0.028,0.046,0.115,0.45
+"P27","Muy mala",0.053,0.196,0.359,0.138,0.593,0.023
+"P27","No sabe",0.109,0.014,0.048,0.122,0.036,0.49

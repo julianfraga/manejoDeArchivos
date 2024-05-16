@@ -1,0 +1,13 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P04	Sociodemográfico	ingresos	Respecto de su nivel de ingreso familiar, ¿podría por favor indicar la opción que corresponda?	Nivel de ingresos familiares
+P05	Delitos a la propiedad	sino	¿Durante el último mes ha sido víctima de algún delito a la propiedad? 	Víctimas de delitos a la propiedad dentro de los encuestados
+P06	Delitos a la propiedad	quali	En caso de haber sido víctima de algún delito a la propiedad en el ultimo mes, ¿qué tipo de delito que sufriste? Si sufrió más de uno, elija el más importante de acuerdo a su percepción.	Tipo de delito a la propiedad sufrido
+P07	Delitos a la propiedad	mucho*	¿Qué tan seguro se siente en tu barrio o zona de residencia en términos de delitos a la propiedad?	Sensación de seguridad respecto a delitos a la propiedad
+P08	Delitos a la propiedad	muchopoco	Respecto de los delitos a la propiedad en su barrio o zona de residencia, usted percibe que…	Percepción de aumento o disminución de delitos a la propiedad
+P09	Delitos en la vía pública	sino	¿Durante el último mes ha sido víctima de algún delito en la vía pública?	Víctimas de delitos en al vía pública dentro de los encuestados
+P10	Delitos en la vía pública	quali	En caso de haber sido víctima de algún delito en la vía pública en el último mes, ¿qué tipo de delito que sufriste? Si sufrió más de uno, elija el más importante de acuerdo con su percepción.	Tipo de delito sufrido en la vía pública
+P11	Delitos en la vía pública	muchopoco	¿Qué tan seguro se siente en tu barrio o zona de residencia en términos de delitos en la vía pública?	Sensación de seguridad en la vía pública
+P12	Delitos en la vía pública	quali	Respecto de los delitos en la vía pública en su barrio o zona de residencia, usted percibe que…	Percepción de aumento o disminución de delitos en al vía pública
+P13	Políticas públicas de seguridad	quali	¿Cuál de las siguientes políticas le hace sentir más seguro en su barrio o zona de residencia? 	Preferencia por políticas en relación a la sensación de seguridad 
+P14	Políticas públicas de seguridad	quali	¿Cuál de las siguientes políticas no se implementa o existe en su barrio o zona de residencia? 	Políticas de seguridad no implementadas en zona de residencia
+P15	Políticas públicas de seguridad	quali	¿Quién considera que es el principal responsable de garantizar la seguridad en su barrio o zona de residencia?	Opinión sobre la responsabilidad de la seguridad en zona de residencia

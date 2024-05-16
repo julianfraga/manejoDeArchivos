@@ -1,0 +1,105 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.368,0.339,0.466,0.321
+"P05","Bastante",0.48,0.436,0.375,0.583
+"P05","Poco",0.129,0.184,0.139,0.074
+"P05","Nada",0.019,0.041,0.017,0.022
+"P05","No sabe",0.004,0,0.003,0
+"P06","Siempre",0.27,0.228,0.282,0.216
+"P06","Casi siempre",0.501,0.503,0.469,0.478
+"P06","Casi nunca",0.188,0.228,0.179,0.186
+"P06","Nunca, pero esta es una excepción",0.041,0.041,0.07,0.12
+"P08","Unión por la Patria",0.149,0.123,0.569,0.128
+"P08","Juntos por el Cambio",0.691,0.311,0.153,0.128
+"P08","Liberales",0.126,0.456,0.09,0.199
+"P08","Izquierda",0.008,0.017,0.049,0.017
+"P08","Otro",0.008,0.037,0.076,0.118
+"P08","No sabe",0.018,0.056,0.063,0.41
+"P15","Sergio Massa Presidente, Agustin Rossi Vicepresidente y Axel Kicillof gobernador, Veronica Magario vicegobernadora; por Unión por la Patria",0.066,0.092,0.498,0.108
+"P15","Juan Grabois Presidente, Paula Abal Medina Vicepresidente y Axel Kicillof gobernador, Veronica Magario vicegobernadora; por Unión por la Patria",0.021,0.02,0.166,0.016
+"P15","Patricia Bullrich Presidenta, Luis Petri Vicepresidente y Nestor Grindetti gobernador, Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.627,0.126,0.074,0.066
+"P15","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente y Diego Santilli gobernador, Gustavo Posse vicegobernador; por Juntos por el Cambio",0.136,0.178,0.054,0.086
+"P15","Javier Milei Presidente, Victoria Villarruel Vicepresidenta y Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.127,0.489,0.112,0.295
+"P15","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente, Alejandro Bodart a gobernador y Jimena Letieri por el Frente de Izquierda",0.006,0.016,0.025,0.01
+"P15","Juan Schiaretti a presidente, Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0.003,0.02,0.01,0.033
+"P15","Otros",0.011,0.024,0.027,0.086
+"P15","En blanco",0,0.003,0.014,0.06
+"P15","No sabe",0.003,0.032,0.02,0.24
+"P24","Sergio Massa Presidente, Agustin Rossi Vicepresidente y Axel Kicillof gobernador, Veronica Magario vicegobernadora; por Unión por la Patria",0.034,0.101,0.415,0.159
+"P24","Juan Grabois Presidente, Paula Abal Medina Vicepresidente y Axel Kicillof gobernador, Veronica Magario vicegobernadora; por Unión por la Patria",0.026,0.042,0.19,0.028
+"P24","Patricia Bullrich Presidenta, Luis Petri Vicepresidente y Nestor Grindetti gobernador, Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.548,0.387,0.102,0.177
+"P24","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente y Diego Santilli gobernador, Gustavo Posse vicegobernador; por Juntos por el Cambio",0.22,0.157,0.078,0.064
+"P24","Javier Milei Presidente, Victoria Villarruel Vicepresidenta y Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.13,0.224,0.082,0.176
+"P24","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente, Alejandro Bodart a gobernador y Jimena Letieri por el Frente de Izquierda",0.004,0.009,0.041,0.017
+"P24","Juan Schiaretti a presidente, Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0.001,0.008,0.014,0.018
+"P24","Otros",0.015,0.023,0.024,0.11
+"P24","En blanco",0.011,0.014,0.029,0.036
+"P24","No sabe",0.011,0.035,0.025,0.215
+"P25","Totalmente seguro",0.673,0.578,0.69,0.363
+"P25","Bastante seguro",0.224,0.188,0.147,0.137
+"P25","Algo seguro",0.073,0.133,0.084,0.201
+"P25","Para nada seguro",0.03,0.101,0.079,0.299
+"P26","Tiene Decidido que va a ir a votar",0.926,0.869,0.904,0.893
+"P26","Tiene dudas sobre si va a ir a  votar",0.054,0.095,0.069,0.083
+"P26","Tiene Decidido que no va a ir a votar",0.02,0.036,0.027,0.024
+"P31","Sergio Massa Presidente, Agustin Rossi Vicepresidente y Axel Kicillof gobernador, Veronica Magario vicegobernadora; por Unión por la Patria",0.081,0.096,0.603,0.184
+"P31","Patricia Bullrich Presidenta, Luis Petri Vicepresidente y Nestor Grindetti gobernador, Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.749,0.197,0.111,0.122
+"P31","Javier Milei Presidente, Victoria Villarruel Vicepresidenta y Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.138,0.481,0.121,0.185
+"P31","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente, Alejandro Bodart a gobernador y Jimena Letieri por el Frente de Izquierda",0.012,0.022,0.057,0.027
+"P31","Juan Schiaretti a presidente, Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0.003,0.04,0.025,0.123
+"P31","Otros",0.006,0.101,0.039,0.06
+"P31","En blanco",0.002,0.014,0.02,0.071
+"P31","No sabe",0.009,0.049,0.024,0.228
+"P32","Sergio Massa Presidente, Agustin Rossi Vicepresidente y Axel Kicillof gobernador, Veronica Magario vicegobernadora; por Unión por la Patria",0.077,0.096,0.616,0.184
+"P32","Horacio Rodríguez Larreta Presidente, Gerardo Morales Vicepresidente y Diego Santilli gobernador, Gustavo Posse vicegobernador; por Juntos por el Cambio",0.559,0.311,0.115,0.191
+"P32","Javier Milei Presidente, Victoria Villarruel Vicepresidenta y Carolina Piparo gobernadora, Francisco Oneto vicegobernador; por la Libertad Avanza",0.226,0.46,0.128,0.084
+"P32","Myriam Bregman a Presidente, Nicolas del Caño a Vicepresidente, Alejandro Bodart a gobernador y Jimena Letieri por el Frente de Izquierda",0.002,0.022,0.047,0.006
+"P32","Juan Schiaretti a presidente, Florencio Randazzo vicepresidente por Hacemos por Nuestro Pais",0.004,0.013,0.017,0.125
+"P32","Otros",0.052,0.045,0.034,0.079
+"P32","En blanco",0.035,0.014,0.021,0.104
+"P32","No sabe",0.045,0.039,0.022,0.227
+"P33","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Unión por la Patria",0.111,0.128,0.65,0.197
+"P33","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.841,0.705,0.136,0.178
+"P33","En blanco",0.027,0.102,0.158,0.189
+"P33","No sabe",0.021,0.065,0.056,0.436
+"P34","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.769,0.316,0.166,0.111
+"P34","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.155,0.475,0.16,0.276
+"P34","En blanco",0.054,0.131,0.527,0.105
+"P34","No sabe",0.022,0.078,0.147,0.508
+"P35","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Unión por la Patria",0.123,0.119,0.645,0.16
+"P35","Horacio Rodríguez Larreta  a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.62,0.529,0.151,0.249
+"P35","En blanco",0.142,0.243,0.144,0.194
+"P35","No sabe",0.115,0.109,0.06,0.397
+"P36","Horacio Rodríguez Larreta  a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.522,0.302,0.159,0.185
+"P36","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.265,0.533,0.163,0.194
+"P36","En blanco",0.099,0.1,0.524,0.185
+"P36","No sabe",0.114,0.065,0.154,0.436
+"P37","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Unión por la Patria",0.125,0.152,0.658,0.222
+"P37","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.454,0.626,0.168,0.318
+"P37","En blanco",0.217,0.139,0.117,0.073
+"P37","No sabe",0.204,0.083,0.057,0.387
+"P45","Lo votaría",0.121,0.097,0.611,0.133
+"P45","Puede que lo vote",0.071,0.124,0.114,0.106
+"P45","Nunca lo votaría",0.796,0.739,0.244,0.31
+"P45","No sabe",0.012,0.04,0.031,0.451
+"P46","Lo votaría",0.114,0.037,0.405,0.025
+"P46","Puede que lo vote",0.015,0.145,0.189,0.1
+"P46","Nunca lo votaría",0.866,0.803,0.366,0.284
+"P46","No sabe",0.005,0.015,0.04,0.591
+"P48","Lo votaría",0.553,0.219,0.089,0.089
+"P48","Puede que lo vote",0.217,0.359,0.088,0.171
+"P48","Nunca lo votaría",0.19,0.374,0.782,0.299
+"P48","No sabe",0.04,0.048,0.041,0.441
+"P49","Lo votaría",0.291,0.439,0.146,0.213
+"P49","Puede que lo vote",0.25,0.205,0.064,0.178
+"P49","Nunca lo votaría",0.42,0.322,0.775,0.115
+"P49","No sabe",0.039,0.034,0.015,0.494
+"P50","Lo votaría",0.048,0.035,0.106,0.157
+"P50","Puede que lo vote",0.059,0.124,0.253,0.028
+"P50","Nunca lo votaría",0.866,0.803,0.594,0.384
+"P50","No sabe",0.027,0.038,0.047,0.431
+"P51","Lo votaría",0.033,0.036,0.028,0.08
+"P51","Puede que lo vote",0.125,0.2,0.139,0.055
+"P51","Nunca lo votaría",0.776,0.717,0.786,0.3
+"P51","No sabe",0.066,0.047,0.047,0.565
+"P52","Si",0.514,0.434,0.544,0.431
+"P52","No",0.486,0.566,0.456,0.569

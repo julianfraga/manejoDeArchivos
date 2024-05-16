@@ -1,0 +1,62 @@
+var,categoria,Lo votaría,Puede que lo vote,Nunca lo votaría,No sabe
+P07,Del Frente de Todos y el peronismo,0.155,0.25,0.331,0.266
+P07,De Cambiemos,0.382,0.37,0.355,0.214
+P07,De los Liberales libertarios,0.218,0.196,0.171,0.09
+P07,De la Izquierda,0.043,0.024,0.034,0.133
+P07,Otros,0.136,0.074,0.045,0.101
+P07,No sabe,0.066,0.086,0.064,0.196
+P11,A Juntos por el Cambio,0.415,0.349,0.337,0.154
+P11,Al Frente de Todos,0.163,0.119,0.158,0.088
+P11,A Hacemos por Córdoba,0.08,0.249,0.278,0.34
+P11,A los liberales libertarios de Milei,0.089,0.128,0.091,0.097
+P11,A Encuentro Vecinal Córdoba,0.131,0.029,0.014,0.074
+P11,Al Frente de Izquierda,0.04,0.015,0.054,0.093
+P11,No sabe,0.082,0.111,0.068,0.154
+P42,A Rodrigo De Loredo por Juntos por el Cambio,0.544,0.482,0.388,0.18
+P42,A Daniel Passerini por Hacemos por Cordoba,0.134,0.277,0.325,0.123
+P42,Al candidato del frente de todos,0.036,0.103,0.124,0.313
+P42,Al candidato de los liberales libertarios con el apoyo de Javier Milei,0.052,0.051,0.052,0.0
+P42,A  Juan Pablo Quinteros por Encuentro Vecinal,0.208,0.014,0.016,0.0
+P42,Al candidato del frente de izquierda,0.007,0.004,0.041,0.041
+P42,Votaría en blanco,0.0,0.014,0.021,0.0
+P42,No sabe,0.019,0.055,0.033,0.343
+P44,A Luis Juez por Juntos por el Cambio,0.509,0.37,0.324,0.103
+P44,A Daniel Passerini por Hacemos por Cordoba,0.159,0.297,0.333,0.394
+P44,Al candidato del frente de todos,0.022,0.094,0.091,0.114
+P44,Al candidato de los liberales libertarios con el apoyo de Javier Milei,0.045,0.077,0.069,0.343
+P44,A  Juan Pablo Quinteros por Encuentro Vecinal,0.226,0.073,0.02,0.03
+P44,Al candidato del frente de izquierda,0.012,0.012,0.049,0.0
+P44,Votaría en blanco,0.005,0.013,0.027,0.0
+P44,No sabe,0.022,0.064,0.087,0.016
+P46,Lo votaría,0.529,0.406,0.364,0.099
+P46,Puede que lo vote,0.307,0.25,0.163,0.092
+P46,Nunca lo votaría,0.164,0.344,0.473,0.367
+P46,No sabe,0.0,0.0,0.0,0.442
+P47,Lo votaría,0.332,0.315,0.27,0.184
+P47,Puede que lo vote,0.184,0.256,0.157,0.27
+P47,Nunca lo votaría,0.484,0.429,0.573,0.104
+P47,No sabe,0.0,0.0,0.0,0.442
+P48,Lo votaría,0.556,0.304,0.229,0.115
+P48,Puede que lo vote,0.207,0.295,0.151,0.199
+P48,Nunca lo votaría,0.237,0.401,0.62,0.244
+P48,No sabe,0.0,0.0,0.0,0.442
+P50,Lo votaría,0.181,0.112,0.085,0.0
+P50,Puede que lo vote,0.106,0.3,0.179,0.0
+P50,Nunca lo votaría,0.713,0.588,0.731,0.0
+P50,No sabe,0.0,0.0,0.005,1.0
+P51,Luis Juez gobernador – Rodrigo De Loredo intendente por Juntos por el Cambio,0.609,0.408,0.38,0.0
+P51,Martín Llaryora gobernador – Daniel Passerini intendente por Hacemos por Córdoba,0.085,0.321,0.349,0.0
+P51,A los candidatos a gobernador e intendente del Frente de Todos,0.028,0.083,0.118,0.0
+P51,A los candidatos a gobernador e intendente de los liberales libertarios con el apoyo de Ja-vier Milei,0.057,0.063,0.058,0.0
+P51,A Aurelio García Elorrio gobernador – Juan Pablo Quinteros intendente por Encuentro Veci-nal Córdoba,0.157,0.051,0.016,0.0
+P51,A los candidatos a gobernador e intendente del Frente de Izquierda,0.018,0.016,0.033,0.0
+P51,Votaría en blanco,0.005,0.016,0.017,0.0
+P51,No sabe,0.041,0.042,0.029,1.0
+P52,Rodrigo De Loredo gobernador – Luis Juez intendente por Juntos por el Cambio,0.532,0.367,0.32,0.0
+P52,Martín Llaryora gobernador – Daniel Passerini intendente por Hacemos por Córdoba,0.092,0.316,0.344,0.0
+P52,A los candidatos a gobernador e intendente del Frente de Todos,0.081,0.066,0.119,0.0
+P52,A los candidatos a gobernador e intendente de los liberales libertarios con el apoyo de Ja-vier Milei,0.021,0.085,0.072,0.0
+P52,A Aurelio García Elorrio gobernador – Juan Pablo Quinteros intendente por Encuentro Veci-nal Córdoba,0.204,0.08,0.018,0.0
+P52,A los candidatos a gobernador e intendente del Frente de Izquierda,0.012,0.009,0.031,0.0
+P52,Votaría en blanco,0.014,0.012,0.024,0.0
+P52,No sabe,0.044,0.065,0.072,1.0

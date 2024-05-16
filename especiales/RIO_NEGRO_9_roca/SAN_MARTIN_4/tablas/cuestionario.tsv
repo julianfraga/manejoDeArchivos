@@ -1,0 +1,26 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P09	Escenarios electorales	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto a Presidente por espacio político	
+P12	Escenarios electorales	politica	Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente a que candidatos preferiría votar?	Intención de voto a Presidente, Gobernador e Intendente	
+P12_imputada	Escenarios electorales	politica	Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente a que candidatos preferiría votar?	Intención de voto a Presidente, Gobernador e Intendente	(Imputación no lineal de indecisos)
+PRESIDENTE	Escenarios electorales		Intención de voto a Presidente considerando corte de boleta	Intención de voto a Presidente considerando corte de boleta	
+PRESIDENTE_imputada	Escenarios electorales		Intención de voto a Presidente considerando corte de boleta	Intención de voto a Presidente considerando corte de boleta	(Imputación no lineal de indecisos)
+GOBERNADOR	Escenarios electorales		Intención de voto a Gobernador considerando corte de boleta	Intención de voto a Gobernador considerando corte de boleta	
+GOBERNADOR_imputada	Escenarios electorales		Intención de voto a Gobernador considerando corte de boleta	Intención de voto a Gobernador considerando corte de boleta	(Imputación no lineal de indecisos)
+INTENDENTE	Escenarios electorales		Intención de voto a Intendente considerando corte de boleta	Intención de voto a Intendente considerando corte de boleta	
+INTENDENTE_imputada	Escenarios electorales		Intención de voto a Intendente considerando corte de boleta	Intención de voto a Intendente considerando corte de boleta	(Imputación no lineal de indecisos)
+P15	Escenarios electorales	sino	Usted estaría dispuesto a cortar boleta?...	Intención de corte de boleta	
+P16	Escenarios electorales	politica	Y en ese caso, ¿podría indicarnos a cual se los siguientes candidatos preferiría votar en las próximas elecciones a primera vuelta para presidente de la nación?  	Intención de voto a Presidente en primera vuelta	
+P16_imputada	Escenarios electorales	politica	Y en ese caso, ¿podría indicarnos a cual se los siguientes candidatos preferiría votar en las próximas elecciones a primera vuelta para presidente de la nación?  	Intención de voto a Presidente en primera vuelta	(Imputación no lineal de indecisos)
+P19	Escenarios electorales	politica	Y en ese caso, ¿podría indicarnos a cual se los siguientes candidatos preferiría votar en las próximas elecciones generales para gobernador de la provincia de buenos aires?  	Intención de voto a Gobernador en elecciones generales	
+P19_imputada	Escenarios electorales	politica	Y en ese caso, ¿podría indicarnos a cual se los siguientes candidatos preferiría votar en las próximas elecciones generales para gobernador de la provincia de buenos aires?  	Intención de voto a Gobernador en elecciones generales	(Imputación no lineal de indecisos)
+P22	Escenarios electorales	politica	Y en ese caso, ¿podría indicarnos a cual se los siguientes candidatos preferiría votar en las próximas elecciones generales para intendente?  	Intención de voto a Intendente en elecciones generales	
+P22_imputada	Escenarios electorales	politica	Y en ese caso, ¿podría indicarnos a cual se los siguientes candidatos preferiría votar en las próximas elecciones generales para intendente?  	Intención de voto a Intendente en elecciones generales	(Imputación no lineal de indecisos)
+P25	Escenarios electorales	quali	En su opinión, ¿cómo se sale de la permanente crisis que vive Argentina?	Opinión sobre la crisis argentina	
+P26	Escenarios electorales	seguridadVoto	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente en las próximas elecciones 	Nivel de seguridad sobre intención de voto por fórmula presidencial	
+P27	Escenarios electorales		¿Qué tan decidido está sobre ir a votar?	Nivel de decisión sobre ir o no a votar	
+P28	Reach de intención de voto	votaria	Usted votaría la formula Sergio Massa a Presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente…	Intención de voto por fórmula Massa - Kicillof - Moreira	
+P29	Reach de intención de voto	votaria	Usted votaría la formula Patricia Bullrich a Presidenta, Néstor Grindetti a gobernador y Mauricio D’Alessandro a intendente 	Intención de voto por fórmula Rodríguez Larreta - Santilli - D'Alessandro	
+P30	Reach de intención de voto	votaria	Usted votaría la formula Javier Milei a Presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente	Intención de voto por fórmula Milei – Píparo - Sardella	
+P31	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

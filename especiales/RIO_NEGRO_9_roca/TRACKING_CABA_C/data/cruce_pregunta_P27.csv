@@ -1,0 +1,75 @@
+"var","categoria","Tiene Decidido que va a ir a votar","Tiene dudas sobre si va a ir a  votar","Tiene Decidido que no va a ir a votar"
+"P10","Unión por la Patria",0.249,0.16,0.301
+"P10","Juntos por el Cambio",0.414,0.349,0.212
+"P10","De los liberales libertarios",0.226,0.178,0.214
+"P10","De la Izquierda",0.039,0.093,0.052
+"P10","Hacemos por nuestro país",0.025,0.054,0
+"P10","Otro",0.011,0.071,0.109
+"P10","En blanco",0.009,0.014,0.019
+"P10","No sabe",0.027,0.081,0.093
+"P13","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.262,0.247,0.271
+"P13","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.404,0.26,0.186
+"P13","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.221,0.243,0.08
+"P13","Los candidatos a presidente y vicepresidente de la izquierda",0.045,0.027,0.092
+"P13","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.027,0.122,0.195
+"P13","En blanco",0.011,0.013,0.144
+"P13","No sabe",0.03,0.088,0.032
+"P16","Union por la Patria",0.28,0.173,0.327
+"P16","Cambiemos",0.451,0.342,0.236
+"P16","Liberales",0.166,0.223,0.021
+"P16","Izquierda",0.041,0.006,0.047
+"P16","No sabe",0.062,0.256,0.369
+"P17","Leandro Santoro a Jefe de Gobierno por Union por la Patria",0.271,0.293,0.192
+"P17","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio",0.441,0.215,0.322
+"P17","Ramiro Marra a Jefe de Gobierno por la Libertad Avanza",0.172,0.242,0.063
+"P17","La candidata a Jefe de Gobierno de la izquierda",0.033,0.021,0
+"P17","En blanco",0.03,0.11,0.311
+"P17","No sabe",0.053,0.119,0.112
+"P26","Totalmente seguro",0.722,0.274,0.24
+"P26","Bastante seguro",0.127,0.388,0.077
+"P26","Algo seguro",0.088,0.23,0.469
+"P26","Para nada seguro",0.063,0.108,0.214
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.346,0.175,0.184
+"P28","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.474,0.356,0.392
+"P28","En blanco",0.097,0.221,0.268
+"P28","No sabe",0.083,0.248,0.156
+"P29","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.51,0.207,0.262
+"P29","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.262,0.333,0.207
+"P29","En blanco",0.143,0.21,0.373
+"P29","No sabe",0.085,0.25,0.158
+"P30","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.355,0.213,0.213
+"P30","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.32,0.284,0.309
+"P30","En blanco",0.216,0.283,0.39
+"P30","No sabe",0.109,0.22,0.088
+"P38","Inflación",0.365,0.464,0.146
+"P38","Desempleo",0.07,0.109,0.173
+"P38","Corrupción",0.3,0.135,0.187
+"P38","Inseguridad",0.112,0.044,0.183
+"P38","Precio del dólar",0.013,0.059,0.076
+"P38","Pobreza",0.061,0.056,0
+"P38","Narcotráfico",0.003,0.017,0
+"P38","Tarifas",0.005,0.014,0
+"P38","Otro",0.053,0.087,0.235
+"P38","No sabe",0.018,0.015,0
+"P10_imputada","Unión por la Patria",0.253,0.181,0.301
+"P10_imputada","Juntos por el Cambio",0.424,0.385,0.292
+"P10_imputada","De los liberales libertarios",0.231,0.187,0.214
+"P10_imputada","De la Izquierda",0.042,0.108,0.065
+"P10_imputada","Hacemos por nuestro país",0.028,0.054,0
+"P10_imputada","Otro",0.013,0.071,0.109
+"P10_imputada","En blanco",0.009,0.014,0.019
+"P13_imputada","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.269,0.266,0.271
+"P13_imputada","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.413,0.3,0.186
+"P13_imputada","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.227,0.272,0.1
+"P13_imputada","Los candidatos a presidente y vicepresidente de la izquierda",0.048,0.027,0.092
+"P13_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.032,0.122,0.195
+"P13_imputada","En blanco",0.011,0.013,0.156
+"P16_imputada","Union por la Patria",0.303,0.254,0.494
+"P16_imputada","Cambiemos",0.478,0.454,0.438
+"P16_imputada","Liberales",0.173,0.272,0.021
+"P16_imputada","Izquierda",0.046,0.02,0.047
+"P17_imputada","Leandro Santoro a Jefe de Gobierno por Union por la Patria",0.288,0.315,0.283
+"P17_imputada","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio",0.452,0.252,0.322
+"P17_imputada","Ramiro Marra a Jefe de Gobierno por la Libertad Avanza",0.186,0.278,0.063
+"P17_imputada","Los candidatos a Jefe de Gobierno de la izquierda",0.037,0.021,0
+"P17_imputada","En blanco",0.037,0.134,0.332

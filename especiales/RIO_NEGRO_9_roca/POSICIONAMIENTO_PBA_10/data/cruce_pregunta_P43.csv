@@ -1,0 +1,183 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P04","Siempre",0.262,0.217,0.247,0.228
+"P04","Casi siempre",0.392,0.456,0.455,0.459
+"P04","Casi nunca",0.284,0.239,0.247,0.256
+"P04","Nunca, pero esta es una excepción",0.062,0.088,0.051,0.057
+"P06","Del Frente de Todos y el peronismo",0.038,0.08,0.602,0.17
+"P06","De Juntos por el cambio",0.238,0.617,0.236,0.377
+"P06","De los Liberales libertarios",0.674,0.217,0.045,0.093
+"P06","De la Izquierda",0.01,0.015,0.046,0.021
+"P06","No sabe",0.04,0.071,0.071,0.339
+"P07","A Sergio Massa",0.528,0.232,0.233,0.025
+"P07","A Daniel Scioli",0.282,0.035,0.085,0.382
+"P07","A algún candidato del peronismo",0.144,0.41,0.05,0
+"P07","A algún candidato del kirchnerismo",0.046,0.323,0.632,0.593
+"P08","A Sergio Massa",0.506,0.216,0.144,0.025
+"P08","A Daniel Scioli",0.188,0.035,0.056,0.061
+"P08","A algún candidato del peronismo",0.238,0.426,0.046,0.045
+"P08","A Cristina Fernández de Kirchner",0.068,0.323,0.754,0.869
+"P09","A Horacio Rodriguez Larreta",0.202,0.12,0.181,0.17
+"P09","A Patricia Bullrich",0.731,0.822,0.588,0.744
+"P09","A Facundo Manes",0.008,0.02,0.158,0.045
+"P09","A Gerardo Morales",0.059,0.038,0.073,0.041
+"P10","Sergio Massa a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.03,0.034,0.549,0.161
+"P10","Patricia Bullrich a presidenta y Diego Santilli a Gobernador por Juntos por el Cambio",0.255,0.51,0.143,0.346
+"P10","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.041,0.197,0.088,0.128
+"P10","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.651,0.179,0.046,0.081
+"P10","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.001,0.021,0.049,0
+"P10","En blanco",0.003,0.011,0.03,0.04
+"P10","No sabe",0.019,0.048,0.095,0.244
+"P11","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.601,0.161,0.05,0.115
+"P11","Sergio Massa a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.044,0.048,0.527,0.155
+"P11","Patricia Bullrich a presidenta y Joaquín De La Torre a gobernador por Juntos por el Cambio",0.246,0.445,0.112,0.327
+"P11","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.078,0.233,0.088,0.113
+"P11","Facundo Manes a presidente y Maximiliano Abad a gobernador por Juntos por el Cambio",0.009,0.022,0.047,0.014
+"P11","Gerardo Morales a presidente y su candidato a gobernador por Juntos por el Cambio",0.004,0.021,0.032,0.037
+"P11","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.008,0.028,0.058,0.061
+"P11","En blanco",0.002,0.007,0.02,0
+"P11","No sabe",0.008,0.035,0.066,0.178
+"P12","Agustín Rossi  a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.044,0.05,0.473,0.262
+"P12","Patricia Bullrich a presidenta y Joaquín De La Torre a gobernador por Juntos por el Cambio",0.205,0.453,0.121,0.232
+"P12","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.133,0.196,0.096,0.112
+"P12","Facundo Manes a presidente y Maximiliano Abad a gobernador por Juntos por el Cambio",0.012,0.052,0.041,0.046
+"P12","Gerardo Morales a presidente y su candidato a gobernador por Juntos por el Cambio",0.006,0.028,0.024,0.027
+"P12","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.583,0.155,0.075,0.1
+"P12","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.002,0.025,0.048,0
+"P12","En blanco",0.009,0.01,0.033,0.053
+"P12","No sabe",0.006,0.031,0.089,0.168
+"P16","Daniel Scioli a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.203,0.065,0.339,0.112
+"P16","Patricia Bullrich a presidenta y Joaquín De La Torre a gobernador por Juntos por el Cambio",0.123,0.394,0.223,0.29
+"P16","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.102,0.214,0.114,0.14
+"P16","Facundo Manes a presidente y Maximiliano Abad a gobernador por Juntos por el Cambio",0.099,0.135,0.075,0.121
+"P16","Gerardo Morales a presidente y su candidato a gobernador por Juntos por el Cambio",0.01,0.036,0.043,0.022
+"P16","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.441,0.098,0.037,0.042
+"P16","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.002,0.021,0.053,0
+"P16","En blanco",0.008,0.013,0.031,0.094
+"P16","No sabe",0.012,0.024,0.085,0.179
+"P17","Axel Kicillof a presidente y Sergio Massa a gobernador por el Frente de Todos",0.034,0.042,0.563,0.22
+"P17","Patricia Bullrich a presidenta y Diego Santilli a gobernador por Juntos por el Cambio",0.246,0.499,0.136,0.329
+"P17","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.05,0.185,0.098,0.105
+"P17","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.654,0.193,0.04,0.085
+"P17","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.002,0.023,0.051,0.005
+"P17","En blanco",0.006,0.018,0.029,0.065
+"P17","No sabe",0.008,0.04,0.083,0.191
+"P18","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.591,0.161,0.059,0.086
+"P18","Axel Kicillof a presidente y Sergio Massa a gobernador por el Frente de Todos",0.039,0.075,0.52,0.209
+"P18","Patricia Bullrich a presidenta y José Luis Espert a gobernador por Juntos por el Cambio",0.289,0.494,0.131,0.311
+"P18","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.052,0.196,0.11,0.173
+"P18","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.001,0.019,0.039,0.005
+"P18","En blanco",0.011,0.017,0.043,0.062
+"P18","No sabe",0.017,0.038,0.098,0.154
+"P19","Sergio Massa a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.035,0.039,0.5,0.206
+"P19","Patricia Bullrich a presidenta y José Luis Espert a gobernador por Juntos por el Cambio",0.289,0.508,0.146,0.271
+"P19","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.057,0.217,0.112,0.151
+"P19","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.594,0.171,0.051,0.095
+"P19","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.001,0.02,0.049,0.004
+"P19","En blanco",0.009,0.016,0.041,0.058
+"P19","No sabe",0.015,0.029,0.101,0.215
+"P20","Sergio Massa a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.043,0.039,0.557,0.206
+"P20","Patricia Bullrich a presidenta y Diego Santilli a gobernador por Juntos por el Cambio",0.267,0.658,0.188,0.398
+"P20","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.669,0.223,0.048,0.111
+"P20","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.005,0.015,0.055,0.032
+"P20","En blanco",0.007,0.022,0.037,0.015
+"P20","No sabe",0.009,0.043,0.115,0.238
+"P23","Daniel Scioli a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.098,0.086,0.454,0.212
+"P23","Patricia Bullrich a presidenta y Diego Santilli a gobernador por Juntos por el Cambio",0.23,0.626,0.239,0.375
+"P23","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.649,0.189,0.092,0.117
+"P23","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.006,0.022,0.052,0.032
+"P23","En blanco",0.008,0.031,0.047,0.023
+"P23","No sabe",0.009,0.046,0.116,0.241
+"P24","Sergio Massa a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.051,0.066,0.538,0.282
+"P24","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.161,0.462,0.188,0.24
+"P24","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.732,0.289,0.059,0.111
+"P24","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.003,0.022,0.053,0.013
+"P24","En blanco",0.02,0.054,0.05,0.031
+"P24","No sabe",0.033,0.107,0.112,0.323
+"P27","Daniel Scioli a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.117,0.091,0.459,0.216
+"P27","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.166,0.452,0.233,0.351
+"P27","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.66,0.289,0.086,0.053
+"P27","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.008,0.008,0.052,0.061
+"P27","En blanco",0.023,0.072,0.062,0.041
+"P27","No sabe",0.026,0.088,0.108,0.278
+"P28","Agustín Rossi a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.044,0.049,0.502,0.246
+"P28","Patricia Bullrich a presidenta y Diego Santilli a gobernador por Juntos por el Cambio",0.304,0.681,0.191,0.403
+"P28","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.629,0.177,0.064,0.055
+"P28","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.001,0.014,0.055,0.044
+"P28","En blanco",0.011,0.02,0.068,0.048
+"P28","No sabe",0.011,0.059,0.12,0.204
+"P29","Agustín Rossi a presidente y Axel Kicillof a gobernador por el Frente de Todos",0.098,0.12,0.454,0.223
+"P29","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.094,0.399,0.284,0.358
+"P29","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.783,0.314,0.026,0.058
+"P29","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.005,0.018,0.051,0.007
+"P29","En blanco",0.007,0.044,0.064,0.079
+"P29","No sabe",0.013,0.105,0.121,0.275
+"P30","Axel Kicillof a presidente y Sergio Massa a gobernador por el Frente de Todos",0.059,0.083,0.527,0.24
+"P30","Patricia Bullrich a presidenta y Diego Santilli a gobernador por Juntos por el Cambio",0.291,0.613,0.193,0.353
+"P30","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.636,0.207,0.078,0.128
+"P30","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.003,0.028,0.055,0.058
+"P30","En blanco",0.005,0.025,0.059,0.034
+"P30","No sabe",0.006,0.044,0.088,0.187
+"P33","Axel Kicillof a presidente y Sergio Massa a gobernador por el Frente de Todos",0.113,0.11,0.508,0.219
+"P33","Horacio Rodríguez Larreta a presidente y Diego Santilli a gobernador por Juntos por el Cambio",0.145,0.433,0.231,0.347
+"P33","Javier Milei a presidente y su candidato a gobernador por la Libertad Avanza",0.714,0.292,0.072,0.107
+"P33","A los candidatos a presidente y a gobernador del Frente de Izquierda",0.003,0.011,0.05,0.021
+"P33","En blanco",0.014,0.06,0.056,0.056
+"P33","No sabe",0.011,0.094,0.083,0.25
+"P34","Sergio Massa por el Frente de Todos",0.038,0.055,0.584,0.198
+"P34","Patricia Bullrich por Juntos por el Cambio",0.653,0.876,0.215,0.453
+"P34","En blanco",0.187,0.039,0.107,0.068
+"P34","No sabe",0.122,0.03,0.094,0.281
+"P35","Sergio Massa por el Frente de Todos",0.027,0.045,0.602,0.202
+"P35","Javier Milei por la Libertad Avanza",0.908,0.75,0.055,0.189
+"P35","En blanco",0.037,0.099,0.182,0.183
+"P35","No sabe",0.028,0.106,0.161,0.426
+"P36","Horacio Rodriguez Larreta por Juntos por el Cambio",0.144,0.428,0.32,0.343
+"P36","Javier Milei por la Libertad Avanza",0.788,0.446,0.056,0.141
+"P36","En blanco",0.032,0.065,0.433,0.059
+"P36","No sabe",0.036,0.061,0.191,0.457
+"P37","Javier Milei por la Libertad Avanza",0.638,0.189,0.063,0.073
+"P37","Patricia Bullrich por Juntos por el Cambio",0.302,0.767,0.255,0.473
+"P37","En blanco",0.021,0.024,0.516,0.141
+"P37","No sabe",0.039,0.02,0.166,0.313
+"P38","Sergio Massa por el Frente de Todos",0.095,0.1,0.538,0.269
+"P38","Horacio Rodriguez Larreta por Juntos por el Cambio",0.394,0.679,0.209,0.374
+"P38","En blanco",0.353,0.146,0.161,0.114
+"P38","No sabe",0.158,0.075,0.092,0.243
+"P39","Agustín Rossi por el Frente de Todos",0.041,0.059,0.563,0.145
+"P39","Patricia Bullrich por Juntos por el Cambio",0.623,0.828,0.214,0.421
+"P39","En blanco",0.217,0.08,0.131,0.062
+"P39","No sabe",0.119,0.033,0.092,0.372
+"P40","Daniel Scioli por el Frente de Todos",0.044,0.054,0.591,0.178
+"P40","Patricia Bullrich por Juntos por el Cambio",0.702,0.89,0.221,0.439
+"P40","En blanco",0.188,0.041,0.113,0.044
+"P40","No sabe",0.066,0.015,0.075,0.339
+"P41","Lo votaría",0.239,0.17,0.324,0.174
+"P41","Puede que lo vote",0.065,0.089,0.271,0.097
+"P41","Nunca lo votaría",0.652,0.715,0.336,0.413
+"P41","No sabe",0.044,0.026,0.069,0.316
+"P42","Lo votaría",0.465,0.515,0.183,0.334
+"P42","Puede que lo vote",0.264,0.36,0.066,0.095
+"P42","Nunca lo votaría",0.238,0.118,0.733,0.172
+"P42","No sabe",0.033,0.007,0.018,0.399
+"P44","Lo votaría",0.248,0.29,0.138,0.196
+"P44","Puede que lo vote",0.236,0.411,0.126,0.115
+"P44","Nunca lo votaría",0.481,0.271,0.711,0.19
+"P44","No sabe",0.035,0.028,0.025,0.499
+"P45","Lo votaría",0.108,0.056,0.31,0.118
+"P45","Puede que lo vote",0.115,0.1,0.21,0.091
+"P45","Nunca lo votaría",0.746,0.822,0.444,0.479
+"P45","No sabe",0.031,0.022,0.036,0.312
+"P46","Lo votaría",0.04,0.035,0.341,0.093
+"P46","Puede que lo vote",0.015,0.032,0.252,0.088
+"P46","Nunca lo votaría",0.905,0.903,0.366,0.513
+"P46","No sabe",0.04,0.03,0.041,0.306
+"P47","Lo votaría",0.077,0.083,0.13,0.11
+"P47","Puede que lo vote",0.164,0.303,0.263,0.194
+"P47","Nunca lo votaría",0.702,0.546,0.526,0.289
+"P47","No sabe",0.057,0.068,0.081,0.407
+"P48","Lo votaría",0.044,0.055,0.506,0.232
+"P48","Puede que lo vote",0.052,0.055,0.121,0.07
+"P48","Nunca lo votaría",0.875,0.877,0.346,0.537
+"P48","No sabe",0.029,0.013,0.027,0.161
+"P49","Si",0.586,0.57,0.603,0.584
+"P49","No",0.414,0.43,0.397,0.416

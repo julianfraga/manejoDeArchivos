@@ -1,0 +1,27 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Espacios políticos	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto para elecciones presidenciales	
+P06	Espacios políticos	politica	¿A cúal de los siguientes dirigentes del Frente de Todos y el peronismo preferiría ud. votar?	Intención de voto dentro del Frente de Todos y el Peronismo	(Solo para votantes del Frente de Todos y el peronismo)
+P07	Espacios políticos	politica	Y si en cambio, los candidatos del Frente de Todos y el peronismo fuesen los siguientes ¿A cúal preferiría ud. votar?	Intención de voto para elecciones presidenciales dentro del Frente de Todos y el Peronismo	(Solo para votantes del Frente de Todos y el peronismo)
+P08	Espacios políticos	politica	¿A cúal de los siguientes dirigentes de Juntos por el Cambio preferiría ud. votar?	Intención de voto para elecciones presidenciales dentro de Cambiemos	(Solo para quienes dijeron que votarían a Cambiemos)
+P09	Escenarios políticos	politica	Si las elecciones a gobernador y vicegobernador fueran mañana, ¿a cuál de las siguientes fórmulas votaría?	Intencion de voto para gobernador y vicegobernador	Escenario 1
+P09_imputada	Escenarios políticos	politica	Si las elecciones a gobernador y vicegobernador fueran mañana, ¿a cuál de las siguientes fórmulas votaría?	Intencion de voto para gobernador y vicegobernador	Escenario 1, Imputada
+P10	Escenarios políticos	politica	Y en el caso que los siguientes dirigentes y fuerzas políticas apoyaran a algún candidato, ¿a quién votaría ud. para gobernador?	Intención de voto para gobernador	Escenario 2
+P10_imputada	Escenarios políticos	politica	Y en el caso que los siguientes dirigentes y fuerzas políticas apoyaran a algún candidato, ¿a quién votaría ud. para gobernador?	Intención de voto para gobernador	Escenario 2, Imputada
+P11	Reach de intención de voto	reach	Si Marcos Koopman fuera candidato a gobernador, ud.	Preferencia de voto a Marcos Koopman	
+P12	Reach de intención de voto	reach	Si “Rolo” Figueroa fuera candidato a gobernador, ud.	Preferencia de voto a 'Rolo' Figueroa	
+P13	Reach de intención de voto	reach	Si Ramón Rioseco fuera candidato a gobernador, ud.	Preferencia de voto a Ramón Rioseco	
+P14	Reach de intención de voto	reach	Si Pablo Cervi fuera candidato a gobernador, ud.	Preferencia de voto a Pablo Cervi	
+P15	Reach de intención de voto	reach	Si Carlos Eguía fuera candidato a gobernador, ud.	Preferencia de voto a Carlos Eguía	
+P16	Reach de intención de voto	reach	Si Patricia Jure fuera candidata a gobernadora, ud.	Preferencia de voto a Patricia Juré	
+P17	Imagen	imagen	¿Qué imagen tiene de Marcos Koopmann?	Imagen de Marcos Koopmann	
+P18	Imagen	imagen	¿Qué imagen tiene de “Rolo” Figueroa?	Imagen de 'Rolo' Figueroa	
+P19	Imagen	imagen	¿Qué imagen tiene de Ramón Rioseco?	Imagen de Ramón Rioseco	
+P20	Imagen	imagen	¿Qué imagen tiene de Pablo Cervi?	Imagen de Pablo Cervi	
+P21	Imagen	imagen	¿Qué imagen tiene de Carlos Eguía?	Imagen de Carlos Eguía	
+P22	Imagen	imagen	¿Qué imagen tiene de Patricia Jure?	Imagen de Patricia Jure	
+P23	Imagen	imagen	¿Qué imagen tiene de Ana Pechén?	Imagen de Ana Pechén	
+P24	Imagen	imagen	¿Qué imagen tiene de Gloria Ruiz?	Imagen de Gloria Ruiz	
+P25	Imagen	imagen	¿Qué imagen tiene de Ayelén Gutiérrez?	Imagen de Ayelén Gutiérrez	
+P26	Imagen	imagen	¿Qué imagen tiene de Jorge Taylor?	Imagen de Jorge Taylor	
+P27	Imagen	imagen	¿Qué imagen tiene de Catalina Uleri?	Imagen de Catalina Uleri	
+P28	Imagen	imagen	¿Qué imagen tiene de Raúl Godoy?	Imagen de Raúl Godoy	

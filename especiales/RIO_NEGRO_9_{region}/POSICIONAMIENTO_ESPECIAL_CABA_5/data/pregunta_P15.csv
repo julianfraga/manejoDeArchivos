@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Fernandez","Macri","Lavagna","Massa","Grabois","Bullrich","Rodriguez Larreta","Milei"
+"Totalmente seguro",0.678,0.687,0.67,0.732,0.67,0.668,0.656,0.667,0.622,0.717,0.723,0.681,0.486,0.764,0.601,0.694,0.536,0.805
+"Bastante seguro",0.15,0.169,0.134,0.181,0.109,0.169,0.172,0.142,0.153,0.151,0.082,0.195,0.178,0.096,0.188,0.173,0.21,0.104
+"Algo seguro",0.09,0.081,0.098,0.034,0.106,0.088,0.113,0.107,0.113,0.07,0.096,0.079,0.157,0.1,0.131,0.096,0.104,0.064
+"Para nada seguro",0.082,0.063,0.098,0.053,0.115,0.075,0.059,0.084,0.112,0.062,0.099,0.045,0.179,0.04,0.08,0.037,0.15,0.027

@@ -1,0 +1,215 @@
+"var","categoria","Sergio Massa","Javier Milei"
+"P10","Siempre",0.217,0.195
+"P10","Casi siempre",0.279,0.292
+"P10","Casi nunca",0.328,0.341
+"P10","Nunca, pero esta es una excepción",0.176,0.172
+"P11","Unión por la Patria",0.67,0.053
+"P11","La Libertad Avanza",0.172,0.825
+"P11","En blanco",0.087,0.065
+"P11","No sabe",0.071,0.057
+"P13","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.696,0.064
+"P13","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.191,0.876
+"P13","En blanco",0.066,0.03
+"P13","No sabe",0.047,0.03
+"P15","Totalmente seguro",0.762,0.76
+"P15","Bastante seguro",0.123,0.117
+"P15","Algo seguro",0.062,0.059
+"P15","Para nada seguro",0.053,0.064
+"P16","Tiene Decidido que va a ir a votar",0.916,0.94
+"P16","Tiene dudas sobre si va a ir a  votar",0.046,0.041
+"P16","Tiene Decidido que no va a ir a votar",0.038,0.019
+"P17","Lo votaría",0.751,0.089
+"P17","Puede que lo vote",0.071,0.039
+"P17","Nunca lo votaría",0.154,0.857
+"P17","No sabe",0.024,0.015
+"P18","Lo votaría",0.183,0.741
+"P18","Puede que lo vote",0.084,0.106
+"P18","Nunca lo votaría",0.707,0.131
+"P18","No sabe",0.026,0.022
+"P19","Si",0.87,0.887
+"P19","No",0.13,0.113
+"P20","Sergio Massa",0.892,0.255
+"P20","Javier Milei",0.108,0.745
+"P21","Sergio Massa",0.887,0.093
+"P21","Javier Milei",0.113,0.907
+"P23","Sergio Massa",0.874,0.085
+"P23","Javier Milei",0.126,0.915
+"P24","Si",0.743,0.08
+"P24","No",0.257,0.92
+"P25","Si",0.345,0.873
+"P25","No",0.655,0.127
+"P28","Inflación",0.401,0.321
+"P28","Desempleo",0.095,0.034
+"P28","Corrupción",0.157,0.472
+"P28","Inseguridad",0.099,0.086
+"P28","Precio del dólar",0.018,0.008
+"P28","Pobreza",0.121,0.036
+"P28","Narcotráfico",0.006,0.009
+"P28","Tarifas",0.01,0.003
+"P28","Otro",0.078,0.025
+"P28","No sabe",0.015,0.006
+"P32","Sin deuda",0.454,0.421
+"P32","Menos de 10%",0.175,0.153
+"P32","Entre 10 y 20%",0.114,0.149
+"P32","Entre 20 y 30%",0.078,0.078
+"P32","Entre 30 y 40%",0.06,0.043
+"P32","Mas del 40%",0.084,0.115
+"P32","No sabe",0.035,0.041
+"P33","Gran excedente habitual",0.025,0.006
+"P33","Gran excedente excepcional",0.006,0.007
+"P33","Pequeño excedente habitual",0.099,0.058
+"P33","Pequeño excedente excepcional",0.092,0.054
+"P33","Alcanza gastos familia",0.175,0.151
+"P33","No alcanza gastos familia",0.098,0.107
+"P33","Solo NBFamiliares",0.232,0.287
+"P33","No alcanza NBFamiliares",0.256,0.315
+"P33","No sabe",0.017,0.015
+"P34","Muy buena",0.092,0.058
+"P34","Buena",0.285,0.17
+"P34","Ni buena ni mala",0.447,0.442
+"P34","Mala",0.13,0.244
+"P34","Muy mala",0.027,0.068
+"P34","No sabe",0.019,0.018
+"P35","Mejor",0.16,0.08
+"P35","Igual",0.42,0.093
+"P35","Peor",0.382,0.801
+"P35","No sabe",0.038,0.026
+"P36","Mejor",0.256,0.119
+"P36","Igual",0.307,0.193
+"P36","Peor",0.249,0.496
+"P36","No sabe",0.188,0.192
+"P37","Muy buena",0.077,0.062
+"P37","Buena",0.116,0.036
+"P37","Ni buena ni mala",0.252,0.06
+"P37","Mala",0.386,0.298
+"P37","Muy mala",0.156,0.534
+"P37","No sabe",0.013,0.01
+"P38","Mejor",0.19,0.025
+"P38","Igual",0.309,0.028
+"P38","Peor",0.435,0.914
+"P38","No sabe",0.066,0.033
+"P39","Mejor",0.318,0.113
+"P39","Igual",0.216,0.14
+"P39","Peor",0.28,0.608
+"P39","No sabe",0.186,0.139
+"P40","Muy buena",0.095,0.052
+"P40","Buena",0.149,0.011
+"P40","Ni buena ni mala",0.297,0.039
+"P40","Mala",0.296,0.23
+"P40","Muy mala",0.154,0.662
+"P40","No sabe",0.009,0.006
+"P42","Muy buena",0.076,0.021
+"P42","Buena",0.195,0.015
+"P42","Ni buena ni mala",0.316,0.043
+"P42","Mala",0.254,0.22
+"P42","Muy mala",0.141,0.692
+"P42","No sabe",0.018,0.009
+"P43","Muy buena",0.176,0.019
+"P43","Buena",0.341,0.015
+"P43","Ni buena ni mala",0.226,0.087
+"P43","Mala",0.154,0.275
+"P43","Muy mala",0.095,0.598
+"P43","No sabe",0.008,0.006
+"P44","Muy buena",0.094,0.019
+"P44","Buena",0.203,0.012
+"P44","Ni buena ni mala",0.322,0.028
+"P44","Mala",0.234,0.217
+"P44","Muy mala",0.131,0.72
+"P44","No sabe",0.016,0.004
+"P45","Muy buena",0.092,0.02
+"P45","Buena",0.109,0.016
+"P45","Ni buena ni mala",0.285,0.028
+"P45","Mala",0.323,0.21
+"P45","Muy mala",0.19,0.721
+"P45","No sabe",0.001,0.005
+"P46","Muy buena",0.399,0.028
+"P46","Buena",0.156,0.016
+"P46","Ni buena ni mala",0.151,0.038
+"P46","Mala",0.129,0.158
+"P46","Muy mala",0.162,0.753
+"P46","No sabe",0.003,0.007
+"P47","Muy buena",0.066,0.31
+"P47","Buena",0.076,0.266
+"P47","Ni buena ni mala",0.131,0.216
+"P47","Mala",0.283,0.103
+"P47","Muy mala",0.44,0.102
+"P47","No sabe",0.004,0.003
+"P48","Muy buena",0.109,0.116
+"P48","Buena",0.14,0.2
+"P48","Ni buena ni mala",0.258,0.257
+"P48","Mala",0.309,0.186
+"P48","Muy mala",0.177,0.236
+"P48","No sabe",0.007,0.005
+"P49","Muy buena",0.287,0.02
+"P49","Buena",0.267,0.016
+"P49","Ni buena ni mala",0.212,0.054
+"P49","Mala",0.123,0.211
+"P49","Muy mala",0.106,0.691
+"P49","No sabe",0.005,0.008
+"P50","Muy buena",0.077,0.177
+"P50","Buena",0.086,0.225
+"P50","Ni buena ni mala",0.153,0.315
+"P50","Mala",0.349,0.128
+"P50","Muy mala",0.324,0.141
+"P50","No sabe",0.011,0.014
+"P51","Muy buena",0.445,0.02
+"P51","Buena",0.161,0.017
+"P51","Ni buena ni mala",0.137,0.071
+"P51","Mala",0.119,0.18
+"P51","Muy mala",0.128,0.695
+"P51","No sabe",0.01,0.017
+"P53","Muy buena",0.079,0.322
+"P53","Buena",0.068,0.273
+"P53","Ni buena ni mala",0.146,0.25
+"P53","Mala",0.216,0.053
+"P53","Muy mala",0.483,0.094
+"P53","No sabe",0.008,0.008
+"P54","Muy buena",0.092,0.367
+"P54","Buena",0.07,0.347
+"P54","Ni buena ni mala",0.112,0.187
+"P54","Mala",0.248,0.061
+"P54","Muy mala",0.47,0.035
+"P54","No sabe",0.008,0.003
+"P55","Muy buena",0.286,0.055
+"P55","Buena",0.189,0.049
+"P55","Ni buena ni mala",0.271,0.176
+"P55","Mala",0.125,0.176
+"P55","Muy mala",0.104,0.479
+"P55","No sabe",0.025,0.065
+"P56","Muy buena",0.117,0.012
+"P56","Buena",0.198,0.032
+"P56","Ni buena ni mala",0.387,0.125
+"P56","Mala",0.15,0.175
+"P56","Muy mala",0.112,0.596
+"P56","No sabe",0.036,0.06
+"P57","Muy buena",0.067,0.056
+"P57","Buena",0.156,0.113
+"P57","Ni buena ni mala",0.367,0.257
+"P57","Mala",0.276,0.212
+"P57","Muy mala",0.117,0.328
+"P57","No sabe",0.017,0.034
+"P58","Muy buena",0.364,0.026
+"P58","Buena",0.232,0.086
+"P58","Ni buena ni mala",0.215,0.274
+"P58","Mala",0.103,0.194
+"P58","Muy mala",0.056,0.392
+"P58","No sabe",0.03,0.028
+"P59","Radio",0.24,0.17
+"P59","Televisión",0.325,0.356
+"P59","Diario",0.054,0.063
+"P59","Medio digital",0.21,0.161
+"P59","Redes Sociales",0.114,0.16
+"P59","Ninguno en particular",0.057,0.088
+"P59","No sabe",0,0.002
+"P60","Muy buena",0.136,0.022
+"P60","Buena",0.244,0.077
+"P60","Ni buena ni mala",0.301,0.185
+"P60","Mala",0.233,0.352
+"P60","Muy mala",0.079,0.337
+"P60","No sabe",0.007,0.027
+"P61","Muy buena",0.043,0.024
+"P61","Buena",0.121,0.111
+"P61","Ni buena ni mala",0.235,0.278
+"P61","Mala",0.309,0.263
+"P61","Muy mala",0.288,0.308
+"P61","No sabe",0.004,0.016

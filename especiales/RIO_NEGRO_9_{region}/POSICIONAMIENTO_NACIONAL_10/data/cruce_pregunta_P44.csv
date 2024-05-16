@@ -1,0 +1,153 @@
+"var","categoria","Si","No"
+"P04","Siempre",0.289,0.156
+"P04","Casi siempre",0.456,0.391
+"P04","Casi nunca",0.207,0.352
+"P04","Nunca, pero esta es una excepción",0.048,0.101
+"P06","Del Frente de Todos y el peronismo",0.33,0.242
+"P06","De Juntos por el cambio",0.311,0.31
+"P06","De los Liberales libertarios",0.252,0.299
+"P06","De la Izquierda",0.027,0.032
+"P06","No sabe",0.08,0.117
+"P07","A Sergio Massa",0.293,0.294
+"P07","A Daniel Scioli",0.093,0.118
+"P07","A algún candidato del peronismo",0.106,0.107
+"P07","A algún candidato del kirchnerismo",0.508,0.481
+"P08","A Sergio Massa",0.153,0.146
+"P08","A Daniel Scioli",0.069,0.08
+"P08","A algún candidato del peronismo",0.094,0.122
+"P08","A Cristina Fernández de Kirchner",0.684,0.652
+"P09","A Horacio Rodriguez Larreta",0.166,0.162
+"P09","A Patricia Bullrich",0.705,0.691
+"P09","A Facundo Manes",0.07,0.064
+"P09","A Gerardo Morales",0.059,0.083
+"P10","Sergio Massa por el Frente de Todos",0.269,0.193
+"P10","Patricia Bullrich por Juntos por el Cambio",0.244,0.254
+"P10","Horacio Rodríguez Larreta por Juntos por el Cambio",0.101,0.094
+"P10","Javier Milei por la Libertad Avanza",0.258,0.301
+"P10","Al candidato del Frente de Izquierda",0.03,0.031
+"P10","En blanco",0.022,0.03
+"P10","No sabe",0.076,0.097
+"P11","Javier Milei por la Libertad Avanza",0.223,0.263
+"P11","Horacio Rodríguez Larreta por Juntos por el Cambio",0.101,0.104
+"P11","Patricia Bullrich por Juntos por el Cambio",0.23,0.219
+"P11","Sergio Massa  por el Frente de Todos",0.273,0.216
+"P11","Facundo Manes por Juntos por el Cambio",0.047,0.053
+"P11","Gerardo Morales por Juntos por el Cambio",0.021,0.025
+"P11","Al candidato del Frente de Izquierda",0.04,0.041
+"P11","En blanco",0.017,0.023
+"P11","No sabe",0.048,0.056
+"P12","Agustín Rossi  por el Frente de Todos",0.236,0.177
+"P12","Patricia Bullrich por Juntos por el Cambio",0.231,0.231
+"P12","Horacio Rodríguez Larreta por Juntos por el Cambio",0.101,0.101
+"P12","Facundo Manes por Juntos por el Cambio",0.033,0.035
+"P12","Gerardo Morales",0.023,0.037
+"P12","Javier Milei por la Libertad Avanza",0.249,0.274
+"P12","Al candidato del Frente de Izquierda",0.029,0.029
+"P12","En blanco",0.026,0.031
+"P12","No sabe",0.072,0.085
+"P16","Daniel Scioli  por el Frente de Todos",0.24,0.196
+"P16","Patricia Bullrich por Juntos por el Cambio",0.235,0.226
+"P16","Horacio Rodríguez Larreta por Juntos por el Cambio",0.101,0.105
+"P16","Facundo Manes por Juntos por el Cambio",0.058,0.055
+"P16","Gerardo Morales",0.03,0.046
+"P16","Javier Milei por la Libertad Avanza",0.222,0.237
+"P16","Al candidato del Frente de Izquierda",0.029,0.032
+"P16","En blanco",0.025,0.032
+"P16","No sabe",0.06,0.071
+"P17","Axel Kicillof por el Frente de Todos",0.295,0.215
+"P17","Patricia Bullrich por Juntos por el Cambio",0.243,0.244
+"P17","Horacio Rodríguez Larreta por Juntos por el Cambio",0.101,0.099
+"P17","Javier Milei por la Libertad Avanza",0.254,0.299
+"P17","Al candidato del Frente de Izquierda",0.022,0.024
+"P17","En blanco",0.027,0.037
+"P17","No sabe",0.058,0.082
+"P18","Sergio Massa  por el Frente de Todos",0.283,0.214
+"P18","Patricia Bullrich por Juntos por el Cambio",0.299,0.297
+"P18","Javier Milei por la Libertad Avanza",0.267,0.322
+"P18","Al candidato del Frente de Izquierda",0.033,0.035
+"P18","En blanco",0.033,0.043
+"P18","No sabe",0.085,0.089
+"P21","Daniel Scioli  por el Frente de Todos",0.278,0.224
+"P21","Patricia Bullrich por Juntos por el Cambio",0.298,0.31
+"P21","Javier Milei por la Libertad Avanza",0.269,0.287
+"P21","Al candidato del Frente de Izquierda",0.035,0.037
+"P21","En blanco",0.036,0.049
+"P21","No sabe",0.084,0.093
+"P22","Sergio Massa  por el Frente de Todos",0.284,0.217
+"P22","Horacio Rodríguez Larreta por Juntos por el Cambio",0.218,0.212
+"P22","Javier Milei por la Libertad Avanza",0.322,0.351
+"P22","Al candidato del Frente de Izquierda",0.033,0.036
+"P22","En blanco",0.046,0.065
+"P22","No sabe",0.097,0.119
+"P25","Agustín Rossi  por el Frente de Todos",0.267,0.206
+"P25","Patricia Bullrich por Juntos por el Cambio",0.301,0.313
+"P25","Javier Milei por la Libertad Avanza",0.265,0.291
+"P25","Al candidato del Frente de Izquierda",0.034,0.033
+"P25","En blanco",0.046,0.055
+"P25","No sabe",0.087,0.102
+"P26","Axel Kicillof por el Frente de Todos",0.302,0.227
+"P26","Patricia Bullrich por Juntos por el Cambio",0.305,0.299
+"P26","Javier Milei por la Libertad Avanza",0.266,0.312
+"P26","Al candidato del Frente de Izquierda",0.028,0.03
+"P26","En blanco",0.037,0.047
+"P26","No sabe",0.062,0.085
+"P29","Sergio Massa por el Frente de Todos",0.313,0.243
+"P29","Patricia Bullrich por Juntos por el Cambio",0.474,0.469
+"P29","En blanco",0.106,0.147
+"P29","No sabe",0.107,0.141
+"P30","Sergio Massa por el Frente de Todos",0.32,0.245
+"P30","Javier Milei por la Libertad Avanza",0.447,0.466
+"P30","En blanco",0.116,0.142
+"P30","No sabe",0.117,0.147
+"P31","Horacio Rodriguez Larreta por el Juntos por el Cambio",0.292,0.27
+"P31","Javier Milei por la Libertad Avanza",0.365,0.387
+"P31","En blanco",0.218,0.206
+"P31","No sabe",0.125,0.137
+"P32","Javier Milei por la Libertad Avanza",0.278,0.289
+"P32","Patricia Bullrich por Juntos por el Cambio",0.348,0.376
+"P32","En blanco",0.265,0.222
+"P32","No sabe",0.109,0.113
+"P33","Sergio Massa por el Frente de Todos",0.324,0.257
+"P33","Horacio Rodriguez Larreta por el Juntos por el Cambio",0.365,0.36
+"P33","En blanco",0.207,0.224
+"P33","No sabe",0.104,0.159
+"P34","Agustín Rossi por el Frente de Todos",0.293,0.227
+"P34","Patricia Bullrich por Juntos por el Cambio",0.471,0.468
+"P34","En blanco",0.138,0.166
+"P34","No sabe",0.098,0.139
+"P35","Daniel Scioli por el Frente de Todos",0.31,0.244
+"P35","Patricia Bullrich por Juntos por el Cambio",0.502,0.502
+"P35","En blanco",0.115,0.146
+"P35","No sabe",0.073,0.108
+"P36","Lo votaría",0.241,0.209
+"P36","Puede que lo vote",0.185,0.155
+"P36","Nunca lo votaría",0.512,0.556
+"P36","No sabe",0.062,0.08
+"P37","Lo votaría",0.33,0.323
+"P37","Puede que lo vote",0.188,0.205
+"P37","Nunca lo votaría",0.438,0.415
+"P37","No sabe",0.044,0.057
+"P38","Lo votaría",0.309,0.318
+"P38","Puede que lo vote",0.175,0.195
+"P38","Nunca lo votaría",0.47,0.441
+"P38","No sabe",0.046,0.046
+"P39","Lo votaría",0.201,0.193
+"P39","Puede que lo vote",0.219,0.23
+"P39","Nunca lo votaría",0.528,0.506
+"P39","No sabe",0.052,0.071
+"P40","Lo votaría",0.193,0.164
+"P40","Puede que lo vote",0.152,0.139
+"P40","Nunca lo votaría",0.611,0.633
+"P40","No sabe",0.044,0.064
+"P41","Lo votaría",0.183,0.135
+"P41","Puede que lo vote",0.133,0.116
+"P41","Nunca lo votaría",0.623,0.679
+"P41","No sabe",0.061,0.07
+"P42","Lo votaría",0.116,0.09
+"P42","Puede que lo vote",0.239,0.227
+"P42","Nunca lo votaría",0.544,0.577
+"P42","No sabe",0.101,0.106
+"P43","Lo votaría",0.287,0.178
+"P43","Puede que lo vote",0.071,0.097
+"P43","Nunca lo votaría",0.605,0.671
+"P43","No sabe",0.037,0.054

@@ -1,0 +1,119 @@
+"var","categoria","Siempre","Casi siempre","Casi nunca","Nunca, pero esta es una excepción"
+"P05","Mucho",0.727,0.384,0.327,0.35
+"P05","Bastante",0.175,0.457,0.324,0.288
+"P05","Poco",0.059,0.112,0.26,0.099
+"P05","Nada",0.019,0.008,0.042,0.191
+"P05","No sabe",0.02,0.039,0.047,0.072
+"P09","Unión por la Patria",0.308,0.247,0.198,0.221
+"P09","Juntos por el Cambio ",0.395,0.474,0.354,0.251
+"P09","De los Liberales libertarios",0.158,0.141,0.233,0.304
+"P09","De la Izquierda",0.066,0.02,0.051,0.045
+"P09","Hacemos por nuestro país",0.028,0.017,0.041,0.052
+"P09","En blanco",0.022,0.033,0.052,0.037
+"P09","No sabe",0.023,0.068,0.071,0.09
+"P12","Sergio Massa a presidente, Axel Kicillof a gobernador y Federico Meca a intendente por Unión por la Patria.",0.32,0.3,0.226,0.244
+"P12","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Ramón Lanus a intendente por Juntos por el Cambio",0.4,0.481,0.382,0.299
+"P12","Javier Milei a presidente, Carolina Piparo a gobernadora y Rodolfo Paolucci a intendente por la Libertad Avanza",0.198,0.128,0.275,0.3
+"P12","Myriam Bregman a presidenta, Rubén Sobrero a gobernador y Camila Paiz a intendenta por el Frente de Izquierda",0.032,0.021,0.03,0.01
+"P12","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.025,0.018,0.015,0.034
+"P12","En blanco",0.007,0.012,0.037,0.047
+"P12","No sabe",0.018,0.04,0.035,0.066
+"P15","Si",0.386,0.43,0.451,0.476
+"P15","No",0.614,0.57,0.549,0.524
+"P16","Sergio Massa a presidente por Unión por la Patria.",0.269,0.197,0.116,0.113
+"P16","Patricia Bullrich a presidenta por Juntos por el Cambio",0.385,0.488,0.393,0.185
+"P16","Javier Milei a presidente por la Libertad Avanza",0.24,0.226,0.335,0.418
+"P16","Myriam Bregman a presidenta por el Frente de Izquierda",0.053,0.011,0.034,0.089
+"P16","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.026,0.041,0.044,0.088
+"P16","En blanco",0.012,0.01,0.042,0.007
+"P16","No sabe",0.015,0.027,0.036,0.1
+"P19","Axel Kicillof a gobernador por Unión por la Patria.",0.269,0.159,0.129,0.135
+"P19","Néstor Grindetti a gobernador por Juntos por el Cambio",0.46,0.514,0.416,0.347
+"P19","Carolina Piparo a gobernadora por la Libertad Avanza",0.221,0.181,0.272,0.364
+"P19","Rubén Sobrero a gobernador por el Frente de Izquierda",0,0.017,0.048,0.017
+"P19","En blanco",0.007,0.029,0.031,0.027
+"P19","No sabe",0.043,0.1,0.104,0.11
+"P22","Federico Meca a intendente por Unión por la Patria.",0.264,0.154,0.08,0.058
+"P22","Ramón Lanus a intendente por Juntos por el Cambio",0.344,0.581,0.565,0.523
+"P22","Rodolfo Paolucci a intendente por la Libertad Avanza",0.294,0.109,0.163,0.216
+"P22","Camila Paiz a intendenta por el Frente de Izquierda",0.004,0.045,0.036,0.059
+"P22","En blanco",0.037,0.03,0.04,0.059
+"P22","No sabe",0.057,0.081,0.116,0.085
+"P25","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.392,0.354,0.361,0.413
+"P25","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.324,0.324,0.267,0.222
+"P25","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.211,0.256,0.247,0.231
+"P25","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.037,0.016,0.032,0.043
+"P25","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.007,0.013,0.039,0.045
+"P25","No sabe",0.029,0.037,0.054,0.046
+"P26","Totalmente seguro.",0.823,0.711,0.698,0.681
+"P26","Bastante seguro",0.074,0.184,0.172,0.127
+"P26","Algo seguro",0.082,0.073,0.064,0.121
+"P26","Para nada seguro",0.021,0.032,0.066,0.071
+"P27","Tiene Decidido que va a ir a votar.",0.893,0.939,0.92,0.922
+"P27","Tiene dudas sobre si va a ir a  votar",0.069,0.052,0.06,0.046
+"P27","Tiene Decidido que no va a ir a votar",0.038,0.009,0.02,0.032
+"P28","Si",0.636,0.46,0.26,0.255
+"P28","No",0.364,0.54,0.74,0.745
+"PRESIDENTE","Sergio Massa a presidente por Unión por la Patria.",0.324,0.286,0.22,0.249
+"PRESIDENTE","Patricia Bullrich a presidenta por Juntos por el Cambio",0.417,0.499,0.4,0.283
+"PRESIDENTE","Javier Milei a presidente por la Libertad Avanza",0.189,0.153,0.275,0.275
+"PRESIDENTE","Myriam Bregman a presidenta por el Frente de Izquierda",0.033,0.009,0.027,0.052
+"PRESIDENTE","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.02,0.02,0.026,0.04
+"PRESIDENTE","En blanco",0.009,0.005,0.025,0.052
+"PRESIDENTE","No sabe",0.008,0.028,0.027,0.049
+"GOBERNADOR","Axel Kicillof a gobernador por Unión por la Patria.",0.329,0.275,0.235,0.276
+"GOBERNADOR","Néstor Grindetti a gobernador por Juntos por el Cambio",0.448,0.517,0.406,0.361
+"GOBERNADOR","Carolina Piparo a gobernadora por la Libertad Avanza",0.182,0.135,0.251,0.255
+"GOBERNADOR","Rubén Sobrero a gobernador por el Frente de Izquierda",0.015,0.011,0.027,0.019
+"GOBERNADOR","En blanco",0.008,0.012,0.027,0.033
+"GOBERNADOR","No sabe",0.018,0.05,0.054,0.056
+"INTENDENTE","Federico Meca a intendente por Unión por la Patria.",0.326,0.274,0.22,0.239
+"INTENDENTE","Ramón Lanus a intendente por Juntos por el Cambio",0.413,0.546,0.465,0.43
+"INTENDENTE","Rodolfo Paolucci a intendente por la Libertad Avanza",0.202,0.103,0.203,0.191
+"INTENDENTE","Camila Paiz a intendenta por el Frente de Izquierda",0.017,0.021,0.024,0.041
+"INTENDENTE","En blanco",0.016,0.014,0.032,0.051
+"INTENDENTE","No sabe",0.026,0.042,0.056,0.048
+"CORTA_PRESIDENTE","Si",0.135,0.119,0.089,0.22
+"CORTA_PRESIDENTE","No",0.865,0.881,0.911,0.78
+"CORTA_GOBERNADOR","Si",0.155,0.169,0.207,0.206
+"CORTA_GOBERNADOR","No",0.845,0.831,0.793,0.794
+"CORTA_INTENDENTE","Si",0.199,0.194,0.252,0.332
+"CORTA_INTENDENTE","No",0.801,0.806,0.748,0.668
+"P12_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Federico Meca a intendente por Unión por la Patria.",0.323,0.312,0.235,0.259
+"P12_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Ramón Lanus a intendente por Juntos por el Cambio",0.411,0.506,0.397,0.334
+"P12_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora y Rodolfo Paolucci a intendente por la Libertad Avanza",0.201,0.131,0.285,0.31
+"P12_imputada","Myriam Bregman a presidenta, Rubén Sobrero a gobernador y Camila Paiz a intendenta por el Frente de Izquierda",0.032,0.021,0.031,0.01
+"P12_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.025,0.018,0.015,0.034
+"P12_imputada","En blanco",0.008,0.012,0.037,0.053
+"P16_imputada","Sergio Massa a presidente por Unión por la Patria.",0.269,0.2,0.116,0.129
+"P16_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.39,0.504,0.41,0.234
+"P16_imputada","Javier Milei a presidente por la Libertad Avanza",0.24,0.231,0.349,0.453
+"P16_imputada","Myriam Bregman a presidenta por el Frente de Izquierda",0.053,0.011,0.035,0.089
+"P16_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.026,0.041,0.044,0.088
+"P16_imputada","En blanco",0.022,0.013,0.046,0.007
+"P19_imputada","Axel Kicillof a gobernador por Unión por la Patria.",0.284,0.188,0.136,0.149
+"P19_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.477,0.583,0.456,0.443
+"P19_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.221,0.183,0.303,0.364
+"P19_imputada","Rubén Sobrero a gobernador por el Frente de Izquierda",0.011,0.017,0.048,0.017
+"P19_imputada","En blanco",0.007,0.029,0.057,0.027
+"P22_imputada","Federico Meca a intendente por Unión por la Patria.",0.284,0.164,0.099,0.068
+"P22_imputada","Ramón Lanus a intendente por Juntos por el Cambio",0.364,0.634,0.626,0.566
+"P22_imputada","Rodolfo Paolucci a intendente por la Libertad Avanza",0.309,0.116,0.165,0.248
+"P22_imputada","Camila Paiz a intendenta por el Frente de Izquierda",0.004,0.054,0.045,0.059
+"P22_imputada","En blanco",0.039,0.032,0.065,0.059
+"PRESIDENTE_imputada","Sergio Massa a presidente por Unión por la Patria.",0.325,0.297,0.221,0.255
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.422,0.511,0.414,0.307
+"PRESIDENTE_imputada","Javier Milei a presidente por la Libertad Avanza",0.189,0.158,0.286,0.294
+"PRESIDENTE_imputada","Myriam Bregman a presidenta por el Frente de Izquierda",0.033,0.009,0.026,0.052
+"PRESIDENTE_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.02,0.019,0.026,0.04
+"PRESIDENTE_imputada","En blanco",0.011,0.006,0.027,0.052
+"GOBERNADOR_imputada","Axel Kicillof a gobernador por Unión por la Patria.",0.336,0.293,0.24,0.283
+"GOBERNADOR_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.457,0.545,0.428,0.404
+"GOBERNADOR_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.181,0.139,0.268,0.261
+"GOBERNADOR_imputada","Rubén Sobrero a gobernador por el Frente de Izquierda",0.018,0.011,0.027,0.019
+"GOBERNADOR_imputada","En blanco",0.008,0.012,0.037,0.033
+"INTENDENTE_imputada","Federico Meca a intendente por Unión por la Patria.",0.335,0.284,0.229,0.243
+"INTENDENTE_imputada","Ramón Lanus a intendente por Juntos por el Cambio",0.423,0.567,0.495,0.456
+"INTENDENTE_imputada","Rodolfo Paolucci a intendente por la Libertad Avanza",0.208,0.109,0.21,0.21
+"INTENDENTE_imputada","Camila Paiz a intendenta por el Frente de Izquierda",0.017,0.025,0.026,0.041
+"INTENDENTE_imputada","En blanco",0.017,0.015,0.04,0.05

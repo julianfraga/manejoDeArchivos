@@ -1,0 +1,16 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	¿Cuánto diría usted que le importa la política?	Opinión sobre la importancia de la política	
+P06	Control	diverging	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P10	Bloque electoral	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacios políticos en elecciones generales	
+P13	Bloque electoral	politica	Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente, ¿a qué candidatos preferiría votar?	Intención de voto por candidatos a Presidente, Gobernador e Intendente en elecciones generales	
+P13_imputada	Bloque electoral	politica	Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente, ¿a qué candidatos preferiría votar?	Intención de voto por candidatos a Presidente, Gobernador e Intendente en elecciones generales	(imputación no lineal de indecisos)
+P16	Bloque electoral	sino	Usted estaría dispuesto a cortar boleta? 	Intención de corte de boleta	
+PRESIDENTE	Bloque electoral	politica	Intención de voto por fórmulas presidenciales	Intención de voto por fórmulas presidenciales	(Considerando corte de boleta)
+PRESIDENTE_imputada	Bloque electoral	politica	Intención de voto por fórmulas presidenciales	Intención de voto por fórmulas presidenciales	(Considerando corte de boleta, imputación no lineal de indecisos)
+GOBERNADOR	Bloque electoral	politica	Intención de voto por candidatos a Gobernador	Intención de voto por candidatos a Gobernador	(Considerando corte de boleta)
+GOBERNADOR_imputada	Bloque electoral	politica	Intención de voto por candidatos a Gobernador	Intención de voto por candidatos a Gobernador	(Considerando corte de boleta, imputación no lineal de indecisos)
+INTENDENTE	Bloque electoral	politica	Intención de voto por candidatos a Intendente	Intención de voto por candidatos a Intendente	(Considerando corte de boleta)
+INTENDENTE_imputada	Bloque electoral	politica	Intención de voto por candidatos a Intendente	Intención de voto por candidatos a Intendente	(Considerando corte de boleta, imputación no lineal de indecisos)
+P26	Bloque electoral	diverging	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente, gobernador e intendente en las próximas elecciones primarias paso.	Nivel de seguridad sobre intención de voto	
+P27	Bloque electoral	diverging	¿Qué tan decidido está usted en ir a votar?	Nivel de decisión sobre ir o no a votar	
+P28	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

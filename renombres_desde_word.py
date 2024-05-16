@@ -14,8 +14,8 @@ os.chdir('/home/julian/trabajo/manejoDeArchivos')
 from preguntas_opciones import *
 
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 208/tracking/'
-ruta_cuestionario = ruta_trabajo + 'Encuesta Trackeo version 208.docx'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 236/tracking/'
+ruta_cuestionario = ruta_trabajo + 'Encuenta de tracking 236.docx'
 nombre_tsv =   'cuestionario_tracking.tsv'
 cuestionarioTSV(ruta_cuestionario, ruta_trabajo, nombre_tsv)
 cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
@@ -29,16 +29,16 @@ for index, row in cuestionario.iterrows():
     texto = row.texto.strip()
     if texto in textos:
         
-    if f'pregunta{codigo}' in textos:
-        cuestionario.at[index, 'label'] = textos[f'label{codigo}']
+        if f'pregunta{codigo}' in textos:
+            cuestionario.at[index, 'label'] = textos[f'label{codigo}']
 
 cuestionario.to_csv(ruta_trabajo +'labeleado_'+ nombre_tsv, sep= '\t', index = False)
 
 
 #%%
 # renombres
-ruta_trabajo = '/home/julian/trabajo/updates/corte 208/tracking/'
-ruta_cuestionario = ruta_trabajo + 'Encuesta Trackeo version 208.docx'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 236/tracking/'
+ruta_cuestionario = ruta_trabajo + 'Encuenta de tracking 236.docx'
 archivo = Document(ruta_cuestionario)
 opciones = {}
 for parrafo in archivo.paragraphs:

@@ -1,0 +1,26 @@
+"var","categoria","Muy buena","Buena","Ni buena ni mala","Mala","Muy mala","No sabe"
+"aysa_1","Si",0.765,0.849,0.83,0.807,0.802,0.695
+"aysa_1","No",0.235,0.151,0.17,0.193,0.198,0.305
+"aysa_2","A la empresa Aysa en forma directa",0.843,0.841,0.802,0.833,0.845,0.876
+"aysa_2","Al Country, barrio, consorcio donde vivo y está conectada a la de la empresa Aysa",0.056,0.071,0.036,0.055,0.025,0.023
+"aysa_2","Es una red desvinculada de la empresa Aysa",0.046,0.044,0.078,0.075,0.055,0.074
+"aysa_2","No sabe",0.055,0.044,0.084,0.037,0.075,0.027
+"aysa_3","Si desmejoró",0.591,0.396,0.419,0.354,0.444,0.328
+"aysa_3","No desmejoró",0.409,0.604,0.581,0.646,0.556,0.672
+"aysa_4","Color",0.241,0.37,0.274,0.217,0.248,0.281
+"aysa_4","Olor",0.36,0.188,0.184,0.23,0.169,0.109
+"aysa_4","Gusto",0.316,0.274,0.327,0.362,0.358,0.293
+"aysa_4","Presión",0.083,0.168,0.215,0.191,0.225,0.317
+"aysa_5","No",0.44,0.305,0.362,0.338,0.408,0.423
+"aysa_5","Si. A la empresa AySA en forma directa",0.455,0.586,0.541,0.567,0.503,0.327
+"aysa_5","Si. Al Country, barrio, consorcio donde vivo y está conectada a la de la empresa AySA",0.014,0.05,0.03,0.028,0.029,0
+"aysa_5","Si. Es una red desvinculada de la empresa AySA",0.033,0.031,0.027,0.038,0.035,0
+"aysa_5","No sabe",0.058,0.028,0.04,0.029,0.025,0.25
+"aysa_6","Si desmejoró",0.449,0.355,0.303,0.288,0.346,0.203
+"aysa_6","No desmejoró",0.551,0.645,0.697,0.712,0.654,0.797
+"aysa_7","Tapa rota",0.661,0.483,0.512,0.483,0.445,0.846
+"aysa_7","Boca de acceso rota",0.025,0.135,0.11,0.07,0.102,0
+"aysa_7","Filtraciones en el sótano",0.01,0.043,0.016,0.073,0.042,0
+"aysa_7","Olor químico en la cloaca",0.038,0.143,0.113,0.15,0.184,0
+"aysa_7","Taponamiento",0.072,0.069,0.093,0.104,0.121,0
+"aysa_7","Otro",0.194,0.127,0.156,0.12,0.106,0.154

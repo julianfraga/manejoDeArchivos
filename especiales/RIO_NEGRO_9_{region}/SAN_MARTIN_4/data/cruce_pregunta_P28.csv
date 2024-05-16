@@ -1,0 +1,94 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.606,0.598,0.46,0.174
+"P05","Bastante",0.276,0.255,0.366,0.17
+"P05","Poco",0.086,0.086,0.132,0.293
+"P05","Nada",0.02,0.052,0.041,0.363
+"P05","No sabe",0.012,0.009,0.001,0
+"P06","Siempre",0.27,0.062,0.251,0.064
+"P06","Casi siempre",0.35,0.388,0.375,0.254
+"P06","Casi nunca",0.24,0.31,0.286,0.41
+"P06","Nunca, pero esta es una excepción",0.14,0.24,0.088,0.272
+"P09","Unión por la Patria",0.765,0.294,0.032,0.01
+"P09","Juntos por el Cambio",0.126,0.261,0.473,0.211
+"P09","De los Liberales libertarios",0.053,0.128,0.332,0.094
+"P09","De la Izquierda",0.013,0.078,0.052,0.05
+"P09","Hacemos por nuestro país",0.003,0.056,0.028,0
+"P09","Otro",0.013,0.065,0.053,0.157
+"P09","En blanco",0.015,0.008,0.014,0.012
+"P09","No sabe",0.012,0.11,0.016,0.466
+"P12","Sergio Massa a presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente por Unión por la Patria",0.546,0.247,0.189,0.1
+"P12","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.09,0.181,0.499,0.023
+"P12","Javier Milei a presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente por la Libertad Avanza",0.331,0.147,0.245,0.167
+"P12","A los candidatos a presidente, a gobernador y a intendente del Frente de Izquierda",0.002,0.122,0.025,0.121
+"P12","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.003,0.05,0.017,0
+"P12","En blanco",0.01,0.132,0.003,0.168
+"P12","No sabe",0.018,0.121,0.022,0.421
+"P15","Si",0.302,0.747,0.418,0.58
+"P15","No",0.698,0.253,0.582,0.42
+"P16","Sergio Massa a presidente por Unión por la Patria",0.696,0.284,0.038,0.042
+"P16","Patricia Bullrich a presidenta por Juntos por el Cambio",0.107,0.281,0.474,0.14
+"P16","Javier Milei a presidente por la Libertad Avanza",0.113,0.193,0.44,0.202
+"P16","Los candidatos a presidente de la Izquierda",0.04,0.085,0.016,0.184
+"P16","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.01,0.013,0.022,0
+"P16","En blanco",0,0.045,0,0.02
+"P16","No sabe",0.034,0.099,0.01,0.412
+"P19","Axel Kicillof a gobernador por Unión por la Patria",0.627,0.365,0.062,0.059
+"P19","Néstor Grindetti a gobernador por Juntos por el Cambio",0.13,0.262,0.544,0.155
+"P19","Carolina Piparo a gobernadora por la Libertad Avanza",0.124,0.104,0.264,0.242
+"P19","El candidato a gobernador de la Izquierda",0.028,0.13,0.027,0
+"P19","En blanco",0.008,0.032,0.006,0.02
+"P19","No sabe",0.083,0.107,0.097,0.524
+"P22","Fernando Moreira a intendente por Unión por la Patria",0.602,0.486,0.155,0.169
+"P22","Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.187,0.202,0.611,0.081
+"P22","Hernán Sardella a intendente por la Libertad Avanza",0.097,0.054,0.124,0
+"P22","El candidato del Frente de Izquierda",0.012,0.006,0.019,0.184
+"P22","En blanco",0.031,0.032,0.022,0
+"P22","No sabe",0.071,0.22,0.069,0.566
+"P25","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.206,0.386,0.598,0.212
+"P25","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.197,0.126,0.244,0.116
+"P25","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.462,0.254,0.083,0.413
+"P25","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.09,0.033,0.023,0.024
+"P25","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.018,0.125,0.01,0
+"P25","No sabe",0.027,0.076,0.042,0.235
+"P26","Totalmente seguro",0.711,0.558,0.747,0.416
+"P26","Bastante seguro",0.173,0.087,0.158,0.059
+"P26","Algo seguro",0.084,0.228,0.061,0.134
+"P26","Para nada seguro",0.032,0.127,0.034,0.391
+"P27","Tiene Decidido que va a ir a votar",0.952,0.73,0.927,0.735
+"P27","Tiene dudas sobre si va a ir a  votar",0.031,0.189,0.053,0.142
+"P27","Tiene Decidido que no va a ir a votar",0.017,0.081,0.02,0.123
+"P29","Lo votaría",0.253,0.139,0.427,0.148
+"P29","Puede que lo vote",0.081,0.308,0.159,0.218
+"P29","Nunca lo votaría",0.654,0.525,0.385,0.186
+"P29","No sabe",0.012,0.028,0.029,0.448
+"P30","Lo votaría",0.105,0.139,0.4,0.327
+"P30","Puede que lo vote",0.048,0.165,0.195,0.084
+"P30","Nunca lo votaría",0.825,0.676,0.358,0.182
+"P30","No sabe",0.022,0.02,0.047,0.407
+"P31","Si",0.433,0.383,0.377,0.276
+"P31","No",0.567,0.617,0.623,0.724
+"PRESIDENTE","Sergio Massa a presidente por Unión por la Patria",0.634,0.233,0.137,0.032
+"PRESIDENTE","Patricia Bullrich a presidenta por Juntos por el Cambio",0.095,0.314,0.468,0.08
+"PRESIDENTE","Javier Milei a presidente por la Libertad Avanza",0.24,0.241,0.335,0.246
+"PRESIDENTE","Los candidatos a presidente de la Izquierda",0.014,0.078,0.026,0.121
+"PRESIDENTE","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.003,0.016,0.013,0
+"PRESIDENTE","En blanco",0.002,0.038,0.002,0.123
+"PRESIDENTE","No sabe",0.012,0.08,0.019,0.398
+"CORTA_PRESIDENTE","Si",0.184,0.516,0.177,0.275
+"CORTA_PRESIDENTE","No",0.816,0.484,0.823,0.725
+"GOBERNADOR","Axel Kicillof a gobernador por Unión por la Patria",0.61,0.303,0.147,0.044
+"GOBERNADOR","Néstor Grindetti a gobernador por Juntos por el Cambio",0.099,0.286,0.496,0.09
+"GOBERNADOR","Carolina Piparo a gobernadora por la Libertad Avanza",0.243,0.18,0.263,0.288
+"GOBERNADOR","El candidato a gobernador de la Izquierda",0.012,0.102,0.029,0.01
+"GOBERNADOR","En blanco",0.005,0.039,0.01,0.123
+"GOBERNADOR","No sabe",0.031,0.09,0.055,0.445
+"CORTA_GOBERNADOR","Si",0.183,0.476,0.221,0.303
+"CORTA_GOBERNADOR","No",0.817,0.524,0.779,0.697
+"INTENDENTE","Fernando Moreira a intendente por Unión por la Patria",0.605,0.394,0.183,0.104
+"INTENDENTE","Mauricio D’Alessandro a intendente por Juntos por el Cambio",0.116,0.248,0.528,0.053
+"INTENDENTE","Hernán Sardella a intendente por la Libertad Avanza",0.238,0.127,0.204,0.143
+"INTENDENTE","El candidato del Frente de Izquierda",0.006,0.015,0.027,0.121
+"INTENDENTE","En blanco",0.012,0.039,0.015,0.111
+"INTENDENTE","No sabe",0.023,0.177,0.043,0.468
+"CORTA_INTENDENTE","Si",0.186,0.542,0.214,0.154
+"CORTA_INTENDENTE","No",0.814,0.458,0.786,0.846

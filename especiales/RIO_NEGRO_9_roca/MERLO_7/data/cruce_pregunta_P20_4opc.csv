@@ -1,0 +1,130 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P07","A Gustavo Menendez por el Frente de Todos",0.307,0.343,0.346,0.257
+"P07","A David Zencich por Juntos por el Cambio",0.301,0.19,0.267,0.29
+"P07","A Pablo Cocuzza por Juntos por el Cambio",0.302,0.158,0.106,0.065
+"P07","Al candidato de Javier Milei",0,0.117,0.128,0.171
+"P07","A Cristian Franco por el Frente de Izquierda",0.055,0.069,0.046,0.058
+"P07","A otro candidato",0.035,0.123,0.107,0.159
+"P09","A Gustavo Menendez por el Frente de Todos",0.253,0.395,0.358,0.315
+"P09","A David Zencich por Juntos por el Cambio",0.488,0.226,0.18,0.254
+"P09","Al candidato de Javier Milei",0.163,0.173,0.224,0.215
+"P09","A Cristian Franco por el Frente de Izquierda",0.03,0.057,0.033,0.072
+"P09","A otro candidato",0.066,0.149,0.205,0.144
+"P11","A Gustavo Menendez por el Frente de Todos",0.326,0.393,0.391,0.296
+"P11","A Pablo Cocuzza por Juntos por el Cambio",0.292,0.22,0.146,0.26
+"P11","Al candidato de Javier Milei",0.283,0.161,0.212,0.204
+"P11","A Cristian Franco por el Frente de Izquierda",0.079,0.071,0.046,0.073
+"P11","A otro candidato",0.02,0.155,0.205,0.167
+"P13","Positiva",0.604,0.379,0.342,0.28
+"P13","Neutra",0.083,0.236,0.129,0.171
+"P13","Negativa",0.292,0.382,0.529,0.497
+"P13","No sabe",0.021,0.003,0,0.052
+"P14","Positiva",0.687,0.22,0.197,0.258
+"P14","Neutra",0.08,0.505,0.102,0.279
+"P14","Negativa",0.232,0.212,0.701,0.134
+"P14","No sabe",0.001,0.063,0,0.329
+"P15","Positiva",0.591,0.263,0.278,0.248
+"P15","Neutra",0.078,0.375,0.104,0.185
+"P15","Negativa",0.314,0.349,0.606,0.412
+"P15","No sabe",0.017,0.013,0.012,0.155
+"P16","Positiva",0.615,0.14,0.071,0.128
+"P16","Neutra",0.116,0.572,0.179,0.244
+"P16","Negativa",0.269,0.247,0.738,0.155
+"P16","No sabe",0,0.041,0.012,0.473
+"P17","Positiva",0.628,0.214,0.2,0.147
+"P17","Neutra",0.114,0.396,0.064,0.16
+"P17","Negativa",0.241,0.382,0.736,0.506
+"P17","No sabe",0.017,0.008,0,0.187
+"P18","Positiva",0.819,0.182,0.018,0.167
+"P18","Neutra",0.079,0.661,0.128,0.164
+"P18","Negativa",0.056,0.11,0.845,0.111
+"P18","No sabe",0.046,0.047,0.009,0.558
+"P19","Positiva",0.84,0.085,0.138,0.091
+"P19","Neutra",0.137,0.843,0.092,0.095
+"P19","Negativa",0.007,0.045,0.765,0.057
+"P19","No sabe",0.016,0.027,0.005,0.757
+"P21","La seguridad",0.066,0.046,0.133,0.03
+"P21","El tránsito",0.386,0.041,0.015,0.022
+"P21","El arreglo de las calles",0.187,0.252,0.118,0.123
+"P21","Los parques y espacios públicos",0.233,0.232,0.178,0.186
+"P21","El sistema de salud",0.019,0.035,0.056,0.049
+"P21","La limpieza de las calles",0.036,0.056,0.065,0.181
+"P21","El deporte y la cultura",0.034,0.052,0.049,0.066
+"P21","La luminaria",0,0.036,0.055,0.016
+"P21","No sabe",0.039,0.25,0.331,0.327
+"P22","La seguridad",0.446,0.487,0.535,0.418
+"P22","El tránsito",0.005,0.058,0.011,0.029
+"P22","El arreglo de las calles",0.222,0.175,0.157,0.186
+"P22","Los parques y espacios públicos",0.014,0.007,0.019,0.047
+"P22","El sistema de salud",0.057,0.123,0.16,0.109
+"P22","La limpieza de las calles",0.221,0.022,0.009,0.068
+"P22","El deporte y la cultura",0.02,0.014,0.003,0.019
+"P22","La luminaria",0,0.023,0.012,0.024
+"P22","No sabe",0.015,0.091,0.094,0.1
+"P23","Agua corriente y cloacas",0.485,0.535,0.616,0.538
+"P23","Energía eléctrica",0.21,0.061,0.043,0.125
+"P23","Red de gas natural",0.255,0.151,0.162,0.057
+"P23","Recolección de residuos",0.041,0.107,0.033,0.121
+"P23","Ninguno",0.009,0.146,0.146,0.159
+"P24","Los robos",0.507,0.57,0.32,0.473
+"P24","El narcotráfico",0.243,0.102,0.213,0.162
+"P24","La ausencia de patrulleros y personal policial",0.235,0.214,0.416,0.21
+"P24","Otro",0.01,0.099,0.036,0.084
+"P24","Ninguno",0.005,0.015,0.015,0.071
+"P25","Positiva",0.587,0.344,0.267,0.228
+"P25","Neutra",0.073,0.371,0.109,0.223
+"P25","Negativa",0.34,0.256,0.465,0.419
+"P25","No sabe",0,0.029,0.159,0.13
+"P26","Positiva",0.585,0.247,0.274,0.207
+"P26","Neutra",0.053,0.458,0.137,0.297
+"P26","Negativa",0.35,0.269,0.569,0.445
+"P26","No sabe",0.012,0.026,0.02,0.051
+"P27","Frente de Todos y el peronismo",0.198,0.394,0.301,0.339
+"P27","Cambiemos",0.633,0.213,0.288,0.248
+"P27","Liberales",0.055,0.199,0.185,0.2
+"P27","Izquierda",0.021,0.078,0.162,0.064
+"P27","No sabe",0.093,0.116,0.064,0.149
+"P29","A Alberto Fernández",0.025,0.253,0.25,0.297
+"P29","A Sergio Massa",0.95,0.143,0.013,0.152
+"P29","A algún candidato del peronismo",0.025,0.281,0.134,0.272
+"P29","A algún candidato del kirchnerismo",0,0.323,0.603,0.279
+"P30","A Alberto Fernández",0.028,0.251,0.067,0.475
+"P30","A Sergio Massa",0.944,0.135,0.308,0.084
+"P30","A algún candidato del peronismo",0,0.253,0.13,0.062
+"P30","A Cristina Fernández de Kirchner",0.028,0.361,0.495,0.379
+"P31","A Horacio Rodriguez Larreta",0.39,0.29,0.291,0.494
+"P31","A Mauricio Macri",0.545,0.275,0.482,0.092
+"P31","A Patricia Bullrich",0.065,0.288,0.227,0.368
+"P31","A Facundo Manes",0,0.139,0,0.015
+"P31","A Martín Lousteau",0,0.008,0,0.031
+"P32","Seguro lo votaria",0.536,0.242,0.482,0.197
+"P32","Quizás lo votaría",0.364,0.236,0.103,0.357
+"P32","Nunca lo votaría",0.1,0.522,0.415,0.446
+"P33","Positiva",0.509,0.227,0.214,0.183
+"P33","Neutra",0.121,0.25,0.142,0.269
+"P33","Negativa",0.37,0.501,0.644,0.538
+"P33","No sabe",0,0.022,0,0.01
+"P34","Positiva",0.394,0.239,0.238,0.27
+"P34","Neutra",0.05,0.159,0.074,0.158
+"P34","Negativa",0.556,0.584,0.688,0.531
+"P34","No sabe",0,0.018,0,0.041
+"P35","Positiva",0.442,0.44,0.377,0.407
+"P35","Neutra",0.116,0.149,0.028,0.066
+"P35","Negativa",0.442,0.411,0.586,0.514
+"P35","No sabe",0,0,0.009,0.013
+"P36","Positiva",0.531,0.324,0.307,0.283
+"P36","Neutra",0.032,0.234,0.072,0.271
+"P36","Negativa",0.437,0.423,0.612,0.414
+"P36","No sabe",0,0.019,0.009,0.032
+"P37","Positiva",0.672,0.282,0.328,0.256
+"P37","Neutra",0.068,0.266,0.124,0.265
+"P37","Negativa",0.26,0.452,0.548,0.452
+"P37","No sabe",0,0,0,0.027
+"P38","Positiva",0.543,0.324,0.261,0.356
+"P38","Neutra",0.088,0.117,0.077,0.232
+"P38","Negativa",0.369,0.544,0.653,0.372
+"P38","No sabe",0,0.015,0.009,0.04
+"P39","Positiva",0.64,0.271,0.368,0.302
+"P39","Neutra",0.17,0.265,0.125,0.199
+"P39","Negativa",0.19,0.464,0.484,0.429
+"P39","No sabe",0,0,0.023,0.07

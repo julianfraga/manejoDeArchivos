@@ -1,0 +1,186 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P08","Del Frente de Todos y el peronismo",0.14,0.254,0.286,0.245
+"P08","De Juntos por el cambio",0.699,0.284,0.3,0.348
+"P08","De los Liberales libertarios",0.045,0.249,0.331,0.241
+"P08","De la Izquierda",0.003,0.021,0.029,0.009
+"P08","No sabe",0.113,0.192,0.054,0.157
+"P09","A Sergio Massa",0.21,0.344,0.264,0.277
+"P09","A Daniel Scioli",0.385,0.076,0.082,0.098
+"P09","A algún candidato del peronismo",0.041,0.157,0.125,0.106
+"P09","A algún candidato del kirchnerismo",0.364,0.423,0.529,0.519
+"P10","A Horacio Rodriguez Larreta",0.128,0.197,0.088,0.178
+"P10","A Patricia Bullrich",0.771,0.717,0.808,0.667
+"P10","A Facundo Manes",0.065,0.031,0.016,0.091
+"P10","A Gerardo Morales",0.036,0.055,0.088,0.064
+"P11","Alfredo Cornejo por Cambia Mendoza",0.503,0.263,0.268,0.268
+"P11","Luis Petri por Cambia Mendoza",0.263,0.175,0.087,0.144
+"P11","Omar De Marchi por La Unión Mendocina",0.074,0.162,0.222,0.151
+"P11","Omar Parisi por Elegí Mendoza",0.045,0.106,0.091,0.083
+"P11","Guillermo Carmona por Elegí Mendoza",0.1,0.071,0.123,0.067
+"P11","Nicolás Guillén por Elegí Mendoza",0,0.013,0.036,0.006
+"P11","Alfredo Guevara por Elegí Mendoza",0.004,0.032,0.034,0.033
+"P11","Lautaro Giménez por el Frente de Izquierda",0,0.014,0.012,0.002
+"P11","Victor da Vila por el Frente de Izquierda",0,0.008,0.029,0.001
+"P11","No sabe",0.011,0.156,0.098,0.245
+"P14","Alfredo Cornejo a gobernador y Hebe Casado a vicegobernadora por Cambia Mendoza",0.377,0.24,0.154,0.247
+"P14","Luis Petri a gobernador y Patricia Giménez a vicegobernadora por Cambia Mendoza",0.403,0.253,0.189,0.197
+"P14","Omar De Marchi a gobernador y Daniel Orozco a vicegobernador por “La Unión Mendocina”",0.126,0.203,0.211,0.195
+"P14","Omar Parisi a gobernador y Lucas Ilardo a vicegobernador por Elegí Mendoza",0.067,0.101,0.153,0.101
+"P14","Guillermo Carmona a gobernador y Liliana Paponet a vicegobernadora por Elegí Mendoza",0.011,0.051,0.111,0.067
+"P14","Nicolás Guillén a gobernador y Lorena Martin a vicegobernadora por Elegí Mendoza",0.005,0.056,0.023,0.008
+"P14","Alfredo Guevara a gobernador y Patricia Galván a vicegobernadora por Elegí Mendoza",0.008,0.025,0.028,0.015
+"P14","Lautaro Giménez a gobernador y Noelia Barbeito a vicegobernadora por el Frente de Izquierda",0,0.008,0.011,0.002
+"P14","Victor da Vila a gobernador y Nadya Ortiz Gazzo a vicegobernadora por el Frente de Izquierda",0,0.011,0.014,0.001
+"P14","No sabe",0.003,0.052,0.106,0.167
+"P17","Alfredo Cornejo por Cambia Mendoza con el apoyo de Patricia Bullrich, Horacio Rodríguez Larreta, Mauricio Macri y una parte de la UCR",0.414,0.254,0.192,0.212
+"P17","Luis Petri por Cambia Mendoza con el apoyo de Julio Cobos y una parte de la UCR",0.288,0.159,0.05,0.094
+"P17","Omar De Marchi por La Unión Mendocina con el apoyo de una parte del PRO y de Javier Milei",0.056,0.179,0.263,0.303
+"P17","Omar Parisi por Elegí Mendoza con el apoyo de Anabel Fernández Sagasti y una parte del kirchnerismo",0.147,0.158,0.182,0.121
+"P17","Guillermo Carmona por Elegí Mendoza con el apoyo de Emir y Omar Félix, y una parte del PJ",0.008,0.063,0.107,0.095
+"P17","Nicolás Guillén por Elegí Mendoza con el apoyo de la Corriente Clasista y Combativa, y los movimientos sociales",0,0.018,0.025,0.005
+"P17","Alfredo Guevara por Elegí Mendoza con el apoyo de una parte del kirchnerismo",0.083,0.084,0.063,0.051
+"P17","Lautaro Giménez por el Frente de Izquierda con el apoyo de Nicolás Del Caño, Myriam Bregman, el Partido Socialista de los Trabajadores y el Movimiento Socialista de los Trabajadores",0,0.013,0.022,0.003
+"P17","Victor da Vila por el Frente de Izquierda con el apoyo de Gabriel Solano, Romina Del Plá y el Partido Obrero",0,0,0.012,0.005
+"P17","No sabe",0.004,0.072,0.084,0.111
+"P20","Lo votaría",0.709,0.338,0.282,0.327
+"P20","Puede que lo vote",0.125,0.136,0.08,0.131
+"P20","Nunca lo votaría",0.147,0.414,0.554,0.402
+"P20","No sabe",0.019,0.112,0.084,0.14
+"P21","Lo votaría",0.417,0.232,0.18,0.158
+"P21","Puede que lo vote",0.332,0.21,0.119,0.274
+"P21","Nunca lo votaría",0.22,0.417,0.617,0.313
+"P21","No sabe",0.031,0.141,0.084,0.255
+"P22","Lo votaría",0.147,0.174,0.189,0.151
+"P22","Puede que lo vote",0.103,0.2,0.166,0.213
+"P22","Nunca lo votaría",0.728,0.489,0.542,0.377
+"P22","No sabe",0.022,0.137,0.103,0.259
+"P23","Lo votaría",0.061,0.137,0.127,0.102
+"P23","Puede que lo vote",0.047,0.119,0.121,0.125
+"P23","Nunca lo votaría",0.863,0.571,0.666,0.489
+"P23","No sabe",0.029,0.173,0.086,0.284
+"P24","Lo votaría",0.066,0.081,0.142,0.104
+"P24","Puede que lo vote",0.071,0.132,0.103,0.137
+"P24","Nunca lo votaría",0.764,0.643,0.678,0.476
+"P24","No sabe",0.099,0.144,0.077,0.283
+"P25","Lo votaría",0.026,0.042,0.024,0.018
+"P25","Puede que lo vote",0.043,0.082,0.089,0.059
+"P25","Nunca lo votaría",0.831,0.707,0.745,0.536
+"P25","No sabe",0.1,0.169,0.142,0.387
+"P26","Lo votaría",0.046,0.03,0.034,0.016
+"P26","Puede que lo vote",0.027,0.079,0.094,0.083
+"P26","Nunca lo votaría",0.831,0.711,0.739,0.531
+"P26","No sabe",0.096,0.18,0.133,0.37
+"P27","Lo votaría",0.026,0.016,0.018,0.006
+"P27","Puede que lo vote",0.048,0.063,0.065,0.058
+"P27","Nunca lo votaría",0.788,0.708,0.761,0.54
+"P27","No sabe",0.138,0.213,0.156,0.396
+"P28","Lo votaría",0.042,0.006,0.022,0.001
+"P28","Puede que lo vote",0.028,0.065,0.03,0.04
+"P28","Nunca lo votaría",0.797,0.725,0.786,0.58
+"P28","No sabe",0.133,0.204,0.162,0.379
+"P29","La votaría",0.376,0.108,0.1,0.064
+"P29","Puede que la vote",0.266,0.128,0.042,0.093
+"P29","Nunca la votaría",0.226,0.531,0.723,0.392
+"P29","No sabe",0.132,0.233,0.135,0.451
+"P30","La votaría",0.425,0.06,0.039,0.024
+"P30","Puede que la vote",0.367,0.122,0.049,0.092
+"P30","Nunca la votaría",0.163,0.56,0.775,0.339
+"P30","No sabe",0.045,0.258,0.137,0.545
+"P31","Lo votaría",0.147,0.109,0.118,0.065
+"P31","Puede que lo vote",0.166,0.137,0.096,0.174
+"P31","Nunca lo votaría",0.644,0.569,0.688,0.378
+"P31","No sabe",0.043,0.185,0.098,0.383
+"P32","Lo votaría",0.078,0.058,0.129,0.086
+"P32","Puede que lo vote",0.059,0.091,0.091,0.094
+"P32","Nunca lo votaría",0.838,0.657,0.647,0.415
+"P32","No sabe",0.025,0.194,0.133,0.405
+"P33","La votaría",0.055,0.035,0.085,0.038
+"P33","Puede que la vote",0.051,0.101,0.088,0.052
+"P33","Nunca la votaría",0.83,0.599,0.69,0.39
+"P33","No sabe",0.064,0.265,0.137,0.52
+"P34","La votaría",0.027,0.049,0.052,0.004
+"P34","Puede que la vote",0.046,0.072,0.039,0.026
+"P34","Nunca la votaría",0.859,0.606,0.735,0.366
+"P34","No sabe",0.068,0.273,0.174,0.604
+"P35","La votaría",0.027,0.023,0.026,0.011
+"P35","Puede que la vote",0.048,0.079,0.063,0.055
+"P35","Nunca la votaría",0.772,0.618,0.742,0.346
+"P35","No sabe",0.153,0.28,0.169,0.588
+"P36","La votaría",0.05,0.052,0.067,0.019
+"P36","Puede que la vote",0.108,0.108,0.035,0.099
+"P36","Nunca la votaría",0.732,0.697,0.789,0.556
+"P36","No sabe",0.11,0.143,0.109,0.326
+"P37","La votaría",0.031,0.005,0.005,0.008
+"P37","Puede que la vote",0.058,0.042,0.041,0.018
+"P37","Nunca la votaría",0.768,0.694,0.775,0.458
+"P37","No sabe",0.143,0.259,0.179,0.516
+"P38","Positiva",0.791,0.384,0.307,0.326
+"P38","Neutra",0.077,0.216,0.15,0.193
+"P38","Negativa",0.132,0.381,0.543,0.422
+"P38","No sabe",0,0.019,0,0.059
+"P39","Positiva",0.891,0.397,0.262,0.342
+"P39","Neutra",0.078,0.42,0.226,0.264
+"P39","Negativa",0.031,0.149,0.496,0.164
+"P39","No sabe",0,0.034,0.016,0.23
+"P40","Positiva",0.324,0.318,0.267,0.287
+"P40","Neutra",0.246,0.447,0.174,0.261
+"P40","Negativa",0.43,0.199,0.549,0.266
+"P40","No sabe",0,0.036,0.01,0.186
+"P41","Positiva",0.187,0.173,0.161,0.169
+"P41","Neutra",0.249,0.529,0.173,0.217
+"P41","Negativa",0.546,0.234,0.656,0.234
+"P41","No sabe",0.018,0.064,0.01,0.38
+"P42","Positiva",0.219,0.179,0.222,0.175
+"P42","Neutra",0.127,0.444,0.143,0.152
+"P42","Negativa",0.639,0.341,0.633,0.313
+"P42","No sabe",0.015,0.036,0.002,0.36
+"P43","Positiva",0.207,0.059,0.074,0.036
+"P43","Neutra",0.242,0.635,0.16,0.184
+"P43","Negativa",0.383,0.201,0.718,0.109
+"P43","No sabe",0.168,0.105,0.048,0.671
+"P44","Positiva",0.183,0.053,0.109,0.062
+"P44","Neutra",0.218,0.591,0.121,0.115
+"P44","Negativa",0.467,0.227,0.741,0.145
+"P44","No sabe",0.132,0.129,0.029,0.678
+"P45","Positiva",0.154,0.053,0.054,0.062
+"P45","Neutra",0.319,0.659,0.114,0.088
+"P45","Negativa",0.413,0.168,0.783,0.122
+"P45","No sabe",0.114,0.12,0.049,0.728
+"P46","Positiva",0.133,0.024,0.062,0.007
+"P46","Neutra",0.379,0.682,0.109,0.058
+"P46","Negativa",0.315,0.154,0.757,0.061
+"P46","No sabe",0.173,0.14,0.072,0.874
+"P47","Positiva",0.543,0.129,0.094,0.108
+"P47","Neutra",0.288,0.632,0.065,0.11
+"P47","Negativa",0.105,0.15,0.822,0.067
+"P47","No sabe",0.064,0.089,0.019,0.715
+"P49","Positiva",0.397,0.146,0.148,0.166
+"P49","Neutra",0.159,0.59,0.11,0.168
+"P49","Negativa",0.407,0.209,0.731,0.142
+"P49","No sabe",0.037,0.055,0.011,0.524
+"P50","Positiva",0.244,0.148,0.162,0.122
+"P50","Neutra",0.139,0.52,0.091,0.073
+"P50","Negativa",0.554,0.259,0.731,0.212
+"P50","No sabe",0.063,0.073,0.016,0.593
+"P51","Positiva",0.166,0.055,0.184,0.06
+"P51","Neutra",0.303,0.698,0.067,0.072
+"P51","Negativa",0.407,0.156,0.69,0.078
+"P51","No sabe",0.124,0.091,0.059,0.79
+"P52","Positiva",0.131,0.071,0.071,0.002
+"P52","Neutra",0.324,0.655,0.15,0.071
+"P52","Negativa",0.334,0.113,0.709,0.047
+"P52","No sabe",0.211,0.161,0.07,0.88
+"P53","Positiva",0.102,0.077,0.049,0.011
+"P53","Neutra",0.396,0.657,0.163,0.053
+"P53","Negativa",0.273,0.128,0.704,0.049
+"P53","No sabe",0.229,0.138,0.084,0.887
+"P54","Positiva",0.17,0.15,0.079,0.096
+"P54","Neutra",0.233,0.419,0.122,0.129
+"P54","Negativa",0.52,0.382,0.761,0.334
+"P54","No sabe",0.077,0.049,0.038,0.441
+"P55","Positiva",0.113,0.047,0.031,0.012
+"P55","Neutra",0.339,0.625,0.172,0.047
+"P55","Negativa",0.288,0.168,0.705,0.088
+"P55","No sabe",0.26,0.16,0.092,0.853
+"P56","Si",0.579,0.473,0.508,0.537
+"P56","No",0.421,0.527,0.492,0.463

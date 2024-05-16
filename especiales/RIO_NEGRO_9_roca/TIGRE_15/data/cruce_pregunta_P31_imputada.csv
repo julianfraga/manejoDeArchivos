@@ -1,0 +1,37 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P12_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.095,0.086,0.348,0.393
+"P12_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador y Malena Galmarini a intendenta por Unión por la Patria",0.042,0.031,0.048,0.008
+"P12_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador y Julio Zamora a intendente por Unión por la Patria",0.075,0.083,0.193,0.065
+"P12_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Claudio Cufré a intendente por Juntos por el Cambio",0.566,0.153,0.032,0.012
+"P12_imputada","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.112,0.349,0.083,0.127
+"P12_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora  y Claudio Baumgarten a intendente por la Libertad Avanza",0.097,0.282,0.226,0.178
+"P12_imputada","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0.003,0.003,0.035,0.083
+"P12_imputada","Otros",0.01,0.013,0.035,0.134
+"PRESIDENTE_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.065,0.142,0.395,0.347
+"PRESIDENTE_imputada","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.076,0.03,0.168,0.063
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.64,0.176,0.05,0.132
+"PRESIDENTE_imputada","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0.1,0.335,0.087,0.149
+"PRESIDENTE_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.091,0.306,0.229,0.174
+"PRESIDENTE_imputada","Alguno de los candidatos a presidente y gobernador de la Izquierda",0.003,0.003,0.038,0
+"PRESIDENTE_imputada","Otros",0.025,0.008,0.033,0.135
+"INTENDENTE_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.122,0.124,0.338,0.283
+"INTENDENTE_imputada","Julio Zamora a intendente por Unión por la Patria",0.248,0.208,0.319,0.314
+"INTENDENTE_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.236,0.049,0.02,0
+"INTENDENTE_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.333,0.395,0.113,0.133
+"INTENDENTE_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.056,0.212,0.157,0.19
+"INTENDENTE_imputada","Alguno de los candidatos a intendente de la Izquierda",0.003,0.003,0.032,0
+"INTENDENTE_imputada","Otros",0.002,0.009,0.021,0.08
+"INTENDENTE_CORTA_1_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.063,0.015,0.37,0.397
+"INTENDENTE_CORTA_1_imputada","Julio Zamora a intendente por Unión por la Patria",0.061,0.017,0.063,0.08
+"INTENDENTE_CORTA_1_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.688,0.326,0.095,0.027
+"INTENDENTE_CORTA_1_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.042,0.298,0.115,0.123
+"INTENDENTE_CORTA_1_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.131,0.317,0.258,0.012
+"INTENDENTE_CORTA_1_imputada","Alguno de los candidatos a intendente de la Izquierda",0,0,0.034,0.226
+"INTENDENTE_CORTA_1_imputada","Otros",0.015,0.027,0.065,0.135
+"INTENDENTE_CORTA_2_imputada","Malena Galmarini a intendenta por Unión por la Patria",0.038,0.073,0.114,0.081
+"INTENDENTE_CORTA_2_imputada","Julio Zamora a intendente por Unión por la Patria",0.4,0.328,0.572,0.697
+"INTENDENTE_CORTA_2_imputada","Claudio Cufré a intendente por Juntos por el Cambio",0.109,0.118,0.047,0
+"INTENDENTE_CORTA_2_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0.393,0.412,0.218,0.165
+"INTENDENTE_CORTA_2_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0.058,0.051,0.023,0.034
+"INTENDENTE_CORTA_2_imputada","Alguno de los candidatos a intendente de la Izquierda",0,0,0.018,0
+"INTENDENTE_CORTA_2_imputada","Otros",0.002,0.018,0.008,0.023

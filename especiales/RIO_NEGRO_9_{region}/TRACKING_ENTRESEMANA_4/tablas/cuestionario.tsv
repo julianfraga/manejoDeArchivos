@@ -1,0 +1,15 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P10	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P11	Intención de voto 	politica	Si las elecciones presidenciales de segunda vuelta fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en segunda vuelta	
+P11_imputada	Intención de voto 	politica	Si las elecciones presidenciales de segunda vuelta fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en segunda vuelta	(Imputación no lineal de indecisos)
+P11_imputada_sinblanco	Intención de voto 	politica	Si las elecciones presidenciales de segunda vuelta fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en segunda vuelta	(Imputación no lineal de indecisos y votos en blanco)
+P13	Intención de voto 	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto por fórmulas presidenciales en segunda vuelta	
+P13_imputada	Intención de voto 	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto por fórmulas presidenciales en segunda vuelta	(Imputación no lineal de indecisos)
+P13_imputada_sinblanco	Intención de voto 	politica	Pensando en las próximas elecciones de segunda vuelta a cual de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto por fórmulas presidenciales en segunda vuelta	(Imputación no lineal de indecisos y votos en blanco)
+P15	Intención de voto 	diverging	¿Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente en las próximas elecciones? 	Nivel de seguridad sobre preferencias electorales	
+P16	Intención de voto 	diverging	¿Podría usted decirnos qué tan seguro está en ir a votar en las próximas elecciones?	Nivel decisión sobre ir a votar o no	
+P17	Intención de voto 	votaria	Votaría usted como candidato a Presidente a Sergio Massa 	Intención de voto por Sergio Massa	
+P18	Intención de voto 	votaria	Votaría usted como candidato a Presidente a Javier Milei	Intención de voto por Javier Milei	
+P19	Coyuntura	qualitative	¿Qué imagen tiene usted del Papa Francisco?	Imagen del Papa Francisco I 
+P20	Coyuntura	qualitative	¿Qué opina usted de que Javier Milei haya dicho que el Papa Francisco es el representante del maligno en la tierra y que fomenta el comunismo?	Opinión sobre los dichos de Javier Milei sobre el Papa Francisco
+P21	Coyuntura	qualitative	Podría indicarnos usted su confesión religiosa	Confesión religiosa

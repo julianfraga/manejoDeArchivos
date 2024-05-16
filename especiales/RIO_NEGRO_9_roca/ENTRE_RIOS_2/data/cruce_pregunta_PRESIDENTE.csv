@@ -1,0 +1,74 @@
+"var","categoria","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais","En blanco","No sabe"
+"P05","Mucho",0.529,0.472,0.339,0.233,0.042,0.306,0.203
+"P05","Bastante",0.27,0.314,0.366,0.29,0.578,0.217,0.231
+"P05","Poco",0.106,0.109,0.188,0.242,0.309,0.314,0.147
+"P05","Nada",0.056,0.076,0.054,0.079,0,0.09,0.357
+"P05","No sabe",0.039,0.029,0.053,0.156,0.071,0.073,0.062
+"P06","Siempre",0.338,0.238,0.191,0.091,0.194,0.035,0.26
+"P06","Casi siempre",0.271,0.374,0.266,0.161,0.418,0.373,0.219
+"P06","Casi nunca",0.278,0.256,0.376,0.316,0.065,0.47,0.271
+"P06","Nunca, pero esta es una excepción",0.113,0.132,0.167,0.432,0.323,0.122,0.25
+"P10","Unidos para Cambiar misiones",0.575,0.149,0.106,0.064,0,0.017,0.114
+"P10","Juntos Avancemos",0.199,0.724,0.146,0.155,0,0.157,0.056
+"P10","De los liberales libertarios",0.147,0.087,0.582,0.146,0.158,0.086,0.016
+"P10","De la Izquierda",0.026,0.002,0.036,0.407,0,0,0
+"P10","Hacemos por nuestro país",0,0.001,0.032,0.034,0.77,0,0
+"P10","En blanco",0.038,0.022,0.026,0.025,0,0.705,0.043
+"P10","No sabe",0.015,0.015,0.072,0.169,0.072,0.035,0.771
+"P13","Sergio Massa a presidente, Agustín Rossi a vicepresidente, Adán Bahl a gobernador y Claudia Monjo a vicegobernadora a  por Unión por la Patria",0.812,0.057,0.077,0,0.129,0.017,0.081
+"P13","Patricia Bullrich a presidenta, Luis Petri a vicepresidente, Rogelio Frigerio a gobernador y Alicia Aluani a vicegobernadora por Juntos por el Cambio",0.076,0.857,0.075,0,0,0,0.063
+"P13","Javier Milei a presidente, Victoria Villarruel a vicepresidenta, Arturo Etchevere a gobernador y Mayda Spizzi a vicegobernadora por la Libertad Avanza",0.095,0.06,0.766,0,0,0,0.026
+"P13","Myriam Bregman a presidenta y Nicolas del Caño a vicepresidente por el Frente de Izquierda",0.006,0,0.017,0.987,0,0.035,0.063
+"P13","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro País",0,0.002,0.027,0,0.871,0,0
+"P13","En blanco",0.009,0.01,0.004,0,0,0.948,0
+"P13","No sabe",0.002,0.014,0.034,0.013,0,0,0.767
+"P16","Si",0.395,0.443,0.639,0.262,0.363,0.435,0.506
+"P16","No",0.605,0.557,0.361,0.738,0.637,0.565,0.494
+"P17","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",1,0,0,0,0,0,0
+"P17","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0,1,0,0,0,0,0
+"P17","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0,0,1,0,0,0,0
+"P17","Myriam Bregman a Presidente y Nicolás del Caño a Vicepresidente por el Frente de Izquierda",0,0,0,1,0,0,0
+"P17","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0,0,0,0,1,0,0
+"P17","En blanco",0,0,0,0,0,1,0
+"P17","No sabe",0,0,0,0,0,0,1
+"P20","Adán Bahl a gobernador y Claudia Monjo a vicegobernadora a  por Unión por la Patria",0.547,0.203,0.181,0,0.571,0.105,0.154
+"P20","Rogelio Frigerio a gobernador y Alicia Aluani a vicegobernadora por Juntos por el Cambio",0.228,0.694,0.509,0.168,0.226,0,0.428
+"P20","Arturo Etchevere a gobernador y Mayda Spizzi a vicegobernadora por la Libertad Avanza",0.124,0.049,0.253,0,0,0,0
+"P20","En blanco",0.029,0.027,0.026,0.479,0.203,0.825,0.026
+"P20","No sabe",0.072,0.027,0.031,0.353,0,0.07,0.392
+"P23","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.207,0.482,0.534,0.44,0.255,0.104,0.301
+"P23","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.316,0.363,0.25,0.091,0.175,0.222,0.254
+"P23","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.33,0.102,0.089,0.051,0.102,0,0.146
+"P23","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.069,0.008,0.056,0.108,0,0.154,0.067
+"P23","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.044,0.009,0.018,0.222,0.175,0,0.007
+"P23","No sabe",0.034,0.036,0.053,0.088,0.293,0.52,0.225
+"P24","Totalmente seguro.",0.687,0.779,0.74,0.62,0.305,0.269,0.224
+"P24","Bastante seguro",0.138,0.154,0.135,0.185,0.216,0.026,0.058
+"P24","Algo seguro",0.106,0.049,0.084,0.064,0.354,0.247,0.13
+"P24","Para nada seguro",0.069,0.018,0.041,0.131,0.125,0.458,0.588
+"P25","Tiene Decidido que va a ir a votar.",0.889,0.946,0.888,1,0.875,0.811,0.809
+"P25","Tiene dudas sobre si va a ir a  votar",0.081,0.039,0.092,0,0,0.039,0.048
+"P25","Tiene Decidido que no va a ir a votar",0.03,0.015,0.02,0,0.125,0.15,0.143
+"P26","La votaría",0.811,0.276,0.291,0.098,0.523,0.247,0.302
+"P26","Puede que la vote",0.064,0.072,0.107,0.1,0.132,0,0.095
+"P26","Nunca la votaría",0.116,0.611,0.582,0.608,0.345,0.333,0.385
+"P26","No sabe",0.009,0.041,0.02,0.194,0,0.42,0.218
+"P27","La votaría",0.259,0.676,0.14,0.043,0.134,0,0.097
+"P27","Puede que la vote",0.088,0.114,0.243,0.105,0.215,0.042,0.284
+"P27","Nunca la votaría",0.6,0.189,0.546,0.823,0.651,0.958,0.4
+"P27","No sabe",0.053,0.021,0.071,0.029,0,0,0.219
+"P28","La votaría",0.148,0.226,0.621,0.104,0.217,0,0.04
+"P28","Puede que la vote",0.101,0.115,0.148,0.193,0,0.241,0.234
+"P28","Nunca la votaría",0.717,0.626,0.206,0.703,0.783,0.759,0.528
+"P28","No sabe",0.034,0.033,0.025,0,0,0,0.198
+"P29","Si",0.462,0.417,0.429,0.096,0.695,0,0.29
+"P29","No",0.538,0.583,0.571,0.904,0.305,1,0.71
+"GOBERNADOR","Adán Bahl a gobernador y Claudia Monjo a vicegobernadora a  por Unión por la Patria",0.827,0.082,0.114,0,0.207,0.025,0.076
+"GOBERNADOR","Rogelio Frigerio a gobernador y Alicia Aluani a vicegobernadora por Juntos por el Cambio",0.089,0.87,0.315,0.044,0.079,0,0.216
+"GOBERNADOR","Arturo Etchevere a gobernador y Mayda Spizzi a vicegobernadora por la Libertad Avanza",0.047,0.022,0.532,0,0,0,0
+"GOBERNADOR","En blanco",0.012,0.013,0.016,0.853,0.714,0.955,0.015
+"GOBERNADOR","No sabe",0.025,0.013,0.023,0.103,0,0.02,0.693
+"CORTA_PRESIDENTE","Si",0.189,0.149,0.238,0.019,0.213,0.062,0.276
+"CORTA_PRESIDENTE","No",0.811,0.851,0.762,0.981,0.787,0.938,0.724
+"CORTA_GOBERNADOR","Si",0.207,0.186,0.425,0.168,0.082,0.19,0.326
+"CORTA_GOBERNADOR","No",0.793,0.814,0.575,0.832,0.918,0.81,0.674

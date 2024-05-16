@@ -1,0 +1,77 @@
+"var","categoria","Federico Meca a intendente por Unión por la Patria.","Ramón Lanus a intendente por Juntos por el Cambio","Rodolfo Paolucci a intendente por la Libertad Avanza","Camila Paiz a intendenta por el Frente de Izquierda","En blanco","No sabe"
+"P05","Mucho",0.607,0.36,0.372,0.368,0.322,0.32
+"P05","Bastante",0.269,0.395,0.354,0.371,0.275,0.263
+"P05","Poco",0.08,0.185,0.118,0.218,0.183,0.282
+"P05","Nada",0.027,0.022,0.074,0.043,0.145,0.077
+"P05","No sabe",0.017,0.038,0.082,0,0.075,0.058
+"P06","Siempre",0.401,0.141,0.346,0.027,0.205,0.137
+"P06","Casi siempre",0.35,0.356,0.191,0.406,0.246,0.291
+"P06","Casi nunca",0.195,0.371,0.306,0.349,0.349,0.447
+"P06","Nunca, pero esta es una excepción",0.054,0.132,0.157,0.218,0.2,0.125
+"P09","Unión por la Patria",0.533,0.076,0.047,0.419,0.11,0.124
+"P09","Juntos por el Cambio ",0.177,0.556,0.308,0.063,0.138,0.175
+"P09","De los Liberales libertarios",0.089,0.272,0.464,0,0.177,0.187
+"P09","De la Izquierda",0.107,0.017,0.065,0.442,0.096,0.018
+"P09","Hacemos por nuestro país",0.025,0.024,0.097,0.053,0.224,0.04
+"P09","En blanco",0.045,0.015,0,0,0.083,0.09
+"P09","No sabe",0.024,0.04,0.019,0.023,0.172,0.366
+"P12","Sergio Massa a presidente, Axel Kicillof a gobernador y Federico Meca a intendente por Unión por la Patria.",0.621,0.074,0.112,0.502,0.131,0.234
+"P12","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Ramón Lanus a intendente por Juntos por el Cambio",0.129,0.595,0.237,0.063,0.152,0.151
+"P12","Javier Milei a presidente, Carolina Piparo a gobernadora y Rodolfo Paolucci a intendente por la Libertad Avanza",0.099,0.259,0.548,0.053,0.203,0.2
+"P12","Myriam Bregman a presidenta, Rubén Sobrero a gobernador y Camila Paiz a intendenta por el Frente de Izquierda",0.094,0,0,0.359,0,0.019
+"P12","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.03,0.011,0.064,0,0.121,0.04
+"P12","En blanco",0,0.019,0,0,0.283,0.097
+"P12","No sabe",0.027,0.042,0.039,0.023,0.11,0.259
+"P16","Sergio Massa a presidente por Unión por la Patria.",0.486,0.064,0.197,0.419,0.214,0.214
+"P16","Patricia Bullrich a presidenta por Juntos por el Cambio",0.215,0.591,0.212,0.063,0.161,0.21
+"P16","Javier Milei a presidente por la Libertad Avanza",0.13,0.302,0.502,0,0.203,0.251
+"P16","Myriam Bregman a presidenta por el Frente de Izquierda",0.107,0,0.029,0.495,0,0.028
+"P16","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.03,0.019,0.054,0,0.284,0.051
+"P16","En blanco",0.032,0.002,0,0,0.138,0.087
+"P16","No sabe",0,0.022,0.006,0.023,0,0.159
+"P19","Axel Kicillof a gobernador por Unión por la Patria.",0.573,0.058,0.147,0.455,0.11,0.221
+"P19","Néstor Grindetti a gobernador por Juntos por el Cambio",0.299,0.629,0.35,0.051,0.211,0.135
+"P19","Carolina Piparo a gobernadora por la Libertad Avanza",0.055,0.266,0.464,0.145,0.225,0.111
+"P19","Rubén Sobrero a gobernador por el Frente de Izquierda",0.008,0.007,0,0.349,0,0
+"P19","En blanco",0.01,0.003,0,0,0.302,0.011
+"P19","No sabe",0.055,0.037,0.039,0,0.152,0.522
+"P25","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.265,0.562,0.555,0.116,0.42,0.484
+"P25","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.219,0.224,0.267,0.203,0.08,0.111
+"P25","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.415,0.171,0.138,0.219,0.209,0.11
+"P25","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.045,0.004,0.006,0.117,0.049,0.017
+"P25","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.004,0,0.012,0.345,0.171,0.09
+"P25","No sabe",0.052,0.039,0.022,0,0.071,0.188
+"P26","Totalmente seguro.",0.679,0.66,0.672,0.451,0.44,0.463
+"P26","Bastante seguro",0.192,0.149,0.156,0.524,0.202,0.141
+"P26","Algo seguro",0.093,0.143,0.136,0,0.012,0.106
+"P26","Para nada seguro",0.036,0.048,0.036,0.025,0.346,0.29
+"P27","Tiene Decidido que va a ir a votar.",0.949,0.916,0.898,1,0.669,0.897
+"P27","Tiene dudas sobre si va a ir a  votar",0.033,0.061,0.102,0,0.331,0.095
+"P27","Tiene Decidido que no va a ir a votar",0.018,0.023,0,0,0,0.008
+"P28","Si",0.484,0.376,0.503,0.449,0.178,0.379
+"P28","No",0.516,0.624,0.497,0.551,0.822,0.621
+"PRESIDENTE","Sergio Massa a presidente por Unión por la Patria.",0.486,0.064,0.197,0.419,0.214,0.214
+"PRESIDENTE","Patricia Bullrich a presidenta por Juntos por el Cambio",0.215,0.591,0.212,0.063,0.161,0.21
+"PRESIDENTE","Javier Milei a presidente por la Libertad Avanza",0.13,0.302,0.502,0,0.203,0.251
+"PRESIDENTE","Myriam Bregman a presidenta por el Frente de Izquierda",0.107,0,0.029,0.495,0,0.028
+"PRESIDENTE","Juan Schiaretti a presidente por Hacemos por Nuestro País",0.03,0.019,0.054,0,0.284,0.051
+"PRESIDENTE","En blanco",0.032,0.002,0,0,0.138,0.087
+"PRESIDENTE","No sabe",0,0.022,0.006,0.023,0,0.159
+"GOBERNADOR","Axel Kicillof a gobernador por Unión por la Patria.",0.573,0.058,0.147,0.455,0.11,0.221
+"GOBERNADOR","Néstor Grindetti a gobernador por Juntos por el Cambio",0.299,0.629,0.35,0.051,0.211,0.135
+"GOBERNADOR","Carolina Piparo a gobernadora por la Libertad Avanza",0.055,0.266,0.464,0.145,0.225,0.111
+"GOBERNADOR","Rubén Sobrero a gobernador por el Frente de Izquierda",0.008,0.007,0,0.349,0,0
+"GOBERNADOR","En blanco",0.01,0.003,0,0,0.302,0.011
+"GOBERNADOR","No sabe",0.055,0.037,0.039,0,0.152,0.522
+"INTENDENTE","Federico Meca a intendente por Unión por la Patria.",1,0,0,0,0,0
+"INTENDENTE","Ramón Lanus a intendente por Juntos por el Cambio",0,1,0,0,0,0
+"INTENDENTE","Rodolfo Paolucci a intendente por la Libertad Avanza",0,0,1,0,0,0
+"INTENDENTE","Camila Paiz a intendenta por el Frente de Izquierda",0,0,0,1,0,0
+"INTENDENTE","En blanco",0,0,0,0,1,0
+"INTENDENTE","No sabe",0,0,0,0,0,1
+"CORTA_PRESIDENTE","Si",0.351,0.176,0.271,0.402,0.319,0.231
+"CORTA_PRESIDENTE","No",0.649,0.824,0.729,0.598,0.681,0.769
+"CORTA_GOBERNADOR","Si",0.425,0.325,0.413,0.268,0.149,0.405
+"CORTA_GOBERNADOR","No",0.575,0.675,0.587,0.732,0.851,0.595
+"CORTA_INTENDENTE","Si",0.379,0.405,0.452,0.641,0.597,0.741
+"CORTA_INTENDENTE","No",0.621,0.595,0.548,0.359,0.403,0.259

@@ -1,0 +1,32 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	¿Cuánto diría usted que le importa la política?	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P10	Escenarios electorales	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto a Presidente por espacio político	
+P13	Escenarios electorales	politica	Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente a que candidatos preferiría votar?	Intención de voto a Presidente, Gobernador e Intendente	
+P13_imputada	Escenarios electorales	politica	Pensando en las próximas elecciones de primera vuelta a presidente y generales a gobernador e intendente a que candidatos preferiría votar?	Intención de voto a Presidente, Gobernador e Intendente	(Imputación no lineal de indecisos)
+P16	Escenarios políticos 	sino	Usted estaría dispuesto a cortar boleta?...	Intención de corte de boleta	
+PRESIDENTE	Escenarios políticos 	politica	Intención de voto a Presidente considerando corte de boleta	Intención de voto a Presidente considerando corte de boleta	
+PRESIDENTE_imputada	Escenarios políticos 	politica	Intención de voto a Presidente considerando corte de boleta	Intención de voto a Presidente considerando corte de boleta	(Imputación no lineal de indecisos)
+GOBERNADOR	Escenarios políticos 	politica	Intención de voto a Gobernador considerando corte de boleta	Intención de voto a Gobernador considerando corte de boleta	
+GOBERNADOR_imputada	Escenarios políticos 	politica	Intención de voto a Gobernador considerando corte de boleta	Intención de voto a Gobernador considerando corte de boleta	(Imputación no lineal de indecisos)
+INTENDENTE	Escenarios políticos 	politica	Intención de voto a Intendente considerando corte de boleta	Intención de voto a Intendente considerando corte de boleta	
+INTENDENTE_imputada	Escenarios políticos 	politica	Intención de voto a Intendente considerando corte de boleta	Intención de voto a Intendente considerando corte de boleta	(Imputación no lineal de indecisos)
+P26	Escenarios políticos 	quali	En su opinión, ¿cómo se sale de la permanente crisis que vive argentina?	Opinión sobre la crisis argentina	
+P27	Escenarios políticos 	seguridadVoto	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente en las próximas elecciones 	Nivel de seguridad sobre intención de voto por fórmula presidencial	
+P28	Escenarios políticos 	muchopoco	¿Qué tan decidido está sobre ir a votar?	Nivel de decisión sobre ir o no a votar	
+P29	Temas de Coyuntura	quali	En su opinión las vacaciones de Insaurralde en un yate en Marbella junto con una modelo son:	Opinión sobre el las vacaciones de Martín Insaurralde	
+P30	Temas de Coyuntura	sino	Vio usted el debate presidencial del domingo pasado?	Audiencia del segundo debate presidencial	
+P31	Temas de Coyuntura	politica	¿En su opinión quien cree que gano el debate presidencial del domingo pasado?	Opinión sobre el desempeño de los candidatos presidenciales en el debate	
+P32	Temas de Coyuntura	ingresos	En los últimos 12 meses, su nivel de ingresos	Modificación del nivel de ingresos personales en el último año	
+P33	Temas de Coyuntura	diverging	En los últimos 6 meses, ¿ha tenido dificultades para pagar las tarifas de los servicios públicos?	Dificultades en el pago de tarifas en los últimos 6 meses	
+P34	Temas de Coyuntura	diverging	¿Considera que el gobierno debería intervenir para controlar y limitar los aumentos de las tarifas de los servicios públicos?	Opinión sobre la injerencia del Gobierno en las tarifas de servicios públicos	
+P35	Temas de Coyuntura	qualitative_strong	En su opinión, ¿cuál de las siguientes medidas es la mejor para mejorar la situación económica en Argentina? 	Opinión sobre medidas económicas para la mejora de la situación del país	
+P36	Temas de Coyuntura	diverging	En relación con las recientes medidas para monotributistas (suspensión de exclusiones y bajas, pago diferido del componente impositivo), considera que es una medida: 	Opinión sobre las medidas económicas para monotributistas	
+P37	Temas de Coyuntura	diverging	En relación con la medida de reintegro del 21% en las compras realizadas con tarjeta de débito, considera que es una medida: 	Opinión sobre el reintegro del IVA	
+P38	Temas de Coyuntura	diverging	En relación con la medida de asignación no remunerativa para trabajadores registrados, considera que es una medida: 	Opinión sobre la asignación no remunerativa para trabajadores registrados	
+P39	Temas de Coyuntura	diverging	En relación con la medida de eliminación del impuesto a las ganancias para trabajadores registrados, considera que es una medida: 	Opinión sobre la eliminación del impuesto a las ganancias para trabajadores registrados	
+P40	Temas de Coyuntura	diverging	En relación con la medida de aumento del 8% en el presupuesto de educación, considera que es una medida: 	Opinión sobre el aumento del presupuesto en educación	
+P41	Reach de intención de voto	votaria	Usted votaría la formula Sergio Massa a Presidente, Axel Kicillof a gobernador y Fernando Moreira a intendente…	Intención de voto por fórmula Massa - Kicillof - Moreira	
+P42	Reach de intención de voto	votaria	Usted votaría la formula Patricia Bullrich a Presidenta, Néstor Grindetti a gobernador y Mauricio D’Alessandro a intendente 	Intención de voto por fórmula Rodríguez Larreta - Santilli - D'Alessandro	
+P43	Reach de intención de voto	votaria	Usted votaría la formula Javier Milei a Presidente, Carolina Piparo a gobernadora y Hernán Sardella a intendente	Intención de voto por fórmula Milei – Píparo - Sardella	
+P44	Control	votaria	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  		

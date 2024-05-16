@@ -1,0 +1,32 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Bloque Sociodemográfico	ingresos	Respecto de su nivel de ingreso familiar, ¿podría por favor indicar la opción que corresponda?	Nivel de ingresos familiares	
+P06	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió verduras frescas?	Frecuencia de consumo de verduras frescas	
+P07	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió carnes rojas?	Frecuencia de consumo de carnes rojas	
+P08	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió otro tipo de carnes (pollo, pescado, cerdo, etc.)?	Frecuencia de consumo de otro tipo de carnes	
+P09	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió alimentos ultraprocesados (comida rápida, snacks, etc.)?	Frecuencia de consumo de alimentos ultraprocesados	
+P10	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió alimentos ricos en azúcares añadidos (dulces, golosinas, galletitas dulces, etc.)?	Frecuencia de consumo de alimentos ricos en azúcares añadidos	
+P11	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió frutas frescas?	Frecuencia de consumo de frutas secas	
+P12	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió lácteos (leche, yogurt, quesos, etc.)?	Frecuencia de consumo de lácteos	
+P13	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió legumbres (por ejemplo, lentejas, garbanzos, porotos, etc.)?	Frecuencia de consumo de legumbres	
+P14	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió alimentos elaborados con harinas (pan, pastas, tortas, etc.)?	Frecuencia de consumo de alimentos elaborados con harinas	
+P15	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió cereales (arroz, maíz, trigo, avena, etc.)?	Frecuencia de consumo de cereales	
+P16	Bloque Hábitos alimentarios y consumos regulares	coolwarm	Durante el último mes ¿Cuánta agua bebió diariamente?	Consumo de agua (bebida) diaria	
+P17	Bloque Hábitos alimentarios y consumos regulares	quali	Cuando consume agua, consume:	Tipo y presentación del agua consumida	
+P18	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió bebidas alcohólicas?	Frecuencia de consumo de bebidas alcohólicas	
+P19	Bloque Hábitos alimentarios y consumos regulares	quali	Durante el último mes ¿Qué tipo de bebida alcohólica consumió más habitualmente?	Tipo de bebida alcohólica más consumida	
+P20	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió bebidas azucaradas (gaseosas, jugos comerciales, etc.)?	Frecuencia de consumo de bebidas azucaradas	
+P21	Bloque Hábitos alimentarios y consumos regulares	frecuencia	Durante el último mes ¿Con qué frecuencia consumió infusiones (mate, té, café etc.)?	Frecuencia de consumo de infusiones	
+P22	Bloque Hábitos alimentarios y consumos regulares	quali	De entre los siguientes platos salados, cuál sería el de su preferencia.	Preferencia por platos salados habituales	
+P23	Bloque Hábitos alimentarios y consumos regulares	quali	De entre los siguientes platos salados, cual fue el que más consumió la última semana.	Frecuencia de consumo de platos salados habituales	
+P24	Bloque Hábitos alimentarios y consumos regulares	quali	De entre los siguientes platos dulces, cuál sería el de su preferencia.	Preferencia por platos dulces habituales	
+P25	Bloque Hábitos alimentarios y consumos regulares	quali	De entre los siguientes platos dulces, cual fue el que más consumió la última semana.	Frecuencia de consumo de platos dulces habituales	
+P26	Bloque Hábitos alimentarios y consumos regulares	quali	Tiene alguna preferencia alimentaria especial.	Preferencias y restricciones alimentarias	
+P27	Bloque Salud Alimentaria		Tiene usted problemas de salud relacionados con la alimentación y el peso: 	Problemas de salud relacionados al peso	
+P28	Bloque Salud Alimentaria	quali	Tiene usted enfermedades relacionadas con la alimentación:	Problemas de salud relacionados a la alimentación	
+P29	Bloque Cotidianidad 	frecuencia	Durante el último mes, con que frecuencia comió fuera de casa, en restaurantes o establecimientos similares.	Frecuencia de alimentación en establecimientos gastronómicos	
+P30	Bloque Cotidianidad 	frecuencia	Durante el último mes, con qué frecuencia pidió comida a domicilio.	Frecuencia de pedido de comida a domicilio	
+P31	Bloque Cotidianidad 	frecuencia	Durante el último mes, con qué frecuencia cocinó su propia comida en casa.	Frecuencia de elaboración propia de la comida	
+P32	Bloque Cotidianidad 		Cuántas comidas hace al día.	Cantidad de comidas realizadas en un día	
+P33	Bloque Hábitos de compra y planificación de comidas		¿Qué factores considera al elegir los alimentos que compras?	Consideración respecto al precio y calidad al comprar alimentos	
+P34	Bloque Hábitos de compra y planificación de comidas		¿Cuántas veces a la semana realiza compras de alimentos?	Frecuencia de compra de alimentos	
+P35	Bloque Hábitos de compra y planificación de comidas		Al realizar las compras de alimentos, lo hace en:	Lugar de preferencia para realizar las compras de alimentos	

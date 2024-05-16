@@ -1,0 +1,112 @@
+"var","categoria","Positiva","Neutra","Negativa","No lo conozco","No sabe"
+"P05","Del Frente de Todos y el peronismo",0.321,0.23,0.208,0.177,0.184
+"P05","De Juntos por el cambio",0.231,0.235,0.248,0.129,0.152
+"P05","De los Liberales libertarios",0.152,0.153,0.242,0.158,0.163
+"P05","De la Izquierda",0.178,0.05,0.059,0.026,0.029
+"P05","No sabe",0.118,0.332,0.243,0.51,0.472
+"P06","A Alberto Fernández",0.482,0.183,0.379,0.34,0.419
+"P06","A Sergio Massa",0.062,0.124,0.135,0.135,0.145
+"P06","A algún candidato del peronismo",0.188,0.278,0.175,0.175,0.243
+"P06","A algún candidato del kirchnerismo",0.268,0.415,0.311,0.35,0.193
+"P07","A Alberto Fernández",0.498,0.086,0.367,0.426,0.419
+"P07","A Sergio Massa",0.022,0.124,0.102,0.02,0.145
+"P07","A algún candidato del peronismo",0.078,0.137,0.079,0.02,0
+"P07","A Cristina Fernández de Kirchner",0.402,0.653,0.452,0.534,0.436
+"P08","A Horacio Rodriguez Larreta",0.231,0.254,0.364,0.09,0.656
+"P08","A Mauricio Macri",0.569,0.247,0.277,0.476,0.344
+"P08","A Patricia Bullrich",0.2,0.339,0.251,0.413,0
+"P08","A Facundo Manes",0,0,0.025,0.008,0
+"P08","A Gerardo Morales",0,0.16,0.083,0.013,0
+"P09","Marcos Koopmann a gobernador y Ana Pechén a vicegobernadora por el Movimiento Nacional Neuquino",0.111,0.258,0.273,0.29,0.074
+"P09","“Rolo” Figueroa a gobernador y Gloria Ruiz a vicegobernadora por el Comunidad y el Frente Neuquinizate",0.345,0.281,0.319,0.254,0.143
+"P09","Ramón Rioseco a gobernador y Ayelén Gutiérrez a vicegobernadora por el Frente de Todos Neuquino",0.14,0.147,0.101,0.111,0.262
+"P09","Pablo Cervi a gobernador y Jorge Taylor a vicegobernador por Juntos por el Cambio Neuquén",0.17,0.089,0.07,0.039,0.026
+"P09","Carlos Eguía a gobernador y Catalina Uleri a vicegobernadora por Cumplir",0.085,0.122,0.154,0.094,0.073
+"P09","Patricia Jure a gobernadora y Raúl Godoy a vicegobernador por el Frente de Izquierda Unidad",0.111,0.013,0.016,0.025,0.014
+"P09","No sabe",0.038,0.09,0.067,0.187,0.408
+"P10","A Marcos Koopmann por el Movimiento Popular Neuquino con el apoyo de Jorge Sapag",0.151,0.308,0.286,0.257,0.27
+"P10","A “Rolo” Figueroa por Comunidad y el Frente Neuquinizate con el apoyo del PRO, parte de la UCR, el Frente Grande y sectores del PJ",0.365,0.294,0.289,0.247,0.15
+"P10","A Ramón Rioseco por el Frente de Todos Neuquino con el apoyo del PJ, Cristina Fernández de Kirchner y Libres del Sur",0.119,0.135,0.093,0.106,0.162
+"P10","A Pablo Cervi por Juntos por el Cambio Neuquén con el apoyo de Martín Lousteau y parte de la UCR",0.162,0.098,0.096,0.062,0.053
+"P10","A Carlos Eguía por Cumplir con el apoyo de Javier Milei",0.063,0.097,0.151,0.086,0.011
+"P10","A Patricia Jure del Frente de Izquierda Unidad con apoyo de Nicolás del Caño",0.124,0.005,0.017,0.022,0
+"P10","No sabe",0.016,0.063,0.068,0.22,0.354
+"P11","Lo votaría",0.323,0.315,0.29,0.278,0.373
+"P11","Puede que lo vote",0.215,0.166,0.093,0.12,0.085
+"P11","Nunca lo votaría",0.385,0.401,0.549,0.362,0.065
+"P11","No sabe",0.077,0.118,0.068,0.24,0.477
+"P12","Lo votaría",0.456,0.311,0.321,0.265,0.207
+"P12","Puede que lo vote",0.235,0.168,0.101,0.123,0.136
+"P12","Nunca lo votaría",0.281,0.417,0.527,0.321,0.026
+"P12","No sabe",0.028,0.104,0.051,0.291,0.631
+"P13","Lo votaría",0.327,0.139,0.146,0.152,0.287
+"P13","Puede que lo vote",0.232,0.166,0.111,0.106,0.082
+"P13","Nunca lo votaría",0.387,0.629,0.694,0.426,0.055
+"P13","No sabe",0.054,0.066,0.049,0.316,0.576
+"P14","Lo votaría",0.221,0.054,0.118,0.063,0
+"P14","Puede que lo vote",0.303,0.176,0.116,0.127,0.065
+"P14","Nunca lo votaría",0.429,0.628,0.698,0.453,0.259
+"P14","No sabe",0.047,0.142,0.068,0.357,0.676
+"P15","Lo votaría",0.294,0.079,0.178,0.062,0
+"P15","Puede que lo vote",0.24,0.168,0.092,0.147,0.011
+"P15","Nunca lo votaría",0.389,0.596,0.675,0.45,0.281
+"P15","No sabe",0.077,0.157,0.055,0.341,0.708
+"P16","Lo votaría",0.387,0.025,0.051,0.022,0
+"P16","Puede que lo vote",0.357,0.129,0.035,0.063,0
+"P16","Nunca lo votaría",0.207,0.649,0.878,0.533,0.203
+"P16","No sabe",0.049,0.197,0.036,0.382,0.797
+"P17","Positiva",0.507,0.343,0.294,0.289,0.313
+"P17","Neutra",0.099,0.485,0.22,0.202,0.156
+"P17","Negativa",0.283,0.136,0.417,0.238,0.047
+"P17","No lo conozco",0.108,0.026,0.064,0.262,0.183
+"P17","No sabe",0.003,0.01,0.005,0.009,0.301
+"P18","Positiva",0.653,0.403,0.359,0.3,0.22
+"P18","Neutra",0.105,0.418,0.141,0.209,0.22
+"P18","Negativa",0.215,0.14,0.48,0.195,0
+"P18","No lo conozco",0.021,0.027,0.017,0.223,0.076
+"P18","No sabe",0.006,0.012,0.003,0.073,0.484
+"P19","Positiva",0.52,0.243,0.159,0.293,0.187
+"P19","Neutra",0.221,0.522,0.176,0.24,0.123
+"P19","Negativa",0.192,0.209,0.645,0.167,0.073
+"P19","No lo conozco",0.064,0.017,0.016,0.289,0.084
+"P19","No sabe",0.003,0.009,0.004,0.011,0.533
+"P20","Positiva",0.462,0.146,0.186,0.092,0.026
+"P20","Neutra",0.178,0.654,0.215,0.177,0.085
+"P20","Negativa",0.233,0.141,0.538,0.085,0.038
+"P20","No lo conozco",0.118,0.042,0.057,0.576,0.169
+"P20","No sabe",0.009,0.017,0.004,0.07,0.682
+"P21","Positiva",0.494,0.141,0.185,0.125,0
+"P21","Neutra",0.185,0.61,0.118,0.076,0.097
+"P21","Negativa",0.276,0.202,0.67,0.135,0.011
+"P21","No lo conozco",0.04,0.046,0.022,0.636,0.104
+"P21","No sabe",0.005,0.001,0.005,0.028,0.788
+"P23","Positiva",0.557,0.278,0.232,0.17,0.083
+"P23","Neutra",0.122,0.564,0.104,0.213,0.018
+"P23","Negativa",0.19,0.126,0.64,0.19,0.149
+"P23","No lo conozco",0.131,0.031,0.024,0.368,0.132
+"P23","No sabe",0,0.001,0,0.059,0.618
+"P24","Positiva",0.501,0.216,0.15,0.106,0.019
+"P24","Neutra",0.205,0.601,0.144,0.079,0.062
+"P24","Negativa",0.119,0.087,0.576,0.064,0.066
+"P24","No lo conozco",0.129,0.093,0.12,0.694,0.272
+"P24","No sabe",0.046,0.003,0.01,0.057,0.581
+"P25","Positiva",0.482,0.1,0.084,0.093,0.039
+"P25","Neutra",0.139,0.649,0.18,0.069,0.1
+"P25","Negativa",0.155,0.099,0.595,0.02,0
+"P25","No lo conozco",0.17,0.146,0.133,0.777,0.152
+"P25","No sabe",0.054,0.006,0.008,0.041,0.709
+"P26","Positiva",0.442,0.059,0.093,0.029,0.012
+"P26","Neutra",0.261,0.624,0.181,0.092,0.196
+"P26","Negativa",0.138,0.138,0.581,0.038,0
+"P26","No lo conozco",0.146,0.151,0.13,0.78,0.122
+"P26","No sabe",0.013,0.028,0.015,0.061,0.67
+"P27","Positiva",0.453,0.029,0.047,0.007,0
+"P27","Neutra",0.185,0.61,0.15,0.037,0.025
+"P27","Negativa",0.128,0.074,0.549,0.005,0
+"P27","No lo conozco",0.204,0.268,0.226,0.901,0.223
+"P27","No sabe",0.03,0.019,0.028,0.05,0.752
+"P28","Positiva",0.685,0.056,0.072,0.014,0
+"P28","Neutra",0.163,0.593,0.105,0.09,0
+"P28","Negativa",0.052,0.162,0.678,0.057,0.027
+"P28","No lo conozco",0.056,0.181,0.139,0.766,0.193
+"P28","No sabe",0.044,0.008,0.006,0.073,0.78

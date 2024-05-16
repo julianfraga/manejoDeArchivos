@@ -1,0 +1,40 @@
+"var","categoria","Leandro Santoro a Jefe de Gobierno por Union por la Patria","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio","Martin Lousteau a Jefe de Gobierno por Juntos por el Cambio","Ramiro Marra a Jefe de Gobierno por la Libertad Avanza","Los candidatos a Jefe de Gobierno de las diferentes opciones de izquierda","Otros","En blanco","No sabe"
+"P09_votan","Unión por la Patria",0.748,0.077,0.149,0.131,0.104,0.167,0.218,0.255
+"P09_votan","Juntos por el Cambio",0.116,0.763,0.655,0.124,0.057,0.182,0.479,0.097
+"P09_votan","De los liberales libertarios",0.057,0.111,0.094,0.596,0.265,0.048,0.143,0.208
+"P09_votan","De la Izquierda",0.027,0.01,0.025,0.101,0.232,0.022,0,0
+"P09_votan","Hacemos por nuestro país",0,0,0,0,0.014,0,0,0
+"P09_votan","Otro",0.019,0.014,0.017,0.014,0.042,0.275,0.045,0.021
+"P09_votan","En blanco",0.01,0.019,0.022,0.014,0.179,0,0.115,0.031
+"P09_votan","No sabe",0.023,0.006,0.038,0.02,0.107,0.306,0,0.388
+"P12_votan","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.536,0.036,0.162,0.082,0,0.036,0.467,0.049
+"P12_votan","Juan Grabois a Presidente y Paula Abal Medina a Vicepresidente por Union por la Patria",0.254,0.027,0.037,0.034,0.133,0.062,0.046,0.128
+"P12_votan","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.053,0.606,0.195,0.178,0.084,0.024,0.202,0.028
+"P12_votan","Horacio Rodríguez Larreta a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.035,0.168,0.438,0.094,0,0.215,0,0.06
+"P12_votan","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.058,0.145,0.096,0.548,0.266,0.042,0.048,0.26
+"P12_votan","Los candidatos a presidente y vicepresidente de las diferentes opciones de izquierda",0.029,0,0.013,0,0.228,0.051,0,0
+"P12_votan","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.009,0.007,0.013,0.046,0.047,0,0,0.053
+"P12_votan","Otros",0.016,0.003,0.013,0.018,0.154,0.57,0,0.036
+"P12_votan","En blanco",0.01,0.003,0.009,0,0.034,0,0.237,0
+"P12_votan","No sabe",0,0.005,0.024,0,0.054,0,0,0.386
+"P15_votan","Union por la Patria",0.797,0.126,0.096,0.189,0.084,0.113,0.148,0.143
+"P15_votan","Cambiemos",0.107,0.736,0.726,0.069,0,0.164,0.412,0.087
+"P15_votan","Liberales",0.025,0.114,0.106,0.688,0.115,0.048,0.091,0.195
+"P15_votan","Izquierda",0.042,0.015,0.009,0.039,0.234,0,0,0
+"P15_votan","No sabe",0.029,0.009,0.063,0.015,0.567,0.675,0.349,0.575
+"P22_votan","Totalmente seguro.",0.708,0.6,0.569,0.733,0.567,0.462,0.71,0.383
+"P22_votan","Bastante seguro",0.171,0.234,0.272,0.078,0.059,0.071,0,0.043
+"P22_votan","Algo seguro",0.051,0.148,0.084,0.072,0.038,0.163,0.29,0
+"P22_votan","Para nada seguro",0.07,0.018,0.075,0.117,0.336,0.304,0,0.574
+"P23_votan","Tiene Decidido que va a ir a votar.",0.951,0.955,0.909,0.925,0.759,1,0.646,0.914
+"P23_votan","Tiene dudas sobre si va a ir a  votar",0.049,0.045,0.091,0.075,0.241,0,0.354,0.086
+"P34_votan","Inflación",0.352,0.322,0.32,0.316,0.067,0.553,0.369,0.062
+"P34_votan","Desempleo",0.04,0.043,0.084,0.092,0.041,0.031,0,0.213
+"P34_votan","Corrupción",0.111,0.34,0.226,0.415,0.578,0.112,0.136,0.354
+"P34_votan","Inseguridad",0.087,0.2,0.136,0.087,0.048,0.204,0.385,0.2
+"P34_votan","Precio del dólar",0.009,0.032,0.005,0.008,0.045,0,0.11,0
+"P34_votan","Pobreza",0.198,0.011,0.083,0.016,0.105,0.05,0,0.026
+"P34_votan","Narcotráfico",0.017,0.013,0.017,0.03,0,0.021,0,0.116
+"P34_votan","Tarifas",0.008,0.012,0.006,0,0.022,0,0,0.029
+"P34_votan","Otro",0.146,0.022,0.081,0.036,0.041,0.029,0,0
+"P34_votan","No sabe",0.032,0.005,0.042,0,0.053,0,0,0

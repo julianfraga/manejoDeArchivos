@@ -1,0 +1,19 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Uso del transporte público y tiempo de viaje		Durante el último mes ¿Con qué frecuencia utilizó el transporte público?	Frecuencia de utilización del transporte público	
+P06	Uso del transporte público y tiempo de viaje		Durante el último mes ¿Cuál fue el principal medio de transporte público que utilizó?	Medio principal de transporte público utilizado	
+P07	Uso del transporte público y tiempo de viaje		Durante el último mes, ¿con qué frecuencia necesitó combinar diferentes medios de transporte, por ejemplo, colectivo y subte, tren y colectivo, etc. para llegar a su destino?	Frecuencia de combinación de medios de transporte	
+P08	Uso del transporte público y tiempo de viaje		Durante el último mes ¿Cuánto tiempo, en promedio, pasó viajando en el transporte público cada día?	Promedio del tiempo de viaje en transporte público por día	
+P09	Taxis y aplicaciones de transporte		Durante el último mes ¿utilizaste taxis?	Frecuencia de utilización de taxis	
+P10	Taxis y aplicaciones de transporte		Durante el último mes ¿utilizaste aplicaciones de transporte como Uber, Cabify, DiDi, etc.?	Frecuencia de utilización de aplicaciones de transporte	
+P11	Taxis y aplicaciones de transporte		¿Qué considera más conveniente, el uso de taxis tradicionales o aplicaciones de transporte como Uber, Cabify, DiDi, etc.?	Preferencia entre taxis convencionales y aplicaciones de transporte	
+P12	Costos y tarifas		Durante el último mes, ¿Cuánto dinero gastó en promedio utilizando transporte público?	Gastado promedio en transporte público por mes	
+P13	Costos y tarifas		¿Cómo considera que es el costo del transporte público en dónde vive?	Opinión sobre el costo del transporte público	
+P14	Costos y tarifas		Durante el último mes, ¿experimentó cambios en las tarifas del transporte público dónde vive?	Percepción de cambios en las tarifas del transporte público	
+P15	Infraestructura y comodidades		¿Cómo calificaría la infraestructura del transporte público en dónde vive?	Opinión sobre la infraestructura de transporte público	
+P16	Infraestructura y comodidades		¿Cuál considera que es el principal inconveniente con la infraestructura del transporte público dónde vive?	Opinión sobre los inconvenientes en la infraestructura de transporte público	
+P17	Infraestructura y comodidades		¿Qué servicios adicionales te gustaría ver implementados en el transporte público donde vive? 	Preferencia por posibles servicios adicionales a implementar en el transporte público	
+P18	Experiencia de usuario		Durante el último mes, ¿cómo describiría su experiencia general como usuario del transporte público?	Opinión general sobre el transporte público	
+P19	Experiencia de usuario		Durante el último mes ¿ha experimentado problemas de congestión o demoras frecuentes en el transporte público?	Experiencia de problemas de congestión  en el transporte público.	
+P20	Seguridad al viajar		Durante el último mes ¿se sintió seguro/a al utilizar el transporte público?	Sensación de seguridad al utilizar el transporte público	
+P21	Seguridad al viajar		Durante el último mes ¿ha presenciado algún incidente de seguridad (robo, acoso, etc.) mientras utilizaba el transporte público?	Observación de incidentes de seguridad en el transporte público	
+P22	Seguridad al viajar		Durante el último mes ¿ha sido víctima de algún incidente de seguridad (robo, acoso, etc.) mientras utilizaba el transporte público?	Experiencia de incidentes de seguridad en el transporte público	

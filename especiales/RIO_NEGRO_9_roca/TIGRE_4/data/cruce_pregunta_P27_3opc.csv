@@ -1,0 +1,75 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P09","Porque me siento desanimado con la realidad del país",0.088,0.36,0.222,0.206
+"P09","Porque estoy en desacuerdo con el gobierno, pero la oposición no me representa",0.508,0.338,0.517,0
+"P09","Nunca voy a votar",0.125,0,0,0
+"P09","Por miedo a la pandemia",0.098,0.14,0.144,0.32
+"P09","Porque las PASO no son elecciones importantes",0.181,0.162,0.117,0.474
+"P14","A Tolosa Paz por el Frente de Todos",0.782,0.368,0.167,0.056
+"P14","A Santilli y Manes por Juntos",0.135,0.354,0.541,0.34
+"P14","A del Caño por el Frente de Izquierda",0.017,0.124,0.088,0
+"P14","A Espert por Avanza libertad",0,0.031,0.122,0.236
+"P14","A Randazzo por ""Vamos con vos""",0.005,0.016,0.003,0
+"P14","A Hotton por “+Valores”",0.047,0.054,0.032,0.064
+"P14","Votaría en blanco o anularía",0.014,0.053,0.047,0.304
+"P16","A Segundo cernadas por Juntos",0.131,0.355,0.547,0.34
+"P16","A Gisela Zamora por el frente de todos",0.767,0.357,0.162,0.056
+"P16","A Juan José Cervetto por avanza libertad",0,0.043,0.116,0.236
+"P16","A Paula Yamila Akerfeld por el Frente de Izquierda",0.018,0.122,0.086,0
+"P16","A Matias Orfo por Vamos con vos",0.006,0.016,0.008,0
+"P16","A Nicolás Viera Dutra por el Partido Unión Celeste y Blanco",0.047,0.054,0.034,0.064
+"P16","En blanco o anularía",0.031,0.053,0.047,0.304
+"P18","Diego Santilli y Facundo Manes por “Juntos”",0.102,0.246,0.562,0.29
+"P18","Victoria Tolosa Paz por el Frente de todos",0.8,0.347,0.186,0.007
+"P18","Nicolás del Caño por el Frente de Izquierda",0.011,0.172,0.064,0
+"P18","José Luis Espert por “Avanza Libertad”",0,0.029,0.088,0.112
+"P18","Florencio Randazzo por “Vamos con vos”",0.023,0.026,0.011,0.029
+"P18","Cynthia Hotton por “+Valores”",0.046,0.069,0.004,0
+"P18","Ninguna en particular",0.005,0.048,0.062,0.432
+"P18","No sabe",0.013,0.063,0.023,0.13
+"P19","Diego Santilli y Facundo Manes por “Juntos”",0.723,0.372,0.258,0.192
+"P19","Victoria Tolosa Paz por el Frente de todos",0.104,0.268,0.62,0.489
+"P19","Nicolás del Caño por el Frente de Izquierda",0.006,0.108,0.019,0
+"P19","José Luis Espert por “Avanza Libertad”",0.028,0.027,0.006,0.065
+"P19","Florencio Randazzo por “Vamos con vos”",0.02,0.022,0.041,0
+"P19","Cynthia Hotton por “+Valores”",0.006,0.055,0.024,0
+"P19","Ninguna en particular",0.084,0.109,0.026,0.079
+"P19","No sabe",0.029,0.039,0.006,0.175
+"P20","No alcanzan para cubrir las necesidades básicas familiares",0.359,0.23,0.304,0.311
+"P20","Solo alcanzan para cubrir las necesidades básicas familiares",0.135,0.318,0.286,0.151
+"P20","No alcanzan para cubrir los gastos totales de la familia",0.102,0.23,0.141,0.326
+"P20","Alcanzan para cubrir los gastos totales de la familia",0.215,0.123,0.11,0.034
+"P20","Tenemos un pequeño excedente, pero es excepcional",0.09,0.041,0.03,0
+"P20","Tenemos un pequeño excedente habitual que ahorramos o invertimos",0.032,0.035,0.054,0.044
+"P20","Tenemos un gran excedente pero es excepcional",0.046,0,0.001,0
+"P20","Tenemos un gran excedente habitual que ahorramos o invertimos",0.009,0.001,0.034,0.035
+"P20","No sabe",0.012,0.022,0.04,0.099
+"P21","La inflación",0.312,0.23,0.262,0.435
+"P21","El desempleo",0.221,0.275,0.063,0.007
+"P21","La corrupción",0.263,0.284,0.483,0.286
+"P21","La inseguridad",0.051,0.047,0.077,0.083
+"P21","El precio del dólar",0.041,0.017,0.015,0.04
+"P21","La pobreza",0.059,0.052,0.059,0.037
+"P21","El narcotráfico",0.005,0.019,0.006,0
+"P21","Las tarifas",0.003,0.007,0.008,0
+"P21","Otro",0.039,0.061,0.026,0
+"P21","No sabe",0.006,0.008,0.001,0.112
+"P22","Positiva",0.697,0.385,0.137,0.037
+"P22","Neutra",0.152,0.232,0.112,0.297
+"P22","Negativa",0.136,0.375,0.747,0.666
+"P22","No sabe",0.015,0.008,0.004,0
+"P23","Positiva",0.774,0.426,0.144,0.081
+"P23","Neutra",0.077,0.204,0.032,0.018
+"P23","Negativa",0.149,0.368,0.819,0.725
+"P23","No sabe",0,0.002,0.005,0.176
+"P24","Positiva",0.726,0.29,0.05,0.031
+"P24","Neutra",0.204,0.438,0.041,0.112
+"P24","Negativa",0.065,0.26,0.904,0.681
+"P24","No sabe",0.005,0.012,0.005,0.176
+"P25","Positiva",0.143,0.055,0.364,0.266
+"P25","Neutra",0.043,0.347,0.209,0.31
+"P25","Negativa",0.808,0.574,0.407,0.312
+"P25","No sabe",0.006,0.024,0.02,0.112
+"P26","Positiva",0.292,0.279,0.543,0.407
+"P26","Neutra",0.121,0.382,0.14,0.441
+"P26","Negativa",0.569,0.339,0.309,0.022
+"P26","No sabe",0.018,0,0.008,0.13

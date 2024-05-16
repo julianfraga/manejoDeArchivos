@@ -1,0 +1,74 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P04","Siempre",0.217,0.157,0.216,0.173
+"P04","Casi siempre",0.304,0.497,0.437,0.433
+"P04","Casi nunca",0.351,0.273,0.279,0.306
+"P04","Nunca, pero esta es una excepción",0.128,0.073,0.068,0.088
+"P05","Mucho",0.341,0.336,0.439,0.202
+"P05","Bastante",0.353,0.435,0.35,0.35
+"P05","Poco",0.203,0.209,0.152,0.273
+"P05","Nada",0.102,0.015,0.057,0.099
+"P05","No sabe",0.001,0.005,0.002,0.076
+"P07","Néstor Grindetti a gobernador y Maximiliano Abad a vicegobernador por Juntos por el Cambio.",0.08,0.301,0.192,0.169
+"P07","Diego Santilli a gobernador y su candidato a vicegobernador por Juntos por el Cambio.",0.03,0.309,0.157,0.251
+"P07","Axel Kicillof a gobernador y Verónica Magario a vicegobernadora por el Frente de Todos.",0.233,0.066,0.468,0.114
+"P07","A Guillermo Britos a gobernador y su candidato a vicegobernador por La Libertad Avanza.",0.565,0.206,0.075,0.097
+"P07","A los candidatos a gobernador y vicegobernador por el Frente de Izquierda.",0.023,0.045,0.038,0.036
+"P07","No sabe",0.069,0.073,0.07,0.333
+"P10","Néstor Grindetti a gobernador y Joaquín De La Torre a vicegobernador por Juntos por el Cambio.",0.116,0.275,0.183,0.165
+"P10","Diego Santilli a gobernador y su candidato a vicegobernador por Juntos por el Cambio.",0.053,0.316,0.189,0.269
+"P10","Axel Kicillof a gobernador y Verónica Magario a vicegobernadora por el Frente de Todos.",0.173,0.085,0.443,0.136
+"P10","A Guillermo Britos a gobernador y su candidato a vicegobernador por La Libertad Avanza.",0.621,0.22,0.066,0.087
+"P10","A los candidatos a gobernador y vicegobernador por el Frente de Izquierda.",0.017,0.023,0.038,0.027
+"P10","No sabe",0.02,0.081,0.081,0.316
+"P13","Néstor Grindetti a gobernador y Fernando Burlando a vicegobernador por Juntos por el Cambio.",0.073,0.189,0.13,0.129
+"P13","Diego Santilli a gobernador y su candidato a vicegobernador por Juntos por el Cambio.",0.069,0.364,0.2,0.267
+"P13","Axel Kicillof a gobernador y Verónica Magario a vicegobernadora por el Frente de Todos.",0.198,0.074,0.466,0.141
+"P13","A Guillermo Britos a gobernador y su candidato a vicegobernador por La Libertad Avanza.",0.621,0.296,0.078,0.082
+"P13","A los candidatos a gobernador y vicegobernador por el Frente de Izquierda.",0.003,0.023,0.037,0.026
+"P13","No sabe",0.036,0.054,0.089,0.355
+"P16","Néstor Grindetti a gobernador y Maximiliano Abad a vicegobernador por Juntos por el Cambio.",0.143,0.298,0.16,0.178
+"P16","Diego Santilli a gobernador y su candidato a vicegobernador por Juntos por el Cambio.",0.036,0.294,0.204,0.227
+"P16","Axel Kicillof a gobernador y Malena Galmarini a vicegobernadora por el Frente de Todos.",0.181,0.1,0.425,0.158
+"P16","A Guillermo Britos a gobernador y su candidato a vicegobernador por La Libertad Avanza.",0.583,0.24,0.07,0.091
+"P16","A los candidatos a gobernador y vicegobernador por el Frente de Izquierda.",0.029,0.036,0.037,0.036
+"P16","No sabe",0.028,0.032,0.104,0.31
+"P19","Néstor Grindetti a gobernador y Joaquín De La Torre a vicegobernador por Juntos por el Cambio.",0.095,0.253,0.169,0.154
+"P19","Diego Santilli a gobernador y su candidato a vicegobernador por Juntos por el Cambio.",0.045,0.326,0.181,0.225
+"P19","Axel Kicillof a gobernador y Malena Galmarini a vicegobernadora por el Frente de Todos.",0.157,0.104,0.427,0.126
+"P19","A Guillermo Britos a gobernador y su candidato a vicegobernador por La Libertad Avanza.",0.638,0.215,0.091,0.111
+"P19","A los candidatos a gobernador y vicegobernador por el Frente de Izquierda.",0.014,0.038,0.038,0.036
+"P19","No sabe",0.051,0.064,0.094,0.348
+"P22","Lo votaría",0.198,0.28,0.193,0.137
+"P22","Puede que lo vote",0.128,0.409,0.093,0.135
+"P22","Nunca lo votaría",0.551,0.172,0.621,0.164
+"P22","No sabe",0.123,0.139,0.093,0.564
+"P23","Lo votaría",0.141,0.314,0.199,0.246
+"P23","Puede que lo vote",0.148,0.373,0.135,0.169
+"P23","Nunca lo votaría",0.649,0.26,0.607,0.176
+"P23","No sabe",0.062,0.053,0.059,0.409
+"P24","Lo votaría",0.349,0.107,0.447,0.159
+"P24","Puede que lo vote",0.034,0.113,0.047,0.068
+"P24","Nunca lo votaría",0.587,0.764,0.495,0.544
+"P24","No sabe",0.03,0.016,0.011,0.229
+"P26","Lo votaría",0.184,0.11,0.062,0.04
+"P26","Puede que lo vote",0.155,0.341,0.109,0.055
+"P26","Nunca lo votaría",0.471,0.383,0.733,0.118
+"P26","No sabe",0.19,0.166,0.096,0.787
+"P27","Lo votaría",0.061,0.084,0.056,0.048
+"P27","Puede que lo vote",0.086,0.348,0.114,0.044
+"P27","Nunca lo votaría",0.613,0.296,0.716,0.117
+"P27","No sabe",0.24,0.272,0.114,0.791
+"P28","Lo votaría",0.197,0.03,0.317,0.072
+"P28","Puede que lo vote",0.081,0.117,0.132,0.063
+"P28","Nunca lo votaría",0.686,0.8,0.51,0.506
+"P28","No sabe",0.036,0.053,0.041,0.359
+"P29","Lo votaría",0.178,0.112,0.067,0.069
+"P29","Puede que lo vote",0.233,0.259,0.131,0.214
+"P29","Nunca lo votaría",0.5,0.541,0.735,0.376
+"P29","No sabe",0.089,0.088,0.067,0.341
+"P30","Lo votaría",0.141,0.07,0.199,0.058
+"P30","Puede que lo vote",0.083,0.102,0.182,0.065
+"P30","Nunca lo votaría",0.7,0.804,0.565,0.553
+"P30","No sabe",0.076,0.024,0.054,0.324
+"P31","Si",0.605,0.589,0.567,0.495
+"P31","No",0.395,0.411,0.433,0.505

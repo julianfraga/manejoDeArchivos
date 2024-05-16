@@ -1,0 +1,37 @@
+"var","categoria","Unión por la Patria","Juntos por el Cambio","De los liberales libertarios","De la Izquierda","Hacemos por nuestro país","Otro","En blanco","No sabe"
+"P13","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.785,0.191,0.129,0.146,0.118,0.161,0.191,0.197
+"P13","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.095,0.653,0.093,0.087,0.044,0.088,0.068,0.06
+"P13","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.086,0.106,0.73,0.151,0.16,0.217,0.136,0.225
+"P13","Los candidatos a presidente y vicepresidente de la izquierda",0.013,0.006,0.011,0.468,0.014,0.06,0.018,0
+"P13","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.009,0.016,0.024,0.054,0.604,0.161,0.062,0.084
+"P13","En blanco",0.003,0.013,0.006,0.032,0.032,0.179,0.327,0.026
+"P13","No sabe",0.009,0.015,0.007,0.062,0.028,0.134,0.198,0.408
+"P26","Totalmente seguro",0.786,0.706,0.75,0.48,0.485,0.486,0.445,0.308
+"P26","Bastante seguro",0.111,0.142,0.115,0.148,0.198,0.093,0.064,0.113
+"P26","Algo seguro",0.063,0.087,0.097,0.182,0.168,0.137,0.098,0.13
+"P26","Para nada seguro",0.04,0.065,0.038,0.19,0.149,0.284,0.393,0.449
+"P27","Tiene Decidido que va a ir a votar",0.941,0.918,0.929,0.858,0.859,0.805,0.562,0.735
+"P27","Tiene dudas sobre si va a ir a  votar",0.047,0.061,0.055,0.092,0.052,0.122,0.316,0.199
+"P27","Tiene Decidido que no va a ir a votar",0.012,0.021,0.016,0.05,0.089,0.073,0.122,0.066
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.874,0.212,0.141,0.381,0.306,0.232,0.263,0.239
+"P28","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.071,0.711,0.346,0.119,0.229,0.167,0.116,0.138
+"P28","En blanco",0.025,0.045,0.326,0.242,0.243,0.216,0.393,0.083
+"P28","No sabe",0.03,0.032,0.187,0.258,0.222,0.385,0.228,0.54
+"P29","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.245,0.71,0.138,0.247,0.266,0.197,0.088,0.11
+"P29","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.079,0.166,0.738,0.215,0.232,0.257,0.168,0.267
+"P29","En blanco",0.448,0.067,0.063,0.367,0.264,0.233,0.463,0.07
+"P29","No sabe",0.228,0.057,0.061,0.171,0.238,0.313,0.281,0.553
+"P30","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.847,0.235,0.109,0.412,0.323,0.205,0.225,0.263
+"P30","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.058,0.292,0.796,0.247,0.25,0.381,0.154,0.325
+"P30","En blanco",0.062,0.28,0.058,0.217,0.236,0.183,0.462,0.038
+"P30","No sabe",0.033,0.193,0.037,0.124,0.191,0.231,0.159,0.374
+"P38","Inflación",0.397,0.299,0.329,0.264,0.289,0.233,0.149,0.245
+"P38","Desempleo",0.114,0.089,0.066,0.104,0.059,0.189,0.137,0.121
+"P38","Corrupción",0.117,0.39,0.439,0.241,0.374,0.326,0.253,0.287
+"P38","Inseguridad",0.122,0.126,0.084,0.11,0.139,0.135,0.153,0.077
+"P38","Precio del dólar",0.048,0.017,0.01,0.034,0.003,0.036,0.006,0.06
+"P38","Pobreza",0.079,0.031,0.032,0.108,0.066,0.032,0.089,0.061
+"P38","Narcotráfico",0.019,0.006,0.002,0.023,0.008,0,0.057,0.03
+"P38","Tarifas",0.008,0.005,0.002,0.002,0,0,0.004,0
+"P38","Otro",0.072,0.025,0.027,0.087,0.054,0.039,0.022,0.067
+"P38","No sabe",0.024,0.012,0.009,0.027,0.008,0.01,0.13,0.052

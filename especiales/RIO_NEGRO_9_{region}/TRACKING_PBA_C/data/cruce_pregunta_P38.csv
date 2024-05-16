@@ -1,0 +1,61 @@
+"var","categoria","Inflación","Desempleo","Corrupción","Inseguridad","Precio del dólar","Pobreza","Narcotráfico","Tarifas","Otro","No sabe"
+"P10","Unión por la Patria",0.479,0.519,0.149,0.449,0.698,0.731,0.731,0.651,0.581,0.612
+"P10","Juntos por el Cambio",0.225,0.251,0.379,0.244,0.082,0.084,0.013,0.263,0.151,0.048
+"P10","De los liberales libertarios",0.211,0.094,0.325,0.197,0.117,0.077,0.077,0.086,0.153,0.143
+"P10","De la Izquierda",0.034,0.015,0.05,0.021,0.006,0.043,0.04,0,0.092,0
+"P10","Hacemos por nuestro país",0.015,0.006,0.028,0.013,0,0.027,0.028,0,0.005,0
+"P10","Otro",0.008,0.045,0.021,0.036,0.059,0.003,0,0,0.007,0.022
+"P10","En blanco",0.001,0.014,0.014,0.016,0,0.014,0,0,0,0
+"P10","No sabe",0.027,0.056,0.034,0.024,0.038,0.021,0.111,0,0.011,0.175
+"P20","Sergio Massa Presidente, Agustin Rossi Vicepresidente, Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.548,0.503,0.157,0.493,0.768,0.703,0.764,0.662,0.576,0.637
+"P20","Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.213,0.172,0.422,0.204,0.079,0.105,0.013,0.338,0.172,0.301
+"P20","Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.182,0.173,0.3,0.211,0.006,0.107,0,0,0.095,0.048
+"P20","Los candidatos a presidente, vicepresidente, gobernador y vicegobernador de la izquierda",0.019,0.042,0.038,0.013,0.006,0.04,0.039,0,0.138,0
+"P20","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.014,0.016,0.03,0.022,0.132,0.022,0.075,0,0,0.014
+"P20","En blanco",0.002,0.01,0.018,0.001,0,0.019,0,0,0,0
+"P20","No sabe",0.022,0.084,0.035,0.056,0.009,0.004,0.109,0,0.019,0
+"P26","Totalmente seguro",0.782,0.637,0.738,0.762,0.779,0.806,0.785,0.914,0.951,0.546
+"P26","Bastante seguro",0.109,0.11,0.087,0.072,0.056,0.104,0,0.086,0.025,0.245
+"P26","Algo seguro",0.061,0.155,0.087,0.066,0.019,0.029,0.104,0,0,0.034
+"P26","Para nada seguro",0.048,0.098,0.088,0.1,0.146,0.061,0.111,0,0.024,0.175
+"P27","Tiene Decidido que va a ir a votar",0.936,0.947,0.934,0.882,0.932,0.979,0.849,0.914,0.976,0.825
+"P27","Tiene dudas sobre si va a ir a  votar",0.045,0.044,0.05,0.099,0.068,0,0.111,0.086,0.015,0.175
+"P27","Tiene Decidido que no va a ir a votar",0.019,0.009,0.016,0.019,0,0.021,0.04,0,0.009,0
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.531,0.63,0.175,0.522,0.718,0.809,0.759,0.65,0.619,0.563
+"P28","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.292,0.216,0.56,0.284,0.206,0.113,0.013,0.35,0.243,0.223
+"P28","En blanco",0.111,0.082,0.145,0.065,0.025,0.039,0.077,0,0.046,0
+"P28","No sabe",0.066,0.072,0.12,0.129,0.051,0.039,0.151,0,0.092,0.214
+"P29","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.314,0.304,0.467,0.341,0.263,0.318,0.143,0.14,0.277,0.266
+"P29","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.238,0.147,0.335,0.243,0.224,0.031,0.096,0.21,0.058,0.016
+"P29","En blanco",0.286,0.28,0.126,0.204,0.353,0.439,0.61,0.344,0.5,0.109
+"P29","No sabe",0.162,0.269,0.072,0.212,0.16,0.212,0.151,0.306,0.165,0.609
+"P30","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.56,0.602,0.221,0.503,0.773,0.784,0.759,0.65,0.609,0.738
+"P30","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.292,0.17,0.446,0.228,0.094,0.022,0,0.14,0.179,0.038
+"P30","En blanco",0.08,0.124,0.19,0.124,0.02,0.164,0.13,0,0.136,0.012
+"P30","No sabe",0.068,0.104,0.143,0.145,0.113,0.03,0.111,0.21,0.076,0.212
+"GOBERNADOR","Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.5,0.416,0.162,0.445,0.768,0.691,0.73,0.662,0.564,0.622
+"GOBERNADOR","Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.237,0.21,0.383,0.21,0.069,0.109,0.033,0.338,0.175,0.299
+"GOBERNADOR","Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.176,0.196,0.301,0.222,0.017,0.107,0,0,0.103,0.021
+"GOBERNADOR","Gobernador y vicegobernador de la izquierda",0.026,0.054,0.043,0.017,0.005,0.04,0.039,0,0.138,0
+"GOBERNADOR","En blanco",0.039,0.04,0.076,0.051,0.132,0.049,0.089,0,0,0.058
+"GOBERNADOR","No sabe",0.022,0.084,0.035,0.055,0.009,0.004,0.109,0,0.02,0
+"CORTA_GOBERNADOR","Si",0.126,0.149,0.134,0.139,0.01,0.108,0.047,0,0.012,0.087
+"CORTA_GOBERNADOR","No",0.874,0.851,0.866,0.861,0.99,0.892,0.953,1,0.988,0.913
+"P10_imputada","Unión por la Patria",0.486,0.558,0.158,0.45,0.707,0.747,0.842,0.651,0.581,0.612
+"P10_imputada","Juntos por el Cambio",0.236,0.251,0.393,0.251,0.082,0.089,0.013,0.263,0.159,0.223
+"P10_imputada","De los liberales libertarios",0.214,0.094,0.327,0.213,0.117,0.077,0.077,0.086,0.153,0.143
+"P10_imputada","De la Izquierda",0.034,0.032,0.051,0.021,0.006,0.043,0.04,0,0.092,0
+"P10_imputada","Hacemos por nuestro país",0.021,0.006,0.028,0.013,0,0.027,0.028,0,0.005,0
+"P10_imputada","Otro",0.008,0.045,0.029,0.036,0.059,0.003,0,0,0.007,0.022
+"P10_imputada","En blanco",0.001,0.014,0.014,0.016,0.029,0.014,0,0,0.003,0
+"P20_imputada","Sergio Massa Presidente, Agustin Rossi Vicepresidente, Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.557,0.545,0.175,0.512,0.777,0.703,0.764,0.662,0.576,0.637
+"P20_imputada","Patricia Bullrich Presidenta, Luis Petri Vicepresidente, Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.221,0.206,0.431,0.205,0.079,0.109,0.122,0.338,0.18,0.301
+"P20_imputada","Javier Milei Presidente, Victoria Villarruel Vicepresidenta, Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.185,0.178,0.307,0.238,0.006,0.107,0,0,0.107,0.048
+"P20_imputada","Los candidatos a presidente, vicepresidente, gobernador y vicegobernador de la izquierda",0.021,0.045,0.039,0.022,0.006,0.04,0.039,0,0.137,0
+"P20_imputada","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos nuestro País",0.014,0.016,0.03,0.022,0.132,0.022,0.075,0,0,0.014
+"P20_imputada","En blanco",0.002,0.01,0.018,0.001,0,0.019,0,0,0,0
+"GOBERNADOR_imputada","Axel Kicillof gobernador y Veronica Magario vicegobernadora; por Union por la Patria",0.511,0.453,0.169,0.467,0.774,0.694,0.819,0.663,0.577,0.62
+"GOBERNADOR_imputada","Nestor Grindetti gobernador y Miguel Fernandez vicegobernador; por Juntos por el Cambio",0.241,0.228,0.396,0.219,0.07,0.109,0.037,0.337,0.178,0.3
+"GOBERNADOR_imputada","Carolina Piparo gobernadora y Francisco Oneto vicegobernador; por la Libertad Avanza",0.178,0.212,0.31,0.233,0.017,0.109,0,0,0.105,0.02
+"GOBERNADOR_imputada","Gobernador y vicegobernador de la izquierda",0.029,0.063,0.046,0.027,0.005,0.04,0.044,0,0.14,0
+"GOBERNADOR_imputada","En blanco",0.041,0.044,0.079,0.054,0.134,0.048,0.1,0,0,0.06

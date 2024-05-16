@@ -1,0 +1,12 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P08	Escenarios Políticos	politica	¿Pensando en las próximas elecciones generales a intendente de Rosario, a que candidatos preferiría votar?	Intención de voto por candidatos a Intendente	
+P08_imputada	Escenarios Políticos	politica	¿Pensando en las próximas elecciones generales a intendente de Rosario, a que candidatos preferiría votar?	Intención de voto por candidatos a Intendente	 (Imputación no lineal de indecisos)
+P10	Escenarios Políticos	seguridad	Podría usted decirnos cuán seguro está de sus preferencias de voto en las próximas elecciones 	Nivel de seguridad sobre preferencias de voto	
+P11	Escenarios Políticos	irAVotar	¿Qué tan decidido está sobre ir a votar?	Nivel de decisión sobre ir o no a votar	
+P12	Escenarios Políticos	politica	¿Pensando en las elecciones generales a gobernador y vicegobernador, a que candidatos votaría?	Intención de voto a Gobernador y Vicegobernador	
+P12_imputada	Escenarios Políticos	politica	¿Pensando en las elecciones generales a gobernador y vicegobernador, a que candidatos votaría?	Intención de voto a Gobernador y Vicegobernador	 (Imputación no lineal de indecisos)
+P14	Escenarios Políticos	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos prefería votar para presidente y vicepresidente de la nación 	Intención de voto a Presidente y Vicepresidente en primera vuelta	
+P14_imputada	Escenarios Políticos	politica	Pensando en las próximas elecciones de primera vuelta a cuál de los siguientes candidatos prefería votar para presidente y vicepresidente de la nación 	Intención de voto a Presidente y Vicepresidente en primera vuelta	 (Imputación no lineal de indecisos)
+P17	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	

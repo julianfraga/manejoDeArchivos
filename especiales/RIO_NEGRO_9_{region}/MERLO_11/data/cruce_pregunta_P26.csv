@@ -1,0 +1,102 @@
+"var","categoria","Tiene Decidido que va a ir a votar","Tiene dudas sobre si va a ir a  votar","Tiene Decidido que no va a ir a votar"
+"P05","Mucho",0.421,0.284,0.282
+"P05","Bastante",0.327,0.179,0.176
+"P05","Poco",0.178,0.184,0.077
+"P05","Nada",0.051,0.262,0.211
+"P05","No sabe",0.023,0.091,0.254
+"P06","Siempre",0.205,0.212,0.104
+"P06","Casi siempre",0.326,0.193,0.168
+"P06","Casi nunca",0.319,0.389,0.257
+"P06","Nunca, pero esta es una excepción",0.15,0.206,0.471
+"P09","Unión por la Patria",0.347,0.155,0.367
+"P09","Juntos por el Cambio",0.246,0.197,0.054
+"P09","De los Liberales libertarios",0.255,0.259,0.099
+"P09","De la Izquierda",0.059,0.036,0.15
+"P09","Hacemos por nuestro país",0.015,0.156,0
+"P09","Otro",0.031,0.03,0.037
+"P09","En blanco",0.014,0.043,0.059
+"P09","No sabe",0.033,0.124,0.234
+"P12","Sergio Massa a presidente, Axel Kicillof a gobernador y Gustavo Menéndez a intendente por Unión por la Patria",0.364,0.317,0.294
+"P12","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y David Zencich a intendente por Juntos por el Cambio",0.227,0.224,0.182
+"P12","Javier Milei a presidente, Carolina Piparo a gobernadora  y Eduardo Varela a intendente por la Libertad Avanza",0.281,0.197,0.086
+"P12","Raul Othacehé a intendente por el frente vecinal crecer",0.039,0.009,0.047
+"P12","Los candidatos a presidente, gobernador e intendente de la Izquierda",0.029,0.06,0.044
+"P12","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.01,0.065,0
+"P12","En blanco",0.007,0.073,0.155
+"P12","No sabe",0.043,0.055,0.192
+"P15","Si",0.459,0.467,0.493
+"P15","No",0.541,0.533,0.507
+"P16","Sergio Massa a presidente por Unión por la Patria",0.364,0.333,0.174
+"P16","Patricia Bullrich a presidenta por Juntos por el Cambio",0.262,0.236,0.189
+"P16","Javier Milei a presidente por la Libertad Avanza",0.266,0.223,0.035
+"P16","Los candidatos a presidente de la Izquierda",0.024,0.016,0.397
+"P16","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.03,0.146,0
+"P16","En blanco",0.007,0,0.15
+"P16","No sabe",0.047,0.046,0.055
+"P19","Axel Kicillof a gobernador por Unión por la Patria",0.361,0.313,0.194
+"P19","Néstor Grindetti a gobernador por Juntos por el Cambio",0.316,0.166,0.115
+"P19","Carolina Piparo a gobernadora por la Libertad Avanza",0.219,0.259,0.112
+"P19","El candidato a gobernador de la Izquierda",0.034,0.016,0.184
+"P19","En blanco",0.024,0.146,0.19
+"P19","No sabe",0.046,0.1,0.205
+"P22","Gustavo Menéndez a intendente por Unión por la Patria",0.273,0.285,0.071
+"P22","Zencich a intendente por Juntos por el Cambio",0.29,0.286,0.192
+"P22","Eduardo Varela a intendente por la Libertad Avanza",0.131,0.075,0.097
+"P22","Raul Othacehé a intendente por el frente vecinal crecer",0.168,0.021,0.148
+"P22","El candidato a intendente de la Izquierda",0.041,0.01,0.042
+"P22","En blanco",0.021,0.006,0.13
+"P22","No sabe",0.076,0.317,0.32
+"P25","Totalmente seguro",0.685,0.192,0.23
+"P25","Bastante seguro",0.171,0.459,0.047
+"P25","Algo seguro",0.076,0.038,0.347
+"P25","Para nada seguro",0.068,0.311,0.376
+"P27","Con políticas de shock, mano dura y castigando a los corruptos y ladrones",0.477,0.311,0.322
+"P27","Con políticas muy estudiadas y progresivas  para que las transformaciones de fondo necesarias se puedan realizar",0.12,0.131,0.04
+"P27","Con políticas de desarrollo que permitan el crecimiento con inclusión social",0.261,0.068,0.28
+"P27","Con políticas que limiten los privilegios de los que más tienen y favorezcan a los sectores más vulnerables",0.072,0.238,0
+"P27","Con políticas revolucionarias que permitan la transformación igualitaria de la sociedad apoyándose en las mayorías populares",0.019,0.028,0.096
+"P27","No sabe",0.051,0.224,0.262
+"P28","Lo votaría",0.372,0.136,0.495
+"P28","Puede que lo vote",0.102,0.185,0.064
+"P28","Nunca lo votaría",0.473,0.391,0.402
+"P28","No sabe",0.053,0.288,0.039
+"P29","Lo votaría",0.25,0.37,0.192
+"P29","Puede que lo vote",0.124,0.19,0.13
+"P29","Nunca lo votaría",0.553,0.249,0.583
+"P29","No sabe",0.073,0.191,0.095
+"P30","Lo votaría",0.282,0.271,0.27
+"P30","Puede que lo vote",0.123,0.182,0.09
+"P30","Nunca lo votaría",0.55,0.439,0.42
+"P30","No sabe",0.045,0.108,0.22
+"P31","Lo votaría",0.18,0.134,0.314
+"P31","Puede que lo vote",0.116,0.145,0.022
+"P31","Nunca lo votaría",0.632,0.434,0.545
+"P31","No sabe",0.072,0.287,0.119
+"P32","Si",0.394,0.218,0.399
+"P32","No",0.606,0.782,0.601
+"PRESIDENTE","Sergio Massa a presidente por Unión por la Patria",0.405,0.353,0.309
+"PRESIDENTE","Patricia Bullrich a presidenta por Juntos por el Cambio",0.233,0.188,0.209
+"PRESIDENTE","Javier Milei a presidente por la Libertad Avanza",0.288,0.196,0.087
+"PRESIDENTE","Los candidatos a presidente de la Izquierda",0.02,0.057,0.181
+"PRESIDENTE","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.017,0.064,0
+"PRESIDENTE","En blanco",0.008,0.073,0.081
+"PRESIDENTE","No sabe",0.029,0.069,0.133
+"CORTA_PRESIDENTE","Si",0.156,0.186,0.213
+"CORTA_PRESIDENTE","No",0.844,0.814,0.787
+"GOBERNADOR","Axel Kicillof a gobernador por Unión por la Patria",0.401,0.344,0.31
+"GOBERNADOR","Néstor Grindetti a gobernador por Juntos por el Cambio",0.256,0.156,0.167
+"GOBERNADOR","Carolina Piparo a gobernadora por la Libertad Avanza",0.27,0.198,0.123
+"GOBERNADOR","El candidato a gobernador de la Izquierda",0.025,0.057,0.084
+"GOBERNADOR","En blanco",0.019,0.138,0.105
+"GOBERNADOR","No sabe",0.029,0.107,0.211
+"CORTA_GOBERNADOR","Si",0.203,0.324,0.31
+"CORTA_GOBERNADOR","No",0.797,0.676,0.69
+"INTENDENTE","Gustavo Menéndez a intendente por Unión por la Patria",0.357,0.336,0.255
+"INTENDENTE","Zencich a intendente por Juntos por el Cambio",0.248,0.215,0.203
+"INTENDENTE","Eduardo Varela a intendente por la Libertad Avanza",0.227,0.112,0.103
+"INTENDENTE","Raul Othacehé a intendente por el frente vecinal crecer",0.08,0.009,0.089
+"INTENDENTE","El candidato a intendente de la Izquierda",0.028,0.053,0.024
+"INTENDENTE","En blanco",0.017,0.076,0.058
+"INTENDENTE","No sabe",0.043,0.199,0.268
+"CORTA_INTENDENTE","Si",0.242,0.223,0.339
+"CORTA_INTENDENTE","No",0.758,0.777,0.661

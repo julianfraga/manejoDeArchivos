@@ -1,0 +1,114 @@
+"var","categoria","Muy buena","Buena","Ni buena ni mala","Mala","Muy mala","No sabe"
+"P06","Julio Zamora",0.798,0.585,0.697,0.542,0.295,0.774
+"P06","Segundo Cernadas",0.013,0.146,0.033,0.221,0.475,0.03
+"P06","Otro candidato",0.049,0.212,0.086,0.139,0.114,0
+"P06","En blanco",0.064,0,0.024,0.004,0.016,0.104
+"P06","No sabe",0.076,0.057,0.16,0.094,0.1,0.092
+"P07","A los candidatos del Frente de todos",0.804,0.648,0.407,0.127,0.082,0.475
+"P07","A los candidatos de Juntos por el cambio",0.077,0.192,0.101,0.478,0.672,0.03
+"P07","A los candidatos del Peronismo no kirchnerista, Lavagnismo o randazismo",0.06,0.13,0.28,0.209,0.098,0
+"P07","A los candidatos de la Izquierda",0.023,0.03,0.14,0.032,0.025,0.196
+"P07","A los candidatos Liberales",0.036,0,0.072,0.154,0.123,0.299
+"P08","Diego Santilli por el PRO en Juntos por el Cambio",0.805,0.655,0.434,0.521,0.56,1
+"P08","Facundo Manes por el radicalismo en Juntos por el Cambio",0.195,0.345,0.566,0.479,0.44,0
+"P09","A los candidatos del Frente de todos",0.776,0.603,0.486,0.139,0.071,0.475
+"P09","A los candidatos de Juntos por el cambio",0.07,0.064,0.064,0.523,0.668,0.029
+"P09","A los candidatos del frente unidos por tigre",0.119,0.124,0.252,0.118,0.077,0.392
+"P09","A los candidatos del Peronismo no kirchnerista, Lavagnismo o randazismo",0.021,0.053,0.07,0.075,0.052,0
+"P09","A los candidatos de la Izquierda",0.003,0.06,0.114,0.111,0.018,0.104
+"P09","A los candidatos Liberales",0.011,0.096,0.014,0.034,0.114,0
+"P10","Luis Samyn Duco",0.314,0.204,0.041,0.056,0.683,1
+"P10","Gonzalo Meschengieser",0.004,0.014,0,0.271,0.019,0
+"P10","Micaela Ferraro",0.101,0.336,0.042,0,0.057,0
+"P10","Javier Forlenza",0.035,0,0.016,0.108,0,0
+"P10","Jose Paesani",0.036,0.014,0.094,0,0.037,0
+"P10","Malena Galmarini",0.33,0.29,0.424,0.442,0.105,0
+"P10","Pipo Gorosito",0.18,0.142,0.383,0.123,0.099,0
+"P11","Segundo Cernadas",0.481,0.759,0.711,0.624,0.649,1
+"P11","Nicolas Massot",0.519,0.241,0.289,0.376,0.351,0
+"P12","Malena Galmarini por el Frente de todos",0.645,0.448,0.174,0.216,0.045,0
+"P12","Gisela Zamora por Frente vecinal unidos",0.195,0.193,0.349,0.177,0.148,0.774
+"P12","Segundo cernadas por Juntos por el Cambio",0.072,0.081,0.254,0.48,0.606,0.03
+"P12","Rodriguez Laborde por el Frente de Randazzo",0.023,0.042,0.031,0.074,0.069,0
+"P12","A los candidatos del frente de izquierda",0.019,0.127,0.14,0.027,0.028,0.104
+"P12","Cervetto por los liberales",0.046,0.109,0.052,0.026,0.104,0.092
+"P13","Pipo Gorosito por el Frente de todos",0.561,0.346,0.367,0.057,0.07,0
+"P13","Gisela Zamora por Frente vecinal unidos",0.29,0.258,0.352,0.353,0.106,0.549
+"P13","Segundo cernadas por Juntos por el cambio",0.081,0.08,0.093,0.465,0.676,0.347
+"P13","Rodriguez Laborde por el Frente de Randazzo",0.005,0.036,0.053,0.076,0.026,0
+"P13","A los candidatos del frente de izquierda",0.022,0.166,0.11,0.027,0.019,0.104
+"P13","Cervetto por los liberales",0.041,0.114,0.025,0.022,0.103,0
+"P14","Micaela Ferraro por el Frente de todos",0.628,0.29,0.159,0.044,0.039,0.226
+"P14","Gisela Zamora por Frente vecinal unidos",0.254,0.297,0.444,0.222,0.143,0.341
+"P14","Segundo cernadas por juntos por el cambio",0.067,0.087,0.072,0.469,0.668,0.329
+"P14","Rodriguez Laborde por el Frente de Randazzo",0.015,0.03,0.085,0.196,0.031,0
+"P14","A los candidatos del frente de izquierda",0.031,0.195,0.119,0.03,0.021,0.104
+"P14","Cervetto por los liberales",0.005,0.101,0.121,0.039,0.098,0
+"P15","Luis Samin Duco por el Frente de todos",0.614,0.2,0.233,0.031,0.04,0.525
+"P15","Gisela Zamora por Frente vecinal unidos",0.251,0.334,0.462,0.263,0.099,0.249
+"P15","Segundo cernadas por juntos por el cambio",0.086,0.116,0.105,0.453,0.697,0.122
+"P15","Rodriguez Laborde por el Frente de Randazzo",0.022,0.041,0.053,0.179,0.039,0
+"P15","A los candidatos del frente de izquierda",0.022,0.207,0.119,0.031,0.016,0.104
+"P15","Cervetto por los liberales",0.005,0.102,0.028,0.043,0.109,0
+"P16","Muy bueno",0.399,0.152,0.239,0.161,0.06,0.342
+"P16","Bueno",0.292,0.458,0.375,0.291,0.119,0.299
+"P16","Ni bueno ni malo",0.203,0.224,0.173,0.18,0.402,0
+"P16","Malo",0.045,0.034,0.074,0.196,0.196,0
+"P16","Muy malo",0.054,0.1,0.055,0.172,0.213,0.255
+"P16","No sabe",0.007,0.032,0.084,0,0.01,0.104
+"P18","Muy buena",0.719,0.329,0.318,0.057,0.052,0.226
+"P18","Buena",0.175,0.299,0.133,0.061,0.006,0.249
+"P18","Ni buena ni mala",0.011,0.123,0.44,0.299,0.035,0
+"P18","Mala",0.051,0.041,0.04,0.386,0.168,0.299
+"P18","Muy mala",0.044,0.208,0.047,0.197,0.738,0.03
+"P18","No sabe",0,0,0.022,0,0.001,0.196
+"P19","Muy buena",0.15,0.014,0.054,0.1,0.193,0.029
+"P19","Buena",0.047,0.16,0,0.063,0.222,0
+"P19","Ni buena ni mala",0.032,0.108,0.203,0.31,0.238,0.549
+"P19","Mala",0.169,0.114,0.386,0.333,0.145,0
+"P19","Muy mala",0.582,0.604,0.335,0.19,0.18,0.226
+"P19","No sabe",0.02,0,0.022,0.004,0.022,0.196
+"P20","Muy buena",0.799,0.36,0.221,0.05,0.054,0.226
+"P20","Buena",0.105,0.332,0.139,0,0.005,0.249
+"P20","Ni buena ni mala",0.045,0.065,0.44,0.142,0.028,0
+"P20","Mala",0.02,0.051,0.075,0.425,0.046,0
+"P20","Muy mala",0.031,0.185,0.098,0.372,0.867,0.329
+"P20","No sabe",0,0.007,0.027,0.011,0,0.196
+"P21","Muy buena",0.208,0.022,0.073,0.108,0.257,0.029
+"P21","Buena",0.055,0.27,0.105,0.217,0.273,0.549
+"P21","Ni buena ni mala",0.042,0.073,0.359,0.346,0.232,0.092
+"P21","Mala",0.071,0.25,0.22,0.219,0.06,0
+"P21","Muy mala",0.604,0.385,0.228,0.098,0.178,0.226
+"P21","No sabe",0.02,0,0.015,0.012,0,0.104
+"P23","Muy buena",0.208,0.149,0.035,0.28,0.45,0.027
+"P23","Buena",0.046,0.3,0.193,0.269,0.243,0
+"P23","Ni buena ni mala",0.144,0.197,0.356,0.325,0.113,0.331
+"P23","Mala",0.159,0.112,0.147,0.079,0.039,0
+"P23","Muy mala",0.383,0.195,0.121,0.044,0.152,0.216
+"P23","No sabe",0.06,0.047,0.148,0.003,0.003,0.426
+"P24","Muy buena",0.278,0.107,0.081,0.04,0.032,0
+"P24","Buena",0.264,0.153,0.264,0.124,0.032,0
+"P24","Ni buena ni mala",0.255,0.401,0.405,0.278,0.102,0
+"P24","Mala",0.011,0.208,0.053,0.329,0.147,0
+"P24","Muy mala",0.134,0.064,0.111,0.124,0.606,0.341
+"P24","No sabe",0.058,0.067,0.086,0.105,0.081,0.659
+"P25","Muy buena",0.335,0.111,0.131,0.049,0.007,0
+"P25","Buena",0.205,0.221,0.196,0.197,0.032,0.304
+"P25","Ni buena ni mala",0.319,0.325,0.382,0.223,0.023,0
+"P25","Mala",0.027,0.278,0.081,0.18,0.12,0.086
+"P25","Muy mala",0.099,0.065,0.177,0.346,0.816,0.342
+"P25","No sabe",0.015,0,0.033,0.005,0.002,0.268
+"P26","Muy buena",0.34,0.203,0.166,0.112,0.088,0.268
+"P26","Buena",0.345,0.404,0.417,0.291,0.062,0.216
+"P26","Ni buena ni mala",0.231,0.228,0.177,0.221,0.28,0
+"P26","Mala",0.029,0.118,0.074,0.249,0.178,0
+"P26","Muy mala",0.048,0.021,0.122,0.092,0.341,0.125
+"P26","No sabe",0.007,0.026,0.044,0.035,0.051,0.391
+"P27","Muy buena",0.086,0.03,0.036,0.027,0.184,0.268
+"P27","Buena",0.125,0.047,0.065,0.222,0.263,0.292
+"P27","Ni buena ni mala",0.127,0.404,0.386,0.481,0.276,0
+"P27","Mala",0.18,0.114,0.147,0.094,0.039,0
+"P27","Muy mala",0.404,0.224,0.128,0.118,0.108,0.107
+"P27","No sabe",0.078,0.181,0.238,0.058,0.13,0.333
+"P28","Si",0.663,0.388,0.483,0.323,0.513,0
+"P28","No",0.337,0.612,0.517,0.677,0.487,1

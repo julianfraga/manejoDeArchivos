@@ -1,0 +1,8 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P06	General	politica	Pensando en las próximas elecciones de segunda vuelta a cuál de los siguientes candidatos preferiría votar para presidente y vicepresidente de la nación	Intención de voto por fórmulas presidenciales en Segunda Vuelta Electoral	
+P08	General	diverging	Podría usted decirnos cuán seguro está de sus preferencias de voto a presidente en las próximas elecciones 	Nivel de seguridad sobre preferencias de voto	
+P09	General	diverging	Nivel de decisión sobre ir o no a votar	Nivel de decisión sobre ir o no a votar	
+P10	General	votaria	Votaría usted como candidato a presidente a Sergio Massa 	Intención de voto por Sergio Massa	
+P11	General	votaria	Votaría usted como candidato a presidente a Javier Milei	Intención de voto por Javier Milei	
+P12	General	politica	Más allá de su decisión de votar en blanco si tuviese que elegir por alguna de las dos fórmulas cual elegiría? (sólo quienes preferirían en Blanco)	Preferencia por fórmulas presidenciales de quienes votarían en blanco	
+P14	General	politica	Mas allá de que no tiene decidido su voto,si tuviese que elegir por alguna de las dos fórmulas cual elegiría? (sólo intención de voto indecisa)	Preferencia por fórmulas presidenciales de quienes no han decidido su voto	

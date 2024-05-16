@@ -1,0 +1,13 @@
+clave	texto
+encuesta_especial	Posicionamiento Político y Preferencias Electorales: Elecciones Presidenciales y a Gobernador - Mendoza, Agosto 2023
+bajada_encuesta_especial	Encuesta Sincrónica
+bajada_encuesta_especial_fecha	08/09/2023
+ficha_Población objeto de estudio	Población mayor de 16 años.
+ficha_Unidad de muestreo	Télefonos celulares de empresas Personal, Movistar y Claro, complementados con un 13% de teléfonos fijos para optimizar cobertura geográfica.
+ficha_Ámbito	Provincia de Mendoza
+ficha_Estratificación	Zona 1 (Mendoza Capital, Godoy Cruz, Luján de Cuyo y Maipú), Zona 2 (Las Heras y Guaymallén), Zona 3 (Rivadavia, San Carlos, Tunuyán y Tupungato), Zona 4 (Lavalle, Santa Rosa, La Paz, Junín y San Martin) y Zona 5 (Alvear, San Rafael y Malargüe).
+ficha_Técnicas de recolección de información	ES - Encuesta Sincrónica (IVR) a teléfonos móviles y fijos
+ficha_Diseño muestral	Muestreo aleatorio estratificado por localidad. La probabilidad de selección hacia el interior de cada estrato se definió de manera proporcional al tamaño de la localidad.
+ficha_Tamaño muestral	La captura de datos abarca 1472 casos efectivos.
+ficha_Calibración de la muestra	En función de datos paramétricos censales de sexo, edad y nivel educativo.
+ficha_Margen de error	+/- 2.55 %

@@ -1,0 +1,183 @@
+"var","categoria","La falta de visión de largo plazo para el desarrollo productivo regional","Insuficiente coordinación entre los distintos actores que son parte de un proyecto productivo regional","La ausencia de evaluaciones de impacto productivo de los programas a implementar","No sabe"
+"P01","Empleado en relación de dependencia",0.33,0.306,0.23,0.238
+"P01","Jubilado o pensionado",0.22,0.237,0.322,0.291
+"P01","Desempleado",0.173,0.233,0.19,0.244
+"P01","Monotributista o autónomo",0.182,0.122,0.138,0.108
+"P01","Empresario",0.031,0.013,0.019,0.008
+"P01","Estudiante",0.014,0.02,0.03,0.013
+"P01","Otro",0.05,0.069,0.071,0.098
+"P02","Menos de $50.000 mensuales",0.35,0.385,0.378,0.501
+"P02","Entre $50.000 y $100.000 mensuales",0.244,0.234,0.311,0.217
+"P02","Entre $100.000 y $150.000 mensuales",0.172,0.183,0.149,0.147
+"P02","Entre $150.000 y $200.000 mensuales",0.108,0.082,0.058,0.059
+"P02","Entre $200.000 y $250.000 mensuales",0.044,0.053,0.034,0.028
+"P02","Entre $250.000 y $300.000 mensuales",0.026,0.012,0.018,0.01
+"P02","Más de $300.000",0.056,0.051,0.052,0.038
+"P03","Si, tengo",0.139,0.138,0.121,0.101
+"P03","No, no tengo",0.861,0.862,0.879,0.899
+"P04","Si",0.391,0.375,0.295,0.206
+"P04","No",0.609,0.625,0.705,0.794
+"P05","Si",0.152,0.134,0.199,0.138
+"P05","No",0.848,0.866,0.801,0.862
+"P06","Si",0.33,0.235,0.212,0.215
+"P06","No",0.67,0.765,0.788,0.785
+"P07","Si, lo tomaría",0.281,0.186,0.174,0.127
+"P07","Probablemente si",0.257,0.289,0.27,0.267
+"P07","Probablemente no",0.187,0.227,0.302,0.206
+"P07","No. no lo tomaría",0.236,0.218,0.228,0.282
+"P07","No sabe",0.039,0.08,0.026,0.118
+"P08","Si",0.615,0.543,0.569,0.41
+"P08","No",0.385,0.457,0.431,0.59
+"P09","1",0.384,0.349,0.363,0.329
+"P09","2",0.164,0.181,0.141,0.117
+"P09","3",0.043,0.034,0.056,0.058
+"P09","4",0.028,0.039,0.023,0.02
+"P09","5",0.124,0.138,0.123,0.136
+"P09","6",0.021,0.024,0.04,0.027
+"P09","7",0.031,0.011,0.011,0.024
+"P09","8",0.034,0.034,0.04,0.025
+"P09","9",0.171,0.19,0.203,0.264
+"P10","Muy convenientes",0.075,0.08,0.063,0.051
+"P10","Bastante convenientes",0.056,0.052,0.036,0.045
+"P10","Algo convenientes",0.123,0.114,0.117,0.097
+"P10","Poco convenientes",0.216,0.237,0.245,0.17
+"P10","Nada convenientes",0.425,0.418,0.423,0.373
+"P10","No sabe",0.105,0.099,0.116,0.264
+"P11","No intervenir y quien tomó el crédito debe hacerse cargo",0.278,0.187,0.163,0.136
+"P11","Intervenir para asegurar que quien tomó el crédito pueda afrontar los pagos",0.553,0.654,0.679,0.477
+"P11","No sabe",0.169,0.159,0.158,0.387
+"P12","Si",0.71,0.638,0.644,0.611
+"P12","No",0.29,0.362,0.356,0.389
+"P13","Banco Publico o cooperativo",0.513,0.555,0.62,0.554
+"P13","Banco privado",0.446,0.395,0.355,0.353
+"P13","No sabe",0.041,0.05,0.025,0.093
+"P14","Banco Nacion",0.399,0.429,0.412,0.404
+"P14","Banco Provincia",0.201,0.264,0.267,0.325
+"P14","Banco Ciudad",0.04,0.029,0.07,0.022
+"P14","Bancor, Banco de Cordoba",0.04,0.064,0.022,0.034
+"P14","Nuevo Banco de Santa Fe",0.014,0.01,0.003,0.014
+"P14","Credicoop",0.034,0.061,0.068,0.025
+"P14","Otro",0.272,0.143,0.158,0.176
+"P15","Santander",0.226,0.149,0.168,0.188
+"P15","Galicia",0.275,0.203,0.241,0.236
+"P15","Macro",0.075,0.098,0.122,0.114
+"P15","Frances",0.13,0.129,0.114,0.11
+"P15","ICBC",0.055,0.079,0.087,0.064
+"P15","Patagonia",0.014,0.038,0.105,0.039
+"P15","No sabe",0.225,0.304,0.163,0.249
+"P16","Las billeteras virtuales ofertadas por entidades bancarias como MODO o Cuenta DNI",0.263,0.336,0.252,0.226
+"P16","Las billeteras virtuales ofertadas por entidades no bancarias como Mercado Pago o Ualá",0.457,0.4,0.392,0.295
+"P16","No sabe",0.28,0.264,0.356,0.479
+"P17","Porque son mas seguras",0.23,0.236,0.164,0.153
+"P17","Porque los costos del servicio son menores",0.27,0.293,0.224,0.161
+"P17","Porque tienen mas clientes adheridos",0.134,0.112,0.171,0.161
+"P17","Porque la calidad de la aplicación",0.094,0.097,0.11,0.075
+"P17","Por la calidad de la atención al cliente",0.02,0.026,0.042,0.019
+"P17","Por la eficiencia en la solución de reclamos",0.027,0.012,0.018,0.018
+"P17","No sabe",0.225,0.224,0.271,0.413
+"P18","Si, las conozco",0.412,0.396,0.415,0.244
+"P18","No, no las conozco",0.588,0.604,0.585,0.756
+"P19","Si",0.575,0.504,0.483,0.395
+"P19","No",0.425,0.496,0.517,0.605
+"P20","MODO",0.259,0.239,0.176,0.179
+"P20","Cuenta DNI",0.138,0.167,0.168,0.146
+"P20","Mercado de Pago",0.453,0.446,0.381,0.487
+"P20","Ualá",0.024,0.021,0.021,0.038
+"P20","Brubank",0.012,0.012,0.051,0.01
+"P20","Naranja X",0.019,0.008,0.035,0.017
+"P20","Otra",0.095,0.107,0.168,0.123
+"P21","Para pagar en comercios con el celular",0.482,0.385,0.425,0.365
+"P21","Para transferir / enviar o recibir dinero de terceros",0.236,0.317,0.325,0.297
+"P21","Para usarla para trabajar / cobrar / vender",0.19,0.163,0.111,0.166
+"P21","Para pagar servicios",0.052,0.107,0.096,0.092
+"P21","Para extraer dinero sin tarjeta",0.002,0.013,0.01,0.049
+"P21","Para recargar el celular / tarjeta de transporte",0.038,0.015,0.033,0.031
+"P22","Usas más efectivo que antes",0.157,0.113,0.067,0.104
+"P22","Usas la misma cantidad de efectivo que antes",0.246,0.278,0.263,0.239
+"P22","Usas menos efectivo que antes",0.597,0.609,0.67,0.657
+"P23","Tener mayor control de tus gastos",0.425,0.361,0.463,0.368
+"P23","Tener igual control de tus gastos",0.428,0.512,0.421,0.5
+"P23","Tener menor control de tus gastos",0.147,0.127,0.116,0.132
+"P24","Muy de acuerdo",0.359,0.424,0.394,0.334
+"P24","De acuerdo",0.271,0.237,0.221,0.242
+"P24","Algo de acuerdo",0.198,0.193,0.251,0.263
+"P24","Poco de acuerdo",0.097,0.064,0.088,0.088
+"P24","Nada de acuerdo",0.075,0.082,0.046,0.073
+"P25","Deberían mantenerse y ampliarse aún mas",0.419,0.347,0.291,0.271
+"P25","Deberían  mantenerse pero garantizando también la calidad de los servicios presenciales",0.417,0.475,0.484,0.463
+"P25","Deberian limitarse a los estrictamente necesarios",0.074,0.079,0.13,0.102
+"P25","Deberian eliminarse y volverse a la situación anterior",0.09,0.099,0.095,0.164
+"P26","Sí, compraría",0.284,0.175,0.169,0.123
+"P26","No, no tengo suficiente información",0.416,0.518,0.47,0.522
+"P26","No, me resulta una inversión riesgosa",0.119,0.127,0.141,0.074
+"P26","No, me parece una inversión poco confiable",0.095,0.098,0.097,0.086
+"P26","No me interesa",0.086,0.082,0.123,0.195
+"P27","Si",0.359,0.311,0.259,0.152
+"P27","No",0.641,0.689,0.741,0.848
+"P28","Muy seguro",0.309,0.276,0.204,0.164
+"P28","Bastante seguro",0.307,0.352,0.229,0.283
+"P28","Seguro",0.173,0.173,0.229,0.179
+"P28","Poco seguro",0.089,0.076,0.113,0.07
+"P28","Nada seguro",0.043,0.045,0.07,0.062
+"P28","No hago operaciones online",0.079,0.078,0.155,0.242
+"P29","Sí, he sido víctima",0.223,0.196,0.225,0.106
+"P29","No, no he sido víctima",0.713,0.74,0.674,0.736
+"P29","No sabe",0.064,0.064,0.101,0.158
+"P30","Estafa por redes sociales",0.262,0.157,0.381,0.439
+"P30","Estafa telefónica",0.166,0.33,0.193,0.198
+"P30","Correos electrónicos falsos que dirigían a un sitio web fraudulento",0.151,0.227,0.188,0.034
+"P30","Virus",0.024,0.018,0.036,0.019
+"P30","Otros",0.397,0.268,0.202,0.31
+"P31","Informar y asesorar a los usuarios/as sobre esta temática",0.284,0.223,0.188,0.115
+"P31","Incentivar a clientes a desarrollar habilidades para la verificación de la información virtual",0.307,0.349,0.302,0.222
+"P31","Generar productos bancarios que aseguren a los clientes ante estas situaciones",0.269,0.283,0.378,0.255
+"P31","No sabe",0.14,0.145,0.132,0.408
+"P32","Si, he limitado las operaciones",0.242,0.219,0.205,0.137
+"P32","He limitado parcialmente",0.244,0.277,0.256,0.185
+"P32","No, continúo operando igual que siempre",0.514,0.504,0.539,0.678
+"P33","1",0.304,0.236,0.298,0.255
+"P33","2",0.139,0.159,0.083,0.07
+"P33","3",0.167,0.092,0.12,0.165
+"P33","4",0.064,0.047,0.052,0.048
+"P33","5",0.143,0.195,0.169,0.193
+"P33","6",0.026,0.056,0.056,0.06
+"P33","7",0.026,0.055,0.033,0.037
+"P33","8",0.032,0.048,0.023,0.034
+"P33","9",0.099,0.112,0.166,0.138
+"P34","1",0.308,0.299,0.316,0.292
+"P34","2",0.117,0.142,0.104,0.073
+"P34","3",0.096,0.066,0.09,0.066
+"P34","4",0.084,0.074,0.066,0.081
+"P34","5",0.17,0.192,0.215,0.232
+"P34","6",0.044,0.071,0.053,0.055
+"P34","7",0.034,0.051,0.031,0.047
+"P34","8",0.03,0.024,0.03,0.039
+"P34","9",0.117,0.081,0.095,0.115
+"P35","1",0.347,0.24,0.245,0.253
+"P35","2",0.074,0.113,0.05,0.077
+"P35","3",0.031,0.032,0.079,0.038
+"P35","4",0.03,0.036,0.047,0.043
+"P35","5",0.128,0.155,0.124,0.176
+"P35","6",0.049,0.048,0.037,0.055
+"P35","7",0.04,0.063,0.061,0.042
+"P35","8",0.05,0.06,0.1,0.07
+"P35","9",0.251,0.253,0.257,0.246
+"P37","Muy buena",0.066,0.137,0.12,0.072
+"P37","Buena",0.093,0.133,0.104,0.113
+"P37","Ni buena ni mala",0.094,0.187,0.145,0.208
+"P37","Mala",0.146,0.177,0.185,0.215
+"P37","Muy mala",0.598,0.359,0.416,0.357
+"P37","No sabe",0.003,0.007,0.03,0.035
+"P38","Gran excedente habitual",0.004,0.006,0.015,0.001
+"P38","Gran excedente excepcional",0.008,0.012,0.01,0.016
+"P38","Pequeño excedente habitual",0.073,0.048,0.046,0.068
+"P38","Pequeño excedente excepcional",0.095,0.073,0.054,0.051
+"P38","Alcanza gastos familia",0.134,0.139,0.148,0.123
+"P38","No alcanza gastos familia",0.142,0.177,0.158,0.221
+"P38","Solo NBFamiliares",0.271,0.243,0.27,0.235
+"P38","No alcanza NBFamiliares",0.267,0.273,0.293,0.269
+"P38","No sabe",0.006,0.029,0.006,0.016
+"P39","Mejor",0.099,0.118,0.132,0.111
+"P39","Igual",0.174,0.289,0.249,0.257
+"P39","Peor",0.661,0.472,0.519,0.47
+"P39","No sabe",0.066,0.121,0.1,0.162

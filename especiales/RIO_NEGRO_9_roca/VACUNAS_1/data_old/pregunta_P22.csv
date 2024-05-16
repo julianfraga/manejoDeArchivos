@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto"
+"Si",0.575,0.507,0.629,0.723,0.569,0.436,0.415,0.546,0.586,0.589
+"No",0.339,0.377,0.309,0.236,0.34,0.461,0.459,0.37,0.344,0.303
+"No recuerda",0.086,0.116,0.062,0.041,0.091,0.103,0.126,0.084,0.07,0.108

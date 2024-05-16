@@ -1,0 +1,5 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","GBA","Interior","Fernandez","Macri","Lavagna"
+"Tengo trabajo estable",0.389,0.491,0.293,0.358,0.504,0.435,0.102,0.316,0.361,0.552,0.379,0.409,0.446,0.43,0.397
+"Realizo changas o trabajos de vez en cuando",0.239,0.233,0.245,0.318,0.265,0.218,0.076,0.242,0.296,0.125,0.234,0.249,0.223,0.178,0.178
+"No tengo trabajo",0.206,0.132,0.276,0.312,0.208,0.166,0.086,0.235,0.203,0.171,0.215,0.19,0.198,0.148,0.257
+"Soy jubilado o pensionado",0.166,0.144,0.186,0.012,0.023,0.181,0.736,0.207,0.14,0.152,0.172,0.152,0.133,0.244,0.168

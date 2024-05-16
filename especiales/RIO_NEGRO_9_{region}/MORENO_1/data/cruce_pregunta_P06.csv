@@ -1,0 +1,99 @@
+"var","categoria","Siempre","Casi siempre","Casi nunca","Nunca, pero esta es una excepción"
+"P05","Mucho",0.623,0.393,0.162,0.215
+"P05","Bastante",0.161,0.383,0.252,0.21
+"P05","Poco",0.106,0.154,0.333,0.153
+"P05","Nada",0.074,0.053,0.188,0.3
+"P05","No sabe",0.036,0.017,0.065,0.122
+"P08","Unión por la Patria",0.271,0.354,0.265,0.105
+"P08","Juntos por el Cambio",0.302,0.273,0.252,0.169
+"P08","De los Liberales libertarios",0.187,0.186,0.155,0.173
+"P08","De la Izquierda",0.021,0.014,0.017,0.046
+"P08","Hacemos por nuestro país",0.004,0.034,0.033,0.026
+"P08","Otro",0.122,0.03,0.031,0.067
+"P08","En blanco",0.033,0.026,0.07,0.182
+"P08","No sabe",0.06,0.083,0.177,0.232
+"P11","Sergio Massa a presidente, Axel Kicillof a gobernador y Mariel Fernández a intendente por Unión por la Patria",0.252,0.305,0.253,0.128
+"P11","Sergio Massa a presidente, Axel Kicillof a gobernador y Damián Contreras a intendente por Unión por la Patria",0.078,0.087,0.064,0.05
+"P11","Juan Grabois a presidente, Axel Kicillof a gobernador y Mariel Fernández a intendente por Unión por la Patria",0.079,0.076,0.072,0.08
+"P11","Juan Grabois a presidente, Axel Kicillof a gobernador y Damián Contreras a intendente por Unión por la Patria",0.037,0.023,0.029,0.008
+"P11","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Gisele Agosttineli a intendente por Juntos por el Cambio",0.224,0.12,0.172,0.101
+"P11","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador y Anibal Assef a intendente por Juntos por el Cambio",0.083,0.104,0.091,0.09
+"P11","Javier Milei a presidente, Carolina Piparo a gobernadora  y Andrea Vera a intendente por la Libertad Avanza",0.133,0.176,0.169,0.219
+"P11","Alguno de los candidatos a presidente, gobernador e intendente de la Izquierda",0,0.028,0.024,0.039
+"P11","Otros",0.051,0.018,0.026,0.054
+"P11","No sabe",0.063,0.063,0.1,0.231
+"P14","Sí",0.539,0.596,0.55,0.498
+"P14","No",0.461,0.404,0.45,0.502
+"P15","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.349,0.202,0.268,0.196
+"P15","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.082,0.118,0.105,0.097
+"P15","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.232,0.141,0.165,0.212
+"P15","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0.105,0.112,0.146,0.069
+"P15","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.114,0.265,0.147,0.132
+"P15","Alguno de los candidatos a presidente y gobernador de la Izquierda",0.004,0.012,0.007,0.03
+"P15","Otros",0.033,0.054,0.035,0.055
+"P15","No sabe",0.081,0.096,0.127,0.209
+"P18","Mariel Fernández a intendente por Unión por la Patria",0.393,0.357,0.331,0.49
+"P18","Damián Contreras a intendente por Unión por la Patria",0.029,0.156,0.144,0.134
+"P18","Giselle Agosttineli a intendente por Juntos por el Cambio",0.173,0.065,0.077,0.044
+"P18","Aníbal Assef a intendente por Juntos por el Cambio",0.108,0.11,0.125,0.152
+"P18","Andrea Vera a intendente por la Libertad Avanza",0.106,0.129,0.145,0.021
+"P18","Alguno de los candidatos a intendente de la Izquierda",0.037,0.021,0.004,0.019
+"P18","Otros",0.077,0.019,0.032,0.034
+"P18","No sabe",0.077,0.143,0.142,0.106
+"P21","Totalmente seguro.",0.766,0.653,0.458,0.449
+"P21","Bastante seguro",0.109,0.173,0.222,0.185
+"P21","Algo seguro",0.052,0.085,0.18,0.102
+"P21","Para nada seguro",0.073,0.089,0.14,0.264
+"P22","Tiene Decidido que va a ir a votar.",0.903,0.921,0.834,0.769
+"P22","Tiene dudas sobre si va a ir a  votar",0.089,0.049,0.081,0.11
+"P22","Tiene Decidido que no va a ir a votar",0.008,0.03,0.085,0.121
+"P23","Lo votaría",0.453,0.373,0.282,0.248
+"P23","Puede que lo vote",0.053,0.118,0.122,0.071
+"P23","Nunca lo votaría",0.43,0.462,0.476,0.486
+"P23","No sabe",0.064,0.047,0.12,0.195
+"P24","Lo votaría",0.218,0.121,0.147,0.112
+"P24","Puede que lo vote",0.116,0.131,0.129,0.072
+"P24","Nunca lo votaría",0.597,0.676,0.604,0.613
+"P24","No sabe",0.069,0.072,0.12,0.203
+"P25","Lo votaría",0.253,0.151,0.179,0.118
+"P25","Puede que lo vote",0.1,0.125,0.08,0.103
+"P25","Nunca lo votaría",0.558,0.623,0.596,0.591
+"P25","No sabe",0.089,0.101,0.145,0.188
+"P26","Lo votaría",0.214,0.068,0.091,0.059
+"P26","Puede que lo vote",0.035,0.126,0.076,0.064
+"P26","Nunca lo votaría",0.671,0.711,0.682,0.739
+"P26","No sabe",0.08,0.095,0.151,0.138
+"P26","Lo votaría",0.214,0.068,0.091,0.059
+"P26","Puede que lo vote",0.035,0.126,0.076,0.064
+"P26","Nunca lo votaría",0.671,0.711,0.682,0.739
+"P26","No sabe",0.08,0.095,0.151,0.138
+"P27","Lo votaría",0.235,0.155,0.187,0.159
+"P27","Puede que lo vote",0.129,0.169,0.105,0.115
+"P27","Nunca lo votaría",0.543,0.626,0.588,0.526
+"P27","No sabe",0.093,0.05,0.12,0.2
+"P28","Lo votaría",0.143,0.099,0.121,0.168
+"P28","Puede que lo vote",0.229,0.135,0.157,0.166
+"P28","Nunca lo votaría",0.558,0.68,0.615,0.523
+"P28","No sabe",0.07,0.086,0.107,0.143
+"P29","Lo votaría",0.224,0.176,0.134,0.3
+"P29","Puede que lo vote",0.037,0.106,0.131,0.127
+"P29","Nunca lo votaría",0.695,0.664,0.612,0.439
+"P29","No sabe",0.044,0.054,0.123,0.134
+"P30","Si",0.577,0.501,0.274,0.259
+"P30","No",0.423,0.499,0.726,0.741
+"PRESIDENTE","Sergio Massa a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.311,0.337,0.322,0.145
+"PRESIDENTE","Juan Grabois a presidente, Axel Kicillof a gobernador por Unión por la Patria",0.118,0.104,0.082,0.082
+"PRESIDENTE","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador por Juntos por el Cambio",0.226,0.124,0.175,0.141
+"PRESIDENTE","Horacio Rodríguez Larreta a presidente, Diego Santilli a gobernador por Juntos por el Cambio",0.075,0.099,0.124,0.095
+"PRESIDENTE","Javier Milei a presidente, Carolina Piparo a gobernadora por la Libertad Avanza",0.155,0.223,0.154,0.254
+"PRESIDENTE","Alguno de los candidatos a presidente y gobernador de la Izquierda",0.002,0.008,0.025,0.014
+"PRESIDENTE","Otros",0.048,0.035,0.023,0.029
+"PRESIDENTE","No sabe",0.065,0.07,0.095,0.24
+"INTENDENTE","Mariel Fernández a intendente por Unión por la Patria",0.331,0.423,0.352,0.289
+"INTENDENTE","Damián Contreras a intendente por Unión por la Patria",0.101,0.132,0.101,0.073
+"INTENDENTE","Giselle Agosttineli a intendente por Juntos por el Cambio",0.188,0.075,0.128,0.072
+"INTENDENTE","Aníbal Assef a intendente por Juntos por el Cambio",0.083,0.106,0.117,0.129
+"INTENDENTE","Andrea Vera a intendente por la Libertad Avanza",0.152,0.145,0.148,0.205
+"INTENDENTE","Alguno de los candidatos a intendente de la Izquierda",0.019,0.014,0.024,0.009
+"INTENDENTE","Otros",0.064,0.014,0.021,0.018
+"INTENDENTE","No sabe",0.062,0.091,0.109,0.205

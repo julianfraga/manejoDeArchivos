@@ -1,0 +1,47 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P08	Control		¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P09	Bloque General	diverging	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Provincia de Neuquén?	Opinión sobre la gestión del gobierno provincial	
+P10	Bloque General	diverging	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno  de Rolo Figueroa 	Expectativas sobre el gobierno de Rolo Figueroa	
+P11	Bloque General	diverging	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Intendencia de Neuquén?	Opinión sobre el gobierno de la Intendencia	(Sólo Neuquén Capital)
+P12	Bloque General	diverging	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno  de Mariano Gaido 	Expectativas sobre el gobierno de Mariano Gaido	(Sólo Neuquén Capital)
+P13	Bloque General	sino	¿Podría indicarnos si cree que Rolo Figueroa tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Rolo Figueroa	
+P14	Bloque General	sino	¿Podría indicarnos si cree que Mariano Gaido tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Mariano Gaido	(Sólo Neuquén Capital)
+P15	Bloque General	quali	Quien considera usted que es el principal responsable de la actual situación de la provincia de Neuquén	Opinión sobre la responsabilidad de la actual situación de la Provincia	
+P16	Bloque General	quali	Y quien considera usted que es él principal responsable de la situación actual de la provincia de Neuquén	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Provincial)
+P17	Bloque General	quali	Y quien considera usted que es él más responsable de la actual situación de la provincia de Neuquén	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Nacional)
+P18	Bloque General	diverging	¿Cuál es su opinión sobre la gestión de la salud pública de la provincia?	Opinión sobre la gestión de la salud pública provincial	
+P19	Bloque General	diverging	¿Cuál es su opinión sobre la gestión de la educación pública de la provincia?	Opinión sobre la gestión de la educación pública provincial	
+P20	Bloque General	diverging	¿Cuál es su opinión sobre la gestión de la seguridad de la provincia?	Opinión sobre la gestión de la seguridad provincial	
+P21	Bloque General	diverging	Que opinión tiene usted sobre la creación de una empresa energética patagónica	Opinión sobre la creación de una empresa energética Patagónica	
+P22	Bloque General	quali	Quien considera usted que debería administrar las centrales hidroeléctricas localizadas en la provincia de Neuquén	Opinión sobre la administración de centrales hidroeléctricas	
+P23	Bloque Gremio Docente	sino	Recientemente el gobierno provincial hizo una propuesta al gremio docente que incluía: actualización trimestral por inflación del salario de bolsillo a partir de abril, dos bonos, uno de 100.000 y otro de 125.000 pesos sujetos a presencialidad y mejoras laborales en antigüedad, ubicación y refrigerio asi como la creación de 30mil horas y 639 cargos docentes nuevos ¿Está usted enterado de esta propuesta del Gobierno Provincial?	Conocimiento sobre la propuesta del Gobierno Provincial al gremio docente	
+P24	Bloque Gremio Docente	diverging	Considera usted que la propuesta de actualizacion salarial y mejoras laborales del gobierno provincial es…	Opinión sobre la propuesta del Gobierno Provincial al gremio docente	
+P26	Bloque Gremio Docente	sino	Posteriormente, el gremio docente decidio rechazara la propuesta salarial y de mejoras laborales presentada por el Gobierno Provincial ¿Estaba usted enterado de este rechazo por parte del Gremio docente?	Conocimiento sobre el rechazo de la propuesta del Gobierno Provincial al gremio docente	
+P27	Bloque Gremio Docente	diverging_mini	En su opinión la decisión del gremio docente es:…	Opinión sobre el rechazo de la propuesta del Gobierno Provincial al gremio docente	
+P28	Bloque Gremio Docente	sino	Frente al rechazo del gremio docente el Gobernador Rolando Figueroa decidió impulsar por medio de un decreto los aumentos salariales y mejoras laborales contenidos en su propuesta. ¿Estaba usted enterado de esta decisión del Gobernador?	Conocimiento sobre la implementación por decreto de las propuestas realizadas por el Gob. Provincial	
+P29	Bloque Gremio Docente	diverging_mini	¿Cuál es su opinión sobre la decisión del Gobernador?	Opinión sobre la decisión del Gobernador	
+P30	Bloque Gremio Docente	sino	Posteriormente a la decisión del gobernador Rolando Figueroa de aprobar por decreto los aumentos salariales y mejoras laborales propuestos por el gobierno provincial en la paritaria docente, el gremio docente decidió convocar a un paro de 72 hs. ¿Estaba usted enterado de esta decisión del Gremio docente? 	Conocimiento sobre la medida de fuerza del gremio Docente	
+P31	Bloque Gremio Docente	diverging_mini	¿Cuál es su opinión sobre la decisión del gremio docente llamando a un paro de 72 hs?	Opinión sobre la medida de fuerza del gremio Docente	
+P33	Bloque Gremio Docente	sino	¿Considera usted que el gobierno provincial debería haber continuado negociando luego que el gremio le rechazara su propuesta de aumento salarial y mejoras laborales?	Opinión sobre la continuación de la negociación luego del rechazo de la propuesta por parte del Gremio Docente	
+P34	Bloque Gremio Docente	sino	¿Considera usted adecuada la propuesta del Gobierno Provincial de no pagar el bono de $100000 y de $125.000 a aquellos docentes que hayan hecho huelga?	Opinión sobre la propuesta de no pagar el bono a docentes que hayan hecho huelga	
+P35	Bloque General	quali	¿Cuál cree que es el principal problema de la provincia de Neuquén?	Principal problema de la Provincia	
+P39	Bloque General	diverging	¿Cuál es su opinión sobre la situación actual de la provincia de Neuquén? 	Percepción de la situación actual de la Provincia	
+P40	Bloque General	diverging	¿Considera usted que la provincia de Neuquén está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación de la Provincia comparada con seis meses atrás	
+P41	Bloque General	diverging	¿Cómo cree que va a estar la provincia de Neuquén dentro de seis meses? 	Expectativa respecto de la situación de la Provincia dentro de seis meses	
+P42	Bloque General	quali	Quien considera usted que es el principal responsable de la actual crisis económica del país	Opinión sobre la responsabilidad de la crisis económica del País	
+P43	Bloque General	politica	En la disputa entre el presidente Milei y los gobernadores quien considera usted que tiene la razón	Opinión respecto a la disputa entre los gobernadores y el presidente	
+P44	Imagen de dirigentes	imagen	¿Qué imagen tiene de Rolo Figueroa?	Imagen de Rolo Figueroa
+P45	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mariano Gaido?	Imagen de Mariano Gaido
+P46	Imagen de dirigentes	imagen	¿Qué imagen tiene de Omar Gutierrez?	Imagen de Omar Gutierrez
+P47	Imagen de dirigentes	imagen	¿Qué imagen tiene de Marcos Koopmann?	Imagen de Marcos Koopmann
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Ramon Rioseco?	Imagen de Ramon Rioseco
+P49	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner
+P50	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri
+P51	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich
+P54	Imagen de dirigentes	imagen	¿Qué imagen tiene de Karina Milei?	Imagen de Karina Milei
+P55	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti? 	Imagen de Juan Schiaretti
+P57	Imagen de dirigentes	imagen	¿Qué imagen tiene de Toto Caputo? 	Imagen de Toto Caputo
+P58	Imagen de dirigentes	imagen	¿Qué imagen tiene de Guillermo Francos? 	Imagen de Guillermo Francos

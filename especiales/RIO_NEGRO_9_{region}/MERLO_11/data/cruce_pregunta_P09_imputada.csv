@@ -1,0 +1,42 @@
+"var","categoria","Unión por la Patria","Juntos por el Cambio","De los Liberales libertarios","De la Izquierda","Hacemos por nuestro país","Otro","En blanco","No sabe"
+"P12_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Gustavo Menéndez a intendente por Unión por la Patria",0.783,0.181,0.097,0.046,0.272,0.248,0.308,0.425
+"P12_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y David Zencich a intendente por Juntos por el Cambio",0.111,0.733,0.073,0.069,0.105,0.099,0.111,0.182
+"P12_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora  y Eduardo Varela a intendente por la Libertad Avanza",0.055,0.056,0.777,0.458,0.054,0.099,0.037,0.224
+"P12_imputada","Raul Othacehé a intendente por el frente vecinal crecer",0.032,0.009,0.04,0.153,0.02,0.314,0.052,0.01
+"P12_imputada","Los candidatos a presidente, gobernador e intendente de la Izquierda",0.013,0.021,0.003,0.267,0.146,0.091,0,0
+"P12_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.002,0,0,0.007,0.403,0.08,0,0
+"P12_imputada","En blanco",0.004,0,0.01,0,0,0.069,0.492,0.159
+"P16_imputada","Sergio Massa a presidente por Unión por la Patria",0.829,0.091,0.229,0.228,0.141,0.562,0.302,0.522
+"P16_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.072,0.76,0.104,0.047,0.098,0.107,0.068,0.124
+"P16_imputada","Javier Milei a presidente por la Libertad Avanza",0.079,0.148,0.609,0.225,0.061,0.187,0.401,0.128
+"P16_imputada","Los candidatos a presidente de la Izquierda",0.02,0,0.022,0.486,0,0.103,0,0.117
+"P16_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0,0.001,0.036,0.014,0.652,0.01,0.028,0
+"P16_imputada","En blanco",0,0,0,0,0.048,0.031,0.201,0.109
+"P19_imputada","Axel Kicillof a gobernador por Unión por la Patria",0.8,0.072,0.189,0.181,0.405,0.787,0.246,0.328
+"P19_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.071,0.745,0.24,0.093,0.153,0.115,0.028,0.186
+"P19_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.109,0.17,0.483,0.201,0.031,0.098,0.563,0.348
+"P19_imputada","El candidato a gobernador de la Izquierda",0.02,0,0.062,0.305,0.016,0,0.034,0.063
+"P19_imputada","En blanco",0,0.013,0.026,0.22,0.395,0,0.129,0.075
+"P22_imputada","Gustavo Menéndez a intendente por Unión por la Patria",0.551,0.181,0.194,0.095,0.7,0.128,0.113,0.291
+"P22_imputada","Zencich a intendente por Juntos por el Cambio",0.077,0.649,0.318,0.266,0.033,0.028,0.277,0.09
+"P22_imputada","Eduardo Varela a intendente por la Libertad Avanza",0.049,0.051,0.331,0.095,0,0.198,0.329,0.063
+"P22_imputada","Raul Othacehé a intendente por el frente vecinal crecer",0.17,0.111,0.132,0.155,0.254,0.5,0.115,0.402
+"P22_imputada","El candidato a intendente de la Izquierda",0.085,0.002,0.025,0.286,0,0.11,0.021,0.012
+"P22_imputada","En blanco",0.068,0.006,0,0.103,0.013,0.036,0.145,0.142
+"PRESIDENTE_imputada","Sergio Massa a presidente por Unión por la Patria",0.821,0.175,0.16,0.117,0.237,0.445,0.19,0.539
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.106,0.755,0.052,0.033,0.152,0.081,0.048,0.17
+"PRESIDENTE_imputada","Javier Milei a presidente por la Libertad Avanza",0.064,0.069,0.74,0.439,0.044,0.187,0.339,0.161
+"PRESIDENTE_imputada","Los candidatos a presidente de la Izquierda",0.006,0,0.014,0.322,0.095,0.075,0,0.066
+"PRESIDENTE_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.001,0.001,0.02,0.007,0.443,0.084,0.022,0
+"PRESIDENTE_imputada","En blanco",0.002,0,0.014,0.082,0.029,0.128,0.401,0.064
+"GOBERNADOR_imputada","Axel Kicillof a gobernador por Unión por la Patria",0.81,0.163,0.134,0.098,0.378,0.599,0.149,0.425
+"GOBERNADOR_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.105,0.74,0.115,0.05,0.216,0.086,0.018,0.197
+"GOBERNADOR_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.076,0.091,0.689,0.434,0.035,0.121,0.419,0.292
+"GOBERNADOR_imputada","El candidato a gobernador de la Izquierda",0.006,0,0.036,0.24,0.108,0.014,0.025,0.042
+"GOBERNADOR_imputada","En blanco",0.003,0.006,0.026,0.178,0.263,0.18,0.389,0.044
+"INTENDENTE_imputada","Gustavo Menéndez a intendente por Unión por la Patria",0.718,0.211,0.131,0.076,0.563,0.122,0.063,0.413
+"INTENDENTE_imputada","Zencich a intendente por Juntos por el Cambio",0.11,0.697,0.162,0.127,0.129,0.04,0.155,0.16
+"INTENDENTE_imputada","Eduardo Varela a intendente por la Libertad Avanza",0.055,0.03,0.613,0.383,0.015,0.183,0.276,0.132
+"INTENDENTE_imputada","Raul Othacehé a intendente por el frente vecinal crecer",0.057,0.059,0.081,0.154,0.183,0.37,0.088,0.21
+"INTENDENTE_imputada","El candidato a intendente de la Izquierda",0.034,0,0.013,0.227,0.098,0.106,0.014,0.01
+"INTENDENTE_imputada","En blanco",0.026,0.003,0,0.033,0.012,0.179,0.404,0.075

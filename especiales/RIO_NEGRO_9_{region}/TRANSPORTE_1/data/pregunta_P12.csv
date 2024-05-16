@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","CABA","Centro","1 cordón GBA","2 cordón GBA","3 cordón GBA","Cuyo","Interior GBA","NEA","NOA","Patagonia"
+"Más de 5000 pesos mensuales",0.313,0.308,0.317,0.417,0.335,0.279,0.192,0.372,0.307,0.261,0.28,0.299,0.281,0.315,0.367,0.354,0.289,0.317,0.367,0.376
+"Entre 5000 y 2500 pesos mensuales",0.25,0.246,0.255,0.278,0.267,0.243,0.193,0.245,0.258,0.245,0.278,0.262,0.28,0.281,0.278,0.208,0.22,0.17,0.255,0.186
+"Menos de 2500 pesos mensuales",0.437,0.446,0.428,0.305,0.398,0.478,0.615,0.383,0.435,0.494,0.442,0.439,0.439,0.404,0.355,0.438,0.491,0.513,0.378,0.438

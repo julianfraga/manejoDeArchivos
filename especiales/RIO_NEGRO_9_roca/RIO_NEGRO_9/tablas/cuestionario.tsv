@@ -1,0 +1,43 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P12	Bloque Perfil económico y laboral	ingresos	Considerando la totalidad de los ingresos actuales de su grupo familiar, Ud diría que:	Ingresos familiares	
+P13	Bloque Perfil económico y laboral	quali	Podría indicarnos cuál es su situación laboral?	Situación laboral	
+P14	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del Gobierno de la Provincia de Rio Negro?	Opinión sobre la gestión del Gobierno de la Provincia de Rio Negro	
+P15	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del Gobierno del Gobierno Nacional?	Opinión sobre la gestión del Gobierno Nacional	
+P16	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de Bariloche?	Opinión sobre la gestión del Gobierno Municipal de Bariloche	
+P17	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de General Roca?	Opinión sobre la gestión del Gobierno Municipal de Roca	
+P18	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de Cipoletti?	Opinión sobre la gestión del Gobierno Municipal de Cipoletti	
+P19	Bloque Gestión pública provincial y nacional	opinion	¿Qué opinión tiene usted sobre la gestión del gobierno municipal de Viedma?	Opinión sobre la gestión del Gobierno Municipal de Viedma	
+P20	Bloque Gestión pública provincial y nacional	opinion	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno entrante de Alberto Weretilneck? 	Expectativas sobre el gobierno entrante de A. Weretilneck	
+P21	Bloque Gestión pública provincial y nacional	politica	Quien considera usted que es el principal responsable de la actual situación de la provincia de Rio Negro	Opinión sobre la responsabilidad de la situación actual de la Provincia	
+P22	Bloque Gestión pública provincial y nacional	politica	Y quien considera usted mas responsable de la actual situación de la provincia de Rio negro	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Provincial)
+P23	Bloque Gestión pública provincial y nacional	politica	Y quien considera usted más responsable de la actual situación de la provincia de Rio negro	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Nacional)
+P28	Bloque Gestión pública provincial y nacional	diverging	Podría indicarnos cuál es su opinión sobre la calidad de la gestión educativa?	Valoración de la calidad de la gestión educativa	
+P29	Bloque Gestión pública provincial y nacional	diverging	Podría indicarnos cuál es su opinión sobre la calidad de la gestión de salud?	Valoración la calidad de la gestión de salud	
+P30	Bloque Gestión pública provincial y nacional	diverging	Podría indicarnos cuál es su opinión sobre la calidad de la gestión de seguridad?	Valoración la calidad de la gestión de seguridad	
+P31	Bloque Gestión pública provincial y nacional	diverging	Podría indicarnos cuál es su opinión sobre la calidad de la gestión ambiental?	Valoración la calidad de la gestión ambiental.	
+P24	Bloque Coyuntura provincial	sinonosabe	¿Usted esta de acuerdo con la provincialización de las rutas nacionales?	Opinión sobre la provincialización de rutas nacionales	
+P25	Bloque Coyuntura provincial	sinonosabe	Considera usted que el gobierno de Alberto Weretilnek ha bajado el gasto público en estos último cuatro meses de gobierno 	Opinión sobre el gobierno de A. Weretilnek en relación al gasto público	
+P32	Bloque Coyuntura provincial	quali	¿Qué debiera hacer el gobierno provincial en relación a la decisión del gobierno nacional de limitar las transferencias de recursos coparticipables?	Opinión sobre la postura del Gob. Provincial en función del recorte a la coparticipación	
+P33	Bloque Coyuntura provincial	quali	Qué debería hacer el gobierno de la provincia en relación al denominado pacto de Mayo propuesto por el gobierno nacional	Opinión sobre la postura del Gob. Provincial en relación al Pacto de Mayo	
+P34	Bloque Coyuntura provincial	quali	Qué debiera ser el gobierno de la provincia en relación al envío de una ley más corta de la denominada ley ómnibus o ley de bases.	Opinión sobre la postura del Gob. Provincial en relación a la nueva versión de la ley Ómnibus	
+P26	Bloque Coyuntura nacional	sino	El gobierno nacional congelo el presupuesto universitario a los valores del año 2023. En consecuencia, los fondos solamente cubren el 30% de las necesidades presupuestarias. Por tal razón a partir de mayo próximo si el presupuesto no es aumentado, las universidades públicas no podrán seguir funcionando. ¿Estaba usted enterado del tema?	Conocimiento de la situación presupuestaria de las universidades públicas	
+P27	Bloque Coyuntura nacional	diverging	Podría indicarnos cuál es su opinión en relación a la reducción del un 70% del presupuesto de las universidades públicas? 	Opinión acerca de la reducción presupuestaria de las universidades públicas	
+P42	Bloque Coyuntura nacional		En la disputa entre el presidente Milei y los gobernadores quien considera usted que tiene la razón	Opinión respecto a la disputa entre los gobernadores y el presidente	
+P35	Bloque Principales problemas y situación económica provincial	quali	¿Cuál cree que es el principal problema de la provincia de Rio Negro?	Principal problema de la Provincia	
+P39	Bloque Principales problemas y situación económica provincial	opinion	¿Cuál es su opinión sobre la situación económica actual de la provincia de rio negro? 	Percepción de la situación económica actual de la Provincia	
+P40	Bloque Principales problemas y situación económica provincial	diverging	¿Considera usted que la situación económica de la provincia de rio negro está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación económica de la Provincia comparada con seis meses atrás	
+P41	Bloque Principales problemas y situación económica provincial	diverging	¿Cómo cree que va a estar la situación económica de la provincia de rio negro dentro de seis meses? 	Expectativa respecto de la situación económica de la Provincia dentro de seis meses	
+P43	Imagen de dirigentes	imagen	¿Qué imagen tiene de Alberto Weretilneck? 	Imagen de Alberto Weretilneck	
+P44	Imagen de dirigentes	imagen	¿Qué imagen tiene de Gustavo Gennuso?	Imagen de Gustavo Gennuso	(Sólo habitantes de Bariloche)
+P45	Imagen de dirigentes	imagen	¿Qué imagen tiene de María Emilia Soria? 	Imagen de María Emilia Soria	
+P46	Imagen de dirigentes	imagen	¿Qué imagen tiene de Aníbal Tortoriello?	Imagen de Aníbal Tortoriello	
+P47	Imagen de dirigentes	imagen	¿Qué imagen tiene de Claudio Di Tella? 	Imagen de Claudio Di Tella	(Sólo habitantes de Cipoletti)
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Marcos Castro? 	Imagen de Marcos Castro	(Sólo habitantes de Viedma)
+P49	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner	
+P50	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P51	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen de Axel Kicillof	
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P54	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich	
+P55	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel	
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti? 	Imagen de Juan Schiaretti	

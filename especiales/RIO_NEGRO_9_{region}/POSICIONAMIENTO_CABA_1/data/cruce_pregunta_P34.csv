@@ -1,0 +1,335 @@
+"var","categoria","Horacio Rodríguez Larreta presidente – Soledad Acuña jefa de gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios","A los candidatos de la izquierda","No sabe"
+"P05","Tengo trabajo estable",0.509,0.681,0.707,0.752,0.521
+"P05","Realizo changas o trabajos de vez en cuando",0.099,0.076,0.106,0.043,0.152
+"P05","No tengo trabajo",0.082,0.067,0.055,0.104,0.068
+"P05","Soy jubilado o pensionado",0.31,0.176,0.132,0.101,0.259
+"P06","1",0.37,0.106,0.415,0.185,0.322
+"P06","2",0.058,0.043,0.085,0.019,0.062
+"P06","3",0.101,0.023,0.139,0.005,0.08
+"P06","4",0.108,0.045,0.042,0.019,0.065
+"P06","5",0.215,0.152,0.123,0.082,0.244
+"P06","6",0.043,0.083,0.016,0.022,0.068
+"P06","7",0.035,0.217,0.042,0.231,0.059
+"P06","8",0.029,0.114,0.041,0.071,0.046
+"P06","9",0.041,0.217,0.097,0.366,0.054
+"P07","1",0.13,0.474,0.077,0.429,0.151
+"P07","2",0.021,0.097,0.032,0.109,0.034
+"P07","3",0.018,0.111,0.033,0.08,0.013
+"P07","4",0.038,0.078,0.013,0.039,0.058
+"P07","5",0.185,0.119,0.104,0.167,0.27
+"P07","6",0.078,0.016,0.038,0.019,0.072
+"P07","7",0.152,0.027,0.132,0.038,0.078
+"P07","8",0.117,0.022,0.133,0.017,0.078
+"P07","9",0.261,0.056,0.438,0.102,0.246
+"P08","1",0.272,0.747,0.181,0.804,0.321
+"P08","2",0.035,0.049,0.031,0.021,0.031
+"P08","3",0.05,0.036,0.045,0.038,0.03
+"P08","4",0.037,0.016,0.016,0,0.02
+"P08","5",0.15,0.062,0.178,0.022,0.134
+"P08","6",0.044,0.001,0.053,0.006,0.019
+"P08","7",0.051,0.006,0.064,0.048,0.062
+"P08","8",0.061,0.011,0.059,0,0.039
+"P08","9",0.3,0.072,0.373,0.061,0.344
+"P10","Del Frente de Todos y el peronismo",0.038,0.88,0.024,0.199,0.079
+"P10","De Cambiemos",0.878,0.039,0.206,0.058,0.61
+"P10","De los Liberales libertarios",0.044,0.009,0.699,0.034,0.111
+"P10","De la Izquierda",0.003,0.021,0.003,0.584,0.035
+"P10","No sabe",0.037,0.051,0.068,0.125,0.165
+"P11","A Alberto Fernández",0.349,0.095,0,0.057,0.12
+"P11","A Sergio Massa",0.284,0.192,0.331,0.058,0.444
+"P11","A algún candidato del peronismo",0.367,0.116,0.342,0.082,0.156
+"P11","A algún candidato del kirchnerismo",0,0.597,0.327,0.803,0.28
+"P12","A Alberto Fernández",0.205,0.051,0,0,0
+"P12","A Sergio Massa",0.138,0.099,0.348,0.058,0.445
+"P12","A algún candidato del peronismo",0.5,0.07,0.257,0.082,0.151
+"P12","A Cristina Fernández de Kirchner",0.157,0.78,0.395,0.86,0.404
+"P13","A Horacio Rodriguez Larreta",0.236,0.279,0.04,0.071,0.164
+"P13","A Mauricio Macri",0.346,0.015,0.321,0.086,0.28
+"P13","A Patricia Bullrich",0.381,0.129,0.577,0.086,0.456
+"P13","A Facundo Manes",0.02,0.577,0.022,0.239,0.058
+"P13","A Gerardo Morales",0.017,0,0.04,0.518,0.042
+"P14","Del Frente de Todos y el peronismo",0.022,0.825,0.018,0.186,0.057
+"P14","A Juntos por el Cambio",0.907,0.044,0.287,0.069,0.613
+"P14","De los Liberales libertarios",0.046,0.019,0.64,0.021,0.094
+"P14","De la Izquierda",0.01,0.075,0.004,0.61,0.03
+"P14","No sabe",0.015,0.037,0.051,0.114,0.206
+"P16","A Leandro Santoro",0.342,0.699,0.669,0.734,0.703
+"P16","A Matias Lammens",0.448,0.122,0.331,0.029,0.113
+"P16","A Mariano Recalde",0.21,0.179,0,0.237,0.184
+"P17","A Soledad Acuña",0.045,0.039,0.05,0,0.028
+"P17","A Jorge Macri",0.316,0.167,0.313,0.074,0.236
+"P17","A Martín Lousteau",0.233,0.342,0.144,0.581,0.353
+"P17","A Fernan Quirós",0.216,0.365,0.168,0.213,0.164
+"P17","A Ricardo López Murphy",0.19,0.087,0.325,0.132,0.219
+"P18","Lo votaría",0.335,0.078,0.101,0.063,0.308
+"P18","Puede que lo vote",0.356,0.102,0.195,0.081,0.216
+"P18","Nunca lo votaría",0.236,0.743,0.618,0.801,0.302
+"P18","No sabe",0.073,0.077,0.086,0.055,0.174
+"P19","Lo votaría",0.047,0.724,0.03,0.098,0.075
+"P19","Puede que lo vote",0.106,0.155,0.076,0.314,0.131
+"P19","Nunca lo votaría",0.736,0.089,0.82,0.516,0.653
+"P19","No sabe",0.111,0.032,0.074,0.072,0.141
+"P20","Lo votaría",0.152,0.062,0.062,0.005,0.046
+"P20","Puede que lo vote",0.407,0.055,0.215,0.107,0.207
+"P20","Nunca lo votaría",0.312,0.815,0.59,0.821,0.559
+"P20","No sabe",0.129,0.068,0.133,0.067,0.188
+"P21","Lo votaría",0.026,0.291,0.012,0.023,0.046
+"P21","Puede que lo vote",0.086,0.442,0.072,0.216,0.101
+"P21","Nunca lo votaría",0.792,0.204,0.778,0.606,0.742
+"P21","No sabe",0.096,0.063,0.138,0.155,0.111
+"P22","Lo votaría",0.392,0.056,0.129,0.03,0.211
+"P22","Puede que lo vote",0.372,0.16,0.272,0.111,0.278
+"P22","Nunca lo votaría",0.155,0.702,0.492,0.74,0.368
+"P22","No sabe",0.081,0.082,0.107,0.119,0.143
+"P23","Lo votaría",0.505,0.015,0.227,0.023,0.317
+"P23","Puede que lo vote",0.321,0.045,0.329,0.011,0.228
+"P23","Nunca lo votaría",0.124,0.92,0.357,0.884,0.377
+"P23","No sabe",0.05,0.02,0.087,0.082,0.078
+"P24","Lo votaría",0.442,0.001,0.138,0,0.169
+"P24","Puede que lo vote",0.355,0.033,0.216,0.033,0.287
+"P24","Nunca lo votaría",0.168,0.954,0.565,0.92,0.476
+"P24","No sabe",0.035,0.012,0.081,0.047,0.068
+"P25","Lo votaría",0.397,0.01,0.387,0.034,0.219
+"P25","Puede que lo vote",0.351,0.043,0.306,0.02,0.325
+"P25","Nunca lo votaría",0.2,0.93,0.219,0.875,0.369
+"P25","No sabe",0.052,0.017,0.088,0.071,0.087
+"P26","Patricia Bullrich presidenta – Jorge Macri Jefe de Gobierno por Juntos por el Cambio",0.31,0.01,0.165,0.017,0.305
+"P26","Patricia Bullrich presidenta – Ricardo López Murphy Jefe de Gobierno por Juntos por el Cambio",0.27,0.002,0.233,0.024,0.21
+"P26","Horacio Rodríguez Larreta presidente – Soledad Acuña jefa de gobierno por Juntos por el Cambio",0.062,0.011,0.018,0.009,0.01
+"P26","Horacio Rodríguez Larreta presidente– Fernán Quirós Jefe de Gobierno por Juntos por el Cambio",0.135,0.018,0.038,0.013,0.044
+"P26","Horacio Rodríguez Larreta presidente – Martín Lousteau Jefe de Gobierno por Juntos por el Cambio",0.196,0.02,0.019,0.053,0.236
+"P26","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.008,0.679,0.017,0.122,0.076
+"P26","Sergio Massa presidente – Matías Lammens Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.008,0.255,0.007,0.05,0.045
+"P26","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.009,0,0.499,0.029,0.06
+"P26","A los candidatos de la izquierda",0.002,0.005,0.004,0.683,0.014
+"P26","No sabe",0,0,0,0,0
+"P27","Patricia Bullrich presidenta – Jorge Macri Jefe de Gobierno por Juntos por el Cambio",0.315,0.005,0.166,0.013,0.293
+"P27","Patricia Bullrich presidenta – Ricardo López Murphy Jefe de Gobierno por Juntos por el Cambio",0.286,0.003,0.245,0.028,0.241
+"P27","Horacio Rodríguez Larreta presidente – Soledad Acuña jefa de gobierno por Juntos por el Cambio",0.052,0.007,0.015,0,0.005
+"P27","Horacio Rodríguez Larreta presidente– Fernán Quirós Jefe de Gobierno por Juntos por el Cambio",0.134,0.023,0.021,0.013,0.044
+"P27","Horacio Rodríguez Larreta presidente – Martín Lousteau Jefe de Gobierno por Juntos por el Cambio",0.191,0.018,0.029,0.045,0.214
+"P27","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.012,0.629,0.01,0.106,0.056
+"P27","Alberto Fernández presidente – Matías Lammens Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.006,0.265,0.005,0.038,0.046
+"P27","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertario",0.003,0.002,0.502,0.029,0.069
+"P27","A los candidatos de la izquierda",0.001,0.048,0.007,0.728,0.032
+"P27","No sabe",0,0,0,0,0
+"P28","Patricia Bullrich presidenta – Jorge Macri Jefe de Gobierno por Juntos por el Cambio",0.391,0.01,0.211,0.031,0.296
+"P28","Horacio Rodríguez Larreta presidente – Soledad Acuña jefa de gobierno por Juntos por el Cambio",0.133,0.001,0.025,0,0.017
+"P28","A Martín Lousteau como Jefe de Gobierno",0.248,0.038,0.077,0.072,0.314
+"P28","A Ricardo López Murphy como Jefe de Gobierno",0.191,0.021,0.126,0.004,0.145
+"P28","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.003,0.76,0.004,0.118,0.088
+"P28","Sergio Massa presidente – Matías Lammens Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.012,0.139,0.008,0.031,0.028
+"P28","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.012,0.01,0.443,0.016,0.042
+"P28","A los candidatos de izquierda",0.001,0.005,0.098,0.518,0.017
+"P28","No sabe",0.009,0.016,0.008,0.21,0.053
+"P29","Patricia Bullrich presidenta – Jorge Macri Jefe de Gobierno por Juntos por el Cambio",0.378,0.003,0.186,0.025,0.259
+"P29","Horacio Rodríguez Larreta presidente – Soledad Acuña jefa de gobierno por Juntos por el Cambio",0.186,0.015,0.03,0.013,0.144
+"P29","A Martín Lousteau como Jefe de Gobierno",0.195,0.03,0.112,0.082,0.234
+"P29","A Ricardo López Murphy como Jefe de Gobierno",0.124,0.208,0.091,0,0.091
+"P29","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.011,0.555,0.003,0.061,0.058
+"P29","Alberto Fernández presidente – Matías Lammens Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.08,0.127,0.034,0.035,0.08
+"P29","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertario",0.008,0.006,0.462,0.016,0.042
+"P29","A los candidatos de izquierda",0.004,0.027,0.075,0.493,0.018
+"P29","No sabe",0.014,0.029,0.007,0.275,0.074
+"P30","Horacio Rodríguez Larreta presidente - Jorge Macri Jefe de Gobierno por Juntos por el Cambio",0.236,0.013,0.027,0.011,0.089
+"P30","Patricia Bullrich presidenta – Ricardo López Murphy Jefe de Gobierno por Juntos por el Cambio",0.472,0.011,0.312,0.036,0.339
+"P30","A Martín Lousteau como Jefe de Gobierno",0.207,0.022,0.094,0.072,0.299
+"P30","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.016,0.711,0.005,0.056,0.068
+"P30","Sergio Massa presidente – Matias Lammens Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.009,0.193,0.005,0.032,0.056
+"P30","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.028,0.021,0.412,0.016,0.052
+"P30","A los candidatos de la izquierda",0.01,0.012,0.068,0.589,0.009
+"P30","No sabe",0.022,0.017,0.077,0.188,0.088
+"P31","Horacio Rodríguez Larreta presidente - Jorge Macri Jefe de Gobierno por Juntos por el Cambio",0.255,0.01,0.016,0.011,0.081
+"P31","Patricia Bullrich presidenta – Ricardo López Murphy Jefe de Gobierno por Juntos por el Cambio",0.514,0.006,0.314,0.029,0.355
+"P31","A Martín Lousteau como Jefe de Gobierno",0.179,0.025,0.061,0.05,0.296
+"P31","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.011,0.694,0.013,0.036,0.046
+"P31","Alberto Fernández presidente – Matias Lammens Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.004,0.199,0.022,0.032,0.062
+"P31","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.013,0.015,0.45,0.016,0.048
+"P31","A los candidatos de la izquierda",0.004,0.036,0.046,0.712,0.006
+"P31","No sabe",0.02,0.015,0.078,0.114,0.106
+"P32","Patricia Bullrich presidenta – Jorge Macri Jefe de Gobierno por Juntos por el Cambio con el apoyo de Horacio Rodríguez Larreta, Mauricio Macri y la UCR",0.913,0.011,0.287,0.028,0.478
+"P32","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.01,0.939,0.016,0.121,0.058
+"P32","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.015,0.014,0.658,0.033,0.047
+"P32","A los candidatos de la izquierda",0.012,0.017,0.011,0.773,0.024
+"P32","No sabe",0.05,0.019,0.028,0.045,0.393
+"P33","Patricia Bullrich presidenta – Jorge Macri Jefe de Gobierno por Juntos por el Cambio con el apoyo de Horacio Rodríguez Larreta, Mauricio Macri y la UCR",0.909,0.011,0.276,0.028,0.468
+"P33","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.007,0.899,0.017,0.043,0.058
+"P33","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.025,0.013,0.675,0.013,0.032
+"P33","A los candidatos de la izquierda",0.008,0.036,0.015,0.907,0.021
+"P33","No sabe",0.051,0.041,0.017,0.009,0.421
+"P35","Horacio Rodríguez Larreta presidente – Soledad Acuña jefa de gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.917,0.008,0.044,0.024,0.17
+"P35","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.007,0.929,0.005,0.037,0.025
+"P35","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.03,0.007,0.932,0.03,0.066
+"P35","A los candidatos de la izquierda",0.006,0.029,0.013,0.898,0.04
+"P35","No sabe",0.04,0.027,0.006,0.011,0.699
+"P36","Horacio Rodríguez Larreta presidente – Martín Lousteau Jefe de Gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.891,0.006,0.079,0.071,0.321
+"P36","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.005,0.964,0.001,0.102,0.056
+"P36","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.042,0.003,0.894,0.039,0.059
+"P36","A los candidatos de la izquierda",0.008,0.018,0.012,0.783,0.02
+"P36","No sabe",0.054,0.009,0.014,0.005,0.544
+"P37","Horacio Rodríguez Larreta presidente – Martín Lousteau Jefe de Gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.897,0.012,0.092,0.076,0.34
+"P37","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.009,0.931,0.015,0.085,0.058
+"P37","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.034,0.011,0.875,0.026,0.072
+"P37","A los candidatos de la izquierda",0.005,0.021,0.004,0.8,0.015
+"P37","No sabe",0.055,0.025,0.014,0.013,0.515
+"P38","Horacio Rodríguez Larreta presidente – Jorge Macri Jefe de Gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.853,0.084,0.061,0.013,0.206
+"P38","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.065,0.884,0.015,0.052,0.057
+"P38","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.025,0.002,0.92,0.044,0.09
+"P38","A los candidatos de la izquierda",0.007,0.009,0.002,0.891,0.047
+"P38","No sabe",0.05,0.021,0.002,0,0.6
+"P40","Horacio Rodríguez Larreta presidente – Jorge Macri Jefe de Gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.794,0.131,0.051,0.027,0.205
+"P40","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.126,0.797,0.025,0.046,0.061
+"P40","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.028,0.007,0.911,0.039,0.074
+"P40","A los candidatos de la izquierda",0.01,0.027,0.001,0.871,0.025
+"P40","No sabe",0.042,0.038,0.012,0.017,0.635
+"P42","Horacio Rodríguez Larreta presidente – María Eugenia Vidal jefa de gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.841,0.086,0.064,0.055,0.213
+"P42","Sergio Massa presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Alberto Fernández",0.063,0.886,0.012,0.053,0.071
+"P42","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.043,0.002,0.91,0.038,0.106
+"P42","A los candidatos de la izquierda",0.005,0.005,0.006,0.829,0.013
+"P42","No sabe",0.048,0.021,0.008,0.025,0.597
+"P44","Horacio Rodríguez Larreta presidente – María Eugenia Vidal jefa de gobierno por Juntos por el Cambio con el apoyo de Patricia Bullrich, Mauricio Macri y la UCR",0.803,0.128,0.042,0.022,0.236
+"P44","Alberto Fernández presidente – Leandro Santoro Jefe de Gobierno por el Frente de Todos con el apoyo de Cristina Kirchner y Sergio Massa",0.103,0.803,0.019,0.116,0.037
+"P44","Javier Milei presidente – Ramiro Marra Jefe de Gobierno por los liberales libertarios",0.041,0.012,0.921,0.033,0.08
+"P44","A los candidatos de la izquierda",0.006,0.026,0.002,0.803,0.041
+"P44","No sabe",0.047,0.031,0.016,0.026,0.606
+"P46","Jorge Macri por Juntos por el Cambio",0.914,0.011,0.648,0.058,0.508
+"P46","Leandro Santoro por el Frente de Todos",0.029,0.971,0.03,0.452,0.089
+"P46","No sabe",0.057,0.018,0.322,0.49,0.403
+"P47","Soledad Acuña por Juntos por el Cambio",0.849,0.009,0.494,0.023,0.35
+"P47","Leandro Santoro por el Frente de Todos",0.016,0.978,0.074,0.44,0.105
+"P47","No sabe",0.135,0.013,0.432,0.537,0.545
+"P48","Fernán Quirós por Juntos por el Cambio",0.906,0.029,0.544,0.043,0.542
+"P48","Leandro Santoro por el Frente de Todos",0.021,0.953,0.054,0.44,0.077
+"P48","No sabe",0.073,0.018,0.402,0.517,0.381
+"P49","Martín Lousteau por Juntos por el Cambio",0.874,0.021,0.455,0.071,0.57
+"P49","Leandro Santoro por el Frente de Todos",0.015,0.963,0.054,0.453,0.076
+"P49","No sabe",0.111,0.016,0.491,0.476,0.354
+"P50","María Eugenia Vidal por Juntos por el Cambio",0.901,0.009,0.448,0.047,0.414
+"P50","Leandro Santoro por el Frente de Todos",0.025,0.978,0.049,0.456,0.122
+"P50","No sabe",0.074,0.013,0.503,0.497,0.464
+"P51","Muy buena",0.421,0.077,0.112,0.031,0.143
+"P51","Buena",0.423,0.082,0.28,0.069,0.3
+"P51","Ni buena ni mala",0.107,0.106,0.269,0.181,0.305
+"P51","Mala",0.02,0.26,0.184,0.314,0.178
+"P51","Muy mala",0.023,0.47,0.136,0.405,0.055
+"P51","No sabe",0.006,0.005,0.019,0,0.019
+"P52","Muy buena",0.417,0.024,0.199,0.021,0.197
+"P52","Buena",0.34,0.028,0.236,0.016,0.195
+"P52","Ni buena ni mala",0.176,0.138,0.333,0.085,0.32
+"P52","Mala",0.029,0.246,0.114,0.384,0.155
+"P52","Muy mala",0.021,0.535,0.077,0.487,0.107
+"P52","No sabe",0.017,0.029,0.041,0.007,0.026
+"P53","Muy buena",0.047,0.623,0.047,0.106,0.051
+"P53","Buena",0.07,0.214,0.059,0.135,0.077
+"P53","Ni buena ni mala",0.245,0.041,0.224,0.133,0.239
+"P53","Mala",0.276,0.032,0.253,0.225,0.246
+"P53","Muy mala",0.314,0.077,0.397,0.347,0.275
+"P53","No sabe",0.048,0.013,0.02,0.054,0.112
+"P54","Muy buena",0.397,0.071,0.088,0.017,0.151
+"P54","Buena",0.348,0.014,0.199,0.021,0.257
+"P54","Ni buena ni mala",0.147,0.031,0.279,0.094,0.219
+"P54","Mala",0.063,0.138,0.202,0.195,0.17
+"P54","Muy mala",0.044,0.739,0.227,0.673,0.171
+"P54","No sabe",0.001,0.007,0.005,0,0.032
+"P55","Muy buena",0.301,0.008,0.076,0.018,0.104
+"P55","Buena",0.385,0.013,0.191,0.021,0.162
+"P55","Ni buena ni mala",0.218,0.057,0.368,0.095,0.349
+"P55","Mala",0.046,0.118,0.183,0.137,0.126
+"P55","Muy mala",0.015,0.787,0.099,0.661,0.152
+"P55","No sabe",0.035,0.017,0.083,0.068,0.107
+"P56","Muy buena",0.318,0.018,0.096,0.06,0.239
+"P56","Buena",0.329,0.04,0.122,0.054,0.189
+"P56","Ni buena ni mala",0.22,0.126,0.282,0.126,0.268
+"P56","Mala",0.093,0.328,0.237,0.355,0.127
+"P56","Muy mala",0.028,0.484,0.254,0.363,0.117
+"P56","No sabe",0.012,0.004,0.009,0.042,0.06
+"P57","Muy buena",0.054,0.218,0.029,0.074,0.06
+"P57","Buena",0.066,0.385,0.035,0.085,0.026
+"P57","Ni buena ni mala",0.21,0.224,0.176,0.229,0.257
+"P57","Mala",0.292,0.055,0.244,0.295,0.288
+"P57","Muy mala",0.339,0.108,0.46,0.276,0.268
+"P57","No sabe",0.039,0.01,0.056,0.041,0.101
+"P58","Muy buena",0.467,0.016,0.373,0.037,0.292
+"P58","Buena",0.258,0.044,0.228,0.023,0.222
+"P58","Ni buena ni mala",0.177,0.09,0.231,0.086,0.257
+"P58","Mala",0.052,0.12,0.053,0.127,0.068
+"P58","Muy mala",0.033,0.729,0.101,0.727,0.088
+"P58","No sabe",0.013,0.001,0.014,0,0.073
+"P59","Muy buena",0.652,0.036,0.242,0.037,0.335
+"P59","Buena",0.215,0.133,0.222,0.068,0.228
+"P59","Ni buena ni mala",0.098,0.287,0.318,0.169,0.247
+"P59","Mala",0.007,0.184,0.112,0.269,0.065
+"P59","Muy mala",0.005,0.342,0.071,0.45,0.049
+"P59","No sabe",0.023,0.018,0.035,0.007,0.076
+"P60","Muy buena",0.054,0.356,0.035,0.065,0.054
+"P60","Buena",0.03,0.328,0.034,0.139,0.054
+"P60","Ni buena ni mala",0.144,0.147,0.182,0.309,0.128
+"P60","Mala",0.267,0.044,0.17,0.137,0.248
+"P60","Muy mala",0.458,0.084,0.469,0.301,0.388
+"P60","No sabe",0.047,0.041,0.11,0.049,0.128
+"P61","Muy buena",0.018,0.189,0.004,0.079,0.015
+"P61","Buena",0.017,0.142,0,0.086,0.009
+"P61","Ni buena ni mala",0.153,0.326,0.224,0.277,0.202
+"P61","Mala",0.177,0.027,0.137,0.16,0.147
+"P61","Muy mala",0.306,0.071,0.369,0.237,0.284
+"P61","No sabe",0.329,0.245,0.266,0.161,0.343
+"P62","Muy buena",0.015,0.159,0.001,0.014,0.012
+"P62","Buena",0.015,0.457,0.003,0.082,0.024
+"P62","Ni buena ni mala",0.032,0.286,0.042,0.185,0.078
+"P62","Mala",0.129,0.066,0.113,0.46,0.163
+"P62","Muy mala",0.786,0.019,0.826,0.259,0.659
+"P62","No sabe",0.023,0.013,0.015,0,0.064
+"P63","Muy buena",0.016,0.132,0.001,0.024,0.019
+"P63","Buena",0.006,0.429,0.004,0.098,0.035
+"P63","Ni buena ni mala",0.028,0.296,0.015,0.195,0.084
+"P63","Mala",0.123,0.114,0.12,0.307,0.164
+"P63","Muy mala",0.827,0.024,0.85,0.376,0.677
+"P63","No sabe",0,0.005,0.01,0,0.021
+"P64","Muy buena",0.008,0.756,0.011,0.163,0.06
+"P64","Buena",0.007,0.144,0.017,0.251,0.038
+"P64","Ni buena ni mala",0.011,0.067,0.011,0.064,0.04
+"P64","Mala",0.069,0.011,0.092,0.257,0.127
+"P64","Muy mala",0.902,0.022,0.856,0.265,0.728
+"P64","No sabe",0.003,0,0.013,0,0.007
+"P65","Muy buena",0.42,0.096,0.226,0.026,0.258
+"P65","Buena",0.292,0.02,0.226,0.007,0.168
+"P65","Ni buena ni mala",0.14,0.024,0.198,0.042,0.136
+"P65","Mala",0.044,0.075,0.174,0.146,0.172
+"P65","Muy mala",0.103,0.784,0.17,0.779,0.266
+"P65","No sabe",0.001,0.001,0.006,0,0
+"P66","Muy buena",0.338,0.033,0.047,0,0.046
+"P66","Buena",0.421,0.019,0.143,0.049,0.23
+"P66","Ni buena ni mala",0.171,0.057,0.218,0.078,0.289
+"P66","Mala",0.033,0.169,0.265,0.097,0.274
+"P66","Muy mala",0.034,0.722,0.321,0.776,0.161
+"P66","No sabe",0.003,0,0.006,0,0
+"P67","Muy buena",0.034,0.155,0.012,0.024,0.03
+"P67","Buena",0.045,0.456,0.027,0.1,0.066
+"P67","Ni buena ni mala",0.073,0.225,0.068,0.143,0.14
+"P67","Mala",0.205,0.055,0.213,0.381,0.221
+"P67","Muy mala",0.637,0.106,0.673,0.352,0.496
+"P67","No sabe",0.006,0.003,0.007,0,0.047
+"P68","Muy buena",0.6,0.027,0.43,0.044,0.398
+"P68","Buena",0.206,0.053,0.282,0.007,0.156
+"P68","Ni buena ni mala",0.085,0.037,0.125,0.021,0.109
+"P68","Mala",0.031,0.073,0.04,0.124,0.133
+"P68","Muy mala",0.074,0.807,0.115,0.804,0.171
+"P68","No sabe",0.004,0.003,0.008,0,0.033
+"P69","Muy buena",0.101,0.013,0.552,0.066,0.061
+"P69","Buena",0.121,0.009,0.294,0.01,0.141
+"P69","Ni buena ni mala",0.376,0.033,0.122,0.013,0.322
+"P69","Mala",0.228,0.054,0.014,0.031,0.196
+"P69","Muy mala",0.148,0.885,0.017,0.88,0.233
+"P69","No sabe",0.026,0.006,0.001,0,0.047
+"P70","Muy buena",0.083,0.033,0.092,0.014,0.121
+"P70","Buena",0.169,0.093,0.113,0.056,0.182
+"P70","Ni buena ni mala",0.394,0.349,0.375,0.179,0.254
+"P70","Mala",0.19,0.173,0.17,0.155,0.191
+"P70","Muy mala",0.136,0.322,0.206,0.52,0.17
+"P70","No sabe",0.028,0.03,0.044,0.076,0.082
+"P71","Siempre",0.345,0.29,0.28,0.312,0.32
+"P71","Casi siempre",0.464,0.423,0.377,0.401,0.343
+"P71","Casi nunca",0.138,0.194,0.226,0.155,0.229
+"P71","Nunca, pero esta es una excepción",0.053,0.093,0.117,0.132,0.108
+"P72","Si",0.6,0.559,0.589,0.632,0.514
+"P72","No",0.4,0.441,0.411,0.368,0.486

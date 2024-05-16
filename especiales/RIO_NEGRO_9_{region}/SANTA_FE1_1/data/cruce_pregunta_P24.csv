@@ -1,0 +1,112 @@
+"var","categoria","Lo votaría","Puede que lo vote","Nunca lo votaría","No sabe"
+"P05","Mucho",0.528,0.537,0.374,0.238
+"P05","Bastante",0.167,0.212,0.272,0.307
+"P05","Poco",0.101,0.174,0.19,0.228
+"P05","Nada",0.142,0.045,0.155,0.166
+"P05","No sabe",0.062,0.032,0.009,0.061
+"P06","Siempre",0.271,0.23,0.244,0.199
+"P06","Casi siempre",0.303,0.319,0.366,0.34
+"P06","Casi nunca",0.228,0.36,0.286,0.293
+"P06","Nunca, pero esta es una excepción",0.198,0.091,0.104,0.168
+"P09","De Unión por la Patria",0.69,0.51,0.142,0.205
+"P09","De Juntos por el Cambio",0.075,0.149,0.455,0.333
+"P09","De los liberales libertarios",0.047,0.114,0.192,0.128
+"P09","De la Izquierda",0.026,0.052,0.023,0.028
+"P09","Hacemos por Nuestro País",0,0.042,0.012,0.022
+"P09","otro",0.092,0.057,0.042,0.064
+"P09","En blanco",0.052,0.019,0.069,0.067
+"P09","No sabe",0.018,0.057,0.065,0.153
+"P10","Unidos para Cambiar Santa Fe",0.554,0.244,0.259,0.182
+"P10","Juntos Avancemos",0.216,0.366,0.286,0.215
+"P10","De los liberales libertarios",0.055,0.106,0.164,0.103
+"P10","De la Izquierda",0.054,0.068,0.037,0.035
+"P10","En blanco",0.012,0.02,0.095,0.077
+"P10","No sabe",0.109,0.196,0.159,0.388
+"P11","Carolina Losada a gobernadora y Federico Angelini a vicegobernador por Unidos para Cambiar Santa Fe",0.088,0.174,0.279,0.208
+"P11","Maximiliano Pullaro a gobernador y Gisela Scaglia a vicegobernadora por Unidos para Cambiar Santa Fe",0.072,0.029,0.237,0.199
+"P11","Mónica Fein a gobernadora y Eugenio Fernández a vicegobernador por Unidos para Cambiar Santa Fe",0.024,0.066,0.094,0.052
+"P11","Marcelo Lewandowski a gobernador y Silvina Patricia Frana a vicegobernadora por Juntos Avancemos",0.241,0.369,0.126,0.106
+"P11","Marcos Cleri a gobernador y Alejandra del Huerto Obeid a vicegobernadora por Juntos Avancemos",0.148,0.148,0.044,0.087
+"P11","Leandro Busatto a gobernador y Alejandra Gómez Sáenz a vicegobernadora por Juntos Avancemos",0.159,0.098,0.035,0.052
+"P11","Eduardo Toniolli a gobernador y Leticia Quagliaro a vicegobernadora por Juntos Avancemos",0.228,0.009,0.013,0.013
+"P11","Alguno de los candidatos a gobernador y vicegobernador de la Izquierda",0.022,0.056,0.015,0.017
+"P11","En blanco",0,0.012,0.086,0.062
+"P11","No sabe",0.018,0.039,0.071,0.204
+"P15","Lo votaría",0.34,0.171,0.08,0.049
+"P15","Puede que lo vote",0.17,0.365,0.132,0.115
+"P15","Nunca lo votaría",0.256,0.256,0.556,0.157
+"P15","No sabe",0.234,0.208,0.232,0.679
+"P16","La votaría",0.148,0.149,0.257,0.127
+"P16","Puede que la vote",0.157,0.226,0.142,0.171
+"P16","Nunca la votaría",0.625,0.564,0.547,0.31
+"P16","No sabe",0.07,0.061,0.054,0.392
+"P17","Lo votaría",0.171,0.083,0.251,0.183
+"P17","Puede que lo vote",0.049,0.232,0.161,0.196
+"P17","Nunca lo votaría",0.692,0.633,0.542,0.266
+"P17","No sabe",0.088,0.052,0.046,0.355
+"P18","La votaría",0.251,0.156,0.075,0.032
+"P18","Puede que la vote",0.101,0.321,0.084,0.081
+"P18","Nunca la votaría",0.42,0.331,0.644,0.152
+"P18","No sabe",0.228,0.192,0.197,0.735
+"P19","La votaría",0.236,0.079,0.111,0.059
+"P19","Puede que la vote",0.127,0.329,0.171,0.138
+"P19","Nunca la votaría",0.524,0.495,0.618,0.253
+"P19","No sabe",0.113,0.097,0.1,0.55
+"P20","Lo votaría",0.552,0.387,0.124,0.106
+"P20","Puede que lo vote",0.193,0.344,0.101,0.117
+"P20","Nunca lo votaría",0.148,0.186,0.728,0.228
+"P20","No sabe",0.107,0.083,0.047,0.549
+"P21","Lo votaría",0.501,0.243,0.059,0.075
+"P21","Puede que lo vote",0.229,0.507,0.055,0.096
+"P21","Nunca lo votaría",0.138,0.204,0.831,0.188
+"P21","No sabe",0.132,0.046,0.055,0.641
+"P22","Lo votaría",0.465,0.136,0.021,0.036
+"P22","Puede que lo vote",0.17,0.378,0.078,0.057
+"P22","Nunca lo votaría",0.187,0.237,0.739,0.104
+"P22","No sabe",0.178,0.249,0.162,0.803
+"P23","Lo votaría",0.47,0.176,0.019,0.048
+"P23","Puede que lo vote",0.215,0.513,0.05,0.053
+"P23","Nunca lo votaría",0.179,0.168,0.843,0.097
+"P23","No sabe",0.136,0.143,0.088,0.802
+"P25","Lo votaría",0.164,0.064,0.104,0.055
+"P25","Puede que lo vote",0.098,0.348,0.154,0.111
+"P25","Nunca lo votaría",0.598,0.421,0.666,0.111
+"P25","No sabe",0.14,0.167,0.076,0.723
+"P26","Lo votaría",0.128,0.049,0.028,0.006
+"P26","Puede que la vote",0.104,0.247,0.074,0.042
+"P26","Nunca la votaría",0.474,0.389,0.686,0.091
+"P26","No sabe",0.294,0.315,0.212,0.861
+"P27","La votaría",0.085,0.014,0.072,0.01
+"P27","Puede que la vote",0.104,0.289,0.107,0.067
+"P27","Nunca la votaría",0.482,0.452,0.647,0.137
+"P27","No sabe",0.329,0.245,0.174,0.786
+"P28","Lo votaría",0.119,0.009,0.03,0.008
+"P28","Puede que la vote",0.102,0.29,0.046,0.054
+"P28","Nunca la votaría",0.427,0.408,0.698,0.117
+"P28","No sabe",0.352,0.293,0.226,0.821
+"P29","La votaría",0.243,0.185,0.035,0.054
+"P29","Puede que la vote",0.155,0.366,0.068,0.056
+"P29","Nunca la votaría",0.304,0.246,0.721,0.097
+"P29","No sabe",0.298,0.203,0.176,0.793
+"P30","Lo votaría",0.127,0.042,0.033,0.027
+"P30","Puede que la vote",0.108,0.242,0.058,0.038
+"P30","Nunca la votaría",0.378,0.369,0.7,0.09
+"P30","No sabe",0.387,0.347,0.209,0.845
+"P31","La votaría",0.238,0.137,0.037,0.032
+"P31","Puede que la vote",0.208,0.354,0.083,0.122
+"P31","Nunca la votaría",0.302,0.292,0.771,0.179
+"P31","No sabe",0.252,0.217,0.109,0.667
+"P32","La votaría",0.218,0.147,0.012,0.014
+"P32","Puede que la vote",0.175,0.225,0.039,0.048
+"P32","Nunca la votaría",0.253,0.305,0.771,0.113
+"P32","No sabe",0.354,0.323,0.178,0.825
+"P33","Lo votaría",0.038,0.065,0.022,0.012
+"P33","Puede que la vote",0.201,0.362,0.044,0.052
+"P33","Nunca la votaría",0.408,0.309,0.705,0.107
+"P33","No sabe",0.353,0.264,0.229,0.829
+"P34","La votaría",0.132,0.042,0.012,0.008
+"P34","Puede que la vote",0.116,0.308,0.043,0.037
+"P34","Nunca la votaría",0.394,0.322,0.705,0.085
+"P34","No sabe",0.358,0.328,0.24,0.87
+"P35","Si",0.486,0.531,0.426,0.348
+"P35","No",0.514,0.469,0.574,0.652

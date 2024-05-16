@@ -1,0 +1,13 @@
+codigo	bloque	paleta	texto	label	aclaracion
+aysa_1	Bloque AYSA		¿Está conectado en su domicilio a una red de agua corriente potable?	Conexión en el domicilio a una red de agua corriente potable	
+aysa_2	Bloque AYSA		¿Esa red de agua corriente potable a la que su vivienda se encuentra conectado a quien pertenece? (Respuestas de quienes manifiestan estar conectados a la red de agua potable)	Pertenencia de la red	
+aysa_3	Bloque AYSA		Considera Ud Que la calidad del agua ha desmejorado en los últimos meses? (Solo domicilios con conexión de red)	Desmejoramiento de la calidad del agua potable  (Solo domicilios con conexión de red)	
+aysa_4	Bloque AYSA		Podría decirnos cuál de estos aspectos es el que más ha desmejorado? (Solo domicilios con conexión de red)	Aspecto que más ha desmejorado en la calidad del agua potable (Solo domicilios con conexión de red)	
+aysa_5	Bloque AYSA		¿Está conectado en su domicilio a una red cloacal?	Conexion en domicilio a una red cloacal	
+aysa_6	Bloque AYSA		¿Considera usted que la calidad del servicio de red cloacal ha desmejorado en los últimos meses?	Desmejoramiento de la calidad del servicio de red cloacal (Solo domicilios con conexión de red)	
+aysa_7	Bloque AYSA		Podría decirnos cuál de estos aspectos es el que más ha desmejorado	Aspecto que más ha desmejorado del servicio de red cloacal (Solo domicilios con conexión de red)	
+P33	Socioeconómico	ingresos	Ingresos familiares	Ingresos familiares	
+P45	Imagen de dirigentes	imagen	¿Qué imagen tiene de Alberto Fernandez? 	Imagen de Alberto Fernández	
+P48	Imagen de dirigentes	imagen	¿Qué imagen tiene de Horacio Rodriguez Larreta?	Imagen de Horacio Rodríguez Larreta	
+P51	Imagen de dirigentes	imagen	¿Qué imagen tiene de Axel Kicillof?	Imagen de Axel Kicillof	
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Malena Galmarini? 	Imagen de Malena Galmarini	

@@ -1,0 +1,50 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P08	Bloque Perfil económico y laboral	quali	¿Podría indicarnos cuál es su situación laboral?	Situación Laboral	
+P09	Bloque Control	diverging	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P10	Bloque Gestión pública provincial y nacional	diverging	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Provincia de Neuquén?	Opinión sobre la gestión del gobierno provincial	
+P11	Bloque Gestión pública provincial y nacional	diverging	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno  de Rolo Figueroa 	Expectativas sobre el gobierno de Rolo Figueroa	
+P12	Bloque Gestión pública provincial y nacional	diverging	¿Qué opinión tiene usted sobre la gestión del actual Gobierno de la Intendencia de Neuquén?	Opinión sobre el gobierno de la Intendencia	(Sólo Neuquén Capital)
+P19	Bloque Gestión pública provincial y nacional	diverging	¿Podría indicarnos cuáles son sus expectativas sobre el gobierno  de Mariano Gaido 	Expectativas sobre el gobierno de Mariano Gaido	(Sólo Neuquén Capital)
+P21	Bloque Gestión pública provincial y nacional	sino	¿Podría indicarnos si cree que Rolo Figueroa tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Rolo Figueroa	
+P22	Bloque Gestión pública provincial y nacional	sino	¿Podría indicarnos si cree que Mariano Gaido tiene capacidad de gestión?	Opinión sobre la capacidad de gestión de Mariano Gaido	(Sólo Neuquén Capital)
+P23	Bloque Gestión pública provincial y nacional	quali	Quien considera usted que es el principal responsable de la actual situación de la provincia de Neuquén	Opinión sobre la responsabilidad de la actual situación de la Provincia	
+P24	Bloque Gestión pública provincial y nacional	quali	Y quien considera usted que es él principal responsable de la situación actual de la provincia de Neuquén	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Provincial)
+P25	Bloque Gestión pública provincial y nacional	quali	Y quien considera usted que es él más responsable de la actual situación de la provincia de Neuquén	Opinión sobre la persona responsable de la situación actual de la Provincia	(Responsabilidad Nacional)
+P36	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión educativa?	Valoración de la calidad de la gestión educativa	
+P37	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión de salud?	Valoración la calidad de la gestión de salud	
+P38	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión de seguridad?	Valoración la calidad de la gestión de seguridad	
+P39	Bloque Gestión pública provincial y nacional		Podría indicarnos cuál es su opinión sobre la calidad de la gestión ambiental?	Valoración la calidad de la gestión ambiental.	
+P26	Bloque Coyuntura provincial	sino	Estaba enterado usted que existe una base de telecomunicaciones espaciales del Gobierno Chino localizada en la Provincia de Neuquén?	Conocimiento sobre de la base de telecom. China	
+P27	Bloque Coyuntura provincial	diverging	Según el contrato firmado por el gobierno Argentino y el Chino en el año 2012 y modificado en el año 2017, la base desarrolla actividades vinculadas a las telecomunicaciones en el espacio profundo y su uso solo puede ser con fines civiles y científicos. Tiene una duración de 50 años y puede interrumpirse por cualquiera de las partes con un preaviso de cinco años. ¿En su opinión se cumple con las actividades y fines previstos por el contrato?	Opinión sobre las actividades realizadas en la base de telecom. China	
+P28	Bloque Coyuntura provincial	quali	En su opinión qué otro tipo de actividades y fines se estarían llevando adelante en la base..	Opinión sobre otras posibles actividades realizadas en la base de telecom. China	
+P29	Bloque Coyuntura provincial	diverging	El convenio autoriza también a que las autoridades de la CONEA y de la provincia del Neuquén tengan acceso permanente a las instalaciones y puedan realizar los controles necesarios de las actividades allí realizadas. ¿Considera usted qué factible llevar adelante los controles mencionados?	Opinión sobre la probabilidad de que CONEA y la Provincia realicen controles en la base de telecom. China	
+P30	Bloque Coyuntura provincial	diverging	La embajada Norteamericana y recientemente la Jefa del Comando Sur del Ejército de los Estados Unidos, le han comunicado al gobierno argentino su preocupación por las actividades realizadas en la base china, argumentando que las mismas tienen en realidad propósitos oculto de carácter militar. ¿Considera usted que dicha preocupación es justificada?	Opinión sobre la preocupación Estadounidense sobre las actividades realizadas en la base de telecom. China	
+P31	Bloque Coyuntura provincial	sino	Recientemente el gobierno nacional planteó la necesidad de rever el convenio y efectuar un inspección de la base China, planteando además la posibilidad de eventualmente interrumpir el contrato. ¿Está usted de acuerdo con este planteo?	Opinión sobre la revisión del contrato y posible interrupción respecto a la base de telecom. China	
+P32	Bloque Coyuntura provincial	acuerdo	El gobernador de la provincia Rolando Figueroa ha afirmado que es necesario extremar todos los controles y garantizar que se cumplan los contenidos del contrato con China. Para ello consideró imprescindible garantizar la seguridad jurídica en el cumplimiento del  contrato y promovió que se efectúe un control completo por parte del Gobierno nacional. ¿Está usted de acuerdo con esta postura del gobernador?	Opinión sobre lo expresado por Rolo Figueroa respecto a la situación de la base de telecom. China	
+P43	Bloque Coyuntura provincial	quali	¿Cuál cree que es el principal problema de la provincia de Neuquén?	Principal problema de la Provincia	
+P47	Bloque Coyuntura provincial	diverging	¿Cuál es su opinión sobre la situación actual de la provincia de Neuquén? 	Percepción de la situación actual de la Provincia	
+P48	Bloque Coyuntura provincial	diverging	¿Considera usted que la provincia de Neuquén está peor, igual o mejor que hace seis meses atrás? 	Percepción de la situación de la Provincia comparada con seis meses atrás	
+P49	Bloque Coyuntura provincial	diverging	¿Cómo cree que va a estar la provincia de Neuquén dentro de seis meses? 	Expectativa respecto de la situación de la Provincia dentro de seis meses	
+P50	Bloque Coyuntura provincial	quali	Quien considera usted que es el principal responsable de la actual crisis económica del país	Opinión sobre la responsabilidad de la crisis económica del País	
+P33	Bloque Coyuntura nacional	opinion	Que opina usted sobre el aumento anunciado por el gobierno nacional de la tarifa de gas y electricidad que podría ser en promedio de un 300% a partir del mes de abril 	Opinión sobre el aumento de tarifas de Gas y Electricidad	
+P34	Bloque Coyuntura nacional	sino	El gobierno nacional analiza actualizar el piso del impuesto a las ganancias en un millón doscientos mil pesos ¿Estaba usted enterado de lo que busca hacer el gobierno nacional?	Conocimiento sobre la posible actualización del piso de Ganancias	
+P35	Bloque Coyuntura nacional	opinion	Qué opina usted de la intención del gobierno nacional de actualizar el piso del impuesto a las ganancias en un millón doscientos mil pesos	Opinión sobre la posible actualización del piso de Ganancias	
+P40	Bloque Coyuntura nacional	quali	¿Qué debiera hacer el gobierno provincial en relación a la decisión del gobierno nacional de limitar las transferencias de recursos coparticipables?	Opinión sobre la postura del Gob. Provincial en función del recorte a la coparticipación	
+P41	Bloque Coyuntura nacional	quali	Qué debería hacer el gobierno de la provincia en relación al denominado pacto de Mayo propuesto por el gobierno nacional	Opinión sobre la postura del Gob. Provincial en relación al Pacto de Mayo	
+P42	Bloque Coyuntura nacional	quali	Qué debiera ser el gobierno de la provincia en relación al envío de una ley más corta de la denominada ley ómnibus o ley de bases.	Opinión sobre la postura del Gob. Provincial en relación a la nueva versión de la ley Ómnibus	
+P51	Bloque Coyuntura nacional	politica	En la disputa entre el presidente Milei y los gobernadores quien considera usted que tiene la razón	Opinión respecto a la disputa entre los gobernadores y el presidente	
+P13	Imagen de dirigentes	imagen	¿Qué imagen tiene de Rolo Figueroa?	Imagen de Rolo Figueroa	
+P14	Imagen de dirigentes	imagen	¿Qué imagen tiene de Omar Gutierrez?	Imagen de Omar Gutierrez	
+P15	Imagen de dirigentes	imagen	¿Qué imagen tiene de Marcos Koopmann?	Imagen de Marcos Koopmann	
+P16	Imagen de dirigentes	imagen	¿Qué imagen tiene de Ramon Rioseco?	Imagen de Ramon Rioseco	
+P20	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mariano Gaido?	Imagen de Mariano Gaido	
+P17	Imagen de dirigentes	imagen	¿Qué imagen tiene de Sergio Massa?	Imagen de Sergio Massa	
+P18	Imagen de dirigentes	imagen	¿Qué imagen tiene de Javier Milei?	Imagen de Javier Milei	
+P52	Imagen de dirigentes	imagen	¿Qué imagen tiene de Cristina Fernández de Kirchner?	Imagen de Cristina Fernández de Kirchner	
+P53	Imagen de dirigentes	imagen	¿Qué imagen tiene de Mauricio Macri?	Imagen de Mauricio Macri	
+P54	Imagen de dirigentes	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imagen de Patricia Bullrich	
+P55	Imagen de dirigentes	imagen	¿Qué imagen tiene de Karina Milei?	Imagen de Karina Milei	
+P56	Imagen de dirigentes	imagen	¿Qué imagen tiene de Victoria Villarruel? 	Imagen de Victoria Villarruel	
+P57	Imagen de dirigentes	imagen	¿Qué imagen tiene de Juan Schiaretti? 	Imagen de Juan Schiaretti	
+P58	Imagen de dirigentes	imagen	¿Qué imagen tiene de Toto Caputo? 	Imagen de Toto Caputo	
+P59	Imagen de dirigentes	imagen	¿Qué imagen tiene de Guillermo Francos? 	Imagen de Guillermo Francos	

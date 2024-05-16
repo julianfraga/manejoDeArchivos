@@ -1,0 +1,94 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P06","Julio Zamora",0.861,0.61,0.341,0.338
+"P06","Segundo Cernadas",0.055,0.103,0.459,0.065
+"P06","Otro candidato",0.061,0.155,0.115,0.096
+"P06","En blanco",0.003,0.014,0.032,0.012
+"P06","No sabe",0.02,0.118,0.053,0.489
+"P07","A los candidatos del Frente de todos",0.688,0.571,0.14,0.276
+"P07","A los candidatos de Juntos por el cambio",0.21,0.159,0.586,0.446
+"P07","A los candidatos del Peronismo no kirchnerista, Lavagnismo o randazismo",0.052,0.138,0.119,0.13
+"P07","A los candidatos de la Izquierda",0.022,0.035,0.048,0.036
+"P07","A los candidatos Liberales",0.028,0.097,0.107,0.112
+"P08","Diego Santilli por el PRO en Juntos por el Cambio",0.565,0.586,0.573,0.555
+"P08","Facundo Manes por el radicalismo en Juntos por el Cambio",0.435,0.414,0.427,0.445
+"P09","A los candidatos del Frente de todos",0.68,0.564,0.116,0.24
+"P09","A los candidatos de Juntos por el cambio",0.165,0.147,0.545,0.477
+"P09","A los candidatos del frente unidos por tigre",0.087,0.11,0.124,0.16
+"P09","A los candidatos del Peronismo no kirchnerista, Lavagnismo o randazismo",0.03,0.056,0.066,0.033
+"P09","A los candidatos de la Izquierda",0.024,0.063,0.046,0.021
+"P09","A los candidatos Liberales",0.014,0.06,0.103,0.069
+"P10","Luis Samyn Duco",0.22,0.4,0.265,0.063
+"P10","Gonzalo Meschengieser",0.005,0.003,0.449,0
+"P10","Micaela Ferraro",0.014,0.3,0.094,0.04
+"P10","Javier Forlenza",0.024,0.084,0.009,0
+"P10","Jose Paesani",0.095,0.006,0.017,0.018
+"P10","Malena Galmarini",0.559,0.141,0.017,0
+"P10","Pipo Gorosito",0.083,0.066,0.149,0.879
+"P11","Segundo Cernadas",0.395,0.385,0.741,0.549
+"P11","Nicolas Massot",0.605,0.615,0.259,0.451
+"P12","Malena Galmarini por el Frente de todos",0.599,0.355,0.067,0.187
+"P12","Gisela Zamora por Frente vecinal unidos",0.151,0.294,0.174,0.264
+"P12","Segundo cernadas por Juntos por el Cambio",0.161,0.21,0.519,0.399
+"P12","Rodriguez Laborde por el Frente de Randazzo",0.02,0.053,0.073,0.033
+"P12","A los candidatos del frente de izquierda",0.038,0.037,0.043,0.045
+"P12","Cervetto por los liberales",0.031,0.051,0.124,0.072
+"P13","Pipo Gorosito por el Frente de todos",0.465,0.352,0.095,0.181
+"P13","Gisela Zamora por Frente vecinal unidos",0.3,0.341,0.132,0.248
+"P13","Segundo cernadas por Juntos por el cambio",0.165,0.165,0.589,0.426
+"P13","Rodriguez Laborde por el Frente de Randazzo",0.007,0.045,0.032,0.056
+"P13","A los candidatos del frente de izquierda",0.048,0.039,0.031,0.044
+"P13","Cervetto por los liberales",0.015,0.058,0.121,0.045
+"P14","Micaela Ferraro por el Frente de todos",0.465,0.277,0.099,0.192
+"P14","Gisela Zamora por Frente vecinal unidos",0.303,0.433,0.119,0.195
+"P14","Segundo cernadas por juntos por el cambio",0.138,0.101,0.607,0.5
+"P14","Rodriguez Laborde por el Frente de Randazzo",0.016,0.076,0.039,0.056
+"P14","A los candidatos del frente de izquierda",0.044,0.061,0.048,0.012
+"P14","Cervetto por los liberales",0.034,0.052,0.088,0.045
+"P15","Luis Samin Duco por el Frente de todos",0.468,0.283,0.068,0.224
+"P15","Gisela Zamora por Frente vecinal unidos",0.277,0.382,0.136,0.169
+"P15","Segundo cernadas por juntos por el cambio",0.151,0.178,0.607,0.471
+"P15","Rodriguez Laborde por el Frente de Randazzo",0.03,0.063,0.041,0.056
+"P15","A los candidatos del frente de izquierda",0.042,0.045,0.044,0.034
+"P15","Cervetto por los liberales",0.032,0.049,0.104,0.046
+"P16","Positiva",0.645,0.502,0.264,0.427
+"P16","Neutra",0.242,0.349,0.273,0.343
+"P16","Negativa",0.098,0.107,0.457,0.192
+"P16","No sabe",0.015,0.042,0.006,0.038
+"P18","Positiva",0.686,0.566,0.123,0.402
+"P18","Neutra",0.107,0.167,0.08,0.061
+"P18","Negativa",0.206,0.267,0.794,0.498
+"P18","No sabe",0.001,0,0.003,0.039
+"P19","Positiva",0.202,0.099,0.389,0.168
+"P19","Neutra",0.099,0.2,0.188,0.373
+"P19","Negativa",0.672,0.701,0.4,0.42
+"P19","No sabe",0.027,0,0.023,0.039
+"P20","Positiva",0.665,0.567,0.134,0.362
+"P20","Neutra",0.109,0.093,0.062,0.074
+"P20","Negativa",0.216,0.336,0.8,0.528
+"P20","No sabe",0.01,0.004,0.004,0.036
+"P21","Positiva",0.252,0.135,0.51,0.533
+"P21","Neutra",0.105,0.279,0.221,0.113
+"P21","Negativa",0.634,0.578,0.255,0.354
+"P21","No sabe",0.009,0.008,0.014,0
+"P22","Positiva",0.69,0.487,0.14,0.252
+"P22","Neutra",0.126,0.169,0.032,0.091
+"P22","Negativa",0.184,0.344,0.816,0.538
+"P22","No sabe",0,0,0.012,0.119
+"P23","Positiva",0.42,0.272,0.618,0.412
+"P23","Neutra",0.134,0.307,0.131,0.288
+"P23","Negativa",0.41,0.415,0.223,0.186
+"P23","No sabe",0.036,0.006,0.028,0.114
+"P25","Positiva",0.766,0.152,0.021,0.261
+"P25","Neutra",0.099,0.493,0.076,0.217
+"P25","Negativa",0.135,0.333,0.903,0.428
+"P25","No sabe",0,0.022,0,0.094
+"P26","Positiva",0.671,0.529,0.231,0.27
+"P26","Neutra",0.183,0.338,0.226,0.248
+"P26","Negativa",0.141,0.127,0.52,0.168
+"P26","No sabe",0.005,0.006,0.023,0.314
+"P27","Positiva",0.28,0.109,0.432,0.125
+"P27","Neutra",0.159,0.426,0.251,0.367
+"P27","Negativa",0.449,0.314,0.239,0.155
+"P27","No sabe",0.112,0.151,0.078,0.353
+"P28","Si",0.599,0.566,0.459,0.396
+"P28","No",0.401,0.434,0.541,0.604

@@ -1,0 +1,22 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P05	Control	muchopoco	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P06	Control	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P08	Preferencias electorales 	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto por espacio político en elecciones presidenciales	
+P11	Intención de voto Intendente	politica	¿Podría indicarnos cuáles serían los candidatos a Presidente, Gobernador e Intendente que usted preferiría votar en las próximas elecciones primarias PASO?	Intención de voto por candidatos en elecciones primarias	
+PRESIDENTE	Intención de voto Intendente	politica	Cuales serían los candidatos a Presidente y Gobernador que usted preferiría votar en las próximas elecciones primarias	Intención de voto por candidatos a Presidente y Gobernador en PASO	(considerando corte de boleta)
+INTENDENTE	Intención de voto Intendente	politica	Cuales serían los candidatos a Intendente que usted preferiría votar en las próximas elecciones primarias	Intención de voto por candidatos a Intendente en PASO	(considerando corte de boleta)
+P21	Intención de voto Intendente	quali	Podría usted decirnos cuán seguro está de sus preferencias de voto a Presidente, Gobernador e Intendente en las próximas elecciones primarias PASO.	Nivel de seguridad sobre preferencias electorales de cara a elecciones primarias	
+P22	Intención de voto Intendente	quali	Y podría decirnos entonces si usted:	Nivel decisión sobre ir a votar o no	
+P23	Reach de intención de voto	politica	Votaría la fórmula de Sergio Massa a Presidente, Axel Kicillof a Gobernador y Mariel Fernández a Intendente	Intención de voto por fórmula Massa – Kicillof – Fernández	
+P24	Reach de intención de voto	politica	Votaría la fórmula de Sergio Massa a Presidente, Axel Kicillof a Gobernador y Damián Contreras a Intendente	Intención de voto por fórmula Massa – Kicillof – Contreras	
+P25	Reach de intención de voto	votaria	Votaría la fórmula de Juan Grabois a Presidente, Axel Kicillof a Gobernador y Mariel Fernández a Intendenta	Intención de voto por fórmula Grabois – Kicillof – Fernández	
+P26	Reach de intención de voto	votaria	Votaría la fórmula de Juan Grabois a Presidente, Axel Kicillof a Gobernador y Damián Contreras a Intendente	Intención de voto por fórmula Grabois – Kicillof – Contreras	
+P27	Reach de intención de voto	votaria	Votaría la fórmula de Patricia Bullrich a Presidenta, Néstor Grindetti a Gobernador y Gisele Agosttineli a Intendenta...	Intención de voto por fórmula Bullrich – Grindetti – Agosttineli	
+P28	Reach de intención de voto	votaria	Votaría la fórmula de Horacio Rodriguez Larreta a Presidente, Diego Santilli a Gobernador y Aníbal Assef a Intendente...	Intención de voto por fórmula Larreta – Santilli – Assef	
+P29	Reach de intención de voto	votaria	Votaría la fórmula de Javier Milei a Presidente, Carolina Piparo a Gobernadora y Andrea Vera a Intendente...	Intención de voto por fórmula Milei – Píparo – Vera	
+P30	Control	sino	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	Interés en próximas encuestas	
+CORTA_PRESIDENTE	Intención de voto Intendente	sino	En las elecciones Presidenciales: ¿estaría dispuesto a cortar boleta?	Intención de corte de boleta	
+CORTA_INTENDENTE	Intención de voto Intendente	sino	En las elecciones a Intendente: ¿estaría dispuesto a cortar boleta?	Intención de corte de boleta en elecciones a Intendente	
+P14	Intención de voto Intendente	sino	Usted estaría dispuesto a cortar boleta? 	Intención de corte de boleta	
+P15	Intención de voto Intendente	politica	Y en este caso, podría indicarnos cuales serían los candidatos a Presidente y Gobernador que usted preferiría votar en las próximas elecciones primarias PASO	Intención de voto por candidatos a Presidente y Gobernador en PASO	(Sólo encuestados con intención de cortar boleta)
+P18	Intención de voto Intendente	politica	Y en este caso, podría indicarnos cuales serían los candidatos a Intendente que usted preferiría votar en las próximas elecciones primarias PASO	Intención de voto por candidatos a Intendente en PASO	(Sólo encuestados con intención de cortar boleta)

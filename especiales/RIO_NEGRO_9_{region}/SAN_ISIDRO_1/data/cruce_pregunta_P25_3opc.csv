@@ -1,0 +1,61 @@
+"var","categoria","Positiva","Neutra","Negativa","No sabe"
+"P09","Porque me siento desanimado con la realidad del país",0.296,0.044,0.187,0
+"P09","Porque estoy en desacuerdo con el gobierno, pero la oposición no me representa",0.131,0.413,0.46,0
+"P09","Nunca voy a votar",0.006,0.03,0,0
+"P09","Por miedo a la pandemia",0.29,0.238,0.167,0
+"P09","Porque las PASO no son elecciones importantes",0.277,0.275,0.186,1
+"P14","A Tolosa Paz por el Frente de Todos",0.064,0.188,0.666,0.189
+"P14","A Santilli y Manes por Juntos",0.868,0.536,0.076,0.09
+"P14","A del Caño por el Frente de Izquierda",0.008,0.02,0.097,0.156
+"P14","A Espert por Avanza libertad",0.026,0.162,0.122,0
+"P14","A Randazzo por ""Vamos con vos""",0.019,0.031,0.004,0
+"P14","A Hotton por “+Valores”",0,0,0.001,0
+"P14","Votaría en blanco o anularía",0.015,0.063,0.034,0.565
+"P16","A Juan Aníbal Viaggo por Juntos",0.863,0.521,0.076,0.09
+"P16","A Mateo Bartolini por el Frente de todos",0.062,0.188,0.67,0.189
+"P16","A Catalina Riganti por Convocación Civica por San Isidro",0.007,0.016,0.002,0
+"P16","A Francisco Sicardi de Estrada por Avanza libertad",0.024,0.162,0.112,0
+"P16","A Florencia Sarmiento por el Frente de Izquierda",0.008,0.031,0.098,0.156
+"P16","A Martín Eduardo Palma Bastidas por “Vamos con vos""",0.012,0.02,0.004,0
+"P16","Votaría en blanco o anularía",0.024,0.062,0.038,0.565
+"P18","Diego Santilli y Facundo Manes por “Juntos”",0.862,0.494,0.14,0.09
+"P18","Victoria Tolosa Paz por el Frente de todos",0.054,0.222,0.628,0.274
+"P18","Nicolás del Caño por el Frente de Izquierda",0.008,0.023,0.044,0.071
+"P18","José Luis Espert por “Avanza Libertad”",0.032,0.14,0.117,0
+"P18","Florencio Randazzo por “Vamos con vos”",0.017,0.016,0.015,0
+"P18","Cynthia Hotton por “+Valores”",0,0,0.008,0
+"P18","Ninguna en particular",0.021,0.092,0.039,0
+"P18","No sabe",0.006,0.013,0.009,0.565
+"P19","Diego Santilli y Facundo Manes por “Juntos”",0.078,0.173,0.61,0.189
+"P19","Victoria Tolosa Paz por el Frente de todos",0.816,0.618,0.26,0.071
+"P19","Nicolás del Caño por el Frente de Izquierda",0.02,0.043,0.017,0.09
+"P19","José Luis Espert por “Avanza Libertad”",0.003,0.043,0.048,0
+"P19","Florencio Randazzo por “Vamos con vos”",0.016,0.017,0.002,0
+"P19","Cynthia Hotton por “+Valores”",0.002,0.039,0.006,0
+"P19","Ninguna en particular",0.059,0.053,0.052,0.085
+"P19","No sabe",0.006,0.014,0.005,0.565
+"P20","No alcanzan para cubrir las necesidades básicas familiares",0.251,0.227,0.205,0.09
+"P20","Solo alcanzan para cubrir las necesidades básicas familiares",0.277,0.309,0.267,0.086
+"P20","No alcanzan para cubrir los gastos totales de la familia",0.147,0.12,0.11,0
+"P20","Alcanzan para cubrir los gastos totales de la familia",0.164,0.221,0.195,0.083
+"P20","Tenemos un pequeño excedente, pero es excepcional",0.071,0.042,0.076,0
+"P20","Tenemos un pequeño excedente habitual que ahorramos o invertimos",0.053,0.039,0.075,0.105
+"P20","Tenemos un gran excedente pero es excepcional",0.001,0.004,0.006,0
+"P20","Tenemos un gran excedente habitual que ahorramos o invertimos",0.01,0.006,0.012,0.565
+"P20","No sabe",0.026,0.032,0.054,0.071
+"P21","Positiva",0.06,0.185,0.599,0.083
+"P21","Neutra",0.059,0.113,0.08,0.09
+"P21","Negativa",0.87,0.69,0.305,0.157
+"P21","No sabe",0.011,0.012,0.016,0.67
+"P22","Positiva",0.055,0.19,0.643,0.083
+"P22","Neutra",0.022,0.065,0.037,0.09
+"P22","Negativa",0.918,0.721,0.32,0.157
+"P22","No sabe",0.005,0.024,0,0.67
+"P23","Positiva",0.045,0.11,0.375,0.083
+"P23","Neutra",0.08,0.116,0.212,0.09
+"P23","Negativa",0.871,0.76,0.409,0.157
+"P23","No sabe",0.004,0.014,0.004,0.67
+"P24","Positiva",0.62,0.249,0.094,0
+"P24","Neutra",0.21,0.265,0.032,0.176
+"P24","Negativa",0.166,0.46,0.846,0.083
+"P24","No sabe",0.004,0.026,0.028,0.741

@@ -1,0 +1,4 @@
+"clase","Todos","Hombres","Mujeres","16-29 años","30-49 años","50-64 años","65+ años","Hasta primario completo","Secundario completo/incompleto","Terciario completo/incompleto","Bordet","Benedetti","Sapetti","Meiners","Barzola","Parana/Diamante","Concordia/San Salvador/Federación","Gualeguaychú/Ibicuy","Concepción del Uruguay/Colón","Villaguay/Federal/Feliciano/La Paz","Victoria/Gualeguay/Nogoya/Tala"
+"Tiene Decidido que va a ir a votar",0.792,0.783,0.801,0.714,0.842,0.819,0.768,0.72,0.822,0.864,0.853,0.776,0.468,0.605,0.952,0.8,0.734,0.783,0.833,0.85,0.778
+"Tiene dudas sobre si va a ir a  votar",0.129,0.123,0.135,0.159,0.107,0.126,0.136,0.164,0.129,0.07,0.096,0.185,0.115,0.051,0,0.124,0.189,0.105,0.099,0.137,0.088
+"Tiene Decidido que no va a ir a votar",0.079,0.094,0.064,0.127,0.051,0.055,0.096,0.116,0.049,0.066,0.051,0.039,0.417,0.344,0.048,0.076,0.077,0.112,0.068,0.013,0.134

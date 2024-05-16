@@ -1,0 +1,166 @@
+codigo	texto	paleta	color
+P01	Empleado en relación de dependencia	diverging	
+P01	Jubilado o pensionado	diverging	
+P01	Desempleado	diverging	
+P01	Monotributista o autónomo	diverging	
+P01	Empresario	diverging	
+P01	Estudiante	diverging	
+P01	Otro	diverging	
+P02	Menos de 50 mil	custom	
+P02	Entre 50 y 100 mil	custom	
+P02	Entre 100 y 150 mil	custom	
+P02	Entre 150 y 200 mil	custom	
+P02	Entre 200 y 250 mil	custom	
+P02	Entre 250 y 300 mil	custom	
+P02	Mas de 300 mil	custom	
+P03	Si, tengo	diverging	
+P03	No, no tengo	diverging	
+P04	Si 	custom	
+P04	No 	custom	
+P05	Si 	politica	
+P05	No 	politica	
+P06	Si 	politica	
+P06	No 	politica	
+P07	Si, lo tomaría	politica	
+P07	Probablemente si	politica	
+P07	Probablemente no	politica	
+P07	No, no lo tomaría	politica	
+P07	No sabe	politica	
+P08	Si 	politica	
+P08	No 	politica	
+P09	1		
+P09	2		
+P09	3		
+P09	4		
+P09	5		
+P09	6		
+P09	7		
+P09	8		
+P09	9		
+P10	Muy conveniente	diverging	
+P10	Bastante conveniente	diverging	
+P10	Algo convenientes	diverging	peron1
+P10	Poco convenientes	diverging	#33a02c
+P10	Nada convenientes	diverging	#e31a1c
+P10	No sabe	diverging	#c9bebd
+P11	No intervenir y quien tomó el crédito debe hacerse cargo	diverging	#619bc2
+P11	Intervenir para asegurar que quien tomó el crédito pueda afrontar los pagos.	diverging	#a6cee3
+P11	No sabe	diverging	#7794a3
+P12	Si	diverging	#1f78b4
+P12	No	diverging	#619bc2
+P13	Banco público o cooperativo	diverging	#a6cee3
+P13	Banco privado	diverging	#7794a3
+P13	No sabe	diverging	#1f78b4
+P14	Nación	diverging	#f5f59f
+P14	Provincia	diverging	#ffff5c
+P14	Ciudad	diverging	#edd464
+P14	Banco de Córdoba	diverging	#fc5d5d
+P14	Nuevo Banco de Santa Fé	diverging	#b15928
+P14	Otro	diverging	
+P15	Santander	diverging	
+P15	Galicia	diverging	
+P15	Macro	diverging	
+P15	Francés	diverging	
+P15	ICBC	diverging	
+P15	Patagonia	diverging	
+P15	No sabe	diverging	
+P16	Las billeteras virtuales ofertadas por entidades bancarias como MODO o Cuenta DNI	diverging	
+P16	Las billeteras virtuales ofertadas por entidades no bancarias como Mercado Pago o Ualá	diverging	
+P16	No sabe	diverging	
+P17	Porque son más seguras	diverging	
+P17	Porque tienen más clientes adheridos	diverging	
+P17	Porque la calidad de la aplicación es mejor	diverging	
+P17	Por la calidad de la atención al cliente	diverging	
+P17	Por la eficiencia en la solución de reclamos	diverging	
+P17	No sabe	diverging	
+P18	Si, las conozco	diverging	
+P18	No, no las conozco	diverging	
+P19	Si	diverging	
+P19	No	diverging	
+P20	MODO	diverging	
+P20	Cuenta DNI	diverging	
+P20	Mercado Pago	diverging	
+P20	Ualá	diverging	
+P20	Brubank	diverging	
+P20	Naranja X	diverging	
+P20	Otra	diverging	
+P21	Para pagar en comercios con el celular	politica	
+P21	Para transferir / enviar o recibir dinero de terceros	politica	
+P21	Para usarla para trabajar / cobrar / vender	politica	
+P21	Para pagar servicios	politica	
+P21	Para extraer dinero sin tarjeta	politica	
+P21	Para recargar el celular / tarjeta de transporte	politica	
+P22	Usás más efectivo que antes	politica	
+P22	Usas la misma cantidad de efectivo que antes	politica	
+P22	Usas menos efectivo que antes	politica	
+P23	Tener mayor control de tus gastos	politica	
+P23	Tener igual control de tus gastos	politica	
+P23	Tener menor control de tus gastos	politica	
+P24	Muy de acuerdo	politica	
+P24	De acuerdo	politica	
+P24	Algo de acuerdo	politica	
+P24	Poco de acuerdo	politica	
+P24	Nada de acuerdo	politica	
+P25	Deberían mantenerse y ampliarse aún mas	politica	
+P25	Deberían mantenerse pero garantizando también la calidad de los servicios presenciales	politica	
+P25	Deberian limitarse a los estrictamente necesarios	politica	
+P25	Deberian eliminarse y volverse a la situación anterior	politica	#ffff5c
+P26	Si, compraría	politica	#f5f59f
+P26	No, no tengo suficiente información	politica	#619bc2
+P26	No, me resulta una inversión riesgosa	politica	#1f78b4
+P26	No, me parece una inversión poco confiable	politica	#33a02c
+P26	No me interesa	politica	#e31a1c
+P27	Si	politica	#b15928
+P27	No	politica	#1f78b4
+P28	Muy seguro	politica	#ffff5c
+P28	Bastante seguro	politica	#33a02c
+P28	Seguro	politica	#e31a1c
+P28	Poco seguro	politica	#b15928
+P28	Nada seguro	politica	#ffff5c
+P28	No hago operaciones online	politica	#1f78b4
+P29	Si, he sido víctima	politica	#33a02c
+P29	No, no he sido víctima	politica	#e31a1c
+P29	No sabe	politica	#b15928
+P30	Estafa por redes sociales	politica	#1f78b4
+P30	Estafa telefónica	politica	#ffff5c
+P30	Correos electrónicos falsos que dirigían a un sitio web fraudulento	politica	#33a02c
+P30	Virus	politica	#e31a1c
+P30	Otros	politica	#b15928
+P31	Informar y asesorar a los usuarios/as sobre esta temática	politica	#1f78b4
+P31	Incentivar a clientes a desarrollar habilidades para la verificación de la información virtual	politica	#ffff5c
+P31	Generar productos bancarios que aseguren a los clientes ante estas situaciones	politica	#33a02c
+P31	No sabe	politica	#e31a1c
+P32	Si, he limitado las operaciones	politica	#b15928
+P32	He limitado parcialmente	politica	#1f78b4
+P32	No, continúo operando igual que siempre	politica	#ffff5c
+P33	1	politica	#33a02c
+P33	2	politica	#e31a1c
+P33	3	politica	#b15928
+P33	4	politica	#1f78b4
+P33	5	politica	#ffff5c
+P33	6	politica	#33a02c
+P33	7	politica	#e31a1c
+P33	8	politica	#b15928
+P33	9	politica	#1f78b4
+P34	1	politica	#ffff5c
+P34	2	politica	#c9bebd
+P34	3	politica	#1f78b4
+P34	4	politica	#ffff5c
+P34	5	politica	#c9bebd
+P34	6	politica	#1f78b4
+P34	7	politica	#ffff5c
+P34	8	politica	#c9bebd
+P34	9	politica	#1f78b4
+P35	1	politica	#c9bebd
+P35	2	politica	#1f78b4
+P35	3	politica	#ffff5c
+P35	4	politica	#c9bebd
+P35	5	politica	#ffff5c
+P35	6	politica	#1f78b4
+P35	7	politica	#c9bebd
+P35	8	politica	#1f78b4
+P35	9	politica	#33a02c
+P36	La falta de visión de largo plazo para el desarrollo productivo regional	opinion	#c9bebd
+P36	Insuficiente coordinación entre los distintos actores que son parte de un proyecto productivo regional	opinion	#ffff5c
+P36	La ausencia de evaluaciones de impacto productivo de los programas a implementar.	opinion	#33a02c
+P36	No sabe	opinion	#c9bebd

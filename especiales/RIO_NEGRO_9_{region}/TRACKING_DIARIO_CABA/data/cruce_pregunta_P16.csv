@@ -1,0 +1,41 @@
+"var","categoria","Leandro Santoro a Jefe de Gobierno por Union por la Patria","Jorge Macri a Jefe de Gobierno por Juntos por el Cambio","Martin Lousteau a Jefe de Gobierno por Juntos por el Cambio","Ramiro Marra a Jefe de Gobierno por la Libertad Avanza","Los candidatos a Jefe de Gobierno de las diferentes opciones de izquierda","Otros","En blanco","No sabe"
+"P09","Unión por la Patria",0.751,0.075,0.151,0.117,0.099,0.168,0.196,0.196
+"P09","Juntos por el Cambio",0.114,0.758,0.652,0.125,0.054,0.18,0.428,0.109
+"P09","De los liberales libertarios",0.056,0.114,0.092,0.586,0.246,0.048,0.125,0.16
+"P09","De la Izquierda",0.027,0.01,0.024,0.128,0.221,0.022,0,0
+"P09","Hacemos por nuestro país",0,0.003,0,0,0.013,0,0,0
+"P09","Otro",0.019,0.014,0.017,0.013,0.052,0.278,0.04,0.017
+"P09","En blanco",0.01,0.02,0.027,0.013,0.192,0,0.211,0.133
+"P09","No sabe",0.023,0.006,0.037,0.018,0.123,0.304,0,0.385
+"P12","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.539,0.035,0.161,0.075,0,0.035,0.415,0.038
+"P12","Juan Grabois a Presidente y Paula Abal Medina a Vicepresidente por Union por la Patria",0.252,0.032,0.044,0.071,0.126,0.063,0.04,0.098
+"P12","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.053,0.6,0.197,0.159,0.08,0.024,0.181,0.056
+"P12","Horacio Rodríguez Larreta a Presidente y Gerardo Morales a Vicepresidente por Juntos por el Cambio",0.037,0.17,0.43,0.123,0,0.212,0,0.047
+"P12","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza",0.056,0.143,0.093,0.516,0.261,0.042,0.044,0.2
+"P12","Los candidatos a presidente y vicepresidente de las diferentes opciones de izquierda",0.028,0,0.013,0,0.216,0.051,0,0
+"P12","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais",0.009,0.007,0.013,0.04,0.067,0,0,0.041
+"P12","Otros",0.016,0.003,0.012,0.016,0.167,0.573,0,0.043
+"P12","En blanco",0.01,0.005,0.009,0,0.032,0,0.32,0
+"P12","No sabe",0,0.005,0.028,0,0.051,0,0,0.477
+"P15","Union por la Patria",0.8,0.122,0.094,0.171,0.08,0.115,0.132,0.11
+"P15","Cambiemos",0.106,0.73,0.722,0.088,0,0.164,0.367,0.102
+"P15","Liberales",0.024,0.117,0.109,0.655,0.109,0.048,0.079,0.15
+"P15","Izquierda",0.041,0.017,0.009,0.073,0.223,0,0,0
+"P15","No sabe",0.029,0.014,0.066,0.013,0.588,0.673,0.422,0.638
+"P22","Totalmente seguro.",0.706,0.589,0.561,0.683,0.531,0.461,0.76,0.327
+"P22","Bastante seguro",0.17,0.233,0.266,0.07,0.055,0.072,0,0.032
+"P22","Algo seguro",0.056,0.151,0.094,0.129,0.059,0.163,0.24,0.017
+"P22","Para nada seguro",0.068,0.027,0.079,0.118,0.355,0.304,0,0.624
+"P23","Tiene Decidido que va a ir a votar.",0.944,0.938,0.891,0.83,0.711,1,0.536,0.695
+"P23","Tiene dudas sobre si va a ir a  votar",0.049,0.044,0.089,0.068,0.227,0,0.293,0.066
+"P23","Tiene Decidido que no va a ir a votar",0.007,0.018,0.02,0.102,0.062,0,0.171,0.239
+"P34","Inflación",0.353,0.321,0.319,0.326,0.066,0.552,0.518,0.052
+"P34","Desempleo",0.043,0.042,0.085,0.125,0.041,0.032,0,0.174
+"P34","Corrupción",0.11,0.341,0.225,0.383,0.587,0.112,0.106,0.291
+"P34","Inseguridad",0.086,0.199,0.14,0.082,0.046,0.203,0.292,0.166
+"P34","Precio del dólar",0.009,0.031,0.005,0.007,0.042,0,0.084,0.109
+"P34","Pobreza",0.197,0.014,0.082,0.015,0.103,0.05,0,0.091
+"P34","Narcotráfico",0.017,0.013,0.017,0.029,0,0.021,0,0.094
+"P34","Tarifas",0.008,0.012,0.006,0,0.022,0,0,0.023
+"P34","Otro",0.145,0.022,0.079,0.033,0.041,0.03,0,0
+"P34","No sabe",0.032,0.005,0.042,0,0.052,0,0,0

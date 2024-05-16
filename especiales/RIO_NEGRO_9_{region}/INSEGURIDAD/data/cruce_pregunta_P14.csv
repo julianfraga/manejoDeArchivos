@@ -1,0 +1,59 @@
+"var","categoria","Mayor presencia de policía en las calles","Presencia de Gendarmería en las calles","Cámaras de seguridad en el espacio público como calles, plazas, parques, y similares","Más iluminación en espacios públicos","Capacitación a las fuerzas de seguridad para la prevención del delito","Mayor inversión en equipamiento y tecnología ara las fuerzas de seguridad, como mejores patrulleros, armas, uniformes, chalecos, elementos de comunicación, etc","Todas las anteriores","No sabe"
+"P04","Gran excedente habitual",0.009,0.006,0.006,0.005,0.021,0,0.009,0.007
+"P04","Gran excedente excepcional",0.001,0.004,0.002,0.001,0,0.009,0.003,0.002
+"P04","Pequeño excedente habitual",0.043,0.073,0.039,0.081,0.097,0.04,0.049,0.051
+"P04","Pequeño excedente excepcional",0.044,0.038,0.045,0.053,0.054,0.055,0.07,0.061
+"P04","Alcanza gastos familia",0.102,0.098,0.105,0.124,0.15,0.082,0.115,0.157
+"P04","No alcanza gastos familia",0.159,0.16,0.188,0.183,0.182,0.198,0.196,0.198
+"P04","Solo NBFamiliares",0.26,0.275,0.295,0.194,0.237,0.22,0.283,0.248
+"P04","No alcanza NBFamiliares",0.366,0.338,0.305,0.35,0.251,0.368,0.263,0.24
+"P04","No sabe",0.016,0.008,0.015,0.009,0.008,0.028,0.012,0.036
+"P05","Si",0.271,0.297,0.162,0.185,0.148,0.277,0.241,0.118
+"P05","No",0.729,0.703,0.838,0.815,0.852,0.723,0.759,0.882
+"P06","Robo en vivienda, en su presencia",0.511,0.376,0.319,0.377,0.19,0.364,0.326,0.284
+"P06","Robo en vivienda, en su ausencia",0.113,0.181,0.355,0.134,0.206,0.202,0.187,0.109
+"P06","Robo de auto",0.052,0.055,0.129,0.021,0.067,0.06,0.067,0.061
+"P06","Robo de moto",0.022,0.026,0.006,0.015,0,0.019,0.063,0
+"P06","Robo de bicicleta",0.079,0.094,0.05,0.09,0.076,0.013,0.056,0.096
+"P06","Vandalismo, como pintura de paredes, rotura de vidrios, o similares",0.058,0.131,0.078,0.078,0.254,0.118,0.07,0.104
+"P06","Otro tipo de delito a la propiedad",0.165,0.137,0.063,0.285,0.207,0.224,0.231,0.346
+"P07","Muy seguro",0.123,0.133,0.137,0.101,0.14,0.105,0.049,0.141
+"P07","Algo seguro",0.349,0.363,0.417,0.463,0.352,0.318,0.287,0.416
+"P07","Seguro",0.097,0.088,0.152,0.135,0.169,0.082,0.104,0.166
+"P07","Algo inseguro",0.197,0.196,0.174,0.119,0.185,0.147,0.21,0.155
+"P07","Inseguro",0.158,0.156,0.066,0.133,0.078,0.172,0.196,0.093
+"P07","Muy inseguro",0.076,0.064,0.054,0.049,0.076,0.176,0.154,0.029
+"P08","Han aumentado en el último mes",0.482,0.432,0.325,0.277,0.354,0.439,0.458,0.199
+"P08","Han disminuido en el ultimo mes",0.121,0.113,0.089,0.107,0.091,0.091,0.054,0.118
+"P08","Se mantienen igual que el mes anterior",0.273,0.318,0.423,0.419,0.421,0.353,0.315,0.407
+"P08","No sabe",0.124,0.137,0.163,0.197,0.134,0.117,0.173,0.276
+"P09","Si",0.254,0.244,0.179,0.201,0.175,0.25,0.242,0.11
+"P09","No",0.746,0.756,0.821,0.799,0.825,0.75,0.758,0.89
+"P10","Hurto",0.459,0.39,0.322,0.321,0.454,0.4,0.301,0.345
+"P10","Robo con violencia",0.237,0.161,0.195,0.307,0.047,0.272,0.275,0.184
+"P10","Agresión física",0.042,0.07,0.059,0,0.041,0.05,0.086,0.088
+"P10","Acoso verbal o intimidación",0.073,0.129,0.103,0.169,0.232,0.049,0.101,0.162
+"P10","Otros delitos en la vía pública",0.189,0.25,0.321,0.203,0.226,0.229,0.237,0.221
+"P11","Muy seguro",0.112,0.093,0.134,0.091,0.123,0.119,0.067,0.123
+"P11","Algo seguro",0.357,0.339,0.385,0.401,0.339,0.319,0.258,0.457
+"P11","Seguro",0.104,0.087,0.175,0.15,0.161,0.113,0.092,0.152
+"P11","Algo inseguro",0.203,0.231,0.162,0.176,0.19,0.136,0.211,0.128
+"P11","Inseguro",0.149,0.178,0.085,0.132,0.129,0.211,0.239,0.078
+"P11","Muy inseguro",0.075,0.072,0.059,0.05,0.058,0.102,0.133,0.062
+"P12","Han aumentado en el último mes",0.48,0.378,0.283,0.227,0.316,0.393,0.427,0.22
+"P12","Han disminuido en el último mes",0.105,0.111,0.121,0.076,0.11,0.051,0.033,0.075
+"P12","Se mantienen igual que el mes anterior",0.245,0.34,0.427,0.43,0.406,0.408,0.339,0.418
+"P12","No sabe",0.17,0.171,0.169,0.267,0.168,0.148,0.201,0.287
+"P13","Mayor presencia de policía en las calles",0.551,0.178,0.156,0.149,0.156,0.161,0.129,0.165
+"P13","Presencia de Gendarmería en las calles",0.119,0.474,0.135,0.07,0.094,0.088,0.058,0.035
+"P13","Cámaras de seguridad en el espacio público como calles, plazas, parques, y similares",0.072,0.115,0.445,0.197,0.133,0.181,0.084,0.158
+"P13","Más iluminación en espacios públicos",0.074,0.033,0.093,0.394,0.135,0.048,0.047,0.183
+"P13","Capacitación a las fuerzas de seguridad para la prevención del delito",0.059,0.043,0.038,0.068,0.346,0.07,0.025,0.037
+"P13","Mayor inversión en equipamiento y tecnología para las fuerzas de seguridad, como mejores patrulleros, armas, uniformes, chalecos, elementos de comunicación, etc",0.04,0.016,0.035,0.035,0.035,0.358,0.035,0.043
+"P13","Todas las anteriores",0.072,0.117,0.079,0.057,0.086,0.085,0.604,0.133
+"P13","No sabe",0.013,0.024,0.019,0.03,0.015,0.009,0.018,0.246
+"P15","El Gobierno Nacional",0.326,0.139,0.074,0.046,0.073,0.119,0.054,0.107
+"P15","El Gobierno Provincial",0.264,0.366,0.146,0.174,0.186,0.285,0.183,0.258
+"P15","El Municipio",0.17,0.164,0.439,0.16,0.153,0.111,0.106,0.199
+"P15","Todos los niveles de gobierno son igualmente responsables",0.23,0.325,0.313,0.539,0.329,0.451,0.645,0.345
+"P15","No sabe",0.01,0.006,0.028,0.081,0.259,0.034,0.012,0.091

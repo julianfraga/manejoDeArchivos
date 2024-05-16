@@ -1,0 +1,60 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P04	Situación laboral		¿Podría indicarnos cuál es su situación laboral en la actualidad?	Situación laboral	
+P05	Posicionamiento Ideológico		En una escala del 1 al 9, dónde 1 es derecha y 9 es izquierda ¿Podría indicarnos dónde se situaría ud. ideologicamente?	Posición ideológica	
+P06	Posicionamiento Ideológico		Ahora quisiéramos saber cuál es su posición sobre el rol del Estado y el mercado en la economía. En una escala de 1 a 9 donde 1 es el Estado y 9 es el mercado ¿Ud donde se ubicaría?	Opinión sobre el nivel de intervención que debe tener el Estado en la economía	
+P07	Posicionamiento Ideológico		Y respecto a la interrupción voluntaria del embarazo, dónde 1 es completamente a favor y 9 es completamente en contra ¿Dónde se ubicaría Ud?	Opinión sobre la interrupción voluntaria del embarazo	
+P08	Espacios políticos	politica	Ahora le vamos a hacer una pregunta sobre las elecciones generales a presidente del año 2019. ¿Recuerda usted a que candidatos votó?	Elecciones 2019	
+P09	Espacios políticos	politica	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto para elecciones presidenciales	
+P10	Espacios políticos	politica	¿A cúal de los siguientes dirigentes del Frente de Todos y el peronismo preferiría ud. votar?	Intención de voto dentro del Frente de Todos y el Peronismo	(Solo para votantes del Frente de Todos y el peronismo)
+P11	Espacios políticos	politica	Y si en cambio, los candidatos del Frente de Todos y el peronismo fuesen los siguientes ¿A cúal preferiría ud. votar?	Intención de voto para elecciones presidenciales dentro del Frente de Todos y el Peronismo	
+P12	Espacios políticos	politica	¿A cúal de los siguientes dirigentes de Juntos por el Cambio preferiría ud. votar?	Intención de voto para elecciones presidenciales dentro de Cambiemos	(Solo para quienes dijeron que votarían a Cambiemos)
+P13	Reach de intención de voto	reach	Si Sergio Massa fuese candidato a presidente, ud...	Preferencia de voto a Sergio Massa	
+P14	Reach de intención de voto	reach	Si Alberto Fernández fuese candidato a presidente, ud...	Preferencia de voto a Alberto Fernández	
+P15	Reach de intención de voto	reach	Si Horacio Rodríguez Larretafuese candidato a presidente, ud...	Preferencia de voto a Horacio Rodríguez Larreta	
+P16	Reach de intención de voto	reach	Si Facundo Manes fuese candidato a presidente, ud...	Preferencia de voto a Facundo Manes	
+P17	Reach de intención de voto	reach	Si Patricia Bullrich fuese candidato a presidente, ud...	Preferencia de voto a Patricia Bullrich	
+P18	Reach de intención de voto	reach	Si Javier Milei fuese candidato a presidente, ud...	Preferencia de voto a Javier Milei	
+P19	Reach de intención de voto	reach	Si María Eugenia Vidal fuese candidato a presidente, ud...	Preferencia de voto a María Eugenia VIdal	
+P20	Reach de intención de voto	reach	Si Wado de Pedro fuese candidato a presidente, ud...	Preferencia de voto a Wado de Pedro	
+P21	Reach de intención de voto	reach	Si Daniel Scioli fuese candidato a presidente, ud...	Preferencia de voto a Daniel Scioli	
+P22	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 1)
+P23	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 2)
+P24	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 3)
+P25	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 4)
+P26	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 5)
+P27	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 6)
+P28	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 7)
+P29	Escenarios políticos	politica	Respecto a las elecciones primarias (PASO) ¿A qué candidato preferiría votar para presidente?	Intencion de voto para presidente PASO	(PASO, Escenario 8)
+P30	Escenarios políticos	politica	Si los candidatos a presidente en primera vuelta fueran los siguientes ¿A cúal preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 1)
+P31	Escenarios políticos	politica	Y si los candidatos a presidente fueran los siguientes ¿A cúal preferiría votar en una primera vuelta electoral?	Intencion de voto para presidente en primera vuelta	(Escenario 2)
+P32	Escenarios políticos	politica	Y entre estos candidatos a presidente ¿A cúal preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 3)
+P33	Escenarios políticos	politica	Si los candidatos a presidente en una primera vuelta electoral fueran los siguientes ¿A cúal preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 4)
+P34	Escenarios políticos	politica	Y si, en cambio, fueran estos ¿A cúal preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 5)
+P35	Escenarios políticos	politica	Y si fueran estos ¿A cúal preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 6)
+P36	Escenarios políticos	politica	Y si, en cambio, los candidatos fueran los siguientes ¿A cúal preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 7)
+P37	Escenarios políticos	politica	Y si estos fueran los candidatos de primera vuelta ¿A cuál preferiría votar?	Intencion de voto para presidente en primera vuelta	(Escenario 8)
+P38	Escenarios políticos	politica	Y si incluimos candidatos a presidente y vice ¿Cuál de las siguientes fórmulas votaría ud.en primera vuelta?	Intencion de voto para presidente en primera vuelta	(Escenario 9)
+P39	Escenarios políticos	politica	Y entre estos candidatos a presidente y vice ¿Qué fórmula votaría ud.?	Intencion de voto para presidente en primera vuelta	(Escenario 10) Solo para determinados usuarios
+P40	Escenarios políticos	politica	¿A cuál de los siguientes candidatos votaría en un escenario de segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario Massa-Rodríguez Larreta)
+P41	Escenarios políticos	politica	Y si en cambio fueran los siguientes ¿A quién preferiría votar?	Intencio de voto para presidente en segunda vuelta	(Escenario Fernández-Rodríguez Larreta)
+P42	Escenarios políticos	politica	Y entre estos candidatos ¿A cúal preferiría votar en segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario Massa-Bullrich)
+P43	Escenarios políticos	politica	Y entre estos candidatos ¿A cúal preferiría votar en segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario Fernández-Bullrich)
+P44	Escenarios políticos	politica	Y entre estos candidatos ¿A cúal preferiría votar en segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario De Pedro-Rodríguez Larreta)
+P45	Escenarios políticos	politica	Y de los siguientes candidatos ¿A cúal preferiría votar en segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario Scioli-Rodríguez Larreta)
+P46	Escenarios políticos	politica	Y entre estos candidatos ¿A cúal preferiría votar en segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario De Pedro-Bullrich)
+P47	Escenarios políticos	politica	Y si los candidatos fueran los siguientes ¿A cúal preferiría votar en segunda vuelta?	Intencio de voto para presidente en segunda vuelta	(Escenario Scioli-Bullrich)
+P48	Escenarios políticos	politica	Y si fueran estos los candidatos en segunda vuelta ¿A cúal preferiría votar?	Intencio de voto para presidente en segunda vuelta	(Escenario Rodríguez Larreta-Milei)
+P49	Escenarios políticos	politica	Entre estos candidatos de segunda vuelta ¿A cúal preferiría votar?	Intencio de voto para presidente en segunda vuelta	(Escenario Bullrich-Milei)
+P50	Escenarios políticos	politica	Y si fueran estos los candidatos en segunda vuelta ¿A cúal preferiría votar?	Intencio de voto para presidente en segunda vuelta	(Escenario Fernández-Milei)
+P51	Escenarios políticos	politica	Y si fueran estos los candidatos en segunda vuelta ¿A cúal preferiría votar?	Intencio de voto para presidente en segunda vuelta	(Escenario Massa-Milei)
+P52	Imagen	imagen	¿Qué imagen tiene de Alberto Fernandez?	Imágen de Alberto Fernandez	
+P53	Imagen	imagen	¿Qué imagen tiene de CFK?	Imágen de CFK	
+P54	Imagen	imagen	¿Qué imagen tiene de Mauricio Macri?	Imágen de Mauricio Macri	
+P55	Imagen	imagen	¿Qué imagen tiene de Horacio Rodriguez Larreta?	Imágen de Horacio Rodriguez Larreta	
+P56	Imagen	imagen	¿Qué imagen tiene de Sergio Massa?	Imágen de Sergio Massa	
+P57	Imagen	imagen	¿Qué imagen tiene de Patricia Bullrich?	Imágen de Patricia Bullrich	
+P58	Imagen	imagen	¿Qué imagen tiene de Javier Milei?	Imágen de Javier Milei	
+P59	Imagen	imagen	¿Qué imagen tiene de Wado de Pedro?	Imágen de Wado de Pedro	
+P60	Imagen	imagen	¿Qué imagen tiene de Daniel Scioli?	Imágen de Daniel Scioli	
+P61	Imagen	imagen	¿Qué imagen tiene de Maria Eugenia Vidal?	Imágen de Maria Eugenia Vidal	
+P62	Imagen	imagen	¿Qué imagen tiene de Facundo Manes?	Imágen de Facundo Manes	

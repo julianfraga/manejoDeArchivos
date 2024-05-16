@@ -1,0 +1,186 @@
+"var","categoria","A Mauricio Macri presidente con Cristian Ritondo de gobernador por Juntos por el Cambio","A Sergio Massa presidente con Axel Kicillof de gobernador por el Frente de Todos","A Javier Milei presidente con Carolina Píparo de gobernadora por la Libertad Avanza","Solo como gobernador a José Luis Espert","A los candidatos a presidente y gobernador del Frente de Izquierda","No sabe"
+"P06","En juntos por el Cambio, a Santiago López Medrano con el apoyo de María Eugenía Vidal",0.313,0.003,0.038,0.165,0.023,0.05
+"P06","En Juntos por el cambio, A Andrés Petrillo con el apoyo de Jorge Macri",0.303,0.071,0.113,0.187,0.12,0.17
+"P06","En juntos por el Cambio,a Mauricio D’alessandro",0.114,0.023,0.037,0.035,0,0.044
+"P06","En el frente de todos, a Gabriel Katopodis con el apoyo de Alberto Fernández",0.061,0.615,0.127,0.165,0.315,0.308
+"P06","En el frente de todos, a Juan Esleiman con el apoyo de Sergio Massa",0.058,0.107,0.073,0.02,0.023,0.185
+"P06","En el frente de todos, a Leonardo Grosso",0.027,0.134,0.005,0,0.087,0.024
+"P06","Al candidato de Javier Milei",0.048,0,0.485,0.281,0,0.014
+"P06","Al Candidato de la izquierda",0,0.011,0.026,0,0.252,0.02
+"P06","No sabe",0.076,0.036,0.096,0.147,0.18,0.185
+"P08","En Juntos por el Cambio, a Santiago López Medrano con el apoyo de María Eugenía Vidal",0.283,0.105,0.022,0.186,0.064,0.12
+"P08","En Juntos por el Cambio, a Andrés Petrillo con el apoyo de Jorge Macri",0.281,0.019,0.117,0.205,0.12,0.136
+"P08","En Juntos por el Cambio, a Mauricio D’alessandro",0.14,0.034,0.045,0.036,0.204,0.048
+"P08","En el Frente de Todos, a Fernando Moreira con el apoyo de Alberto Fernández",0.115,0.477,0.116,0.108,0.062,0.282
+"P08","En el Frente de Todos, a Juan Esleiman con el apoyo de Sergio Massa",0.037,0.15,0.013,0.048,0.015,0.064
+"P08","En el Frente de Todos, a Leonardo Grosso",0.042,0.177,0,0.006,0.274,0.043
+"P08","Al candidato de Javier Milei",0.027,0.002,0.556,0.288,0,0.014
+"P08","Al Candidato del Frente de Izquierda",0.004,0.004,0.026,0,0.261,0.004
+"P08","No sabe",0.071,0.032,0.105,0.123,0,0.289
+"P10","A Santiago López Medrano por Juntos por el Cambio",0.675,0.074,0.17,0.275,0.12,0.161
+"P10","A Gabriel Katopodis por el Frente de Todos",0.126,0.801,0.14,0.171,0.191,0.294
+"P10","Al candidato de los liberales libertarios",0.048,0.013,0.552,0.351,0.323,0.093
+"P10","Al candidato del Frente de Izquierda",0.027,0.05,0.04,0,0.366,0.022
+"P10","No sabe",0.124,0.062,0.098,0.203,0,0.43
+"P12","A Santiago López Medrano por Juntos por el Cambio",0.708,0.114,0.099,0.304,0.12,0.178
+"P12","A Fernando Moreira por el Frente de Todos",0.097,0.747,0.144,0.106,0.118,0.227
+"P12","Al candidato de los liberales libertarios",0.025,0,0.61,0.34,0,0.077
+"P12","Al candidato del Frente de Izquierda",0.003,0.012,0.026,0,0.602,0.009
+"P12","No sabe",0.167,0.127,0.121,0.25,0.16,0.509
+"P14","A Santiago López Medrano por Juntos por el Cambio",0.705,0.075,0.166,0.323,0.12,0.198
+"P14","A Juan Esleiman por el Frente de Todos",0.123,0.626,0.101,0.191,0.073,0.2
+"P14","Al candidato de los liberales libertarios",0.031,0.006,0.607,0.339,0,0.091
+"P14","Al candidato del Frente de Izquierda",0.003,0.037,0.045,0,0.634,0.009
+"P14","No sabe",0.138,0.256,0.081,0.147,0.173,0.502
+"P16","A Andrés Petrillo por Juntos por el Cambio",0.638,0.074,0.146,0.351,0.12,0.167
+"P16","A Gabriel Katopodis por el Frente de Todos",0.152,0.805,0.185,0.244,0.41,0.252
+"P16","Al candidato de los liberales libertarios",0.061,0.007,0.574,0.301,0,0.096
+"P16","Al candidato del Frente de Izquierda",0,0.015,0,0,0.328,0.021
+"P16","No sabe",0.149,0.099,0.095,0.104,0.142,0.464
+"P17","A Andrés Petrillo por Juntos por el Cambio",0.683,0.042,0.196,0.323,0.12,0.192
+"P17","A Fernando Moreira por el Frente de Todos",0.093,0.81,0.087,0.112,0.408,0.269
+"P17","Al candidato de los liberales libertarios",0.074,0.003,0.596,0.303,0.023,0.086
+"P17","Al candidato del Frente de Izquierda",0.007,0.017,0.015,0.036,0.407,0.009
+"P17","No sabe",0.143,0.128,0.106,0.226,0.042,0.444
+"P18","A Andrés Petrillo por Juntos por el Cambio",0.726,0.04,0.218,0.329,0.12,0.127
+"P18","A Juan Esleiman por el Frente de Todos",0.061,0.691,0.093,0.036,0.396,0.193
+"P18","Al candidato de los liberales libertarios",0.058,0,0.588,0.394,0,0.115
+"P18","Al candidato del Frente de Izquierda",0.019,0.038,0,0.014,0.415,0.005
+"P18","No sabe",0.136,0.231,0.101,0.227,0.069,0.56
+"P19","Lo votaría",0.312,0.077,0.057,0.089,0,0.105
+"P19","Puede que lo vote",0.222,0.105,0.124,0.148,0.161,0.091
+"P19","Nunca lo votaría",0.258,0.58,0.456,0.343,0.527,0.315
+"P19","No sabe",0.208,0.238,0.363,0.42,0.312,0.489
+"P20","Lo votaría",0.07,0.414,0.039,0.058,0,0.179
+"P20","Puede que lo vote",0.178,0.206,0.084,0.112,0.341,0.089
+"P20","Nunca lo votaría",0.579,0.179,0.556,0.603,0.402,0.322
+"P20","No sabe",0.173,0.201,0.321,0.227,0.257,0.41
+"P21","Lo votaría",0.307,0.075,0.132,0.117,0.032,0.062
+"P21","Puede que lo vote",0.23,0.112,0.178,0.17,0.176,0.146
+"P21","Nunca lo votaría",0.229,0.575,0.449,0.404,0.576,0.287
+"P21","No sabe",0.234,0.238,0.241,0.309,0.216,0.505
+"P22","Lo votaría",0.101,0.697,0.112,0.115,0.128,0.274
+"P22","Puede que lo vote",0.156,0.145,0.123,0.089,0.367,0.137
+"P22","Nunca lo votaría",0.651,0.109,0.612,0.646,0.387,0.28
+"P22","No sabe",0.092,0.049,0.153,0.15,0.118,0.309
+"P23","Lo votaría",0.282,0.077,0.088,0.091,0.023,0.094
+"P23","Puede que lo vote",0.317,0.11,0.167,0.301,0.32,0.105
+"P23","Nunca lo votaría",0.195,0.618,0.489,0.383,0.634,0.319
+"P23","No sabe",0.206,0.195,0.256,0.225,0.023,0.482
+"P24","Lo votaría",0.072,0.179,0.077,0.039,0.042,0.049
+"P24","Puede que lo vote",0.197,0.235,0.144,0.035,0.356,0.127
+"P24","Nunca lo votaría",0.487,0.314,0.545,0.617,0.432,0.365
+"P24","No sabe",0.244,0.272,0.234,0.309,0.17,0.459
+"P25","Lo votaría",0.015,0.255,0.054,0,0.291,0.058
+"P25","Puede que lo vote",0.166,0.179,0.125,0.028,0.217,0.046
+"P25","Nunca lo votaría",0.595,0.312,0.531,0.628,0.354,0.373
+"P25","No sabe",0.224,0.254,0.29,0.344,0.138,0.523
+"P26","En Juntos por el Cambio, a Horacio Rodríguez Larreta presidente con Diego Santilli de gobernador",0.297,0.099,0.173,0.194,0.109,0.247
+"P26","En Juntos por el Cambio, a Patricia Bullrich presidenta con Joaquín De La Torre de gobernador",0.459,0.093,0.092,0.319,0,0.123
+"P26","En el Frente de Todos, a Alberto Fernández presidente con Victoria Tolosa paz de gobernadora",0.111,0.177,0.08,0.168,0.023,0.227
+"P26","En el Frente de Todos, a Sergio Massa presidente con Axel Kicillof de gobernador",0.075,0.604,0.039,0.053,0.176,0.092
+"P26","Por los liberales, a  Javier Milei presidente con Carolina Píparo de gobernadora",0.002,0.001,0.569,0.079,0,0
+"P26","Solo como gobernador a José Luis Espert",0.013,0,0.04,0.109,0,0
+"P26","A los candidatos a presidente y gobernador del Frente de Izquierda",0,0.002,0,0,0.435,0
+"P26","No sabe",0.043,0.024,0.007,0.078,0.257,0.311
+"P27","En Juntos por el Cambio, a Mauricio Macri presidente con Cristian Ritondo de gobernador",0.373,0.002,0.124,0.054,0,0.079
+"P27","En Juntos por el Cambio, a Horacio Rodríguez Larreta presidente con Diego Santilli de gobernador",0.287,0.044,0.051,0.152,0.054,0.208
+"P27","En Juntos por el Cambio, a Patricia Bullrich presidenta con Joaquín De La Torre de gobernador",0.209,0.04,0.167,0.249,0,0.123
+"P27","En el Frente de Todos, a Alberto Fernández presidente con Victoria Tolosa paz de gobernadora",0.053,0.183,0.019,0.162,0,0.203
+"P27","En el Frente de Todos, a Sergio Massa presidente con Axel Kicillof de gobernador",0.03,0.694,0.111,0,0.162,0.062
+"P27","Por los liberales, a Javier Milei presidente con Carolina Píparo de gobernadora",0.013,0,0.489,0.136,0.138,0
+"P27","Solo como gobernador a José Luis Espert",0.016,0,0.032,0.216,0.015,0
+"P27","A los candidatos a presidente y gobernador del Frente de Izquierda",0.014,0,0,0,0.512,0.1
+"P27","No sabe",0.005,0.037,0.007,0.031,0.119,0.225
+"P28","A Horacio Rodríguez Larreta presidente con Diego Santilli de gobernador por Juntos por el Cambio",0.563,0.038,0.067,0.158,0.259,0.176
+"P28","A Sergio Massa presidente con Axel Kicillof de gobernador por el Frente de Todos",0.072,0.797,0.026,0.134,0,0.09
+"P28","A Javier Milei presidente con Carolina Píparo de gobernadora por la Libertad Avanza",0.13,0.003,0.742,0.062,0,0.052
+"P28","Solo como gobernador a José Luis Espert",0.093,0.013,0.059,0.542,0,0.055
+"P28","A los candidatos a presidente y gobernador del Frente de Izquierda",0.016,0.078,0.047,0.006,0.649,0.054
+"P28","No sabe",0.126,0.071,0.059,0.098,0.092,0.573
+"P29","A Patricia Bullrich presidenta con Joaquín De La Torre de gobernador por Juntos por el Cambio",0.877,0.013,0.085,0.289,0.204,0.165
+"P29","A Sergio Massa presidente con Axel Kicillof de gobernador por el Frente de Todos",0.028,0.94,0.015,0.1,0.023,0.101
+"P29","A Javier Milei presidente con Carolina Píparo de gobernadora por la Libertad Avanza",0.026,0.004,0.83,0.085,0.023,0
+"P29","Solo como gobernador a José Luis Espert",0.012,0,0.012,0.374,0,0.009
+"P29","A los candidatos a presidente y gobernador del Frente de Izquierda",0,0,0.037,0,0.681,0.008
+"P29","No sabe",0.057,0.043,0.021,0.152,0.069,0.717
+"P31","Muy buena",0.197,0.106,0.046,0.014,0,0.078
+"P31","Buena",0.222,0.097,0,0.154,0,0.015
+"P31","Ni buena ni mala",0.402,0.239,0.532,0.183,0.244,0.282
+"P31","Mala",0.043,0.105,0.059,0.381,0.047,0.013
+"P31","Muy mala",0.003,0.125,0.097,0.018,0.539,0.101
+"P31","No sabe",0.133,0.328,0.266,0.25,0.17,0.511
+"P32","Muy buena",0.059,0.281,0.047,0,0,0.081
+"P32","Buena",0.099,0.204,0.005,0.011,0.276,0.063
+"P32","Ni buena ni mala",0.312,0.249,0.346,0.415,0.4,0.233
+"P32","Mala",0.202,0.041,0.146,0.245,0.103,0.172
+"P32","Muy mala",0.164,0.04,0.217,0.175,0.163,0.139
+"P32","No sabe",0.164,0.185,0.239,0.154,0.058,0.312
+"P33","Muy buena",0.104,0.085,0.086,0.019,0,0.024
+"P33","Buena",0.224,0.066,0.03,0.109,0.276,0.02
+"P33","Ni buena ni mala",0.284,0.278,0.316,0.442,0.14,0.276
+"P33","Mala",0.072,0.151,0.134,0.144,0.048,0.094
+"P33","Muy mala",0.098,0.167,0.197,0.09,0.209,0.145
+"P33","No sabe",0.218,0.253,0.237,0.196,0.327,0.441
+"P34","Muy buena",0.083,0.571,0.042,0.078,0.098,0.186
+"P34","Buena",0.088,0.165,0.123,0.043,0.374,0.087
+"P34","Ni buena ni mala",0.241,0.148,0.248,0.314,0.184,0.165
+"P34","Mala",0.197,0.036,0.258,0.264,0.112,0.077
+"P34","Muy mala",0.338,0.032,0.298,0.195,0.099,0.248
+"P34","No sabe",0.053,0.048,0.031,0.106,0.133,0.237
+"P35","Muy buena",0.229,0.141,0.039,0.057,0,0.043
+"P35","Buena",0.212,0.051,0.116,0.178,0.324,0.103
+"P35","Ni buena ni mala",0.272,0.243,0.335,0.406,0.138,0.35
+"P35","Mala",0.076,0.2,0.156,0.113,0.044,0.027
+"P35","Muy mala",0.137,0.221,0.175,0.078,0.243,0.198
+"P35","No sabe",0.074,0.144,0.179,0.168,0.251,0.279
+"P36","Muy buena",0.129,0.113,0.037,0.023,0.048,0.029
+"P36","Buena",0.071,0.09,0.095,0.079,0.247,0.078
+"P36","Ni buena ni mala",0.403,0.366,0.306,0.204,0.317,0.34
+"P36","Mala",0.122,0.081,0.156,0.3,0.062,0.103
+"P36","Muy mala",0.077,0.095,0.183,0.118,0.025,0.109
+"P36","No sabe",0.198,0.255,0.223,0.276,0.301,0.341
+"P37","Muy buena",0.045,0.224,0.03,0,0.101,0.05
+"P37","Buena",0.064,0.159,0.023,0,0.399,0.004
+"P37","Ni buena ni mala",0.4,0.315,0.318,0.209,0.227,0.365
+"P37","Mala",0.154,0.059,0.2,0.234,0,0.074
+"P37","Muy mala",0.095,0.037,0.2,0.164,0.165,0.178
+"P37","No sabe",0.242,0.206,0.229,0.393,0.108,0.329
+"P38","Muy buena",0.053,0.314,0.007,0,0,0.159
+"P38","Buena",0.056,0.276,0.011,0.09,0.246,0.045
+"P38","Ni buena ni mala",0.238,0.221,0.299,0.19,0.229,0.256
+"P38","Mala",0.327,0.061,0.278,0.184,0.315,0.094
+"P38","Muy mala",0.219,0.038,0.314,0.358,0.21,0.219
+"P38","No sabe",0.107,0.09,0.091,0.178,0,0.227
+"P39","Que continúe el intendente Fernando Moreira",0.125,0.235,0.063,0,0,0.173
+"P39","Que continúe Fernando Moreira pero con mejoras",0.02,0.4,0.009,0.08,0.326,0.203
+"P39","Que cambie Fernando Moreira pero que se mantengan los avances",0.144,0.227,0.211,0.116,0.083,0.183
+"P39","Que cambie el intendente Fernando Moreira",0.711,0.138,0.717,0.804,0.591,0.441
+"P40","La seguridad",0.117,0.1,0.073,0.075,0,0.077
+"P40","El tránsito",0.021,0.067,0.078,0,0.223,0.095
+"P40","El arreglo de las calles",0.063,0.213,0.089,0.068,0.041,0.17
+"P40","Los parques y espacios públicos",0.285,0.191,0.202,0.287,0.112,0.192
+"P40","El sistema de salud",0.021,0.089,0.001,0,0.16,0.008
+"P40","La limpieza de las calles",0.023,0.024,0.038,0.06,0,0.028
+"P40","El deporte y la cultura",0.03,0.129,0.062,0.166,0.058,0.143
+"P40","La luminaria",0.088,0.033,0.124,0.058,0.213,0.006
+"P40","No sabe",0.352,0.154,0.333,0.286,0.193,0.281
+"P41","La seguridad",0.616,0.448,0.634,0.617,0.447,0.607
+"P41","El tránsito",0.056,0.067,0.029,0.014,0.257,0.054
+"P41","El arreglo de las calles",0.08,0.106,0.091,0.006,0,0.083
+"P41","Los parques y espacios públicos",0.039,0.034,0.039,0,0.02,0.057
+"P41","El sistema de salud",0.071,0.086,0.057,0.076,0.103,0.015
+"P41","La limpieza de las calles",0.031,0.054,0.017,0.04,0.134,0.019
+"P41","El deporte y la cultura",0,0.036,0.041,0.146,0,0.045
+"P41","La luminaria",0.006,0.013,0,0.017,0,0
+"P41","No sabe",0.101,0.156,0.092,0.084,0.039,0.12
+"P42","Agua corriente y cloacas",0.376,0.406,0.477,0.276,0.29,0.256
+"P42","Energía eléctrica",0.201,0.136,0.161,0.134,0.301,0.189
+"P42","Red de gas natural",0.051,0.035,0.031,0.021,0.127,0.058
+"P42","Recolección de residuos",0.18,0.131,0.132,0.288,0.197,0.133
+"P42","Ninguno",0.192,0.292,0.199,0.281,0.085,0.364
+"P43","Los robos",0.357,0.313,0.37,0.301,0.493,0.252
+"P43","El narcotráfico",0.302,0.291,0.372,0.286,0.199,0.427
+"P43","La ausencia de patrulleros y personal policial",0.232,0.195,0.16,0.303,0.215,0.094
+"P43","Otro",0.043,0.097,0.055,0.11,0.093,0.148
+"P43","Ninguno",0.066,0.104,0.043,0,0,0.079

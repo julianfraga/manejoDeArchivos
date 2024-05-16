@@ -1,0 +1,30 @@
+"var","categoria","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por la Libertad Avanza","Los candidatos a presidente y vicepresidente de la izquierda","Juan Schiaretti a presidente y Florencio Randazzo a vicepresidente por Hacemos por Nuestro Pais","En blanco"
+"P26","Totalmente seguro",0.651,0.738,0.712,0.522,0.452,0.364
+"P26","Bastante seguro",0.142,0.133,0.159,0.186,0.148,0.078
+"P26","Algo seguro",0.118,0.087,0.106,0.198,0.302,0.152
+"P26","Para nada seguro",0.089,0.042,0.023,0.094,0.098,0.406
+"P27","Tiene Decidido que va a ir a votar",0.908,0.941,0.908,0.911,0.568,0.737
+"P27","Tiene dudas sobre si va a ir a  votar",0.073,0.048,0.082,0.046,0.234,0.069
+"P27","Tiene Decidido que no va a ir a votar",0.019,0.011,0.01,0.043,0.198,0.194
+"P28","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.846,0.116,0.117,0.45,0.138,0.296
+"P28","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.091,0.832,0.393,0.04,0.474,0.08
+"P28","En blanco",0.013,0.016,0.299,0.168,0.27,0.423
+"P28","No sabe",0.05,0.036,0.191,0.342,0.118,0.201
+"P29","Patricia Bullrich a Presidente y Luis Petri a Vicepresidente por Juntos por el Cambio",0.345,0.829,0.118,0.328,0.423,0.324
+"P29","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.079,0.115,0.806,0.084,0.158,0.185
+"P29","En blanco",0.377,0.032,0.038,0.457,0.222,0.246
+"P29","No sabe",0.199,0.024,0.038,0.131,0.197,0.245
+"P30","Sergio Massa a Presidente y Agustin Rossi a Vicepresidente por Union por la Patria",0.798,0.199,0.088,0.57,0.106,0.314
+"P30","Javier Milei a Presidente y Victoria Villarruel a Vicepresidente por La Libertad Avanza",0.052,0.251,0.817,0.155,0.441,0.038
+"P30","En blanco",0.086,0.371,0.05,0.214,0.307,0.333
+"P30","No sabe",0.064,0.179,0.045,0.061,0.146,0.315
+"P38","Inflación",0.436,0.35,0.381,0.316,0.405,0.206
+"P38","Desempleo",0.117,0.049,0.077,0.039,0.018,0.156
+"P38","Corrupción",0.088,0.374,0.353,0.228,0.355,0.27
+"P38","Inseguridad",0.104,0.132,0.088,0.123,0.058,0
+"P38","Precio del dólar",0.042,0,0,0,0,0.041
+"P38","Pobreza",0.097,0.027,0.067,0.072,0.031,0.145
+"P38","Narcotráfico",0.002,0.008,0.004,0,0,0
+"P38","Tarifas",0.008,0.006,0,0.007,0,0
+"P38","Otro",0.084,0.035,0.025,0.215,0.11,0.182
+"P38","No sabe",0.022,0.019,0.005,0,0.023,0

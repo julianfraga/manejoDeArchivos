@@ -1,0 +1,59 @@
+"var","categoria","Julio Zamora a intendente por Unión por la Patria.","Segundo Cernadas a intendente por Juntos por el Cambio","Claudio Baumgarten a intendente por la Libertad Avanza","Paula Akerfeld a intendenta por el Frente de Izquierda","En blanco"
+"P05","Mucho",0.382,0.405,0.366,0.592,0.362
+"P05","Bastante",0.269,0.384,0.361,0.221,0.295
+"P05","Poco",0.251,0.138,0.113,0.122,0.179
+"P05","Nada",0.082,0.071,0.13,0.065,0
+"P05","No sabe",0.016,0.002,0.03,0,0.164
+"P06","Siempre",0.207,0.179,0.148,0.494,0.343
+"P06","Casi siempre",0.302,0.338,0.568,0.187,0.063
+"P06","Casi nunca",0.345,0.399,0.216,0.254,0.362
+"P06","Nunca, pero esta es una excepción",0.146,0.084,0.068,0.065,0.232
+"P10","Unión por la Patria",0.339,0.082,0.342,0.327,0.061
+"P10","Juntos por el Cambio",0.19,0.468,0.224,0.088,0.396
+"P10","De los Liberales libertarios",0.204,0.367,0.352,0.025,0.098
+"P10","De la Izquierda",0.066,0.022,0.016,0.186,0
+"P10","Hacemos por nuestro país",0.03,0.008,0,0.374,0
+"P10","En blanco",0.035,0.004,0,0,0
+"P10","No sabe",0.136,0.049,0.066,0,0.445
+"P26","Totalmente seguro.",0.56,0.663,0.613,0.625,0.085
+"P26","Bastante seguro",0.271,0.207,0.202,0.043,0.55
+"P26","Algo seguro",0.105,0.111,0.185,0.05,0.02
+"P26","Para nada seguro",0.064,0.019,0,0.282,0.345
+"P27","Tiene Decidido que va a ir a votar.",0.89,0.905,0.678,0.627,1
+"P27","Tiene dudas sobre si va a ir a  votar",0.08,0.092,0.27,0.283,0
+"P27","Tiene Decidido que no va a ir a votar",0.03,0.003,0.052,0.09,0
+"P28","Si",0.449,0.47,0.155,0.311,0.606
+"P28","No",0.551,0.53,0.845,0.689,0.394
+"P13_imputada","Sergio Massa a presidente, Axel Kicillof a gobernador y Julio Zamora a intendente por Unión por la Patria.",0.384,0.096,0.201,0.265,0.061
+"P13_imputada","Patricia Bullrich a presidenta, Néstor Grindetti a gobernador y Segundo Cernadas a intendente por Juntos por el Cambio",0.246,0.454,0.151,0.088,0.122
+"P13_imputada","Javier Milei a presidente, Carolina Piparo a gobernadora y Claudio Baumgarten a intendente por la Libertad Avanza",0.223,0.381,0.579,0.066,0.098
+"P13_imputada","Myriam Bregman a presidenta, Rubén Sobrero a gobernador y Paula Akerfeld a intendenta por el Frente de Izquierda",0.078,0.012,0,0.207,0
+"P13_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.038,0.053,0,0.374,0.373
+"P13_imputada","En blanco",0.031,0.004,0.069,0,0.346
+"P17_imputada","Sergio Massa a presidente por Unión por la Patria.",0.344,0.094,0.184,0.546,0.062
+"P17_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.256,0.544,0.32,0.088,0.515
+"P17_imputada","Javier Milei a presidente por la Libertad Avanza",0.288,0.342,0.496,0.344,0.055
+"P17_imputada","Myriam Bregman a presidenta por el Frente de Izquierda",0.059,0.002,0,0.022,0
+"P17_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.04,0.013,0,0,0.022
+"P17_imputada","En blanco",0.013,0.005,0,0,0.346
+"P20_imputada","Axel Kicillof a gobernador por Unión por la Patria.",0.361,0.059,0.175,0.415,0.389
+"P20_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.341,0.523,0.422,0.083,0.177
+"P20_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.192,0.4,0.403,0.088,0.039
+"P20_imputada","El candidato a gobernador de la Izquierda",0.062,0.007,0,0.414,0
+"P20_imputada","En blanco",0.044,0.011,0,0,0.395
+"PRESIDENTE_imputada","Sergio Massa a presidente por Unión por la Patria.",0.344,0.094,0.184,0.546,0.062
+"PRESIDENTE_imputada","Patricia Bullrich a presidenta por Juntos por el Cambio",0.256,0.544,0.32,0.088,0.515
+"PRESIDENTE_imputada","Javier Milei a presidente por la Libertad Avanza",0.288,0.342,0.496,0.344,0.055
+"PRESIDENTE_imputada","Myriam Bregman a presidenta por el Frente de Izquierda",0.059,0.002,0,0.022,0
+"PRESIDENTE_imputada","Juan Schiaretti a presidente por Hacemos por Nuestro Pais",0.04,0.013,0,0,0.022
+"PRESIDENTE_imputada","En blanco",0.013,0.005,0,0,0.346
+"GOBERNADOR_imputada","Axel Kicillof a gobernador por Unión por la Patria.",0.361,0.059,0.175,0.415,0.389
+"GOBERNADOR_imputada","Néstor Grindetti a gobernador por Juntos por el Cambio",0.341,0.523,0.422,0.083,0.177
+"GOBERNADOR_imputada","Carolina Piparo a gobernadora por la Libertad Avanza",0.192,0.4,0.403,0.088,0.039
+"GOBERNADOR_imputada","El candidato a gobernador de la Izquierda",0.062,0.007,0,0.414,0
+"GOBERNADOR_imputada","En blanco",0.044,0.011,0,0,0.395
+"INTENDENTE_imputada","Julio Zamora a intendente por Unión por la Patria.",1,0,0,0,0
+"INTENDENTE_imputada","Segundo Cernadas a intendente por Juntos por el Cambio",0,1,0,0,0
+"INTENDENTE_imputada","Claudio Baumgarten a intendente por la Libertad Avanza",0,0,1,0,0
+"INTENDENTE_imputada","Paula Akerfeld a intendenta por el Frente de Izquierda",0,0,0,1,0
+"INTENDENTE_imputada","En blanco",0,0,0,0,1

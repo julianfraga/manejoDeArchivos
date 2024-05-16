@@ -1,0 +1,12 @@
+"var","categoria","A Martín Llaryora gobernador y Myrian Prunotto vicegobernadora por Hacemos Unidos por Córdoba","A Luis Juez gobernador y Marcos Carasso vicegobernador por Juntos por el Cambio","A Agustín Spaccesi gobernador y Cristina Lagger vicegobernadora por La Libertad Avanza","A Federico Alesandri gobernador y Gabriela Estévez vicegobernadora por Creo en Córdoba de Todos","A Aurelio García Elorrio gobernador y María Rosa Marcone vicegobernadora por Encuentro Vecinal Córdoba","A Rodolfo Eiben gobernador y Gabriel Bornoroni vicegobernador por el Frente Liberal Demócrata Desarrollista","A Liliana Olivero gobernadora y Soledad Díaz vicegobernadora por el Frente de Izquierda y de Trabajadores-Unidad","A los candidatos de otros partidos políticos","No sabe"
+"P05","Mucho",0.356,0.322,0.391,0.675,0.357,0.648,0.289,0.355,0.205
+"P05","Bastante",0.357,0.388,0.367,0.206,0.368,0.319,0.364,0.153,0.246
+"P05","Poco",0.208,0.202,0.156,0.067,0.152,0.033,0.226,0.242,0.213
+"P05","Nada",0.068,0.071,0.072,0.015,0.12,0,0.121,0.242,0.225
+"P05","No sabe",0.011,0.017,0.014,0.037,0.003,0,0,0.008,0.111
+"P06","Siempre",0.277,0.285,0.325,0.285,0.209,0.415,0.145,0.184,0.174
+"P06","Casi siempre",0.353,0.367,0.324,0.408,0.438,0.125,0.403,0.263,0.242
+"P06","Casi nunca",0.292,0.263,0.283,0.234,0.282,0.391,0.386,0.303,0.349
+"P06","Nunca, pero esta es una excepción",0.078,0.085,0.068,0.073,0.071,0.069,0.066,0.25,0.235
+"P12","Si",0.528,0.512,0.28,0.522,0.384,0.381,0.364,0.364,0.232
+"P12","No",0.472,0.488,0.72,0.478,0.616,0.619,0.636,0.636,0.768

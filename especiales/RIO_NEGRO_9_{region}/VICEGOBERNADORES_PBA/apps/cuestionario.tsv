@@ -1,0 +1,18 @@
+codigo	bloque	paleta	texto	label	aclaracion
+P04	Bloque Sociodemográfico	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frecuencia de respuesta de encuestas	
+P05	Bloque Sociodemográfico	opinionAmpliada	Usted diría que la política le importa…	Opinión sobre la importancia de la política	
+P07	Bloque Vicegobernadores	politica	Si estos fueran los candidatos a gobernador y vicegobernador para las elecciones PASO, ¿a cuál preferiría votar?	Intención de voto a Gobernador y Vicegobernador (PASO, Escenario 1)	
+P10	Bloque Vicegobernadores	politica	Si en cambio los candidatos a gobernador y vicegobernador de la provincia fueran estos, ¿a cuál preferiría votar en las PASO?	Intención de voto a Gobernador y Vicegobernador (PASO, Escenario 2)	
+P13	Bloque Vicegobernadores	politica	En caso de que los candidatos a gobernador y vicegobernador de la provincia fueran estos, ¿a cuál preferiría votar en las PASO?	Intención de voto a Gobernador y Vicegobernador (PASO, Escenario 3)	
+P16	Bloque Vicegobernadores	politica	Y si los candidatos a gobernador y vicegobernador para las elecciones PASO fueran los siguientes, ¿a cuál preferiría votar?	Intención de voto a Gobernador y Vicegobernador (PASO, Escenario 4)	
+P19	Bloque Vicegobernadores	politica	Si estos fueran los candidatos a gobernador y vicegobernador de la provincia fueran estos, ¿a cuál preferiría votar en las PASO?	Intención de voto a Gobernador y Vicegobernador (PASO, Escenario 5)	
+P22	Reach de candidatos a gobernador y vicegobernador	votaria	Si Néstor Grindetti fuese candidato a gobernador, ud...	Intención de voto por Néstor Grindetti para gobernador	
+P23	Reach de candidatos a gobernador y vicegobernador	votaria	Si Diego Santilli fuese candidato a gobernador, ud...	Intención de voto por Diego Santilli para gobernador	
+P24	Reach de candidatos a gobernador y vicegobernador	votaria	Si Axel Kicillof fuese candidato a gobernador, ud...	Intención de voto por Axel Kicillof para gobernador	
+P25	Reach de candidatos a gobernador y vicegobernador	votaria	Si Guillermo Britos fuese candidato a gobernador, ud...	Intención de voto por Guillermo Britos para gobernador	
+P26	Reach de candidatos a gobernador y vicegobernador	votaria	Si Joaquín De La Torre fuese candidato a vicegobernador, ud...	Intención de voto por Joaquín De La Torre para vicegobernador	
+P27	Reach de candidatos a gobernador y vicegobernador	votaria	Si Maximiliano Abad fuese candidato a vicegobernador, ud...	Intención de voto por Maximiliano Abad para vicegobernador	
+P28	Reach de candidatos a gobernador y vicegobernador	votaria	Si Verónica Magario fuese candidata a vicegobernadora, ud...	Intención de voto por Verónica Magario para vicegobernadora	
+P29	Reach de candidatos a gobernador y vicegobernador	votaria	Si Fernando Burlando fuese candidato a vicegobernador, ud...	Intención de voto por Fernando Burlando para vicegobernador	
+P30	Reach de candidatos a gobernador y vicegobernador	votaria	Si Malena Galmarini fuese candidata a vicegobernadora, ud...	Intención de voto por Malena Galmarini para vicegobernadora	
+P31	control		                                            Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?	control

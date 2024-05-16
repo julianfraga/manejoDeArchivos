@@ -1,0 +1,26 @@
+codigo	paleta	bloque	texto	label	aclaracion
+P06	politica	Espacios políticos	Si las elecciones presidenciales fueran mañana ¿Al candidato de qué espacio político votaría?	Intención de voto para elecciones presidenciales	
+P07	politica	Espacios políticos	¿A cúal de los siguientes dirigentes del Frente de Todos y el peronismo preferiría ud. votar?	Intención de voto dentro del Frente de Todos y el Peronismo	(Solo para votantes del Frente de Todos y el peronismo)
+P08	politica	Espacios políticos	Y si en cambio, los candidatos del Frente de Todos y el peronismo fuesen los siguientes ¿A cúal preferiría ud. votar?	Intención de voto para elecciones presidenciales dentro del Frente de Todos y el Peronismo	(Solo para votantes del Frente de Todos y el peronismo)
+P09	politica	Espacios políticos	¿A cúal de los siguientes dirigentes de Juntos por el Cambio preferiría ud. votar?	Intención de voto para elecciones presidenciales dentro de Cambiemos	(Solo para quienes dijeron que votarían a Cambiemos)
+P10	politica	Escenarios políticos	Si las elecciones a gobernador fueran mañana, ¿a qué candidato votaría?	Intencion de voto para gobernador	Escenario 1
+P11	politica	Escenarios políticos	Y si en cambio los candidatos fuesen los siguientes, usted a cuál votaría:	Intención de voto para gobernador	Escenario 2
+P12	politica	Escenarios políticos	Y por último, si en cambio los candidatos fueran los siguientes, a cuál votaría?	Intención de voto para gobernador	Escenario 3
+P13	reach	Reach de intención de voto	Si Máximo Kirchner fuera candidato a gobernador, ud.	Preferencia de voto a Máximo Kirchner	
+P14	reach	Reach de intención de voto	Si Alicia Kircher fuera candidato a gobernador, ud.	Preferencia de voto a Alicia Kirchner	
+P15	reach	Reach de intención de voto	Si Roxana Reyes fuera candidato a gobernador, ud.	Preferencia de voto a Roxana Reyes	
+P16	reach	Reach de intención de voto	Si Claudio Vidal fuera candidato a gobernador, ud.	Preferencia de voto a Claudio Vidal	
+P17	reach	Reach de intención de voto	Si Pablo González fuera candidato a gobernador, ud.	Preferencia de voto a Pablo González	
+P18	reach	Reach de intención de voto	Si Javier Bellon fuera candidato a gobernadora, ud.	Preferencia de voto a Javier Belloni	
+P19	reach	Reach de intención de voto	Si Eduardo Costa fuera candidato a gobernadora, ud.	Preferencia de voto a Eduardo Costa	
+P20	reach	Reach de intención de voto	Si Pablo Grasso fuera candidato a gobernadora, ud.	Preferencia de voto a Pablo Grasso	
+P21	reach	Reach de intención de voto	Si Fernando Cotil fuera candidato a gobernadora, ud.	Preferencia de voto a Fernando Cotillo	
+P22	imagen	Imagen	¿Qué imagen tiene de Pablo González?	Imagen de Pablo González	
+P23	imagen	Imagen	¿Qué imagen tiene de Alicia Kirchner?	Imagen de Alicia Kirchner	
+P24	imagen	Imagen	¿Qué imagen tiene de Eduardo Costa?	Imagen de Eduardo Costa	
+P25	imagen	Imagen	¿Qué imagen tiene de Máximo Kirchner?	Imagen de Máximo Kirchner	
+P26	imagen	Imagen	¿Qué imagen tiene de Claudio Vidal?	Imagen de Claudio Vidal	
+P27	imagen	Imagen	¿Qué imagen tiene de Javier Belloni?	Imagen de Javier Belloni	
+P28	imagen	Imagen	¿Qué imagen tiene de Roxana Reyes?	Imagen de Roxana Reyes	
+P29	imagen	Imagen	¿Qué imagen tiene de Fernando Cotillo?	Imagen de Fernando Cotillo	
+P30	imagen	Imagen	¿Qué imagen tiene de Pablo Grasso?	Imagen de Pablo Grasso	

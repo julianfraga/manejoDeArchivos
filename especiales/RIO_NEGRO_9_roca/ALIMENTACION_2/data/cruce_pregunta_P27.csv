@@ -1,0 +1,192 @@
+"var","categoria","Si","Parcialmente","No"
+"P04","Gran excedente habitual",0.015,0.004,0.004
+"P04","Gran excedente excepcional",0.008,0.003,0
+"P04","Pequeño excedente habitual",0.07,0.052,0.018
+"P04","Pequeño excedente excepcional",0.08,0.054,0.032
+"P04","Alcanza gastos familia",0.194,0.132,0.067
+"P04","No alcanza gastos familia",0.149,0.187,0.182
+"P04","Solo NBFamiliares",0.261,0.311,0.237
+"P04","No alcanza NBFamiliares",0.21,0.241,0.432
+"P04","No sabe",0.013,0.016,0.028
+"P05","Todos los días",0.201,0.153,0.214
+"P05","Entre 4 y 6 días a la semana",0.301,0.297,0.223
+"P05","Entre 1 y 3 días a la semana",0.315,0.367,0.298
+"P05","Raramente",0.154,0.152,0.195
+"P05","Nunca",0.029,0.031,0.07
+"P06","Todos los días",0.081,0.05,0.082
+"P06","Entre 4 y 6 días a la semana",0.236,0.247,0.179
+"P06","Entre 1 y 3 días a la semana",0.429,0.441,0.349
+"P06","Raramente",0.2,0.235,0.303
+"P06","Nunca",0.054,0.027,0.087
+"P07","Todos los días",0.067,0.066,0.094
+"P07","Entre 4 y 6 días a la semana",0.206,0.21,0.208
+"P07","Entre 1 y 3 días a la semana",0.482,0.48,0.329
+"P07","Raramente",0.195,0.216,0.303
+"P07","Nunca",0.05,0.028,0.066
+"P08","Todos los días",0.038,0.041,0.037
+"P08","Entre 4 y 6 días a la semana",0.065,0.095,0.104
+"P08","Entre 1 y 3 días a la semana",0.204,0.229,0.139
+"P08","Raramente",0.458,0.424,0.398
+"P08","Nunca",0.235,0.211,0.322
+"P09","Todos los días",0.092,0.085,0.079
+"P09","Entre 4 y 6 días a la semana",0.148,0.167,0.126
+"P09","Entre 1 y 3 días a la semana",0.294,0.284,0.2
+"P09","Raramente",0.352,0.385,0.431
+"P09","Nunca",0.114,0.079,0.164
+"P10","Todos los días",0.22,0.139,0.113
+"P10","Entre 4 y 6 días a la semana",0.199,0.193,0.154
+"P10","Entre 1 y 3 días a la semana",0.294,0.332,0.234
+"P10","Raramente",0.234,0.275,0.362
+"P10","Nunca",0.053,0.061,0.137
+"P11","Todos los días",0.338,0.235,0.16
+"P11","Entre 4 y 6 días a la semana",0.183,0.186,0.151
+"P11","Entre 1 y 3 días a la semana",0.251,0.267,0.261
+"P11","Raramente",0.182,0.248,0.297
+"P11","Nunca",0.046,0.064,0.131
+"P12","Todos los días",0.068,0.073,0.058
+"P12","Entre 4 y 6 días a la semana",0.107,0.084,0.115
+"P12","Entre 1 y 3 días a la semana",0.335,0.33,0.291
+"P12","Raramente",0.398,0.408,0.387
+"P12","Nunca",0.092,0.105,0.149
+"P13","Todos los días",0.262,0.29,0.244
+"P13","Entre 4 y 6 días a la semana",0.255,0.247,0.194
+"P13","Entre 1 y 3 días a la semana",0.299,0.269,0.301
+"P13","Raramente",0.15,0.159,0.211
+"P13","Nunca",0.034,0.035,0.05
+"P14","Todos los días",0.115,0.127,0.117
+"P14","Entre 4 y 6 días a la semana",0.219,0.27,0.22
+"P14","Entre 1 y 3 días a la semana",0.423,0.38,0.337
+"P14","Raramente",0.195,0.194,0.248
+"P14","Nunca",0.048,0.029,0.078
+"P15","Menos de un vaso al día",0.07,0.105,0.093
+"P15","De 1 a 4 vasos al día",0.348,0.34,0.328
+"P15","Más de 4 vasos al día",0.526,0.504,0.488
+"P15","No consume agua",0.056,0.051,0.091
+"P16","Agua embotellada/mineral",0.175,0.123,0.125
+"P16","Agua de la canilla filtrada",0.312,0.243,0.33
+"P16","Agua de la canilla directamente",0.39,0.486,0.438
+"P16","Agua de bidón",0.114,0.139,0.093
+"P16","No consume agua",0.009,0.009,0.014
+"P17","Todos los días",0.072,0.043,0.062
+"P17","Entre 4 y 6 días a la semana",0.087,0.118,0.076
+"P17","Entre 1 y 3 días a la semana",0.227,0.239,0.143
+"P17","Raramente",0.33,0.349,0.314
+"P17","Nunca",0.284,0.251,0.405
+"P18","Vino",0.28,0.228,0.172
+"P18","Cerveza",0.181,0.201,0.105
+"P18","Destilados (whisky, vodka, ron, etc.)",0.06,0.067,0.051
+"P18","Espumantes",0.04,0.071,0.065
+"P18","Otros",0.107,0.101,0.142
+"P18","No consume bebidas alcohólicas",0.332,0.332,0.465
+"P19","Todos los días",0.128,0.098,0.107
+"P19","Entre 4 y 6 días a la semana",0.102,0.116,0.102
+"P19","Entre 1 y 3 días a la semana",0.182,0.205,0.169
+"P19","Raramente",0.344,0.403,0.421
+"P19","Nunca",0.244,0.178,0.201
+"P20","Todos los días",0.524,0.497,0.499
+"P20","Entre 4 y 6 días a la semana",0.092,0.107,0.091
+"P20","Entre 1 y 3 días a la semana",0.106,0.095,0.096
+"P20","Raramente",0.133,0.145,0.22
+"P20","Nunca",0.145,0.156,0.094
+"P21","Todos los días",0.553,0.486,0.432
+"P21","Entre 4 y 6 días a la semana",0.161,0.197,0.171
+"P21","Entre 1 y 3 días a la semana",0.132,0.15,0.166
+"P21","Raramente",0.108,0.121,0.148
+"P21","Nunca",0.046,0.046,0.083
+"P22","Asado",0.449,0.388,0.368
+"P22","Pizza",0.086,0.107,0.089
+"P22","Milanesa",0.162,0.142,0.166
+"P22","Pastas",0.1,0.129,0.105
+"P22","Empanadas",0.033,0.073,0.057
+"P22","Hamburguesa",0.016,0.007,0.006
+"P22","Ensaladas (de cualquier tipo)",0.064,0.05,0.047
+"P22","Guiso (de lentejas, de arroz, locro o similares)",0.052,0.07,0.093
+"P22","Polenta o similares (de cualquier tipo)",0.016,0.022,0.037
+"P22","Ninguno de los anteriores",0.022,0.012,0.032
+"P23","Asado",0.118,0.108,0.12
+"P23","Pizza",0.076,0.073,0.06
+"P23","Milanesa",0.22,0.218,0.153
+"P23","Pastas",0.201,0.193,0.16
+"P23","Empanadas",0.032,0.046,0.046
+"P23","Hamburguesa",0.023,0.017,0.014
+"P23","Ensaladas (de cualquier tipo)",0.117,0.078,0.09
+"P23","Guiso (de lentejas, de arroz, locro o similares)",0.089,0.12,0.16
+"P23","Polenta o similares (de cualquier tipo)",0.051,0.07,0.104
+"P23","Ninguno de los anteriores",0.073,0.077,0.093
+"P24","Helado",0.298,0.252,0.192
+"P24","Tortas, tartas dulces y masas",0.159,0.168,0.136
+"P24","Ensalada de frutas",0.165,0.139,0.208
+"P24","Flan, budín de pan y similares",0.121,0.13,0.131
+"P24","Dulce de batata, membrillo o similares",0.065,0.086,0.098
+"P24","Facturas de todo tipo",0.034,0.038,0.036
+"P24","Postres lácteos caseros o envasados de cualquier tipo",0.026,0.025,0.028
+"P24","Gelatina",0.037,0.043,0.04
+"P24","Panqueques, wafles y similares",0.02,0.018,0.028
+"P24","Ninguno de los anteriores",0.075,0.101,0.103
+"P25","Helado",0.134,0.131,0.076
+"P25","Tortas, tartas dulces y masas",0.162,0.142,0.125
+"P25","Ensalada de frutas",0.09,0.084,0.13
+"P25","Flan, budín de pan y similares",0.059,0.063,0.073
+"P25","Dulce de batata, membrillo o similares",0.096,0.129,0.121
+"P25","Facturas de todo tipo",0.102,0.098,0.051
+"P25","Postres lácteos caseros o envasados de cualquier tipo",0.028,0.022,0.033
+"P25","Gelatina",0.044,0.043,0.047
+"P25","Panqueques, wafles y similares",0.012,0.011,0.015
+"P25","Ninguno de los anteriores",0.273,0.277,0.329
+"P26","Vegetariano",0.063,0.039,0.026
+"P26","Vegano",0.039,0.081,0.028
+"P26","Dieta baja en carnes rojas",0.114,0.099,0.234
+"P26","Dieta baja en carbohidratos",0.094,0.129,0.067
+"P26","Dieta baja en azúcares",0.131,0.11,0.124
+"P26","Kosher o Alal",0.022,0.028,0.017
+"P26","Ninguna restricción alimentaria",0.537,0.514,0.504
+"P31","Bajo peso",0.119,0.086,0.055
+"P31","Sobrepeso",0.302,0.33,0.181
+"P31","Obesidad",0.064,0.083,0.231
+"P31","Normal",0.457,0.432,0.424
+"P31","No sabe",0.058,0.069,0.109
+"P32","Diabetes",0.095,0.1,0.108
+"P32","Hipertensión",0.19,0.188,0.155
+"P32","Enfermedades cardiovasculares",0.047,0.052,0.073
+"P32","Celiaquía",0.085,0.074,0.079
+"P32","Ninguna",0.522,0.528,0.451
+"P32","No sabe",0.061,0.058,0.134
+"P33","Todos los días",0.033,0.043,0.039
+"P33","Entre 4 y 6 días a la semana",0.047,0.07,0.049
+"P33","Entre 1 y 3 días a la semana",0.129,0.123,0.061
+"P33","Raramente",0.354,0.296,0.247
+"P33","Nunca",0.437,0.468,0.604
+"P34","Todos los días",0.019,0.015,0.017
+"P34","Entre 4 y 6 días a la semana",0.024,0.022,0.026
+"P34","Entre 1 y 3 días a la semana",0.129,0.146,0.073
+"P34","Raramente",0.36,0.364,0.283
+"P34","Nunca",0.468,0.453,0.601
+"P35","Todos los días",0.64,0.621,0.606
+"P35","Entre 4 y 6 días a la semana",0.167,0.17,0.084
+"P35","Entre 1 y 3 días a la semana",0.058,0.096,0.084
+"P35","Raramente",0.054,0.056,0.104
+"P35","Nunca",0.081,0.057,0.122
+"P36","Menos de 1 comida al día",0.166,0.189,0.228
+"P36","1 comida",0.268,0.304,0.39
+"P36","2 comidas",0.279,0.261,0.223
+"P36","3 comidas",0.135,0.11,0.114
+"P36","4 comidas",0.134,0.116,0.041
+"P36","Más de 4 comidas",0.018,0.02,0.004
+"P37","Precio",0.269,0.273,0.375
+"P37","Calidad",0.195,0.148,0.194
+"P37","Cantidad de sellos presentes en el producto",0.054,0.072,0.073
+"P37","Precio y calidad",0.319,0.335,0.206
+"P37","Precio y cantidad de sellos presentes en el producto",0.047,0.068,0.019
+"P37","Calidad y cantidad de sellos presentes en el producto",0.011,0.016,0.021
+"P37","Precio, calidad y cantidad de sellos presentes en el producto",0.076,0.043,0.04
+"P37","Compra sin ningún tipo de consideración",0.029,0.045,0.072
+"P38","Menos de 1 vez a la semana",0.201,0.19,0.226
+"P38","1 vez a la semana",0.272,0.261,0.299
+"P38","Entre 1 a 4 veces a la semana",0.294,0.289,0.18
+"P38","Más de 4 veces a la semana",0.182,0.178,0.155
+"P38","No sabe",0.051,0.082,0.14
+"P39","Hipermercado/Supermercado",0.523,0.508,0.343
+"P39","Almacenes",0.237,0.228,0.319
+"P39","Productores locales/mercados de cercanía/Ferias",0.157,0.174,0.193
+"P39","Vía pública",0.035,0.033,0.063
+"P39","No sabe",0.048,0.057,0.082
