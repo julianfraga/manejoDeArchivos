@@ -87,7 +87,7 @@ def getPreguntas(ruta):
             if 'y si' not in texto.lower() and 'quisiéramos' not in texto.lower():                    
                 numero = texto.strip('Pregunta ')
                 codigo = 'P'+str.zfill(numero, 2)
-                if 'ex' in codigo:
+                if 'ex' in codigo.lower():
                     codigo = codigo[:3]
                 preguntas[codigo] = ''
                 banderin_apertura = True
@@ -172,8 +172,11 @@ def list2dictPalette(respuestas, palette="RdYlGn_r", noSabe=True):
     return dict(zip(respuestas, colors))
 
 def infer_paleta_else(paleta):
-    if 'sino' in paleta:
+    if 'sino' == paleta:
         return('paletas["{pregunta}"] = siNoColorDict')
+    
+    elif 'sinonosabe' in paleta:
+        return('paletas["{pregunta}"] = siNoNoSabeColorDict')
         
     elif paleta in ['frecuencia', 'freq', 'frec']:
         return('paletas["{pregunta}"] = frecuenciaColorDict')

@@ -10,9 +10,10 @@ os.chdir('/home/julian/trabajo/manejoDeArchivos')
 from preguntas_opciones import *
 from generarEspeciales import armarEncuesta
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 246/corrientes/'
-# region = 'cipoletti'
-nombreEncuesta = 'CORRIENTES_2'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 249/neuquen/'
+
+
+nombreEncuesta = 'NEUQUEN_17'
 
 for archivo in os.listdir(ruta_trabajo):
     if archivo.endswith('.docx'):
@@ -21,13 +22,13 @@ for archivo in os.listdir(ruta_trabajo):
 ruta_cuestionario = ruta_trabajo + nombre_docx
 nombre_tsv =   'cuestionario.tsv'
 
-armarEncuesta(nombreEncuesta, nombrePlantilla="NEUQUEN_14")
+armarEncuesta(nombreEncuesta, nombrePlantilla='NEUQUEN_16')
 
 cuestionarioTSV(ruta_cuestionario, ruta_trabajo, nombre_tsv,rutaData = 'web/individuales',checkCarpeta = True)
 
-
-# opcionesLimpias = printPaletas(nombre_docx, nombre_tsv, ruta_trabajo, subcarpeta = f'web/{region}/individuales')
-opcionesLimpias = printPaletas(nombre_docx, nombre_tsv, ruta_trabajo, subcarpeta = f'web/individuales')
+#%%
+opcionesLimpias = printPaletas(nombre_docx, nombre_tsv, ruta_trabajo, subcarpeta = 'web/individuales')
+# opcionesLimpias = printPaletas(nombre_docx, nombre_tsv, ruta_trabajo)
 
 #%%
 zonas = ["Rosario","San lorenzo o Villa Constitución","San Martín, Belgrano, Iriondo, Caseros o General López","La Capital","San Jerónimo, Las Colonias, San Justo o Garay","Castellano, San Cristóbal o Nueve de Julio","Vera, General Obligado o San Javier"]
