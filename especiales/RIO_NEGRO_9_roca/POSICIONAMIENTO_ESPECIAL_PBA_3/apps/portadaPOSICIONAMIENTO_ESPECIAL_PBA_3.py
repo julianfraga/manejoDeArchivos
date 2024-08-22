@@ -1,8 +1,0 @@
-from especiales.src.Portada import Portada
-from especiales.POSICIONAMIENTO_ESPECIAL_PBA_3.apps.encuesta_POSICIONAMIENTO_ESPECIAL_PBA_3 import encuesta
-from especiales.POSICIONAMIENTO_ESPECIAL_PBA_3.apps.estructura_POSICIONAMIENTO_ESPECIAL_PBA_3 import layout_preguntas
-
-portada = Portada(encuesta, layout_preguntas)
-layout = portada.layout
-
-

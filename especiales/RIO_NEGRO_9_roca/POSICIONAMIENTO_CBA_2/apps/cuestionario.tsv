@@ -1,9 +1,0 @@
-codigo	bloque	paleta	texto	label	aclaracion
-P05	Sociodemográfico	opinion	Usted diria que la política le importa…	Importancia de la política para el encuestado
-P06	Sociodemográfico	frecuencia	¿Cuán frecuente es que usted responda encuestas?	Frencuencia de respuesta de encuestas
-P07	Sociodemográfico	politica	Ahora le vamos a hacer una pregunta sobre las elecciones generales a presidente del año 2019. ¿Recuerda usted a qué candidatos votó?	Voto elecciones presidenciales 2019
-P08	Escenarios políticos provinciales	politica	Pensando en las próximas elecciones a gobernador, ¿a cúal de los siguientes candidatos preferiría votar?	Intención de voto por candidatos a gobernador
-P08_imputadas	Escenarios políticos provinciales	politica	Pensando en las próximas elecciones a gobernador, ¿a cúal de los siguientes candidatos preferiría votar?	Intención de voto por candidatos a gobernador	(Imputación no lineal de indecisos)
-P10	Escenarios políticos locales	politica	Si las elecciones a intendente de la ciudad de Córdoba fueran mañana, ¿a qué candidato votaría?	Intención de voto por candidatos a intendente de la Ciudad de Córdoba
-P10_imputadas	Escenarios políticos locales	politica	Si las elecciones a intendente de la ciudad de Córdoba fueran mañana, ¿a qué candidato votaría?	Intención de voto por candidatos a intendente de la Ciudad de Córdoba	(Imputación no lineal de indecisos)
-P12	control	control	Nos gustaría volver a contactarlo para otras encuestas que se realizan de manera online. La misma se la enviaremos a través de un enlace por mensaje de texto a su celular ¿Está interesado en realizarla?  	

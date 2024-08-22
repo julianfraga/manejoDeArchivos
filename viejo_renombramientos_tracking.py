@@ -10,7 +10,7 @@ import pandas as pd
 import os
 import csv
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
-from preguntas_opciones import *
+from depr.preguntas_opciones import *
 ruta_trabajo = '/home/julian/trabajo/updates/corte 201/tracking/'
 ruta_cuestionario = ruta_trabajo + 'Encuesta Trackeo version 201.docx'
 
