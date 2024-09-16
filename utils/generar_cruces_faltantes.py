@@ -11,7 +11,7 @@ import os
 import pandas as pd
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 257/neuquen/'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 261/neuquen/'
 nombre_tsv = 'cuestionario.tsv'
 
 cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)

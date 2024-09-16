@@ -45,7 +45,7 @@ def infer_paleta(opciones_todas, cuestionario):
                 politica = infer_politica(opcion)
                 apariciones[politica] += 1
                 p[opcion] = f'colores["{politica}{apariciones[politica] if apariciones[politica] > 1 else ""}"]'
-            print(f'paletas["{pregunta}"] = {repr(p).replace("'colores","colores").replace("]'", "]")}')
+            print(f'paletas["{pregunta}"] = {repr(p).replace("colores","colores").replace("]", "]")}')
         else:
             string_salida = infer_paleta_else(paleta.lower())
             if string_salida:

@@ -10,19 +10,19 @@ os.chdir('/home/julian/trabajo/manejoDeArchivos')
 from depr.preguntas_opciones import *
 from utils.generarEspeciales import armarEncuesta
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 257/neuquen/'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 260/corrientes/'
 
 
-nombreEncuesta = 'NEUQUEN_20'
+nombreEncuesta = 'CORRIENTES_4'
 
 for archivo in os.listdir(ruta_trabajo):
     if archivo.endswith('.docx'):
         nombre_docx = archivo
         break
 ruta_cuestionario = ruta_trabajo + nombre_docx
-nombre_tsv =   'cuestionario.tsv'
+nombre_tsv =   'cuestionario_2.tsv'
 
-armarEncuesta(nombreEncuesta, nombrePlantilla='NEUQUEN_19')
+armarEncuesta(nombreEncuesta, nombrePlantilla='CORRIENTES_3')
 # armarEncuesta(nombreEncuesta)
 #%%
 cuestionarioTSV(ruta_cuestionario, ruta_trabajo, nombre_tsv,rutaData = 'web/individuales',checkCarpeta = True)
