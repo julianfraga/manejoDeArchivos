@@ -14,8 +14,8 @@ os.chdir('/home/julian/trabajo/manejoDeArchivos')
 from depr.preguntas_opciones import *
 
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 236/tracking/'
-ruta_cuestionario = ruta_trabajo + 'Encuenta de tracking 236.docx'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 264/tracking/'
+ruta_cuestionario = ruta_trabajo + 'Encuesta de tracking 264.docx'
 nombre_tsv =   'cuestionario_tracking.tsv'
 cuestionarioTSV(ruta_cuestionario, ruta_trabajo, nombre_tsv)
 cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
@@ -80,5 +80,6 @@ for key in keys:
         nuevo, viejo = key.upper().replace(' ','').replace('(','').strip(')').split('EX')
         renombres[viejo]= nuevo
         
-renombres_df = pd.DataFrame.from_dict(renombres, orient='index',columns = ['nuevos'])
-renombres_df.to_csv(f'{ruta_trabajo}renombres.csv')
+renombres_df = renombres_df = pd.DataFrame(list(renombres.items()), columns=['viejos', 'nuevos'])
+
+renombres_df.to_csv(f'{ruta_trabajo}renombres.csv', index = False)

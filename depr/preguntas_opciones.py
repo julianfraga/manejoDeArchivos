@@ -30,12 +30,14 @@ def getOpciones(ruta):
             continue
         if 'rotada' in texto.lower() or 'rotadas' in texto.lower() or 'rotacion' in texto.lower():
             continue
+        if 'tiene serie temporal' in texto.lower():
+            continue
         if 'Pregunta' in texto:
             codigo = texto.strip('Pregunta ')
             codigo = 'P'+str.zfill(codigo, 2)
             opciones[codigo] = []
         
-        if 'Presione' in texto or 'presione' in texto:
+        if 'presione' in texto.lower():
             opciones[codigo].append(texto)
     
     opciones_limpias = {}
@@ -67,6 +69,7 @@ def es_pregunta_valida(texto):
         and 'ahora' not in texto.lower()
         and 'y si' not in texto.lower() 
         and 'quisiéramos' not in texto.lower()
+        and 'tiene serie temporal' not in texto.lower()
     )
 
 def extraer_numero_pregunta(texto):

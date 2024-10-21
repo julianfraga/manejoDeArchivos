@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Oct 14 22:18:02 2024
+
+@author: julian
+"""
+
+import configparser
+import os
+import pandas as pd
+ruta_users = '/home/julian/trabajo/opinionpublica/users/'
+columnas = ['usuario', 'nacional', 'caba', 'pba', 'rioNegro']
+usuarios_permitidos = ['MalenaG', 'SergioM', 'pRoma', 'EstherD', 'DuranB', 'GandhiE', 'SantiagoN']
+
+def modificar_archivo_config(file_path):
+    # Verificar si el archivo está en la lista de permitidos
+    if os.path.basename(file_path) in usuarios_permitidos:
+        print(f"El archivo {file_path} está permitido. No se realizan cambios.")
+        return
+    
+    # Leer el archivo de configuración
+    config = configparser.ConfigParser(allow_no_value=True)
+    config.optionxform = str  # Mantener el case-sensitive de las claves
+    config.read(file_path)
+
+    # Campos a verificar
+    secciones_a_verificar = ['trackingCABA', 'trackingNacional', 'trackingPBA']
+
+    # Iterar sobre cada sección
+    for seccion in secciones_a_verificar:
+        if config.has_section(seccion):
+            if config.has_option(seccion, 'habilitado') and config.get(seccion, 'habilitado') == 'T':
+                # Verificar si existe el campo 'preguntasdeshabilitadas'
+                if config.has_option(seccion, 'preguntasdeshabilitadas'):
+                    preguntas = config.get(seccion, 'preguntasdeshabilitadas').strip()
+
+                    # Agregar 'P25, P25' si no está ya presente
+                    if 'P25' not in preguntas:
+                        nuevas_preguntas = preguntas + ',P25,P25' if preguntas else 'P25,P25'
+                        config.set(seccion, 'preguntasdeshabilitadas', nuevas_preguntas)
+                        print(f"Modificando {seccion} en {file_path}: preguntasdeshabilitadas ahora es {nuevas_preguntas}")
+    
+    # Guardar los cambios en el archivo
+    with open(file_path, 'w') as configfile:
+        config.write(configfile, space_around_delimiters=False)
+    print(f"Cambios guardados en {file_path}")
+# Ejemplo de uso
+archivos_a_modificar = os.listdir('/home/julian/trabajo/opinionpublica/users') # Cambia por los archivos que quieras modificar
+# archivos_a_modificar = ['JulianF']
+for archivo in archivos_a_modificar:
+    modificar_archivo_config(ruta_users+archivo)
+#%%
+config = configparser.ConfigParser()
+config.read(ruta_users+'/JulianF')
+seccion = 'trackingCABA'
+config.has_option('trackingCABA','habilitado')
+config.get('trackingCABA', 'habilitado') == 'T'
+config.has_option(seccion, 'preguntasdeshabilitadas')

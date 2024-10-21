@@ -10,7 +10,7 @@ import csv
 import pandas as pd
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 237/tracking/'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 264/tracking/'
 ruta_csv = ruta_trabajo + 'renombres.csv'
 
 codigos = pd.read_csv(ruta_csv, sep = ',')

@@ -11,7 +11,7 @@ import os
 import pandas as pd
 os.chdir('/home/julian/trabajo/manejoDeArchivos')
 
-ruta_trabajo = '/home/julian/trabajo/updates/corte 261/neuquen/'
+ruta_trabajo = '/home/julian/trabajo/updates/corte 266/neuquen/'
 nombre_tsv = 'cuestionario.tsv'
 
 cuestionario = pd.read_table(ruta_trabajo + nombre_tsv)
@@ -22,7 +22,7 @@ codigos = list(cuestionario.codigo)
 output_dir = ruta_trabajo + 'data faltante'
 os.makedirs(output_dir, exist_ok=True)
 
-input_dir = ruta_trabajo+'web/cruces capital'
+input_dir = ruta_trabajo+'web/cruces'
 
 # Función para procesar cada archivo
 def procesar_codigo(codigo):

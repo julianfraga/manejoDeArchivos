@@ -44,7 +44,7 @@ def actualizar_carpeta(carpeta_principal, carpeta_updates):
 
 def actualizar_proyecto(corte):
     base_dir_trabajo = '/home/julian/trabajo/opinionpublica'
-    base_dir_updates = f'/home/julian/trabajo/updates/corte {corte}/tracking/web'
+    base_dir_updates = f'/home/julian/trabajo/updates/corte {corte}/tracking'
 
     carpetas = {
         'nacional': 'trackingNacional/data',
@@ -61,6 +61,6 @@ def actualizar_proyecto(corte):
         print(f'Actualización de {ruta_carpeta} completada.')
 
 # Uso del script
-corte_actual = 264  # Cambia esto por el número de corte actual
+corte_actual = 267  # Cambia esto por el número de corte actual
 actualizar_proyecto(corte_actual)
 

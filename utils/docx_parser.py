@@ -4,7 +4,7 @@ import re
 PREGUNTA_KEYWORD = "pregunta"
 ROTADA_KEYWORD = "rotada"
 PRESIONE_KEYWORD = "presione"
-
+SERIE_TEMPORAL_KEYWORD = 'serie temporal'
 def es_pregunta_valida(texto):
     return (
         PREGUNTA_KEYWORD in texto.lower() 
@@ -41,7 +41,7 @@ def get_preguntas(ruta):
                 banderin_apertura = True
             continue
         
-        if codigo and banderin_apertura and PRESIONE_KEYWORD not in texto.lower():
+        if codigo and banderin_apertura and PRESIONE_KEYWORD not in texto.lower() and SERIE_TEMPORAL_KEYWORD not in texto.lower():
             preguntas[codigo] = texto
             banderin_apertura = False
             

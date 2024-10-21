@@ -82,7 +82,6 @@ def renombreInterno(nombreEncuesta, nombrePlantilla, rutaInsercion = "/home/juli
     for archivo_modificado in archivosModificados:
         print(archivo_modificado)
 
-import fileinput
 
 def armarEncuesta(nombreEncuesta, rutaInsercion="/home/julian/trabajo/opinionpublica/especiales/", nombrePlantilla = "BASE_1" ):
     # Llamamos a las funciones para generar carpetas y renombrar internamente
